@@ -55,8 +55,99 @@ function profileText(profile: CandidateProfile): string {
     ...profile.frameworks,
     ...profile.domains,
     ...profile.keywords,
-    profile.rawText ?? "",
   ].join(" ").toLowerCase();
+}
+
+function stripDiacritics(value: string): string {
+  return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function normalizedSignal(value: string): string {
+  return stripDiacritics(value).toLowerCase().trim();
+}
+
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function containsTerm(text: string, term: string): boolean {
+  const boundary = /[a-z0-9+#.]/i.test(term[0]) && /[a-z0-9+#.]/i.test(term.at(-1) ?? "");
+  const pattern = boundary ? `(^|[^a-z0-9+#.])${escapeRegExp(term)}([^a-z0-9+#.]|$)` : escapeRegExp(term);
+  return new RegExp(pattern, "i").test(text);
+}
+
+const FINANCE_QUERY_TERMS = [
+  "trader",
+  "trading",
+  "finance de marche",
+  "marches financiers",
+  "marches actions",
+  "capital markets",
+  "derivatives",
+  "derives",
+  "options pricing",
+  "futures",
+  "market making",
+  "pnl",
+  "greeks",
+  "bloomberg",
+  "reuters",
+  "quantitative finance",
+  "portfolio management",
+  "asset management",
+];
+
+const PASTRY_QUERY_TERMS = [
+  "patissier",
+  "patissiere",
+  "patisserie",
+  "pastry",
+  "bakery",
+  "viennoiserie",
+  "entremets",
+  "haccp",
+  "boulangerie",
+  "desserts",
+  "mignardises",
+];
+
+const ENERGY_QUERY_TERMS = [
+  "energy",
+  "energie",
+  "efficacite",
+  "solaire",
+  "photovolta",
+  "batiment",
+  "cvc",
+  "hvac",
+  "iso 50001",
+  "bilan carbone",
+  "thermique",
+];
+
+function hasSignal(text: string, terms: string[]): boolean {
+  const normalized = normalizedSignal(text);
+  return terms.some((term) => containsTerm(normalized, normalizedSignal(term)));
+}
+
+function countSignals(text: string, terms: string[]): number {
+  const normalized = normalizedSignal(text);
+  return terms.filter((term) => containsTerm(normalized, normalizedSignal(term))).length;
+}
+
+function isFinanceProfile(profile: CandidateProfile): boolean {
+  const text = profileText(profile);
+  const roleText = [...profile.targetRoles, ...profile.domains].join(" ");
+  return hasSignal(roleText, ["trader", "trading analyst", "junior trader", "assistant trader", "quantitative analyst", "finance de marche", "capital markets"]) ||
+    countSignals(text, FINANCE_QUERY_TERMS) >= 2;
+}
+
+function isPastryProfile(profile: CandidateProfile): boolean {
+  return hasSignal(profileText(profile), PASTRY_QUERY_TERMS);
+}
+
+function isEnergyProfile(profile: CandidateProfile): boolean {
+  return hasSignal(profileText(profile), ENERGY_QUERY_TERMS);
 }
 
 function domainOverrideQueries(profile: CandidateProfile): string[] {
@@ -73,10 +164,53 @@ function domainOverrideQueries(profile: CandidateProfile): string[] {
   return [];
 }
 
+function safeDomainOverrideQueries(profile: CandidateProfile): string[] {
+  if (isFinanceProfile(profile)) {
+    return ["Trading Analyst", "Junior Trader", "Assistant Trader", "Quantitative Analyst"];
+  }
+  if (isPastryProfile(profile)) {
+    return ["Junior Pastry Chef", "Chef Patissier", "Pastry Commis"];
+  }
+  if (isEnergyProfile(profile)) {
+    return ["Energy Efficiency Engineer", "Renewable Energy Engineer", "Energy Data Analyst"];
+  }
+  return [];
+}
+
+function normalizeRoleQuery(role: string): string {
+  const normalized = normalizedSignal(role);
+  if (/ingenieur (ia|ai)$|ingenieur intelligence artificielle|artificial intelligence engineer/.test(normalized)) {
+    return "AI Engineer";
+  }
+  if (/ingenieur (ml|machine learning)|machine learning engineer/.test(normalized)) {
+    return "Machine Learning Engineer";
+  }
+  if (/llm/.test(normalized)) return "LLM Engineer";
+  if (/rag/.test(normalized)) return "RAG Engineer";
+  return role;
+}
+
+function isUsefulRoleQuery(role: string): boolean {
+  const normalized = normalizedSignal(role);
+  return Boolean(normalized) && !/^(junior|senior|graduate|intern|internship|alternance|entry-level|mid-level|lead|principal)$/.test(normalized);
+}
+
+function sanitizePlannerQuery(query: string | undefined, profile: CandidateProfile, fallback: string): string {
+  const candidate = query?.trim() || fallback;
+  if (!isUsefulRoleQuery(candidate)) return fallback;
+  if (hasSignal(candidate, FINANCE_QUERY_TERMS) && !isFinanceProfile(profile)) return fallback;
+  if (hasSignal(candidate, PASTRY_QUERY_TERMS) && !isPastryProfile(profile)) return fallback;
+  if (hasSignal(candidate, ENERGY_QUERY_TERMS) && !isEnergyProfile(profile)) return fallback;
+  return normalizeRoleQuery(candidate);
+}
+
 function defaultQueries(profile: CandidateProfile): string[] {
-  const overrides = domainOverrideQueries(profile);
+  const overrides = safeDomainOverrideQueries(profile);
   if (overrides.length) return overrides;
-  const candidates = [...profile.targetRoles, ...profile.domains.map((domain) => `${domain} Engineer`)]
+  const roleQueries = profile.targetRoles
+    .map(normalizeRoleQuery)
+    .filter(isUsefulRoleQuery);
+  const candidates = [...roleQueries, ...profile.domains.map((domain) => `${domain} Engineer`)]
     .filter(Boolean)
     .slice(0, 4);
   return [...new Set(candidates.length ? candidates : ["AI Engineer", "LLM Engineer", "Data Scientist"])].slice(0, 4);
@@ -198,7 +332,17 @@ Return exactly:
     90000
   );
   const parsed = parsePlannerJson(content);
-  const calls = (parsed?.tool_calls ?? []).map(normalizeToolCall).filter((call): call is BrowserAgentToolCall => Boolean(call));
+  const safeQueries = defaultQueries(profile);
+  const calls = (parsed?.tool_calls ?? [])
+    .map(normalizeToolCall)
+    .filter((call): call is BrowserAgentToolCall => Boolean(call))
+    .map((call, index) => ({
+      ...call,
+      args: {
+        ...call.args,
+        query: sanitizePlannerQuery(call.args.query, profile, safeQueries[index % safeQueries.length] ?? "AI Engineer"),
+      },
+    }));
   if (calls.length) {
     return { calls: calls.slice(0, 18), note: `Planned ${calls.length} valid tool calls from WebLLM JSON.` };
   }
