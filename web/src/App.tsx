@@ -576,7 +576,7 @@ export default function App() {
             averageScore={averageScore}
             highPriority={highPriority}
             demoMode={demoMode}
-            displayJobCount={matches.length}
+            displayJobCount={browserAgentRun ? matches.length : loadedPayload.jobs.length}
             agentMode={Boolean(browserAgentRun)}
           />
         </section>
