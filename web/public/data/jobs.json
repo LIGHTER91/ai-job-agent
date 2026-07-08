@@ -1,0 +1,328 @@
+{
+  "generated_at": "2026-07-07T23:19:19Z",
+  "search_agent": {
+    "queries": [
+      "AI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "RAG Engineer",
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "NLP Engineer",
+      "Computer Vision Engineer",
+      "Data Engineer"
+    ],
+    "source_counts": {
+      "Remotive": 3,
+      "Jobicy": 5
+    },
+    "fallback_used": false,
+    "enabled_sources": [
+      "Remotive",
+      "Jobicy"
+    ]
+  },
+  "profile": {
+    "name": "Lucien Lachaud",
+    "target": "AI Engineer / Applied AI Engineer",
+    "target_roles": [
+      "AI Engineer",
+      "Applied AI Engineer",
+      "LLM Engineer",
+      "RAG Engineer",
+      "Data Scientist Junior",
+      "Machine Learning Engineer",
+      "NLP Engineer",
+      "Computer Vision Engineer"
+    ],
+    "strong_skills": [
+      "Python",
+      "FastAPI",
+      "RAG",
+      "LLM",
+      "FAISS",
+      "Vector search",
+      "Prompt engineering",
+      "Knowledge graphs",
+      "Entity extraction",
+      "NLP",
+      "Computer vision",
+      "U-Net",
+      "React",
+      "Next.js",
+      "PostgreSQL",
+      "Docker",
+      "GitHub Actions",
+      "SQLAlchemy",
+      "Pydantic",
+      "pytest",
+      "LangChain",
+      "LangGraph",
+      "OpenAI",
+      "Mistral",
+      "Gemini"
+    ],
+    "weaker_skills_or_to_learn": [
+      "AWS",
+      "Azure",
+      "advanced MLOps",
+      "advanced Kubernetes",
+      "Spark",
+      "Airflow",
+      "Terraform"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "remotive-2090986",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
+      "published_at": "2026-07-02",
+      "match_score": 88,
+      "priority": "high",
+      "raw_description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with LangChain is mandatory 2+ years of experience with large language models (LLMs) or vLLMs is mandatory 2+ years of experience with RAG or OpenAI is required Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana...",
+      "required_skills": [
+        "LLM",
+        "LangChain",
+        "MLOps",
+        "Next.js",
+        "OpenAI",
+        "Python",
+        "RAG",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "LangChain",
+        "Next.js",
+        "OpenAI",
+        "Python",
+        "RAG",
+        "React"
+      ],
+      "missing_skills": [
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior AI Engineer at Lemon.io, focused on LLM, LangChain, MLOps, Next.js. Location: Northern America, LATAM, Europe, APAC.",
+      "rule_based_application_sentence": "Your Senior AI Engineer role interests me because it connects directly with my work around LLM, LangChain, Next.js, OpenAI, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "7 of 8 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps."
+      ]
+    },
+    {
+      "id": "jobicy-146687",
+      "title": "Data Science Engineer (Shreveport, LA)",
+      "company": "Pratt Industries",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/146687-data-science-engineer-shreveport-la",
+      "published_at": "2026-06-16",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Job Title: Data Science Engineer Position leads the data science initiative in all areas of BRR Plus’s responsibilities, including Pratt Industries and Visy, providing professional knowledge and expertise in the areas of large data analytics in support of operational improvements across all facets as designated by the Group Data Science Manager. The position will be expected to build data/machine learning products to extract valuable business insights. ESSENTIAL DUTIES AND RESPONSIBILITIES: (Other duties may be assigned) - Identify valuable data sources and automate collection processes Undertake preprocessing of structured and unstructured data Analyze large amounts of information to discover trends and patterns Leverage programming skills to develop automated systems that help improve business operations Build predictive models and machine-learning algorithms Present information using data visualization techniques Collaborate with engineering and production teams Assist all Pratt/Visy locations (via remote login, video conferencing, or onsite support), provide direction, training, and development support, roll out pre-developed tools, expedite installation of insightful data products Travel as required to support development of other Pratt/Visy locations EDUCATION and/or EXPERIENCE - Experience as a Data Scientist or Data Analyst preferred Understanding of machine-learning and operations research preferred or demonstrated ability and desire to learn ML/AI methods to develop the desired outcome Knowledge of DCS systems, Data Historians, and Data Analytics software such as: dataParc, Seeq, Python Analytical mind and business acumen Strong math skills (e.g. statistics, algebra) Problem-solving aptitude Excellent communication and presentation skills Post-secondary educational degree (2 to 4-year degree from college, university, technical school, military, vocational or other advanced educational institution) REQUIRED Candidates are preferred who offer the following: BS degree in Chemical Engineering, Pulp and Paper, or other engineering disciplines related to field LANGUAGE SKILLS - - Ability to read, analyze, and interpret technical procedures, manuals, regulations, and codes - Ability to write business reports and correspondence - Ability to communicate effectively with suppliers, contractors, employees and outside officials to the company - Clear, concise oral and written communication skills MATHEMATICAL SKILLS - - Ability to apply concepts of algebr...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Data Science Engineer (Shreveport, LA) at Pratt Industries, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Data Science Engineer (Shreveport, LA) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-142967",
+      "title": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "LATAM",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
+      "published_at": "2026-06-25",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: LATAM.",
+      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
+      ]
+    },
+    {
+      "id": "jobicy-146122",
+      "title": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
+      "published_at": "2026-06-10",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: USA.",
+      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
+      ]
+    },
+    {
+      "id": "jobicy-147602",
+      "title": "Senior AI Software Engineer, Python",
+      "company": "Scorpion",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
+      "published_at": "2026-06-24",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch. About the Role The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels. This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready. What Your Success Will Look Like Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies. Build and operate the infrastructure that runs LLM orchestration workloads at scale. Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns. Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry). Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling. Conduct code reviews and mentor team members on Python engineering practices and production readiness. Own production support for CI infrastructure, including on-cal...",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Pydantic",
+        "Python"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Pydantic",
+        "Python"
+      ],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Senior AI Software Engineer, Python at Scorpion, focused on Azure, LLM, Pydantic, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior AI Software Engineer, Python role interests me because it connects directly with my work around LLM, Pydantic, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
+      ]
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
+      "published_at": "2026-07-02",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "WHO WE'RE LOOKING FOR The ideal copywriter has excellent English writing skills and is excited to write high-quality, SEO-driven content that aligns with detailed, client-specific guidelines. Projects most commonly include writing web pages for eCommerce and lead generation business sites such as category pages, product descriptions, and blog posts. Our clientele is constantly evolving. We produce content for these and many other industry verticals: Fashion (both mass-market and luxury) Skincare & Beauty Tech & Software** Finance & Investing** Law (family law, product liability, divorce, etc.)** Education Home Improvement Automobiles & Motorcycles (OEM and aftermarket accessories) Health and Wellness** Medical / Clinical** Digital Marketing SEO / PR / Advertising / Marketing** **Writers with a background in these highly specialized fields are strongly encouraged to apply. The ideal candidate for this position is a multifaceted technical and creative writer with at least two to four years of professional, non-academic experience. Candidates should understand how to write content that effortlessly blends SEO best practices and brand priorities for finished work that’s engaging, creative, and ROI-driven. Candidates should also be willing and able to complete careful research in order to gain a strong understanding of various industries. Candidates should be prepared to provide portfolios featuring published work. Once an offer has been extended, writers will be asked to take a brief training course. Compensation Writers are paid on a per-word basis. The rate is assessed according to our KPI rubric (key performance indicators) with an automatic raise after 400 and 800 pages have gone live on our client's websites. Initial compensation is up to $0.06 per word with $0.034 per word being the most typical compensation level. This is $30 or $17 per page of 500 words. After 400 pages live, the top marginal rate increases to $0.064 per word with the most typical rate of $0.038 per word, or $32 and $19 per page. After 800 pages live, the top marginal rate increases to $0.07 per word with $0.044 per word being the most typical, or $35 and $22 per page.",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-147583",
+      "title": "Site Strategy Manager, Data Center Sites - Remote (U.S.)",
+      "company": "AECOM",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/147583-site-strategy-manager-data-center-sites-remote-u-s",
+      "published_at": "2026-06-24",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "Company Description Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world’s most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infrastructure investment worldwide, our services are in great demand. We invite you to bring your bold ideas and big dreams and become part of a global team of over 50,000 planners, designers, engineers, scientists, digital innovators, program and construction managers and other professionals delivering projects that create a positive and tangible impact around the world. We're one global team driven by our common purpose to deliver a better world. Join us. Job Description AECOM is seeking a Program Manager for Data Center Site Strategy and Portfolio Development with a passion for driving results to join our high-performance data center team. In this role, the program manager will plan, direct, and execute multiple moderate-to-large scale projects and programs to support the utility and land development for next-generation digital infrastructure. This role has a strong focus on site development planning for data centers. This position offers the flexibility of a remote work schedule and can be based from a variety of locations in the US where AECOM has an office. While this position is eligible for remote work, office attendance is encouraged if an AECOM office is proximal. Periodic travel may be required for client meetings, key project milestones, onsite collaboration sessions, or other business‑critical activities. Travel is expected to be occasional and scheduled in advance. AECOM is a leader in the global data center consulting industry with robust teams in the Americas, Europe, Africa, Asia, and Australia. In this role, you will have the opportunity to work with our teams around the world on high-profile, fast-paced data center projects for global clients. This is a hands-on, client-facing role with an opportunity for upward career mobility. Key Responsibilities: Develop and lead cross-functional teams, including engineers, planners, and consultants; including recruitment and “care and feeding” of direct reports. Build trust with the client, local communities a...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Site Strategy Manager, Data Center Sites - Remote (U.S.) at AECOM, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Site Strategy Manager, Data Center Sites - Remote (U.S.) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "published_at": "2026-07-04",
+      "match_score": 35,
+      "priority": "low",
+      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile."
+      ]
+    }
+  ]
+}
