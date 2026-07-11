@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:51:37Z",
+  "generated_at": "2026-07-11T08:13:26Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -138,42 +138,6 @@
       ]
     },
     {
-      "id": "jobicy-146122",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
-      "published_at": "2026-06-10",
-      "match_score": 74,
-      "priority": "medium",
-      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
-      "required_skills": [
-        "Azure",
-        "LLM",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: USA.",
-      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
       "id": "jobicy-147602",
       "title": "Senior AI Software Engineer, Python",
       "company": "Scorpion",
@@ -210,21 +174,53 @@
       ]
     },
     {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
+      "id": "jobicy-145880",
+      "title": "Senior Software Engineer (Contract)",
+      "company": "Mozilla",
+      "location": "Germany",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/145880-senior-software-engineer-contract",
+      "published_at": "2026-07-10",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "Are you passionate about Privacy Protections and the Open Web? Do you want to ship software to a large user base? Do you want your contributions to have a positive impact on the world? Do you want to advance current browser architecture to make the web a safer place for users? Mozilla exists to build the Internet as a public resource accessible to all because we believe that open and free is better than closed and restricted. We are looking for a Senior Software Engineer to support the Privacy Team to advance the Firefox Web Platform. As a Senior Software Engineer in the Privacy Team at Mozilla, you will… Implement Privacy-improving, anti-tracking features and data sanitization into the Firefox web browser to prevent all forms of unhealthy user tracking. Implement architectural improvements into Gecko, the browser engine underlying Firefox. Build performant, low-latency, and maintainable C++, JavaScript and Rust code Work as part of a geographically distributed team in an asynchronous manner (mostly Europe and US-East). Your Professional Profile: Bachelor's degree in computer science, engineering, or a related program; or equivalent work experience. At least 4 years of experience with programming in C++ and Rust, with a strong background in memory safety, multi-threaded system architecture, or raw data stream manipulation Proven ability to onboard quickly, deliver and improve complex software projects. Proven track record of independently scoping and landing complex features within tight release windows. Excellent written and verbal communication skills. You can validate your progress and decisions and communicate them clearly. Bonus Points: You have already contributed to the Mozilla mission and the codebase. Experience working within the browser space (Gecko, Chromium, WebKit) or web engine runtime abstractions. Experience or high interest in designing or leveraging ML pipelines to automate internal developer workflows. Deep understanding of web architecture, the privacy/security model of the web, and client-side data structures. Knowledge of basic statistical modeling. Proficiency with Python and SQL. About Mozilla Mozilla exists to build the Internet as a public resource accessible to all because we believe that open and free is better than closed and controlled. When you work at Mozilla, you give yourself a chance to make a difference in the lives of Web users everywhere. And you give us a chance to make a difference in your life every single day....",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Software Engineer (Contract) at Mozilla, focused on Python, SQL. Location: Germany.",
+      "rule_based_application_sentence": "Your Senior Software Engineer (Contract) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "published_at": "2026-07-02",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "published_at": "2026-07-08",
       "match_score": 40,
       "priority": "low",
-      "raw_description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the mo...",
+      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $1,000 total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 2: $250 guaranteed minimum Week 3: $325 guaranteed minimum Week 4: $425 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism especially under pr...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Freelance Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
@@ -234,21 +230,21 @@
       ]
     },
     {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
+      "id": "remotive-2090949",
+      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
+      "company": "FSE LLC",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "published_at": "2026-07-04",
+      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
+      "published_at": "2026-07-08",
       "match_score": 35,
       "priority": "low",
-      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "raw_description": "Position: Account Executive / B2B Sales Specialist Compensation: 100% Commission (Uncapped Earning Potential) Location: Remote (Global) About Funding Solutions Experts (FSE) At FSE, we deliver elite capital solutions to high-growth businesses. We operate in a fast-paced, high-stakes environment where excellence is the standard, not the exception. We do not offer a \"comfortable\" corporate safety net; instead, we provide a launchpad for the top 1% of sales professionals who want absolute control over their financial destiny through a pure meritocracy. If you are a self-motivated Closer who thrives in a high-volume, performance-driven environment, this is your opportunity to build an empire. The Mission: Execute. Close. Lead. High-Volume B2B Engagement: Conduct focused outbound campaigns (Monday – Friday) targeting business owners and C-suite executives. Pipeline Management: Manage high-ticket financial sales cycles from initial contact to close, maintaining an authoritative and consultative approach. Accelerated Leadership Path: We are scouting future Team Leaders. Once you consistently hit your benchmarks, you will be given the autonomy to recruit, train, and scale your own regional \"Pod.\" You will earn direct overrides on every transaction your team closes. Candidate Profile: The Top 1% Commanding Communication: Your professional business English is flawless, authoritative, and persuasive. You don't just pitch; you influence key decision-makers. Relentless Execution: You possess an elite work ethic, show up with high energy every single day, and view \"No\" as a brief detour on the path to a contract. Performance Mindset: You excel in high-volume outbound dialing environments. You view critical feedback as revenue-generating data and adapt instantly. Track Record: Proven experience in high-ticket closing, B2B sales, or financial services is highly preferred. What FSE Offers Uncapped Commission Structure: There is no ceiling on your income. Your revenue generation directly dictates your lifestyle. Rapid Career Progression: We promote strictly on results, not seniority. Transition into a leadership role with team overrides within months of proven success. Global Remote Flexibility: Work from anywhere in the world, provided you have a high-speed internet connection, a quiet workspace, and an elite daily output. High-Performance Culture: A zero-drama environment focused exclusively on execution, scale, and financial growth. Are You Ready to Dominate the Marke...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "High-Ticket Financial Sales Specialist & Team Lead Track at FSE LLC, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your High-Ticket Financial Sales Specialist & Team Lead Track role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
@@ -257,32 +253,32 @@
       ]
     },
     {
-      "id": "remotive-2091045",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "USA",
+      "id": "remotive-2091048",
+      "title": "Product Sales Specialist - Pet Health",
+      "company": "Tribe Wellness",
+      "location": "USA, CST (UTC-6)",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "published_at": "2026-07-07",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+      "published_at": "2026-07-09",
       "match_score": 28,
       "priority": "low",
-      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
+      "raw_description": "Must Love Dogs!! At Tribe Wellness, we're more than just a tribe – we're a movement. Rooted in courage, empowerment, and integrity, we've pioneered solutions that transform the world's wellness brands into revenue-generating machines. We bridge the gap between brands and revenue by turning our clients’ customers into lifetime supporters, and we do that by turning good salespeople into great salespeople. At Tribe Wellness Sales, we’re on a mission to help pets live longer, healthier lives through supplements that actually deliver. But here’s the catch: too many pet owners grab a product online and then flounder—unsure how to use it or missing the guidance to make it work. That’s where you, our Product Sales Specialist (called a Protocol Review Specialist in our world), make the difference. Without you, pets miss out on better health, owners lose confidence, and our mission stalls. With you? You’re the spark that turns a purchase into a transformation—for pets and their people. What You'll Do: Sell: You’ll sell products and services for our pet client, a company built for pet owners, by pet owners, with over a million happy dogs and growing! Grow: Work with a broad range of potential customers, transforming clients’ prospects into brand loyalists. Learn: Work closely with our dedicated leaders, leveraging our top-notch training resources to master the art of selling and representing Tribe's ethos. Earn: Operate with no cap on commission, providing limitless earning potential to integrate with our operations seamlessly. Live: Work from home in a global remote environment, utilizing our communication tools and platforms. What's In It For You: Earnings: This is an hourly pay + commission role. All US sales reps earn minimum wage (this is permanent, not a draw against commission) in addition to sales commissions, based on your monthly sales. On-target-earnings are estimated between $55,000 - $100K your first year. In addition to the above, we offer fully paid training. Tribe Sales Training: We have a battle-tested training and tool kit we provide for all our sales consultants, including sales training through our learning platform, Rippling, Salesforce, Vonage, Google Workspace, and Slack, ensuring you're primed for success the second you hit the phones. Remote Work: You’ll have the freedom of a fully remote position, allowing for a work-life balance that suits your lifestyle. Be Part of the Tribe: No matter your title, you’ll join a community that values par...",
       "required_skills": [
-        "Azure"
+        "Spark"
       ],
       "matched_skills": [],
       "missing_skills": [
-        "Azure"
+        "Spark"
       ],
-      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: USA.",
-      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Product Sales Specialist - Pet Health at Tribe Wellness, focused on Spark. Location: USA, CST (UTC-6).",
+      "rule_based_application_sentence": "Your Product Sales Specialist - Pet Health role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Spark.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
+        "Main missing or weaker skills: Spark."
       ]
     }
   ]
