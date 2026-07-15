@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:26:31Z",
+  "generated_at": "2026-07-15T08:34:23Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -102,6 +102,42 @@
       ]
     },
     {
+      "id": "jobicy-146122",
+      "title": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
+      "published_at": "2026-07-14",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: USA.",
+      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
+      ]
+    },
+    {
       "id": "jobicy-142967",
       "title": "Python & React Engineer with AI (Remote, Latam)",
       "company": "Kubikware",
@@ -135,6 +171,38 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Azure."
+      ]
+    },
+    {
+      "id": "remotive-2091062",
+      "title": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "published_at": "2026-07-13",
+      "match_score": 68,
+      "priority": "medium",
+      "raw_description": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a significantly better influencer marketing experience thanks to scale, simplicity, and reliable performance tracking. We started as an influencer marketing agency. While clients loved our results, delivering them was a pain. So we started automating everything we did — and it paid off. 2025 was a great year for us: We launched our platform in early 2025 We grew our team to 35 members We scaled from 0 to more than 100,000 creators and paid out more than $5M to them We acquired more than 120 clients solely through word of mouth. Our growth has been 100% organic We ran campaigns for companies such as Telegram, UFC, Universal Music Group and artists such as Elton John, Ed Sheeran, Playboi Carti, and Kendrick Lamar We're profitable and have secured our first investor The role We are looking for a Backend-Heavy Senior Engineer who isn't afraid to touch the full stack. While your primary domain will be our Golang services and distributed architecture, you are a \"Product Engineer\" at heart — meaning you understand the \"why\" behind the code and can jump into the React/Next.js frontend whenever it's the shortest path to delivering value. The mindset we hire for Intensity & Grit — You run toward hard problems and stay until they are solved. Ambitious Simplification — You have the intelligence to solve complex problems and the wisdom to choose the simplest solution. Ownership & Mission Alignment — You don't \"close tickets\"; you ship outcomes. You care about the creator economy as much as we do. AI Readiness — You leverage modern tools to multiply your output and keep us at the cutting edge. Humility & Collaboration — You are a high-bandwidth communicator who mentors others and leaves your ego at the door. Your technical toolkit Core Backend — 5+ years of experience, with at least 3+ years of mastery in Golang. Comfortable with high-performance distributed systems. Fullstack Versatility — Backend is your home, but you have the skills to navigate and contribute to a React/Next.js frontend. Infrastructure & Data — Deep knowledge of PostgreSQL, Redis, and ideally GCP. Architectural Mindset — You move seamlessly from system design to shipping production-ready code. Clean code, test coverage, and documentation are your tools f...",
+      "required_skills": [
+        "Next.js",
+        "PostgreSQL",
+        "React"
+      ],
+      "matched_skills": [
+        "Next.js",
+        "PostgreSQL",
+        "React"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Product Engineer (Fullstack) at Clipster, focused on Next.js, PostgreSQL, React. Location: Europe, UK, Germany, France, European timezones.",
+      "rule_based_application_sentence": "Your Senior Product Engineer (Fullstack) role interests me because it connects directly with my work around Next.js, PostgreSQL, React, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 3 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -174,42 +242,6 @@
       ]
     },
     {
-      "id": "jobicy-147602",
-      "title": "Senior AI Software Engineer, Python",
-      "company": "Scorpion",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
-      "published_at": "2026-06-24",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch. About the Role The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels. This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready. What Your Success Will Look Like Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies. Build and operate the infrastructure that runs LLM orchestration workloads at scale. Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns. Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry). Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling. Conduct code reviews and mentor team members on Python engineering practices and production readiness. Own production support for CI infrastructure, including on-cal...",
-      "required_skills": [
-        "Azure",
-        "LLM",
-        "Pydantic",
-        "Python"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Pydantic",
-        "Python"
-      ],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Senior AI Software Engineer, Python at Scorpion, focused on Azure, LLM, Pydantic, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior AI Software Engineer, Python role interests me because it connects directly with my work around LLM, Pydantic, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
       "id": "remotive-2090989",
       "title": "Assistant Account Payable",
       "company": "The Obesity Society",
@@ -231,42 +263,6 @@
         "The location is less aligned with the preferred search area.",
         "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-2091056",
-      "title": "Staff Software Engineer, Product (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-belo-horizonte-2091056",
-      "published_at": "2026-07-09",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We build in small, focused initiative teams: a Product Engineer working alongside a PM and a designer, supported by an Engineering Manager who helps you grow. You'll also work shoulder-to-shoulder with engineering peers across initiatives in a shared codebase. The whole team owns whether the work moves its metric. AI coding agents are a force multiplier here — they give a small, senior team the leverage to ship more, faster, and at a higher bar for quality. We hire engineers who are wired for ownership and energized by shipping to a real marketplace with customers and pros on both sides. The Role You're the engineering anchor of an initiative — working as part of a tight team with your PM and designer, and alongside engineering peers on adjacent initiatives. You have a hand in the full lifecycle: shaping the problem, deciding the technical approach, directing AI agents to implement much of the code, shipping to production, and — with your team — owning the outcome. You're measured by impact, not by lines of code merged. When an agent can ship something safely, your job is to make sure it's done right and the metric moves. When the work calls for careful, hand-written code in a sensitive area, you write it yourself. What makes this role exciting: You ship end-to-end. From problem-framing through production to the post-launch metric review — you see the whole arc and own the result with your team. You work as a true product partner. You sit at the table with PM and design, bringing engineering judgment to product calls and product sense to engineering calls. You get real autonomy — with the right checkpoints. You make most technical calls yourself, with architect review on significant architectural decisions and fast input from peers. You operate at a staff bar. You're trusted to make the call, ship the hard thing, and stand behind the outcome. What You'll Own The technical approach — architecture, data model, integration choices, rollout plan, observability, and rollback strategy for your initiative. You make most calls yourself...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "GitHub Actions",
-        "React"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow"
-      ],
-      "rule_based_summary": "Staff Software Engineer, Product (Belo Horizonte) at LawnStarter, focused on AWS, Airflow, GitHub Actions, React. Location: Brazil.",
-      "rule_based_application_sentence": "Your Staff Software Engineer, Product (Belo Horizonte) role interests me because it connects directly with my work around GitHub Actions, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow."
       ]
     },
     {
