@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:32:19Z",
+  "generated_at": "2026-07-17T08:26:24Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,31 +74,51 @@
   },
   "jobs": [
     {
-      "id": "jobicy-146687",
-      "title": "Data Science Engineer (Shreveport, LA)",
-      "company": "Pratt Industries",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146687-data-science-engineer-shreveport-la",
-      "published_at": "2026-06-16",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "Job Title: Data Science Engineer Position leads the data science initiative in all areas of BRR Plus’s responsibilities, including Pratt Industries and Visy, providing professional knowledge and expertise in the areas of large data analytics in support of operational improvements across all facets as designated by the Group Data Science Manager. The position will be expected to build data/machine learning products to extract valuable business insights. ESSENTIAL DUTIES AND RESPONSIBILITIES: (Other duties may be assigned) - Identify valuable data sources and automate collection processes Undertake preprocessing of structured and unstructured data Analyze large amounts of information to discover trends and patterns Leverage programming skills to develop automated systems that help improve business operations Build predictive models and machine-learning algorithms Present information using data visualization techniques Collaborate with engineering and production teams Assist all Pratt/Visy locations (via remote login, video conferencing, or onsite support), provide direction, training, and development support, roll out pre-developed tools, expedite installation of insightful data products Travel as required to support development of other Pratt/Visy locations EDUCATION and/or EXPERIENCE - Experience as a Data Scientist or Data Analyst preferred Understanding of machine-learning and operations research preferred or demonstrated ability and desire to learn ML/AI methods to develop the desired outcome Knowledge of DCS systems, Data Historians, and Data Analytics software such as: dataParc, Seeq, Python Analytical mind and business acumen Strong math skills (e.g. statistics, algebra) Problem-solving aptitude Excellent communication and presentation skills Post-secondary educational degree (2 to 4-year degree from college, university, technical school, military, vocational or other advanced educational institution) REQUIRED Candidates are preferred who offer the following: BS degree in Chemical Engineering, Pulp and Paper, or other engineering disciplines related to field LANGUAGE SKILLS - - Ability to read, analyze, and interpret technical procedures, manuals, regulations, and codes - Ability to write business reports and correspondence - Ability to communicate effectively with suppliers, contractors, employees and outside officials to the company - Clear, concise oral and written communication skills MATHEMATICAL SKILLS - - Ability to apply concepts of algebr...",
+      "id": "remotive-2091067",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+      "published_at": "2026-07-14",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Python or Bash 3+ years of experience with AWS/GCP/Microsoft Azure/Azure DevOps is required Experience in at least 2 commercial projects using Terraform, Kubernetes or SQL is required Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue,MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaSc...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React",
+        "SQL",
+        "Terraform"
       ],
       "matched_skills": [
-        "Python"
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Data Science Engineer (Shreveport, LA) at Pratt Industries, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Data Science Engineer (Shreveport, LA) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "MLOps",
+        "SQL",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior DevOps Engineer at Lemon.io, focused on AWS, Azure, Kubernetes, LLM. Location: Americas, Europe, Asia, Africa, Oceania.",
+      "rule_based_application_sentence": "Your Senior DevOps Engineer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "4 of 10 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, MLOps, SQL."
       ]
     },
     {
@@ -242,51 +262,45 @@
       ]
     },
     {
-      "id": "remotive-2090989",
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "location": "USA",
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "published_at": "2026-07-12",
-      "match_score": 44,
-      "priority": "low",
-      "raw_description": "This role may require you to be on site at times - please check with the employer first. The Accounts Payable Assistant performs accounting and c lerical tasks that are related to accounts payable transactions including receiving and logging invoices, maintaining and updating an accounts payable ledger, generating financial statements and reports, and other financial matters as assigned by the Director of Finance & Operations. The ideal candidate will possess a basic understanding of accounting fundamentals as well as excellent office support skills. Key Responsibilities of the Accounts Payable Assistant: Administrative Duties • Office Support - filing, data retention, mail, and other duties. • Conduct company business according to policies. • Maintain the company’s accounting files as needed Accounts Payable Duties • Process Invoices (Stamping coding and approval stamps, entering coded invoices into accounting software). • Print, mail, and file checks for multiple properties. • Resolutions with vendors – past due balances, misapplied payments, etc. What the Successful Accounts Payable Assistant will have: • High School Diploma or equivalent • Basic understanding of accounting fundamentals or 1 year of accounting experience • Excellent computer skills especially Microsoft Excel, Word, and Outlook • Data entry and/or 10 key experience • Experience with Yardi or other accounting software • High degree of accuracy, attention to detail, and ability to follow through • Professional written and oral communication skills • Prompt and consistent attendance during scheduled work hours • Ability to maintain confidential information",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Assistant Account Payable at The Obesity Society, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Assistant Account Payable role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "published_at": "2026-07-14",
+      "match_score": 54,
+      "priority": "medium",
+      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "LLM",
+        "LangChain",
+        "NLP",
+        "PostgreSQL",
+        "React"
+      ],
+      "matched_skills": [
+        "Docker",
+        "LLM",
+        "LangChain",
+        "NLP",
+        "PostgreSQL",
+        "React"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
+      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "published_at": "2026-07-11",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
+        "6 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes."
       ]
     }
   ]
