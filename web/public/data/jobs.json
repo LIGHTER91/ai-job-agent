@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:06:21Z",
+  "generated_at": "2026-07-19T08:31:29Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -210,6 +210,30 @@
       ]
     },
     {
+      "id": "remotive-2091069",
+      "title": "Patient Care Specialist",
+      "company": "STATLINX",
+      "location": "USA",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "published_at": "2026-07-16",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "This position will involve answering inbound calls for large hospital networks during our daytime shifts in a remote call center setting. Our company provides telephone answering, messaging, and alert services to physicians and medical facilities across the United States. If you are a self-motivated team player looking to build a career from the comfort of your own home, we might be the team you are looking for! You must live within the continental United States (+ Hawaii) to apply. We currently have full-time opportunities available. ALL SHIFTS ARE IN EASTERN STANDARD TIME (EST) Shift Availability Requirements Full-Time (appr. 30+ hours per week) Mondays thru Fridays 8am-6pm, EST Mondays thru Fridays 10am-7pm, EST M/T/W/F/Sat 9am-6pm, EST Thursdays thru Mondays 9am-6pm, EST Candidates must have a pleasant speaking voice, professional mannerisms, good computer skills, reliable internet, a quiet dedicated space to work from and work well in a fast-paced environment. Medical terminology and experience, either hands-on or clerical, required to apply. Familiarity with EMR systems and practices preferred. Minimum typing of 30 wpm is required and will be tested. Candidates must also have the following: Internet - Ethernet connection (hardwire internet) preferred Ping < 15 Download > 50 mbps Upload > 10 mbps STATLINX will provide equipment. If you think you are a good fit for our team, we would love to hear from you. Please include your resume with your application. Thanks and good luck! Responsibilities Manage call volume of 80-120 inbound calls daily in a timely and professional manner Follow communication prompts Identify callers’ needs, clarify information, research every issue, and provide solutions and/or alternatives Build sustainable relationships and engage customers by going the extra mile Keep records of all conversations in our call center database in a comprehensible way Meet personal/team qualitative and quantitative targets Skills Previous experience in a customer support role Track record of over-achieving quota Strong phone and verbal communication skills along with active listening Customer focus and adaptability to different personality types Ability to multi-task, set priorities and manage time effectively Entry Level: $17.50/hr (with advancement opportunities) AND a monthly bonus program where you are eligible for up to 15%! Apply today! https://www.ondemandassessment.com/o/JB-KEV4ZO77Q/landing?u=1062055 Job Type: Full-time Benefits: 401(k...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Patient Care Specialist at STATLINX, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Patient Care Specialist role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-1919265",
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
@@ -230,30 +254,6 @@
         "0 of 0 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile."
-      ]
-    },
-    {
-      "id": "remotive-2091068",
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "published_at": "2026-07-16",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pratt , Parsons , Mozilla , The Nobel Prize , MIT , Gnosis , Etsy & Gagosian . We’re the software team behind innovative products like The Light Phone & Mill , and we operate a global, decentralized community space collective called Index Space . We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. Sanctuary Computer — Development At Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson. Our projects range from design-forward websites, to robust web apps, to native mobile development. XXIX — Design When we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be. We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility. Index Space — Community A network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools. We nurture trust within the creative community through generosity and abundance of ideas and care. garden3d TK — Media At garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture. We aim to monetize this outlet, publish books, produce screenplays, and release music. Plus, our partner organizations https://www.thelightphone.com/ https://www.mill.com/ https://www.ingredient-ai.com/ The Head of Marketing & Communications Role The garden3d Head of Marketing & Communications has one mandate: make sure everything we put on the internet i...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Head of Marketing & Communications at garden3d, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Head of Marketing & Communications role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
