@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:42:29Z",
+  "generated_at": "2026-07-22T08:42:02Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -138,78 +138,6 @@
       ]
     },
     {
-      "id": "jobicy-142967",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "LATAM",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
-      "published_at": "2026-06-25",
-      "match_score": 74,
-      "priority": "medium",
-      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
-      "required_skills": [
-        "Azure",
-        "LLM",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: LATAM.",
-      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
-      "id": "jobicy-149156",
-      "title": "Senior Full-stack Engineer (Python/React) - Advertising",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149156-senior-full-stack-engineer-python-react-advertising",
-      "published_at": "2026-07-12",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A global digital transformation organization that helps leading enterprises reimagine how they create, manage, and deliver customer experiences by combining technology, creativity, AI, and engineering. Job Summary We are seeking a seasoned Full-Stack Engineer (Python/React) to build and ship applications powering our AI-native digital platforms. In this role, you will work across the entire stack from backend services and data pipelines to polished, production-ready frontend interfaces. You will partner closely with cross-functional teams to prototype rapidly, maintain high technical standards, and help advance how we leverage AI across our development lifecycle. Responsibilities Build, ship, and maintain full-stack applications; translate design concepts and wireframes into polished, production-ready deliverables. Partner with Product, Design, and Engineering to identify requirements, design technical solutions, and deliver high-quality software. Create reusable components and patterns, write clean and testable code, and contribute to technical standards and roadmaps across the stack. Prototype new features quickly, troubleshoot complex systems, and resolve technical issues efficiently. Improve the observability, resilience, and security of our systems. Actively contribute to engineering practices, technical discussions, and help the team innovate using AI-enabled workflows. Qualifications and Job Requirements 6+ years of professional software development experience. Strong focus on Python ; proficiency in writing clean, efficient, and extensible backend s...",
-      "required_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React",
-        "pytest"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React",
-        "pytest"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Full-stack Engineer (Python/React) - Advertising at Truelogic, focused on Docker, GitHub Actions, Python, React. Location: LATAM.",
-      "rule_based_application_sentence": "Your Senior Full-stack Engineer (Python/React) - Advertising role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "5 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "remotive-2091069",
       "title": "Patient Care Specialist",
       "company": "STATLINX",
@@ -234,6 +162,41 @@
       ]
     },
     {
+      "id": "jobicy-149543",
+      "title": "Python Engineer",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149543-python-engineer",
+      "published_at": "2026-07-21",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "SQL"
+      ],
+      "rule_based_summary": "Python Engineer at Canonical Ltd., focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes, SQL."
+      ]
+    },
+    {
       "id": "remotive-1919265",
       "title": "Senior Independent Software Developer",
       "company": "A.Team",
@@ -254,6 +217,48 @@
         "0 of 0 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile."
+      ]
+    },
+    {
+      "id": "jobicy-149563",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "published_at": "2026-07-21",
+      "match_score": 45,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MLOps",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical Ltd., focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
       ]
     },
     {
