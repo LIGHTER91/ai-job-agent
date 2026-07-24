@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:43:13Z",
+  "generated_at": "2026-07-24T08:40:30Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -73,34 +73,6 @@
     ]
   },
   "jobs": [
-    {
-      "id": "remotive-1919266",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "published_at": "2026-07-16",
-      "match_score": 92,
-      "priority": "high",
-      "raw_description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The Details Typical rates: $120-$170/hr Remote You keep 100% of your rate Not a Fit Early-career engineers People without production AI experience Small gig seekers Developers focused primarily on simple AI wrappers or templated implementations Apply Tell us what you've built. 👉 build.a.team/apply-ai . We'll take it from there.",
-      "required_skills": [
-        "LLM"
-      ],
-      "matched_skills": [
-        "LLM"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Independent AI Engineer / Architect at A.Team, focused on LLM. Location: Americas, Europe, Israel.",
-      "rule_based_application_sentence": "Your Senior Independent AI Engineer / Architect role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
     {
       "id": "jobicy-146122",
       "title": "Python & React Engineer with AI (Remote, Latam)",
@@ -283,6 +255,35 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091072",
+      "title": "Product Sales Specialist - Pet Health (CST timezone)",
+      "company": "Tribe Wellness",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
+      "published_at": "2026-07-22",
+      "match_score": 28,
+      "priority": "low",
+      "raw_description": "Must Love Dogs!! At Tribe Wellness, we're more than just a tribe – we're a movement. Rooted in courage, empowerment, and integrity, we've pioneered solutions that transform the world's wellness brands into revenue-generating machines. We bridge the gap between brands and revenue by turning our clients’ customers into lifetime supporters, and we do that by turning good salespeople into great salespeople. At Tribe Wellness Sales, we’re on a mission to help pets live longer, healthier lives through supplements that actually deliver. But here’s the catch: too many pet owners grab a product online and then flounder—unsure how to use it or missing the guidance to make it work. That’s where you, our Product Sales Specialist (called a Protocol Review Specialist in our world), make the difference. Without you, pets miss out on better health, owners lose confidence, and our mission stalls. With you? You’re the spark that turns a purchase into a transformation—for pets and their people. What You'll Do: Sell: You’ll sell products and services for our pet client, a company built for pet owners, by pet owners, with over a million happy dogs and growing! Grow: Work with a broad range of potential customers, transforming clients’ prospects into brand loyalists. Learn: Work closely with our dedicated leaders, leveraging our top-notch training resources to master the art of selling and representing Tribe's ethos. Earn: Operate with no cap on commission, providing limitless earning potential to integrate with our operations seamlessly. Live: Work from home in a global remote environment, utilizing our communication tools and platforms. What's In It For You: Earnings: This is a commission-only role. You will have between 8 and 18 appointments scheduled for you each day (more if you want them and you are closing sales). You will earn a 20% commission on the gross margin of every sale you make. Please tell us how much you want to earn, and we will show you what it takes to get there. Each sale is between $250 and $2,500. The Tribe Tool Kit: We have a battle-tested tool kit we provide for all our sales consultants, including Rippling and Salesforce, ensuring you're primed for success the second you hit the phones. Remote Work: You’ll have the freedom of a fully remote position, allowing for a work-life balance that suits your lifestyle. Be Part of the Tribe: No matter your title, you’ll join a community that values partnership, advocacy, and growth. We believe in nurturing ou...",
+      "required_skills": [
+        "Spark"
+      ],
+      "matched_skills": [],
+      "missing_skills": [
+        "Spark"
+      ],
+      "rule_based_summary": "Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness, focused on Spark. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Product Sales Specialist - Pet Health (CST timezone) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Spark.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Spark."
       ]
     }
   ]
