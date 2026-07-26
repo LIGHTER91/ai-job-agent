@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:22:27Z",
+  "generated_at": "2026-07-26T08:38:09Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,63 +74,95 @@
   },
   "jobs": [
     {
-      "id": "jobicy-146122",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
-      "published_at": "2026-07-14",
-      "match_score": 74,
+      "id": "remotive-2091035",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
+      "published_at": "2026-07-24",
+      "match_score": 58,
       "priority": "medium",
-      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "raw_description": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first . And we’re only just getting started! Our Team We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO. Alexis Soulopoulos [CEO] • 10+ years in Tech Executive Leadership • Co-Founder Mad Paws Holdings (from 0 to IPO) • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 Michael Monin [Co-founder & CTO] • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) Thomas Lacroix [Co-founder & CMO] • 8+ years in Customer Acquisition & E-commerce Growth • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) Maruša Fasano [CFO/Legal] • 25+ years in Finance, Strategy, M&A • Ex-CFO/M&A @Curatible (exited to Blackstone) • Ex-President of the Board @SotremoSA (exited) • Co-founder/CFO @SoftOne (exited) Your Role We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply embedded in generative video workflows and can independently craft high-quality, narrative-driven content from concept to final output. You are a sharp-eyed video editor comfortable operating at the intersection of creativity and emerging technology, building visually compelling long-form videos using AI-first pipelines. You take ownership of the entire production stack — from prompting and generation to editing, compositing, graphic design work and final delivery. You thrive in a high-performance environment where your quick wits and passion for story-telling shine. Reporting to your Content Lead, this is what you'll be doing: Key Responsibilities Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs) Create narrative-driven, longfo...",
       "required_skills": [
-        "Azure",
         "LLM",
-        "Python",
-        "React"
+        "Prompt engineering",
+        "Vector search"
       ],
       "matched_skills": [
         "LLM",
-        "Python",
-        "React"
+        "Prompt engineering",
+        "Vector search"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Mid/Senior AI Cinematic Video Editor at EverAI, focused on LLM, Prompt engineering, Vector search. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Mid/Senior AI Cinematic Video Editor role interests me because it connects directly with my work around LLM, Prompt engineering, Vector search, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091075",
+      "title": "Business Development Representative",
+      "company": "Outsite",
+      "location": "Northern America, Europe, UK, France, European timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
+      "published_at": "2026-07-23",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "## About Outsite Outsite is a global coliving company for remote workers — hotel-quality service, extended-stay flexibility, and a built-in community, at the intersection of hospitality and lifestyle. We operate 40+ properties across 21+ cities on 5 continents, with 6,000+ verified members and an NPS of 65. ## About Outsite for Teams Outsite for Teams is Outsite's B2B expansion — giving companies, teams, and communities access to our global network of coliving and coworking spaces for their employees. Rather than a bulk discount, we position it as a meaningful perk: founders and leaders purchase memberships on behalf of their team, and a dedicated account manager keeps them active and engaged. This is a genuine growth priority for the business, and you'll be one of the first dedicated sales hires driving it. ## Role Overview We're hiring a Business Development Representative to build and run outbound sales for Outsite for Teams. You'll identify and prospect the right companies, run discovery calls, and close new business — turning remote-first startups, distributed teams, and growth-stage companies into long-term Outsite for Teams accounts. This is a highly autonomous, build-it-yourself role. You'll help shape the outbound playbook, not just execute someone else's. ## Key Responsibilities ### 1. Prospecting & Outbound - Build and work target lists of remote-first and hybrid companies, using signals like team size (50–500), remote/hybrid language in company descriptions, and titles such as Head of People, Chief of Staff, VP of Operations, or Founder - Source leads via LinkedIn Sales Navigator, Wellfound/AngelList, Crunchbase, remote job boards (We Work Remotely, Remote.co), and Outsite's own member base - Run cold outbound via email, LinkedIn, and calls, and continuously test and refine messaging - Reach out to local companies near Outsite locations to sell business travel and corporate stay packages - Build partnerships with travel agencies and tour operators to generate referral and bundled-stay opportunities ### 2. Sales & Pipeline Management - Run discovery calls to understand a prospect's team, travel patterns, and remote work culture - Own the full sales cycle from first touch to close - Keep the CRM clean and current — every deal staged, every next step logged - Forecast pipeline accurately and hit monthly/quarterly new business targets ### 3. Collaboration & Handoff - Partner with the Head of Marketing on positioning, collateral, and campaigns th...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Business Development Representative at Outsite, focused on AI/data skills. Location: Northern America, Europe, UK, France, European timezones.",
+      "rule_based_application_sentence": "Your Business Development Representative role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-147602",
+      "title": "Senior AI Software Engineer, Python",
+      "company": "Scorpion",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
+      "published_at": "2026-07-25",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch. About the Role The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels. This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready. What Your Success Will Look Like Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies. Build and operate the infrastructure that runs LLM orchestration workloads at scale. Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns. Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry). Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling. Conduct code reviews and mentor team members on Python engineering practices and production readiness. Own production support for CI infrastructure, including on-cal...",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Pydantic",
+        "Python"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Pydantic",
+        "Python"
       ],
       "missing_skills": [
         "Azure"
       ],
-      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: USA.",
-      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Senior AI Software Engineer, Python at Scorpion, focused on Azure, LLM, Pydantic, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior AI Software Engineer, Python role interests me because it connects directly with my work around LLM, Pydantic, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "3 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
-      "id": "remotive-2091069",
-      "title": "Patient Care Specialist",
-      "company": "STATLINX",
-      "location": "USA",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-      "published_at": "2026-07-16",
-      "match_score": 48,
-      "priority": "low",
-      "raw_description": "This position will involve answering inbound calls for large hospital networks during our daytime shifts in a remote call center setting. Our company provides telephone answering, messaging, and alert services to physicians and medical facilities across the United States. If you are a self-motivated team player looking to build a career from the comfort of your own home, we might be the team you are looking for! You must live within the continental United States (+ Hawaii) to apply. We currently have full-time opportunities available. ALL SHIFTS ARE IN EASTERN STANDARD TIME (EST) Shift Availability Requirements Full-Time (appr. 30+ hours per week) Mondays thru Fridays 8am-6pm, EST Mondays thru Fridays 10am-7pm, EST M/T/W/F/Sat 9am-6pm, EST Thursdays thru Mondays 9am-6pm, EST Candidates must have a pleasant speaking voice, professional mannerisms, good computer skills, reliable internet, a quiet dedicated space to work from and work well in a fast-paced environment. Medical terminology and experience, either hands-on or clerical, required to apply. Familiarity with EMR systems and practices preferred. Minimum typing of 30 wpm is required and will be tested. Candidates must also have the following: Internet - Ethernet connection (hardwire internet) preferred Ping < 15 Download > 50 mbps Upload > 10 mbps STATLINX will provide equipment. If you think you are a good fit for our team, we would love to hear from you. Please include your resume with your application. Thanks and good luck! Responsibilities Manage call volume of 80-120 inbound calls daily in a timely and professional manner Follow communication prompts Identify callers’ needs, clarify information, research every issue, and provide solutions and/or alternatives Build sustainable relationships and engage customers by going the extra mile Keep records of all conversations in our call center database in a comprehensible way Meet personal/team qualitative and quantitative targets Skills Previous experience in a customer support role Track record of over-achieving quota Strong phone and verbal communication skills along with active listening Customer focus and adaptability to different personality types Ability to multi-task, set priorities and manage time effectively Entry Level: $17.50/hr (with advancement opportunities) AND a monthly bonus program where you are eligible for up to 15%! Apply today! https://www.ondemandassessment.com/o/JB-KEV4ZO77Q/landing?u=1062055 Job Type: Full-time Benefits: 401(k...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Patient Care Specialist at STATLINX, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Patient Care Specialist role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -166,29 +198,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "Main missing or weaker skills: Kubernetes, SQL."
-      ]
-    },
-    {
-      "id": "remotive-1919265",
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "published_at": "2026-07-16",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $85+ million since. As part of A·Team, you can expect: High-paying, meaningful missions with the most audacious companies sent your way; generally $90-$150+/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, Pepsi, Walmart, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/Insight/Tiger/etc. Work alongside friends old & new: our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can. Full autonomy: say \"no\" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. Small, curated, off-the-record gatherings: for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about. Keep 100% of what you earn: if you charge $120/hr, you get $120/hr. A·Team makes money by charging a small, flat, transparent platform fee on top of your rate. How to apply: Go here: https://build.a.team/remotivereferral + mention Remotive. We respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit. What you’ll do: Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests. Find t...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Independent Software Developer at A.Team, focused on AI/data skills. Location: Americas, Europe, Israel.",
-      "rule_based_application_sentence": "Your Senior Independent Software Developer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile."
       ]
     },
     {
@@ -258,32 +267,26 @@
       ]
     },
     {
-      "id": "remotive-2091072",
-      "title": "Product Sales Specialist - Pet Health (CST timezone)",
-      "company": "Tribe Wellness",
-      "location": "Worldwide",
+      "id": "remotive-2091074",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
-      "published_at": "2026-07-22",
-      "match_score": 28,
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
+      "published_at": "2026-07-23",
+      "match_score": 35,
       "priority": "low",
-      "raw_description": "Must Love Dogs!! At Tribe Wellness, we're more than just a tribe – we're a movement. Rooted in courage, empowerment, and integrity, we've pioneered solutions that transform the world's wellness brands into revenue-generating machines. We bridge the gap between brands and revenue by turning our clients’ customers into lifetime supporters, and we do that by turning good salespeople into great salespeople. At Tribe Wellness Sales, we’re on a mission to help pets live longer, healthier lives through supplements that actually deliver. But here’s the catch: too many pet owners grab a product online and then flounder—unsure how to use it or missing the guidance to make it work. That’s where you, our Product Sales Specialist (called a Protocol Review Specialist in our world), make the difference. Without you, pets miss out on better health, owners lose confidence, and our mission stalls. With you? You’re the spark that turns a purchase into a transformation—for pets and their people. What You'll Do: Sell: You’ll sell products and services for our pet client, a company built for pet owners, by pet owners, with over a million happy dogs and growing! Grow: Work with a broad range of potential customers, transforming clients’ prospects into brand loyalists. Learn: Work closely with our dedicated leaders, leveraging our top-notch training resources to master the art of selling and representing Tribe's ethos. Earn: Operate with no cap on commission, providing limitless earning potential to integrate with our operations seamlessly. Live: Work from home in a global remote environment, utilizing our communication tools and platforms. What's In It For You: Earnings: This is a commission-only role. You will have between 8 and 18 appointments scheduled for you each day (more if you want them and you are closing sales). You will earn a 20% commission on the gross margin of every sale you make. Please tell us how much you want to earn, and we will show you what it takes to get there. Each sale is between $250 and $2,500. The Tribe Tool Kit: We have a battle-tested tool kit we provide for all our sales consultants, including Rippling and Salesforce, ensuring you're primed for success the second you hit the phones. Remote Work: You’ll have the freedom of a fully remote position, allowing for a work-life balance that suits your lifestyle. Be Part of the Tribe: No matter your title, you’ll join a community that values partnership, advocacy, and growth. We believe in nurturing ou...",
-      "required_skills": [
-        "Spark"
-      ],
+      "raw_description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. Join our global community and put your skills to work supporting one of the world's leading search technologies. Service Rates The estimated hourly earnings for this role are 14 USD per hour. Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines. Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. Independent Contractor Relationship This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. Qualification path No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements and successfully completing the qualification process. Basic Requirements • Excellent written and verbal communication skills in English • Must have resided in the United States for the past three consecutive years • Familiarity with current and historical business, media, sports, news, social media, and cultural affairs in the United States • Active use of Gmail and social media platforms • Experience using web browsers to navigate and interact with a variety of online content • Daily access to a reliable broadband internet connection • Access to a smartphone (Android 5.0 or higher, or iOS 14 or hig...",
+      "required_skills": [],
       "matched_skills": [],
-      "missing_skills": [
-        "Spark"
-      ],
-      "rule_based_summary": "Product Sales Specialist - Pet Health (CST timezone) at Tribe Wellness, focused on Spark. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Product Sales Specialist - Pet Health (CST timezone) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Spark.",
+      "missing_skills": [],
+      "rule_based_summary": "Content Reviewer - United States at TELUS Digital, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Content Reviewer - United States role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 1 extracted skills match the profile.",
+        "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Spark."
+        "The offer looks more senior than the target profile."
       ]
     }
   ]
