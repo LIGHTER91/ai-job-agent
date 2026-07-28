@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:06:42Z",
+  "generated_at": "2026-07-28T08:49:07Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -73,6 +73,42 @@
     ]
   },
   "jobs": [
+    {
+      "id": "jobicy-142967",
+      "title": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "LATAM",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
+      "published_at": "2026-07-27",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "required_skills": [
+        "Azure",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: LATAM.",
+      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
+      ]
+    },
     {
       "id": "remotive-2091035",
       "title": "Mid/Senior AI Cinematic Video Editor",
@@ -163,41 +199,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
-      "id": "jobicy-149543",
-      "title": "Python Engineer",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "published_at": "2026-07-21",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "SQL"
-      ],
-      "rule_based_summary": "Python Engineer at Canonical Ltd., focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes, SQL."
       ]
     },
     {
