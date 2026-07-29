@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:49:07Z",
+  "generated_at": "2026-07-29T09:06:27Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -268,26 +268,26 @@
       ]
     },
     {
-      "id": "remotive-2091074",
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
+      "id": "remotive-2090903",
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
       "location": "USA",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
-      "published_at": "2026-07-23",
-      "match_score": 35,
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "published_at": "2026-07-26",
+      "match_score": 39,
       "priority": "low",
-      "raw_description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. Join our global community and put your skills to work supporting one of the world's leading search technologies. Service Rates The estimated hourly earnings for this role are 14 USD per hour. Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines. Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. Independent Contractor Relationship This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. Qualification path No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements and successfully completing the qualification process. Basic Requirements • Excellent written and verbal communication skills in English • Must have resided in the United States for the past three consecutive years • Familiarity with current and historical business, media, sports, news, social media, and cultural affairs in the United States • Active use of Gmail and social media platforms • Experience using web browsers to navigate and interact with a variety of online content • Daily access to a reliable broadband internet connection • Access to a smartphone (Android 5.0 or higher, or iOS 14 or hig...",
+      "raw_description": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks. We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings. About You We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused digital work. We're especially interested in: People who can carefully review written information, images, documents, or other digital content Strong readers and writers with good judgment People who can follow detailed instructions consistently Individuals who are comfortable using web-based tools and online platforms People who take quality seriously and can spot mistakes or inconsistencies Those who enjoy focused, independent work while contributing to a larger project Strong character matters — we value integrity, reliability, curiosity, and a commitment to high-quality work Qualifications Comfortable using a computer for extended periods Reliable internet connection Strong attention to detail Ability to follow written guidelines and project instructions Clear written communication skills Basic familiarity with spreadsheets, online forms, or web-based work tools Ability to work independently and meet deadlines Prior experience in data labeling, annotation, quality review, research, writing, customer support, operations, or administrative work is helpful but not required Compensation Compensation is $18- $22 an hour and a max of 40 hours a week. A Place to Do Meaningful Work Data labeling may sound simple, but it plays an important role in improving the technology people use every day. At Workada, your work helps create the examples and feedback that make advanced systems more accurate, consistent, and useful. We're looking for people who care about accuracy, consistency, and careful judgment. Whether you're reviewing text, categorizing information, evaluating responses, or checking data quality, your work helps improve the way technology performs.",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Content Reviewer - United States at TELUS Digital, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Content Reviewer - United States role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Data Labeling Specialists at Workada, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Data Labeling Specialists role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The seniority is not explicit, so the project treats it as moderately compatible."
       ]
     }
   ]
