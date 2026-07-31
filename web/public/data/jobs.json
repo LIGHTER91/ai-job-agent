@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:46:30Z",
+  "generated_at": "2026-07-31T09:14:33Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,44 @@
   },
   "jobs": [
     {
+      "id": "remotive-2091081",
+      "title": "Senior Graphic Designer",
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Africa, Oceania",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+      "published_at": "2026-07-28",
+      "match_score": 86,
+      "priority": "high",
+      "raw_description": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers & designers . No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 5+ years of experience in Graphic Design 5+ years of commercial experience with Adobe Creative Suite & Adobe Illustrator Other requirements: Strong design craft — as a Senior Designer, you're expected to build polished, production-ready work from scratch, with a solid grasp of design systems, component architecture, and how your decisions translate into real product or brand outcomes. Clear and confident communication in English — advanced ability to discuss creative briefs, defend design decisions, and flag blockers early. Strong self-presentation is essential, particularly on client calls. High ownership, zero hand-holding — you thrive working full-time remotely, manage your own time, and consistently hit deadlines without being chased. Reliability — we need to trust you completely. If you commit to something, you deliver it. If something changes, you communicate early. Fast ramp-up — you can absorb project context quickly, align with existing style guides or brand directions, and start producing valuable work within the first days, not weeks. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angu...",
+      "required_skills": [
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior Graphic Designer at Lemon.io, focused on LLM, MLOps, Next.js, Python. Location: Americas, Europe, Asia, Africa, Oceania.",
+      "rule_based_application_sentence": "Your Senior Graphic Designer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 5 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps."
+      ]
+    },
+    {
       "id": "jobicy-142967",
       "title": "Python & React Engineer with AI (Remote, Latam)",
       "company": "Kubikware",
@@ -107,38 +145,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Azure."
-      ]
-    },
-    {
-      "id": "remotive-2091035",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-      "published_at": "2026-07-24",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first . And we’re only just getting started! Our Team We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO. Alexis Soulopoulos [CEO] • 10+ years in Tech Executive Leadership • Co-Founder Mad Paws Holdings (from 0 to IPO) • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 Michael Monin [Co-founder & CTO] • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) Thomas Lacroix [Co-founder & CMO] • 8+ years in Customer Acquisition & E-commerce Growth • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) Maruša Fasano [CFO/Legal] • 25+ years in Finance, Strategy, M&A • Ex-CFO/M&A @Curatible (exited to Blackstone) • Ex-President of the Board @SotremoSA (exited) • Co-founder/CFO @SoftOne (exited) Your Role We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply embedded in generative video workflows and can independently craft high-quality, narrative-driven content from concept to final output. You are a sharp-eyed video editor comfortable operating at the intersection of creativity and emerging technology, building visually compelling long-form videos using AI-first pipelines. You take ownership of the entire production stack — from prompting and generation to editing, compositing, graphic design work and final delivery. You thrive in a high-performance environment where your quick wits and passion for story-telling shine. Reporting to your Content Lead, this is what you'll be doing: Key Responsibilities Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs) Create narrative-driven, longfo...",
-      "required_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Vector search"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Mid/Senior AI Cinematic Video Editor at EverAI, focused on LLM, Prompt engineering, Vector search. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Mid/Senior AI Cinematic Video Editor role interests me because it connects directly with my work around LLM, Prompt engineering, Vector search, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
