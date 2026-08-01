@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:14:33Z",
+  "generated_at": "2026-08-01T08:32:32Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -112,39 +112,30 @@
       ]
     },
     {
-      "id": "jobicy-142967",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "LATAM",
+      "id": "jobicy-149989",
+      "title": "Python Engineering Manager, Commercial Systems",
+      "company": "Canonical Ltd.",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
-      "published_at": "2026-07-27",
-      "match_score": 74,
+      "url": "https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems",
+      "published_at": "2026-08-01",
+      "match_score": 61,
       "priority": "medium",
-      "raw_description": "We are Kubikware™ , a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Senior Python, React & AI Engineer , located in Latin America. You will join a fast-paced engagement focused on building and delivering a production-ready, AI-driven solution, with potential for long-term collaboration based on performance. We are looking for: 6+ years of experience in software engineering (backend or full-stack roles) Strong proficiency in Python (core requirement) Solid experience with React Hands-on experience building APIs and data pipelines Experience working with LLMs or AI-driven workflows Proven experience using AI-assisted development tools (e.g., Claude Code, Codex, or similar) Ability to build and ship production-ready code quickly in fast-paced environments Strong communication skills and ability to work in client-facing roles Experience working in Agile/Scrum environments Nice to have: Experience with Azure (App Services, Blob Storage, etc.) Background in document processing or structured data extraction Familiarity with LLM validation patterns (e.g., LLM-as-judge) Experience working on early-stage or fast-moving projects We offer: Fully remote position Short-term engagement (6 weeks) with strong potential for long-term extension Full-time Collaboration with US-based teams (Central Time overlap required) Compensation in US Dollars If you are as excited to learn more as we are to work with you, please submit your resume and let’s be in touch! Please, no agencies or C2C.",
+      "raw_description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in more than 80 countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Python Engineering Manager , who strives for accountability for the development of an internal product, who has high engineering quality standards, continuously develops their skills as well as skills of their direct reports, and who has the drive to deliver. This is an exciting opportunity to work with great people and exciting open-source solutions on innovative engineering solutions supporting Canonical's growth. The Commercial Systems unit is conceived as six engineering teams that closely collaborate with other engineering and business teams at Canonical. Services designed, developed, and operated by the Commercial Systems unit are at the heart of Canonical business and Python plays an integral role in it. We are looking for software engineering managers for these teams: The Data Governance team has a mission to enable a secure and well-governed access to comprehensive data sets originating at many internal and external data sources formed in a data mesh . The team works with well-known open-source data governance tools such as Trino and Ranger, defines and executes data governance processes, and democratizes the data at Canonical. The Integrations team is responsible for the automation of SaaS user management and onboarding of new data sources to the data mesh. The team designs, develops, and operates a Python based solution to automate SaaS seat management and track spend across the application portfolio. Furthermore the team integrates internal and external data sources into the data mesh using open-source ETL solutions, enabling more data driven decisions in the organization. Location : This role will be based remotely in the EMEA region. The role entails Accountability for the design and development of an internal product Leadi...",
       "required_skills": [
-        "Azure",
-        "LLM",
-        "Python",
-        "React"
+        "Python"
       ],
       "matched_skills": [
-        "LLM",
-        "Python",
-        "React"
+        "Python"
       ],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Python & React Engineer with AI (Remote, Latam) at Kubikware, focused on Azure, LLM, Python, React. Location: LATAM.",
-      "rule_based_application_sentence": "Your Python & React Engineer with AI (Remote, Latam) role interests me because it connects directly with my work around LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "missing_skills": [],
+      "rule_based_summary": "Python Engineering Manager, Commercial Systems at Canonical Ltd., focused on Python. Location: EMEA.",
+      "rule_based_application_sentence": "Your Python Engineering Manager, Commercial Systems role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
+        "The offer explicitly appears junior or early-career compatible."
       ]
     },
     {
@@ -172,81 +163,70 @@
       ]
     },
     {
-      "id": "jobicy-147602",
-      "title": "Senior AI Software Engineer, Python",
-      "company": "Scorpion",
-      "location": "USA",
+      "id": "jobicy-149985",
+      "title": "Engineering Manager - Public Cloud, Python, Golang",
+      "company": "Canonical Ltd.",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147602-senior-ai-software-engineer-python",
-      "published_at": "2026-07-25",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "About Us Scorpion is the leading provider of technology and services helping local businesses thrive. We do this by helping customers understand local market dynamics, make the most of their marketing, and deliver experiences their customers will love. We offer tools to know what’s going on with marketing, competitors, and customers. We offer a unique blend of AI support and teams of real human people with local expertise committed to customer success. At Scorpion, we are ready to do whatever it takes to help our clients reach their goals. Our technology and personalized tools bring everything together to help local businesses easily understand their unique business, market, and customer needs. We put SEO, Reviews, Advertising, Email Marketing, Chat and Messaging, Social Media, Website, Lead Management, Appointment Scheduling, and more to work for local businesses. We’re a technology-led service with a human touch. About the Role The Senior AI Software Engineer, Python will be responsible for making Scorpion’s Conversational Intelligence Platform production-grade by building reliable, observable, and scalable infrastructure for real-time AI workloads, including LLM orchestration, streaming responses, and event-driven messaging across multiple communication channels. This role owns the runtime reliability of systems that process LLM inference pipelines, manage backpressure across async workloads, and maintain clean service boundaries with downstream teams. Operating within an established architecture, the Senior AI Software Engineer, Python is responsible for the operational excellence required to make the platform production-ready. What Your Success Will Look Like Own the reliability of the event-driven messaging layer, including backpressure management, idempotency, dead-letter handling, and retry strategies. Build and operate the infrastructure that runs LLM orchestration workloads at scale. Own the operational data layer for the CI runtime, including state management, session persistence, and real-time data access patterns. Own observability for the CI platform, including structured logging, distributed tracing (OpenTelemetry), and error tracking (Sentry). Maintain and harden the interfaces between CI and downstream platforms, including contract testing, versioning, and failure handling. Conduct code reviews and mentor team members on Python engineering practices and production readiness. Own production support for CI infrastructure, including on-cal...",
+      "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
+      "published_at": "2026-08-01",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager to lead one of our teams that work closely with Amazon, Microsoft, Google and other world-class cloud partners to optimize Ubuntu for their infrastructure. Our team builds, tests, and publishes the base Ubuntu images used by millions to ensure optimal performance and security in their cloud estate. We aim to deliver the very best public cloud VM experience, as well as specialized images for specific purposes on each cloud. Our goal is to celebrate and enable their particular points of differentiation on their clouds, while also ensure a common operating experience for their users. As an engineering manager you need to bring both technical and management skills to the leadership of your team. You will also need to represent the team in direct partner engagement. You’ll be responsible for the stability and functionality that our cloud users have come to expect. You will strive to automate the delivery of existing and new Ubuntu image products applied to all modern workloads from web servers to GPU-aided AI for servers, VM’s and containers. As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software development is a must, so that you’re able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution. We work in Python and Golang, and expect engineering managers to be fluent in the language, architecture and components that their team is building with. Code reviews and arch...",
       "required_skills": [
+        "AWS",
         "Azure",
-        "LLM",
-        "Pydantic",
+        "Docker",
         "Python"
       ],
       "matched_skills": [
-        "LLM",
-        "Pydantic",
+        "Docker",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
         "Azure"
       ],
-      "rule_based_summary": "Senior AI Software Engineer, Python at Scorpion, focused on Azure, LLM, Pydantic, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior AI Software Engineer, Python role interests me because it connects directly with my work around LLM, Pydantic, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Engineering Manager - Public Cloud, Python, Golang at Canonical Ltd., focused on AWS, Azure, Docker, Python. Location: EMEA,  LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Engineering Manager - Public Cloud, Python, Golang role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
-      "id": "jobicy-149563",
-      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "id": "jobicy-149974",
+      "title": "Senior Software Engineer - Python/MongoDB",
       "company": "Canonical Ltd.",
-      "location": "Anywhere",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "published_at": "2026-07-21",
-      "match_score": 45,
+      "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
+      "published_at": "2026-08-01",
+      "match_score": 43,
       "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "raw_description": "We're enabling high-performing, rock-solid MongoDB deployments on any cloud or platform our customers choose. We want to create the world's best open source analog to MongoDB Altas or Amazon DocumentDB, which can be owned, controlled and operated by end-users on their own multi-cloud or on-premise environments. Canonical is looking for an experienced Python developer with a background in MongoDB who will help us to build a fully managed MongoDB solution based on Juju. We're aiming to build the most reliable and secure way to deploy and operate MongoDB on machines, VMs, public cloud and Kubernetes. The MongoDB team is small, meaning you will be a key contributor and your work will have a significant impact on the product and the broader ecosystem. Who you are You love technology and working with brilliant people. You are an accomplished senior Python programmer that enjoys challenging projects in mission-critical environments. You have experience operating and managing MongoDB clusters. You are experienced with modern infrastructure deployment automations or with traditional Linux systems administration, operations, and package management. You are passionate about quality and automatic testing. Work with one of the industry's pioneers in open source with intelligent engineers at every level from engineer to CTO and CEO level. At Canonical we've honed our remote-first culture since 2004, established in the company from the very beginning. Enjoy a competitive salary, the flexibility to work and live where you wish, and the chance to work exclusively on impactful open source projects. Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.",
       "required_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Docker",
         "Kubernetes",
-        "MLOps",
         "Python"
       ],
       "matched_skills": [
-        "Docker",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Kubernetes",
-        "MLOps"
+        "Kubernetes"
       ],
-      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical Ltd., focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Software Engineer - Python/MongoDB at Canonical Ltd., focused on Kubernetes, Python. Location: EMEA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer - Python/MongoDB role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 7 extracted skills match the profile.",
+        "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
+        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
