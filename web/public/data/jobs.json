@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:03:24Z",
+  "generated_at": "2026-08-04T08:51:49Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -139,6 +139,39 @@
       ]
     },
     {
+      "id": "jobicy-150121",
+      "title": "Engineering Manager - Python and K8s",
+      "company": "Canonical Ltd.",
+      "location": "APAC,  EMEA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
+      "published_at": "2026-08-03",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Engineering Manager - Python and K8s that is passionate about building a world-class devops culture in corporate information systems. We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes. As an engineering manager you’ll lead a team in your local time zone, focused on the business workloads that make Ubuntu, Canonical, and our various services highly available around the planet.You will be responsible for sound software architecture and best practices in software quality, testing and documentation.Technical leadership experience and a background in software engineering are prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution. What you’ll do You’ll lead a team focused on productising business workloads You will build and manage a regional team of engineers You'll develop your team through coaching, mentoring, and feedback You will demonstrate sound engineering by directly contributing toward your team’s goals Set reasonable schedules based on considered estimates, with feedback loops for improvement Set and manage expectations with other engineering teams and external stakeholders Advance modern, agile so...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Engineering Manager - Python and K8s at Canonical Ltd., focused on Docker, Kubernetes, Python. Location: APAC,  EMEA.",
+      "rule_based_application_sentence": "Your Engineering Manager - Python and K8s role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
       "id": "remotive-2091075",
       "title": "Business Development Representative",
       "company": "Outsite",
@@ -195,38 +228,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "Main missing or weaker skills: AWS, Azure."
-      ]
-    },
-    {
-      "id": "jobicy-149974",
-      "title": "Senior Software Engineer - Python/MongoDB",
-      "company": "Canonical Ltd.",
-      "location": "EMEA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149974-senior-software-engineer-python-mongodb",
-      "published_at": "2026-08-01",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "We're enabling high-performing, rock-solid MongoDB deployments on any cloud or platform our customers choose. We want to create the world's best open source analog to MongoDB Altas or Amazon DocumentDB, which can be owned, controlled and operated by end-users on their own multi-cloud or on-premise environments. Canonical is looking for an experienced Python developer with a background in MongoDB who will help us to build a fully managed MongoDB solution based on Juju. We're aiming to build the most reliable and secure way to deploy and operate MongoDB on machines, VMs, public cloud and Kubernetes. The MongoDB team is small, meaning you will be a key contributor and your work will have a significant impact on the product and the broader ecosystem. Who you are You love technology and working with brilliant people. You are an accomplished senior Python programmer that enjoys challenging projects in mission-critical environments. You have experience operating and managing MongoDB clusters. You are experienced with modern infrastructure deployment automations or with traditional Linux systems administration, operations, and package management. You are passionate about quality and automatic testing. Work with one of the industry's pioneers in open source with intelligent engineers at every level from engineer to CTO and CEO level. At Canonical we've honed our remote-first culture since 2004, established in the company from the very beginning. Enjoy a competitive salary, the flexibility to work and live where you wish, and the chance to work exclusively on impactful open source projects. Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.",
-      "required_skills": [
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Senior Software Engineer - Python/MongoDB at Canonical Ltd., focused on Kubernetes, Python. Location: EMEA.",
-      "rule_based_application_sentence": "Your Senior Software Engineer - Python/MongoDB role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
