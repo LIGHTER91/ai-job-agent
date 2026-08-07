@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:50:59Z",
+  "generated_at": "2026-08-07T07:38:39Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,44 +74,6 @@
   },
   "jobs": [
     {
-      "id": "remotive-2091081",
-      "title": "Senior Graphic Designer",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
-      "published_at": "2026-07-28",
-      "match_score": 86,
-      "priority": "high",
-      "raw_description": "Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers & designers . No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 5+ years of experience in Graphic Design 5+ years of commercial experience with Adobe Creative Suite & Adobe Illustrator Other requirements: Strong design craft — as a Senior Designer, you're expected to build polished, production-ready work from scratch, with a solid grasp of design systems, component architecture, and how your decisions translate into real product or brand outcomes. Clear and confident communication in English — advanced ability to discuss creative briefs, defend design decisions, and flag blockers early. Strong self-presentation is essential, particularly on client calls. High ownership, zero hand-holding — you thrive working full-time remotely, manage your own time, and consistently hit deadlines without being chased. Reliability — we need to trust you completely. If you commit to something, you deliver it. If something changes, you communicate early. Fast ramp-up — you can absorb project context quickly, align with existing style guides or brand directions, and start producing valuable work within the first days, not weeks. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Dart, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angu...",
-      "required_skills": [
-        "LLM",
-        "MLOps",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "MLOps"
-      ],
-      "rule_based_summary": "Senior Graphic Designer at Lemon.io, focused on LLM, MLOps, Next.js, Python. Location: Americas, Europe, Asia, Africa, Oceania.",
-      "rule_based_application_sentence": "Your Senior Graphic Designer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "4 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: MLOps."
-      ]
-    },
-    {
       "id": "jobicy-149989",
       "title": "Python Engineering Manager, Commercial Systems",
       "company": "Canonical Ltd.",
@@ -136,6 +98,30 @@
         "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible."
+      ]
+    },
+    {
+      "id": "remotive-2091087",
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "published_at": "2026-08-05",
+      "match_score": 54,
+      "priority": "medium",
+      "raw_description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learning curve so you’ll need to be technically savvy while also being the kind of person clients genuinely enjoy talking to. If you’ve got SaaS in your DNA, thrive in async/remote environments, and can juggle multiple threads without breaking a sweat — keep reading. The role You’ll join a lean, high-performing global support team working across two SaaS products, Award Force and Good Grants. Day to day you’ll be communicating with colleagues and clients across countries, cultures, and time zones. Support happens across email tickets, phone, and 1-1 Zoom calls. Once you’ve leveled up on product knowledge, you’ll run onboarding sessions and client meetings covering issue resolution, best practices, and product adoption. You’ll also be hands-on with bug testing and reporting, feeding considered feedback to our product teams— always pushing to make our products better. We have a startup mindset. We experiment with new tools, iterate on processes, and move fast. Got a great idea? Pitch it. We’re not big on bureaucracy, only results. We don’t expect you to be a slave to your chair but flexibility is a must. You’ll need to tick these boxes You’re based in the UTC +1 or +2 timezone range. This is non-negotiable. Our European team and clients operate in this window and we don’t allow shift work. If you live outside this range, this one’s not for you 2+ years of professional experience, ideally in a SaaS support or client-facing role Native-level English fluency (bilingual? Even better!) Terms like HTML, CSS, JS, API, integrations, dev console, staging & production environments, GitHub repos, and database queries don’t make you flinch. You don’t need to write code, but you need to get it You’ve got exceptional interpersonal and communication skills—written and verbal Client calls energise you. Four to five Zoom meetings a day? Bring it on You’re a natural problem solver who loves helping others untangle theirs Your writing is clean, well-structured, and detail-oriented You’re curious by nature and love learning new things You’re not allergic to upselling or fielding “sales-y” questions You’re organised and process-driven. Multiple tools for different workflows? No problem —...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "SaaS Product Support Jedi at Creative Force, focused on AI/data skills. Location: Europe, EMEA, UK, Germany, France, European timezones.",
+      "rule_based_application_sentence": "Your SaaS Product Support Jedi role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -169,6 +155,30 @@
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "remotive-2091088",
+      "title": "Sales Jedi",
+      "company": "Creative Force ",
+      "location": "Europe",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "published_at": "2026-08-05",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great salary, based on experience and location. We don’t pay commissions, because good sales are a team effort—from engineering, to operations, marketing, and support, our high-performing team all contribute to a great product and service that our clients love. Everybody in the company is rewarded with a share of profit each December—we succeed together. Our much-loved products are in demand and are proven to make a difference to our clients’ lives. You’ll be selling world-leading software through a well-considered process that leaves room for personal flair. SaaS experience is extremely beneficial but strong communication skills, patience, curiosity, keenness to learn and friendliness are key to success in this role. Join our Rebel Alliance Creative Force is experiencing strong growth and as we scale our efforts in 2026 and beyond, we’re looking for enthusiastic individuals to join our diverse team of Jedis to help recruit new clients as they navigate the decision process, and transform them into long-term supporters. You’ll be a respected member of our remote global sales team and will be well supported with the tools, knowledge and answers you need to provide exceptional levels of service, and to make the most from solid sales traction with our two in-demand products. As you master the Force and the multitude of skills needed in this role, attracting clients to join our mission, you will be recognised and rewarded with strong career and salary progression. Responsibilities Help prospects find the specific value they seek (this is the product you are looking for) Collaborate with our diverse international team to push us on the leading edge of our fields Learn to be a product expert and confidently answer product questions from prospects Discover how to be an expert in SaaS for recognition programs Master our sales technology stack Support the complete sales cycle, from qualified lead to close Skillfully navigate consultative sales discussions and live demos Essentials Applications are open to all experience levels, with a minimum of 1 year proven success in SaaS sales or a similar role Must live in Europe Digital native, with enthusiasm for technology Discipline and self-motivation (key to success in...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Sales Jedi at Creative Force , focused on AI/data skills. Location: Europe.",
+      "rule_based_application_sentence": "Your Sales Jedi role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -207,30 +217,6 @@
       ]
     },
     {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "published_at": "2026-08-02",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the mo...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Freelance Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "jobicy-147583",
       "title": "Site Strategy Manager, Data Center Sites - Remote (U.S.)",
       "company": "AECOM",
@@ -255,26 +241,26 @@
       ]
     },
     {
-      "id": "remotive-2090903",
-      "title": "Data Labeling Specialists",
-      "company": "Workada",
-      "location": "USA",
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "published_at": "2026-07-26",
-      "match_score": 39,
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "published_at": "2026-08-04",
+      "match_score": 35,
       "priority": "low",
-      "raw_description": "Who We Are Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks. We believe careful data work matters. Every reviewed item, categorized example, and quality-checked task helps improve how technology interprets information, follows instructions, and responds in practical settings. About You We're hiring detail-oriented individuals who are comfortable working on a computer and interested in careful, focused digital work. We're especially interested in: People who can carefully review written information, images, documents, or other digital content Strong readers and writers with good judgment People who can follow detailed instructions consistently Individuals who are comfortable using web-based tools and online platforms People who take quality seriously and can spot mistakes or inconsistencies Those who enjoy focused, independent work while contributing to a larger project Strong character matters — we value integrity, reliability, curiosity, and a commitment to high-quality work Qualifications Comfortable using a computer for extended periods Reliable internet connection Strong attention to detail Ability to follow written guidelines and project instructions Clear written communication skills Basic familiarity with spreadsheets, online forms, or web-based work tools Ability to work independently and meet deadlines Prior experience in data labeling, annotation, quality review, research, writing, customer support, operations, or administrative work is helpful but not required Compensation Compensation is $18- $22 an hour and a max of 40 hours a week. A Place to Do Meaningful Work Data labeling may sound simple, but it plays an important role in improving the technology people use every day. At Workada, your work helps create the examples and feedback that make advanced systems more accurate, consistent, and useful. We're looking for people who care about accuracy, consistency, and careful judgment. Whether you're reviewing text, categorizing information, evaluating responses, or checking data quality, your work helps improve the way technology performs.",
+      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Data Labeling Specialists at Workada, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Data Labeling Specialists role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible."
+        "The offer looks more senior than the target profile."
       ]
     }
   ]
