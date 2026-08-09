@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:11:30Z",
+  "generated_at": "2026-08-09T07:13:47Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -125,6 +125,41 @@
       ]
     },
     {
+      "id": "jobicy-150364",
+      "title": "Software Engineer - Python - Container Images",
+      "company": "Canonical Ltd.",
+      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
+      "published_at": "2026-08-09",
+      "match_score": 53,
+      "priority": "medium",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a new generation of Ubuntu-based container images to simplify open-source application deployment across the world. These container images will be free to use with long-term security commitments, and engineered for performance, security and usability. As with Ubuntu, we will work in the open and welcome community participation. In this role, you’ll be building and maintaining an ever-growing portfolio of container images while working with multiple teams, both inside and outside Canonical, to ensure these are of the highest quality and offer a seamless Ubuntu user experience. You will also be highly involved in the implementation and maintenance of the Continuous Integration and Continuous Delivery automation around these container images, for which you are expected to demonstrate deep insights into container-based DevOps. You will be contributing to fast-moving products like Rocks ( OCI images ) and thus have the chance to help steer and consolidate this growing team. You’ll gain experience with numerous container technologies and open source projects, where your feedback and contributions will be critical to driving widespread container adoption. As an engineer, your seniority will be based on your software development background and ability to lead junior team members. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical. This is an exciting opportunity for experienced software engineers looking for a place to leave their mark, who are passionate about shaping an open source product with the highest quality, with and for the community! **Location**: EMEA This role entails Build robust, scalable, leading-edge container images Work on automated CI/CD processes for building, tes...",
+      "required_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Software Engineer - Python - Container Images at Canonical Ltd., focused on Docker, GitHub Actions, Kubernetes, Python. Location: APAC,  EMEA,  LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Software Engineer - Python - Container Images role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
       "id": "jobicy-150121",
       "title": "Engineering Manager - Python and K8s",
       "company": "Canonical Ltd.",
@@ -182,41 +217,6 @@
       ]
     },
     {
-      "id": "jobicy-149985",
-      "title": "Engineering Manager - Public Cloud, Python, Golang",
-      "company": "Canonical Ltd.",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang",
-      "published_at": "2026-08-01",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager to lead one of our teams that work closely with Amazon, Microsoft, Google and other world-class cloud partners to optimize Ubuntu for their infrastructure. Our team builds, tests, and publishes the base Ubuntu images used by millions to ensure optimal performance and security in their cloud estate. We aim to deliver the very best public cloud VM experience, as well as specialized images for specific purposes on each cloud. Our goal is to celebrate and enable their particular points of differentiation on their clouds, while also ensure a common operating experience for their users. As an engineering manager you need to bring both technical and management skills to the leadership of your team. You will also need to represent the team in direct partner engagement. You’ll be responsible for the stability and functionality that our cloud users have come to expect. You will strive to automate the delivery of existing and new Ubuntu image products applied to all modern workloads from web servers to GPU-aided AI for servers, VM’s and containers. As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software development is a must, so that you’re able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution. We work in Python and Golang, and expect engineering managers to be fluent in the language, architecture and components that their team is building with. Code reviews and arch...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure"
-      ],
-      "rule_based_summary": "Engineering Manager - Public Cloud, Python, Golang at Canonical Ltd., focused on AWS, Azure, Docker, Python. Location: EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Engineering Manager - Public Cloud, Python, Golang role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: AWS, Azure."
-      ]
-    },
-    {
       "id": "jobicy-147583",
       "title": "Site Strategy Manager, Data Center Sites - Remote (U.S.)",
       "company": "AECOM",
@@ -241,26 +241,32 @@
       ]
     },
     {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "USA",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "published_at": "2026-08-04",
-      "match_score": 35,
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "published_at": "2026-08-07",
+      "match_score": 28,
       "priority": "low",
-      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "required_skills": [],
+      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
+      "required_skills": [
+        "Azure"
+      ],
       "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: USA.",
+      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
+        "0 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
       ]
     }
   ]
