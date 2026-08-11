@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:02:05Z",
+  "generated_at": "2026-08-11T07:33:38Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -101,30 +101,6 @@
       ]
     },
     {
-      "id": "remotive-2091087",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "published_at": "2026-08-05",
-      "match_score": 54,
-      "priority": "medium",
-      "raw_description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learning curve so you’ll need to be technically savvy while also being the kind of person clients genuinely enjoy talking to. If you’ve got SaaS in your DNA, thrive in async/remote environments, and can juggle multiple threads without breaking a sweat — keep reading. The role You’ll join a lean, high-performing global support team working across two SaaS products, Award Force and Good Grants. Day to day you’ll be communicating with colleagues and clients across countries, cultures, and time zones. Support happens across email tickets, phone, and 1-1 Zoom calls. Once you’ve leveled up on product knowledge, you’ll run onboarding sessions and client meetings covering issue resolution, best practices, and product adoption. You’ll also be hands-on with bug testing and reporting, feeding considered feedback to our product teams— always pushing to make our products better. We have a startup mindset. We experiment with new tools, iterate on processes, and move fast. Got a great idea? Pitch it. We’re not big on bureaucracy, only results. We don’t expect you to be a slave to your chair but flexibility is a must. You’ll need to tick these boxes You’re based in the UTC +1 or +2 timezone range. This is non-negotiable. Our European team and clients operate in this window and we don’t allow shift work. If you live outside this range, this one’s not for you 2+ years of professional experience, ideally in a SaaS support or client-facing role Native-level English fluency (bilingual? Even better!) Terms like HTML, CSS, JS, API, integrations, dev console, staging & production environments, GitHub repos, and database queries don’t make you flinch. You don’t need to write code, but you need to get it You’ve got exceptional interpersonal and communication skills—written and verbal Client calls energise you. Four to five Zoom meetings a day? Bring it on You’re a natural problem solver who loves helping others untangle theirs Your writing is clean, well-structured, and detail-oriented You’re curious by nature and love learning new things You’re not allergic to upselling or fielding “sales-y” questions You’re organised and process-driven. Multiple tools for different workflows? No problem —...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "SaaS Product Support Jedi at Creative Force, focused on AI/data skills. Location: Europe, EMEA, UK, Germany, France, European timezones.",
-      "rule_based_application_sentence": "Your SaaS Product Support Jedi role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "jobicy-150364",
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical Ltd.",
@@ -212,6 +188,30 @@
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "published_at": "2026-08-08",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $1,000 total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 2: $250 guaranteed minimum Week 3: $325 guaranteed minimum Week 4: $425 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism especially under pr...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
