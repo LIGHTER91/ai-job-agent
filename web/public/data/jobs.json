@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:49:00Z",
+  "generated_at": "2026-08-13T07:50:11Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 5
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -98,6 +98,48 @@
         "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible."
+      ]
+    },
+    {
+      "id": "jobicy-150585",
+      "title": "Staff Software Engineer",
+      "company": "Cloudbeds",
+      "location": "Europe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
+      "published_at": "2026-08-12",
+      "match_score": 55,
+      "priority": "medium",
+      "raw_description": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've become the World's Best Hotel PMS Solutions Provider and landed on Deloitte's Technology Fast 500 again in 2024, but we're just getting started. Location: Remote (Europe) How You'll Make an Impact: As a Staff Software Engineer in Revenue Intelligence, you will shape the technical direction of systems that help hospitality businesses understand demand, identify revenue opportunities, and make better pricing and commercial decisions. You will work across customer-facing applications, backend services, data pipelines, analytical stores, recommendation workflows, and cloud infrastructure. This is a hands-on leadership role: you will solve complex engineering problems directly while establishing architecture, improving reliability and security, reducing systemic technical debt, and aligning multiple teams around durable technical decisions. Your impact will extend beyond individual features to the quality, scalability, operability, and long-term evolution of the Revenue Intelligence platform. Our Revenue Intelligence Team: The Revenue Intelligence team builds products and platforms that turn hospitality data into practical decisions for hoteliers, including pricing recommendations, demand insights, reporting, automation, and commercial opportunities. Our systems span frontend experiences, APIs, distributed services, data processing, machine-learning workflows, and production infrastructure. We value pragmatic engineering, strong ownership, evidence-based decisions, and technical leaders who raise the effectiveness of the people and systems around them. What You Bring to the Team: Set and evolve the technical strategy for Revenue Intelligence, translating product and business goals into coherent architecture and executable engineering plans Lead the design and delivery of complex capabilities across customer-facing web applications, backend APIs, event-driven...",
+      "required_skills": [
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "PostgreSQL",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Staff Software Engineer at Cloudbeds, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Europe.",
+      "rule_based_application_sentence": "Your Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 7 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
       ]
     },
     {
