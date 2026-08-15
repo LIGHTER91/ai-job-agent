@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:47:20Z",
+  "generated_at": "2026-08-15T06:55:28Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -211,30 +211,6 @@
       ]
     },
     {
-      "id": "remotive-2090989",
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "location": "USA",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "published_at": "2026-08-12",
-      "match_score": 44,
-      "priority": "low",
-      "raw_description": "This role may require you to be on site at times - please check with the employer first. The Accounts Payable Assistant performs accounting and c lerical tasks that are related to accounts payable transactions including receiving and logging invoices, maintaining and updating an accounts payable ledger, generating financial statements and reports, and other financial matters as assigned by the Director of Finance & Operations. The ideal candidate will possess a basic understanding of accounting fundamentals as well as excellent office support skills. Key Responsibilities of the Accounts Payable Assistant: Administrative Duties • Office Support - filing, data retention, mail, and other duties. • Conduct company business according to policies. • Maintain the company’s accounting files as needed Accounts Payable Duties • Process Invoices (Stamping coding and approval stamps, entering coded invoices into accounting software). • Print, mail, and file checks for multiple properties. • Resolutions with vendors – past due balances, misapplied payments, etc. What the Successful Accounts Payable Assistant will have: • High School Diploma or equivalent • Basic understanding of accounting fundamentals or 1 year of accounting experience • Excellent computer skills especially Microsoft Excel, Word, and Outlook • Data entry and/or 10 key experience • Experience with Yardi or other accounting software • High degree of accuracy, attention to detail, and ability to follow through • Professional written and oral communication skills • Prompt and consistent attendance during scheduled work hours • Ability to maintain confidential information",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Assistant Account Payable at The Obesity Society, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Assistant Account Payable role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies ",
@@ -304,6 +280,29 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091093",
+      "title": "Face Deduplication Collection",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
+      "published_at": "2026-08-13",
+      "match_score": 39,
+      "priority": "low",
+      "raw_description": "The project compensation rate is $0.55 USD per accepted image. The objective of this project is to collect a large and diverse dataset of current neutral selfies, head-pose captures, and historical facial images to support machine-learning research and facial recognition model training at TELUS. The focus is on capturing real-world variation across lighting, poses, expressions, accessories, environments, and aging to improve model accuracy and robustness. The collection includes: • Current Neutral Selfies – clean frontal selfies serving as high-quality identity references, with natural variation in appearance and surroundings. • Current Head-Pose Captures – selfies captured in assigned head directions to introduce pose variation. • Historical Images – older photos from participants’ galleries to capture natural aging and long-term appearance changes. To qualify for payment, you must submit a minimum of 20 valid images. The maximum payout is based on 24 accepted images. Due to the strict automated and manual Quality Control (QC) process, we strongly recommend submitting 30 images to help ensure that enough images remain valid after review Note: Please use a Gmail address as your primary account when applying for this project. Qualification path No specific education is needed to perform the project task.",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Face Deduplication Collection at TELUS Digital, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Face Deduplication Collection role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The seniority is not explicit, so the project treats it as moderately compatible."
       ]
     }
   ]
