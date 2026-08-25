@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:17:43Z",
+  "generated_at": "2026-08-25T07:05:59Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -142,6 +142,41 @@
       ]
     },
     {
+      "id": "jobicy-151496",
+      "title": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "published_at": "2026-08-24",
+      "match_score": 69,
+      "priority": "medium",
+      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
+      "required_skills": [
+        "AWS",
+        "GitHub Actions",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS"
+      ],
+      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
+      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: AWS."
+      ]
+    },
+    {
       "id": "jobicy-150585",
       "title": "Staff Software Engineer",
       "company": "Cloudbeds",
@@ -184,84 +219,9 @@
       ]
     },
     {
-      "id": "jobicy-149543",
-      "title": "Python Engineer",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "published_at": "2026-08-22",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "SQL"
-      ],
-      "rule_based_summary": "Python Engineer at Canonical Ltd., focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes, SQL."
-      ]
-    },
-    {
-      "id": "jobicy-151013",
-      "title": "Distributed Systems Testing Software Engineer, Python / Go",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-      "published_at": "2026-08-18",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Software Engineer for Distributed Systems Testing with a passion for building and validating resilient distributed systems. You drive the success of those leveraging Canonical’s Ubuntu and Juju to build multi-cloud deployable applications. We see quality engineering as a first class engineering practice and are looking for people who can bring deep engineering insights and a data driven approach to testing, test automation, reporting and data analytics. The Distributed Systems testing team at Canonical is responsible for the high quality of Canonical’s Cloud solutions based on for example Juju, Terraform, OpenStack, or Kubernetes. Systems are tested and deployed under highly diverse conditions, from bare metal in customer data centers to public clouds such as AWS, GCE, Azure. As a software engineer you will have the opportunity to develop CI pipelines which power Canonical’s cloud integration testing and reporting. You will help test our products on new clouds and advance our AI/ML pipelines for automatic analysis of test results. A successful candidate is interested in tackling these problems, as well as imagining and leading new initiatives within the team and across Canonical. The role entails Creating automated testing approaches and infrastructure for validating reliability, performance, and resilience of cloud orchestration tools and applications Enabling engineering teams across Canonical to develop software with confidence by making distributed system testing tooling available across the company Enhancing continuous integration pipelines for deploying and testing Canonical’s cloud native products such as Kubeflow Deploying, managing, and debugging highly distributed systems on clouds and bare metal Monitoring and reporting on automat...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Distributed Systems Testing Software Engineer, Python / Go at Canonical Ltd., focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Distributed Systems Testing Software Engineer, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
-      ]
-    },
-    {
       "id": "jobicy-149563",
       "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "source": "Jobicy",
       "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
@@ -289,7 +249,7 @@
         "Kubernetes",
         "MLOps"
       ],
-      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical Ltd., focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
+      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
       "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
@@ -298,6 +258,46 @@
         "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
+      ]
+    },
+    {
+      "id": "jobicy-151507",
+      "title": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
+      "company": "Oowlish Technology",
+      "location": "LATAM,  Argentina,  Brazil,  Mexico",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
+      "published_at": "2026-08-24",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced AI Solutions Engineer to help build an AI-powered IT Help Desk Automation platform using AWS Bedrock and modern serverless technologies. This role focuses on designing intelligent automation workflows that leverage AI agents to streamline IT operations, including ticket triage, request routing, and identity/access management automation across enterprise systems. The ideal candidate combines strong Python development skills with hands-on experience building AI-powered applications using AWS Bedrock and modern AWS serverless services. Key Responsibilities: Design and develop AI-powered automation solutions using AWS Bedrock. Build and orchestrate AI agents capable of handling IT help desk workflows. Develop integrations with enterprise platforms using REST APIs. Implement automation for ticket triage, routing, and access request workflows. Build serverless applications using AWS Lambda and Step Functions. Integrate AI workflows with KACE, Okta, Azure AD, and similar enterprise platforms. Design secure, scalable, and maintainable cloud-native solutions. Collaborate with engineering teams to continuously improve AI agent performance. Participate in architecture discussions and technical decision-making. Requirements: 5+ years of software engineering experience. Strong Python development experience. Hands-on experience with AWS cloud services. Experience building cloud-native applications. Experience integrating enterprise systems using REST APIs. Strong problem-solving skills. Experience working in Agile environments. Strong English communication s...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior AI Solutions Engineer (Python & AWS Bedrock) at Oowlish Technology, focused on AWS, Azure, LLM, Prompt engineering. Location: LATAM,  Argentina,  Brazil,  Mexico.",
+      "rule_based_application_sentence": "Your Senior AI Solutions Engineer (Python & AWS Bedrock) role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Terraform."
       ]
     },
     {
