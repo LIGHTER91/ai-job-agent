@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:06:15Z",
+  "generated_at": "2026-08-27T17:36:15Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -139,6 +139,54 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091099",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
+      "published_at": "2026-08-25",
+      "match_score": 74,
+      "priority": "medium",
+      "raw_description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. We currently have multiple DevOps openings open at once, each with a different setup, stack, and benefits. Check which one fits you: Direct hire for our client in the gambling industry. Relocation and visa assistance included. This role bridges infrastructure and application operations: you’ll keep environments reliable, redundant, and secure, investigate production issues, and support dev and QA teams with technical context. We're seeking a DevOps Engineer with strong Laravel and Nuxt experience to manage and improve our application infrastructure. This role bridges infrastructure and application operations — you'll keep environments reliable, redundant, and secure, investigate production issues, and support dev and QA teams with technical context. Benefits: paid leave; gym allowance; lunch allowance; monthly team-building activities; birthday and work anniversary presents. Requirements - DevOps with Linux: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Linux Knowledge of Laravel, PHP, and Nuxt is a must 2+ years of experience with Heroku, DigitalOcean, or Cloudflare We also have other positions that aren't direct hire. Requirements - DevOps (Python/Bash): 4+ years of experience as a DevOps Engineer At least 3 years of experience with Python or Bash 3+ years of experience with AWS/GCP/Microsoft Azure/Azure DevOps is required Experience in at least 2 commercial projects using Terraform, Kubernetes and SQL is required Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React",
+        "SQL",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "MLOps",
+        "SQL",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior DevOps Engineer at Lemon.io, focused on AWS, Azure, Kubernetes, LLM. Location: LATAM, Europe, USA, Canada, APAC.",
+      "rule_based_application_sentence": "Your Senior DevOps Engineer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 10 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, MLOps, SQL."
       ]
     },
     {
@@ -316,29 +364,6 @@
       "missing_skills": [],
       "rule_based_summary": "Content Reviewer - English US at TELUS Digital, focused on AI/data skills. Location: USA.",
       "rule_based_application_sentence": "Your Content Reviewer - English US role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
-      ]
-    },
-    {
-      "id": "remotive-2091104",
-      "title": "Vice President, Technology & Digital Strategy",
-      "company": "Shatterproof",
-      "location": "USA",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-      "published_at": "2026-08-20",
-      "match_score": 35,
-      "priority": "low",
-      "raw_description": "About ShatterproofShatterproof is a national nonprofit working toward a world where addiction never defines or ends a life. Through evidence-based programs, advocacy, and public education, Shatterproof works to transform systems for tomorrow, support families today, and end stigma forever. Learn more at shatterproof.org. Who Succeeds at Shatterproof Shatterproof is in a period of transformative and rapid growth. We are building new systems, reimagining how work gets done, and creating more cross-functional alignment to accelerate our mission. To thrive here, you should be energized by building, not just maintaining, and excited to bring structure, clarity, and innovation to evolving spaces. We're looking for team members who: Build systems and processes from the ground up and improve them continuously as we scale. Take ownership and act with a builder's mindset, bringing forward solutions rather than waiting for direction. Influence and collaborate across teams, shaping work through strong communication and relationship-building. Move quickly, learn fast, and adapt with resilience, especially in a high-growth, high-impact environment. Are mission-driven and motivated to leave their mark on an organization working to reverse the addiction crisis. The RoleReporting to the Chief Financial & Administrative Officer, the Vice President, Technology & Digital Strategy serves as Shatterproof's senior technology executive and leads the organization's technology, digital operations, cybersecurity, data, artificial intelligence, enterprise applications, digital platforms, and technology-enabled products. This leader will create and execute a comprehensive technology vision that advances organizational strategy, enables operational excellence, strengthens security and resilience, improves the employee experience, supports fundraising and advocacy, and drives innovation across mission-focused platforms. This role is ideal for a builder who wants the rare opportunity to shape not only an organization's technology strategy, but also how technology, data, AI, and digital platforms accelerate mission impact at scale. The Team The Vice President leads a multidisciplinary team spanning enterprise technology, digital operations, data, and product management. Current direct reports and functional oversight areas include IT Operations, Digital Operations, enterprise CRM and database capabilities, Treatment Atlas Product Management, and Treatment Atlas Data Management. The rol...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Vice President, Technology & Digital Strategy at Shatterproof, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Vice President, Technology & Digital Strategy role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
