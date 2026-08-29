@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:37:56Z",
+  "generated_at": "2026-08-29T12:39:00Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -109,6 +109,46 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: MLOps."
+      ]
+    },
+    {
+      "id": "remotive-2091101",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "published_at": "2026-08-27",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several open positions for Full-Stack React.js Developers - please see the details below. We also have some backend positions; the full list is included below as well. Requirements for the Senior Node & React Position: 5+ years of software development experience Commercial experience: React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years OR React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years Expertise in AWS, TypeScript and AI-assisted coding is a must. Other requirements: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI A...",
+      "required_skills": [
+        "AWS",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS",
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior React Full-stack Developer at Lemon.io, focused on AWS, LLM, MLOps, Next.js. Location: LATAM, Europe, USA, Canada, APAC.",
+      "rule_based_application_sentence": "Your Senior React Full-stack Developer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 6 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, MLOps."
       ]
     },
     {
@@ -344,29 +384,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Azure, Terraform."
-      ]
-    },
-    {
-      "id": "remotive-2091105",
-      "title": "Content Reviewer - English US",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
-      "published_at": "2026-08-21",
-      "match_score": 35,
-      "priority": "low",
-      "raw_description": "Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and contribute to the development of innovative AI technologies used by some of the world's largest brands. We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. Join our global community and put your skills to work supporting one of the world's leading search technologies. Service Rates The rate of pay is $0.2333 per completed task, with an estimated earning potential of $14 per hour. Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines. Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. Independent Contractor Relationship This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. Qualification path Qualification Process No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements and successfully completing the qualification process. Basic Requirements • Excellent written and verbal communication skills in English • Must have resided in the United States for the past thr...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Content Reviewer - English US at TELUS Digital, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Content Reviewer - English US role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
       ]
     }
   ]
