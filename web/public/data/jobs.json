@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:39:00Z",
+  "generated_at": "2026-08-30T11:51:04Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 5
+      "Jobicy": 6
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -228,38 +228,43 @@
       ]
     },
     {
-      "id": "jobicy-151496",
-      "title": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
+      "id": "jobicy-151979",
+      "title": "Software Engineer, Machine Learning Platform, New Grad - Quora",
+      "company": "Quora",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "published_at": "2026-08-24",
-      "match_score": 69,
+      "url": "https://jobicy.com/jobs/151979-software-engineer-machine-learning-platform-new-grad-quora",
+      "published_at": "2026-08-29",
+      "match_score": 56,
       "priority": "medium",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
+      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with over 300M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a platform providing millions of global users with one place to chat, explore and build with a wide variety of AI language models (bots), including GPT-5.6-Sol, Claude-Opus-5, Claude-Fable-5, Claude-Sonnet-5, Kimi-K3, and thousands of others. As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month. Our team owns Quora's ML platform and ranking infrastructure across four areas: serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency . We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. As a Software Engineer (New Grad) on this team, you'll work at the intersection of Machine Learning, Distributed Systems, and GPU Serving performance — and your work will have an enormous impact on Quora's long-term success. No previous ML infrastructure experience is required for this role. You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong techni...",
       "required_skills": [
         "AWS",
-        "GitHub Actions",
+        "Docker",
+        "Kubernetes",
+        "LLM",
         "Python",
-        "React"
+        "Vector search"
       ],
       "matched_skills": [
-        "GitHub Actions",
+        "Docker",
+        "LLM",
         "Python",
-        "React"
+        "Vector search"
       ],
       "missing_skills": [
-        "AWS"
+        "AWS",
+        "Kubernetes"
       ],
-      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Software Engineer, Machine Learning Platform, New Grad - Quora at Quora, focused on AWS, Docker, Kubernetes, LLM. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Software Engineer, Machine Learning Platform, New Grad - Quora role interests me because it connects directly with my work around Docker, LLM, Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS."
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Kubernetes."
       ]
     },
     {
@@ -305,85 +310,122 @@
       ]
     },
     {
-      "id": "jobicy-149563",
-      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-      "company": "Canonical",
-      "location": "Anywhere",
+      "id": "jobicy-152025",
+      "title": "Semi-Senior Full Stack Engineer (Python / React) - E-learning",
+      "company": "Truelogic",
+      "location": "LATAM",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "published_at": "2026-08-22",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "url": "https://jobicy.com/jobs/152025-semi-senior-full-stack-engineer-python-react-e-learning",
+      "published_at": "2026-08-29",
+      "match_score": 54,
+      "priority": "medium",
+      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A leading provider of award-winning, intelligent SaaS solutions Job Summary In this role, you will design, build, and scale modern web applications and microservices using Python and React. You will work closely with cross-functional teams in an Agile environment, leveraging cloud infrastructure and cutting-edge Generative AI tools and integrations to boost productivity and deliver high-impact software solutions. Responsibilities Design, develop, and maintain robust, scalable web applications and microservices using Python and React. Build clean, efficient RESTful APIs and integrate complex backend services. Support containerized deployments and work alongside CI/CD pipelines on cloud infrastructure (primarily AWS). Leverage modern AI-powered development tools to optimize workflows and incorporate Generative AI capabilities and model integrations where applicable. Participate in sprint planning, code reviews, and software design discussions to maintain high code quality and architecture standards. Qualifications and Job Requirements 3+ years of experience in software development with strong, hands-on proficiency in Python and React. Proven experience designing and building scalable REST APIs and microservices architectures. Solid understanding of cloud platforms (AWS preferred), CI/CD practices, and containerized deployments (e.g., Docker). Previous GenAI/LLM application experience, Prompt engineering, Experience integrating LLMs/models What We Offer 100% Remote Work: Enjoy the freedom to work from the location that helps you thrive. All it takes is a lapto...",
       "required_skills": [
         "AWS",
-        "Airflow",
-        "Azure",
         "Docker",
-        "Kubernetes",
-        "MLOps",
-        "Python"
+        "GitHub Actions",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "React"
       ],
       "matched_skills": [
         "Docker",
-        "Python"
+        "GitHub Actions",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "React"
       ],
       "missing_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Kubernetes",
-        "MLOps"
+        "AWS"
       ],
-      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Semi-Senior Full Stack Engineer (Python / React) - E-learning at Truelogic, focused on AWS, Docker, GitHub Actions, LLM. Location: LATAM.",
+      "rule_based_application_sentence": "Your Semi-Senior Full Stack Engineer (Python / React) - E-learning role interests me because it connects directly with my work around Docker, GitHub Actions, LLM, Prompt engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 7 extracted skills match the profile.",
+        "6 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
+        "Main missing or weaker skills: AWS."
       ]
     },
     {
-      "id": "jobicy-151507",
-      "title": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
-      "company": "Oowlish Technology",
-      "location": "LATAM,  Argentina,  Brazil,  Mexico",
+      "id": "jobicy-152031",
+      "title": "Senior Full-stack Engineer (React OR Vue/Python) - Investment",
+      "company": "Truelogic",
+      "location": "LATAM",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
-      "published_at": "2026-08-24",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced AI Solutions Engineer to help build an AI-powered IT Help Desk Automation platform using AWS Bedrock and modern serverless technologies. This role focuses on designing intelligent automation workflows that leverage AI agents to streamline IT operations, including ticket triage, request routing, and identity/access management automation across enterprise systems. The ideal candidate combines strong Python development skills with hands-on experience building AI-powered applications using AWS Bedrock and modern AWS serverless services. Key Responsibilities: Design and develop AI-powered automation solutions using AWS Bedrock. Build and orchestrate AI agents capable of handling IT help desk workflows. Develop integrations with enterprise platforms using REST APIs. Implement automation for ticket triage, routing, and access request workflows. Build serverless applications using AWS Lambda and Step Functions. Integrate AI workflows with KACE, Okta, Azure AD, and similar enterprise platforms. Design secure, scalable, and maintainable cloud-native solutions. Collaborate with engineering teams to continuously improve AI agent performance. Participate in architecture discussions and technical decision-making. Requirements: 5+ years of software engineering experience. Strong Python development experience. Hands-on experience with AWS cloud services. Experience building cloud-native applications. Experience integrating enterprise systems using REST APIs. Strong problem-solving skills. Experience working in Agile environments. Strong English communication s...",
+      "url": "https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment",
+      "published_at": "2026-08-29",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A membership-based investment firm focused on providing targeted exposure to private markets. The company enables its members to invest selectively in single-investment and niche fund vehicles across sectors such as private credit, real estate, private equity, and venture capital. It was founded by a former senior executive from a prominent global investment management firm. Job Summary We are seeking a seasoned Full-Stack Developer who is comfortable operating across the entire stack and contributing to all phases of the development lifecycle. As part of a lean and dynamic team, the ideal candidate will not only bring strong software engineering skills but also have an interest in DevOps practices, including experience or exposure to AWS, deployment pipelines, and infrastructure management. This role requires a proactive problem-solver who can work independently and collaboratively, with a solid understanding of modern development frameworks and a willingness to dive into both front-end and back-end challenges to deliver scalable, high-quality solutions. Responsibilities Design, build, and maintain scalable back-end services using Python and Django. Develop and optimize modern front-end applications using Vue.js and Vite. Collaborate with DevOps to manage infrastructure using Terraform and CDK for Terraform. Utilize Docker and Docker Compose to streamline local development and deployment processes. Implement secure and efficient secrets management with 1Password CLI. Contribute to CI/CD pipelines and manage production deployments using Uvicorn, Nginx, and...",
       "required_skills": [
         "AWS",
-        "Azure",
-        "LLM",
-        "Prompt engineering",
+        "Docker",
+        "GitHub Actions",
+        "Python",
+        "React",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior Full-stack Engineer (React OR Vue/Python) - Investment at Truelogic, focused on AWS, Docker, GitHub Actions, Python. Location: LATAM.",
+      "rule_based_application_sentence": "Your Senior Full-stack Engineer (React OR Vue/Python) - Investment role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: AWS, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-152010",
+      "title": "Senior Back-end Engineer (PHP/Python) - Pet Tech Platform",
+      "company": "Truelogic",
+      "location": "LATAM",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152010-senior-back-end-engineer-php-python-pet-tech-platform",
+      "published_at": "2026-08-29",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client Leading digital platform in the Pet Care & Wellness industry , dedicated to serving millions of pet households across the US. Originally pioneering on-demand pet care services, the company has expanded into a comprehensive multi-product network connecting pet owners with a nationwide community of over 500,000 service providers. The organization operates a diverse portfolio of high-traffic pet properties, including a pet insurance comparison platform, leading digital content and review platforms reaching over 18 million social media followers, and a premium digital brand for pet essentials and wellness products. Job Summary We are seeking a Senior Back-end Engineer that will take ownership of the backend platform, from client-facing API schemas to AWS server and database infrastructure. You will enhance the core PHP/Laravel API , maintain internal Python services, and manage cloud infrastructure. The team builds with AI coding agents daily, hence demonstrated experience shipping software and designing workflows with AI tools is a requirement for this position. Responsibilities Take end-to-end ownership of the backend platform, managing client-facing API schemas, servers, and database infrastructure in AWS. Integrate AI-powered solutions directly into core products while building and refining the agent workflows, context, and tooling that enable effective team development with AI across a large codebase. Contribute to architectural and design decisions, articulating trade-offs and breaking down complex features into releasable components. Design and implement...",
+      "required_skills": [
+        "AWS",
+        "Docker",
+        "GitHub Actions",
         "Python",
         "Terraform"
       ],
       "matched_skills": [
-        "LLM",
-        "Prompt engineering",
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Azure",
         "Terraform"
       ],
-      "rule_based_summary": "Senior AI Solutions Engineer (Python & AWS Bedrock) at Oowlish Technology, focused on AWS, Azure, LLM, Prompt engineering. Location: LATAM,  Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Senior AI Solutions Engineer (Python & AWS Bedrock) role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Back-end Engineer (PHP/Python) - Pet Tech Platform at Truelogic, focused on AWS, Docker, GitHub Actions, Python. Location: LATAM.",
+      "rule_based_application_sentence": "Your Senior Back-end Engineer (PHP/Python) - Pet Tech Platform role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 6 extracted skills match the profile.",
+        "3 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Terraform."
+        "Main missing or weaker skills: AWS, Terraform."
       ]
     }
   ]
