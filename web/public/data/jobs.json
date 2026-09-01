@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:42:05Z",
+  "generated_at": "2026-09-01T11:35:05Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -79,7 +79,7 @@
       "company": "Lemon.io",
       "location": "Europe",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "published_at": "2026-08-26",
       "match_score": 86,
       "priority": "high",
@@ -391,41 +391,43 @@
       ]
     },
     {
-      "id": "jobicy-152010",
-      "title": "Senior Back-end Engineer (PHP/Python) - Pet Tech Platform",
-      "company": "Truelogic",
-      "location": "LATAM",
+      "id": "jobicy-151507",
+      "title": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
+      "company": "Oowlish Technology",
+      "location": "LATAM,  Argentina,  Brazil,  Mexico",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152010-senior-back-end-engineer-php-python-pet-tech-platform",
-      "published_at": "2026-08-29",
-      "match_score": 46,
+      "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
+      "published_at": "2026-08-24",
+      "match_score": 43,
       "priority": "low",
-      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client Leading digital platform in the Pet Care & Wellness industry , dedicated to serving millions of pet households across the US. Originally pioneering on-demand pet care services, the company has expanded into a comprehensive multi-product network connecting pet owners with a nationwide community of over 500,000 service providers. The organization operates a diverse portfolio of high-traffic pet properties, including a pet insurance comparison platform, leading digital content and review platforms reaching over 18 million social media followers, and a premium digital brand for pet essentials and wellness products. Job Summary We are seeking a Senior Back-end Engineer that will take ownership of the backend platform, from client-facing API schemas to AWS server and database infrastructure. You will enhance the core PHP/Laravel API , maintain internal Python services, and manage cloud infrastructure. The team builds with AI coding agents daily, hence demonstrated experience shipping software and designing workflows with AI tools is a requirement for this position. Responsibilities Take end-to-end ownership of the backend platform, managing client-facing API schemas, servers, and database infrastructure in AWS. Integrate AI-powered solutions directly into core products while building and refining the agent workflows, context, and tooling that enable effective team development with AI across a large codebase. Contribute to architectural and design decisions, articulating trade-offs and breaking down complex features into releasable components. Design and implement...",
+      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced AI Solutions Engineer to help build an AI-powered IT Help Desk Automation platform using AWS Bedrock and modern serverless technologies. This role focuses on designing intelligent automation workflows that leverage AI agents to streamline IT operations, including ticket triage, request routing, and identity/access management automation across enterprise systems. The ideal candidate combines strong Python development skills with hands-on experience building AI-powered applications using AWS Bedrock and modern AWS serverless services. Key Responsibilities: Design and develop AI-powered automation solutions using AWS Bedrock. Build and orchestrate AI agents capable of handling IT help desk workflows. Develop integrations with enterprise platforms using REST APIs. Implement automation for ticket triage, routing, and access request workflows. Build serverless applications using AWS Lambda and Step Functions. Integrate AI workflows with KACE, Okta, Azure AD, and similar enterprise platforms. Design secure, scalable, and maintainable cloud-native solutions. Collaborate with engineering teams to continuously improve AI agent performance. Participate in architecture discussions and technical decision-making. Requirements: 5+ years of software engineering experience. Strong Python development experience. Hands-on experience with AWS cloud services. Experience building cloud-native applications. Experience integrating enterprise systems using REST APIs. Strong problem-solving skills. Experience working in Agile environments. Strong English communication s...",
       "required_skills": [
         "AWS",
-        "Docker",
-        "GitHub Actions",
+        "Azure",
+        "LLM",
+        "Prompt engineering",
         "Python",
         "Terraform"
       ],
       "matched_skills": [
-        "Docker",
-        "GitHub Actions",
+        "LLM",
+        "Prompt engineering",
         "Python"
       ],
       "missing_skills": [
         "AWS",
+        "Azure",
         "Terraform"
       ],
-      "rule_based_summary": "Senior Back-end Engineer (PHP/Python) - Pet Tech Platform at Truelogic, focused on AWS, Docker, GitHub Actions, Python. Location: LATAM.",
-      "rule_based_application_sentence": "Your Senior Back-end Engineer (PHP/Python) - Pet Tech Platform role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior AI Solutions Engineer (Python & AWS Bedrock) at Oowlish Technology, focused on AWS, Azure, LLM, Prompt engineering. Location: LATAM,  Argentina,  Brazil,  Mexico.",
+      "rule_based_application_sentence": "Your Senior AI Solutions Engineer (Python & AWS Bedrock) role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
+        "3 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Terraform."
+        "Main missing or weaker skills: AWS, Azure, Terraform."
       ]
     }
   ]
