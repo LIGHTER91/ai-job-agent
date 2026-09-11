@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:13:59Z",
+  "generated_at": "2026-09-11T11:15:51Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 6
+      "Jobicy": 5
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -129,46 +129,6 @@
       ]
     },
     {
-      "id": "jobicy-151979",
-      "title": "Software Engineer, Machine Learning Platform, New Grad - Quora",
-      "company": "Quora",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151979-software-engineer-machine-learning-platform-new-grad-quora",
-      "published_at": "2026-08-29",
-      "match_score": 56,
-      "priority": "medium",
-      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with over 300M monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a platform providing millions of global users with one place to chat, explore and build with a wide variety of AI language models (bots), including GPT-5.6-Sol, Claude-Opus-5, Claude-Fable-5, Claude-Sonnet-5, Kimi-K3, and thousands of others. As AI capabilities rapidly advance, Poe provides a single platform to instantly integrate and utilize these new models. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month. Our team owns Quora's ML platform and ranking infrastructure across four areas: serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency . We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. As a Software Engineer (New Grad) on this team, you'll work at the intersection of Machine Learning, Distributed Systems, and GPU Serving performance — and your work will have an enormous impact on Quora's long-term success. No previous ML infrastructure experience is required for this role. You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong techni...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "Python",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "Python",
-        "Vector search"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Software Engineer, Machine Learning Platform, New Grad - Quora at Quora, focused on AWS, Docker, Kubernetes, LLM. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Software Engineer, Machine Learning Platform, New Grad - Quora role interests me because it connects directly with my work around Docker, LLM, Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes."
-      ]
-    },
-    {
       "id": "jobicy-150585",
       "title": "Staff Software Engineer",
       "company": "Cloudbeds",
@@ -279,30 +239,6 @@
       ]
     },
     {
-      "id": "remotive-2091088",
-      "title": "Sales Jedi",
-      "company": "Creative Force ",
-      "location": "Europe",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "published_at": "2026-09-05",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great salary, based on experience and location. We don’t pay commissions, because good sales are a team effort—from engineering, to operations, marketing, and support, our high-performing team all contribute to a great product and service that our clients love. Everybody in the company is rewarded with a share of profit each December—we succeed together. Our much-loved products are in demand and are proven to make a difference to our clients’ lives. You’ll be selling world-leading software through a well-considered process that leaves room for personal flair. SaaS experience is extremely beneficial but strong communication skills, patience, curiosity, keenness to learn and friendliness are key to success in this role. Join our Rebel Alliance Creative Force is experiencing strong growth and as we scale our efforts in 2026 and beyond, we’re looking for enthusiastic individuals to join our diverse team of Jedis to help recruit new clients as they navigate the decision process, and transform them into long-term supporters. You’ll be a respected member of our remote global sales team and will be well supported with the tools, knowledge and answers you need to provide exceptional levels of service, and to make the most from solid sales traction with our two in-demand products. As you master the Force and the multitude of skills needed in this role, attracting clients to join our mission, you will be recognised and rewarded with strong career and salary progression. Responsibilities Help prospects find the specific value they seek (this is the product you are looking for) Collaborate with our diverse international team to push us on the leading edge of our fields Learn to be a product expert and confidently answer product questions from prospects Discover how to be an expert in SaaS for recognition programs Master our sales technology stack Support the complete sales cycle, from qualified lead to close Skillfully navigate consultative sales discussions and live demos Essentials Applications are open to all experience levels, with a minimum of 1 year proven success in SaaS sales or a similar role Must live in Europe Digital native, with enthusiasm for technology Discipline and self-motivation (key to success in...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Sales Jedi at Creative Force , focused on AI/data skills. Location: Europe.",
-      "rule_based_application_sentence": "Your Sales Jedi role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "remotive-2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -324,6 +260,29 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "published_at": "2026-09-04",
+      "match_score": 35,
+      "priority": "low",
+      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile."
       ]
     },
     {
