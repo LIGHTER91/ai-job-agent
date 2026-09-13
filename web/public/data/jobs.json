@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:41:26Z",
+  "generated_at": "2026-09-13T11:46:15Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 5
+      "Jobicy": 4
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -129,45 +129,27 @@
       ]
     },
     {
-      "id": "jobicy-150585",
-      "title": "Staff Software Engineer",
-      "company": "Cloudbeds",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
-      "published_at": "2026-08-12",
-      "match_score": 55,
+      "id": "remotive-2091126",
+      "title": "AI Response Evaluator",
+      "company": "iMerit Technology",
+      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "published_at": "2026-09-11",
+      "match_score": 54,
       "priority": "medium",
-      "raw_description": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've become the World's Best Hotel PMS Solutions Provider and landed on Deloitte's Technology Fast 500 again in 2024, but we're just getting started. Location: Remote (Europe) How You'll Make an Impact: As a Staff Software Engineer in Revenue Intelligence, you will shape the technical direction of systems that help hospitality businesses understand demand, identify revenue opportunities, and make better pricing and commercial decisions. You will work across customer-facing applications, backend services, data pipelines, analytical stores, recommendation workflows, and cloud infrastructure. This is a hands-on leadership role: you will solve complex engineering problems directly while establishing architecture, improving reliability and security, reducing systemic technical debt, and aligning multiple teams around durable technical decisions. Your impact will extend beyond individual features to the quality, scalability, operability, and long-term evolution of the Revenue Intelligence platform. Our Revenue Intelligence Team: The Revenue Intelligence team builds products and platforms that turn hospitality data into practical decisions for hoteliers, including pricing recommendations, demand insights, reporting, automation, and commercial opportunities. Our systems span frontend experiences, APIs, distributed services, data processing, machine-learning workflows, and production infrastructure. We value pragmatic engineering, strong ownership, evidence-based decisions, and technical leaders who raise the effectiveness of the people and systems around them. What You Bring to the Team: Set and evolve the technical strategy for Revenue Intelligence, translating product and business goals into coherent architecture and executable engineering plans Lead the design and delivery of complex capabilities across customer-facing web applications, backend APIs, event-driven...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "PostgreSQL",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Staff Software Engineer at Cloudbeds, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Europe.",
-      "rule_based_application_sentence": "Your Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "raw_description": "iMerit is looking for detail oriented analysts to evaluate and rank AI generated responses to image based prompts. You will judge answers on accuracy, relevance, clarity, conciseness, safety, localization, and how well they follow the user's instructions, then explain your reasoning in writing. Much of the job comes down to this: look at the image, look at what the model said about it, and decide whether the two actually match. What you will do Interpret conversational context and identify what the user really wanted Rate and rank responses against defined quality criteria Compare multiple answers and explain in writing why one wins Verify factual claims using approved research sources Flag tasks that cannot be reliably assessed rather than guessing What you bring: Strong critical thinking and sound judgment in ambiguous cases Solid research skills and attention to detail Excellent reading comprehension Self direction and the discipline to hit deadlines without supervision Good to know Independent contractor engagement for the length of the project. Fully remote and flexible. You choose your hours as long as volume and deadlines are met. Task volume varies with project demand.",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "AI Response Evaluator at iMerit Technology, focused on AI/data skills. Location: France, Japan, Turkey, Vietnam, Mexico, Norway.",
+      "rule_based_application_sentence": "Your AI Response Evaluator role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
+        "0 of 0 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -239,6 +221,30 @@
       ]
     },
     {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "published_at": "2026-09-11",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -260,58 +266,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "published_at": "2026-09-04",
-      "match_score": 35,
-      "priority": "low",
-      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
-      ]
-    },
-    {
-      "id": "remotive-2091045",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "published_at": "2026-09-07",
-      "match_score": 28,
-      "priority": "low",
-      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
-      "required_skills": [
-        "Azure"
-      ],
-      "matched_skills": [],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
       ]
     }
   ]
