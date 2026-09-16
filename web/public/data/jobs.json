@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:39:58Z",
+  "generated_at": "2026-09-16T11:26:48Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -13,8 +13,7 @@
       "Data Engineer"
     ],
     "source_counts": {
-      "Remotive": 3,
-      "Jobicy": 5
+      "Remotive": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,100 +73,45 @@
   },
   "jobs": [
     {
-      "id": "jobicy-150914",
-      "title": "Director, AI Center of Excellence",
-      "company": "Instructure",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150914-director-ai-center-of-excellence",
-      "published_at": "2026-08-17",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers. We do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in: About the role. We're standing up an AI Center of Excellence, and we're looking for a Director, AI Transformation to lead it. You'll own the system that makes Instructure an AI-native company: shared infrastructure, governance, a cross-functional roadmap, and a clear, honest read on impact. You'll partner with leaders in every function to turn AI from scattered pilots into a capability that gets sharper every quarter. This role reports to the SVP, Data. Our mission for this team is simple: make Instructure the most operationally capable AI-native company in education — turning every function and team into a system that gets smarter and faster every quarter. What you will be doing. Build the foundation. Stand up and run the shared AI infrastructure — integrations, data boundaries, the approved-model registry, and a standard AI stack with single sign-on and data-loss prevention that every function can build on. Set the guardrails. Charter and run the governance council, and put in place the security, privacy, approval, and quality monitoring that let teams move fast without creating risk. Own the roadmap. Set AI COE priorities in collaboration with other departments Prove the impact. Define the standard metrics for cost, throughput, and quality, and report progress through the AI efficiency scorecard. Build capability. Create centralized training libraries and enablement programs along with HR team, and build the place where teams share what works so the whole company benefits. Lead the operating model. Run a centralized-expertise, decentralized-execution model where the Center of Excellence owns the system, functions own the outcomes Build and grow the team. Hire, coach, and develop the Center of Excellence team, including forward-deployed AI engineers, admins etc What you need to know and have. 12 or more years of experience in technology, data, or product roles, including 5 or more years leading teams, with a track record of delivering measurable operational impact at scale — not just pilots. 2 or more years working directly with...",
-      "required_skills": [
-        "LLM"
-      ],
-      "matched_skills": [
-        "LLM"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Director, AI Center of Excellence at Instructure, focused on LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Director, AI Center of Excellence role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-149989",
-      "title": "Python Engineering Manager, Commercial Systems",
-      "company": "Canonical",
-      "location": "EMEA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems",
-      "published_at": "2026-09-02",
-      "match_score": 61,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in more than 80 countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Python Engineering Manager , who strives for accountability for the development of an internal product, who has high engineering quality standards, continuously develops their skills as well as skills of their direct reports, and who has the drive to deliver. This is an exciting opportunity to work with great people and exciting open-source solutions on innovative engineering solutions supporting Canonical's growth. The Commercial Systems unit is conceived as six engineering teams that closely collaborate with other engineering and business teams at Canonical. Services designed, developed, and operated by the Commercial Systems unit are at the heart of Canonical business and Python plays an integral role in it. We are looking for software engineering managers for these teams: The Data Governance team has a mission to enable a secure and well-governed access to comprehensive data sets originating at many internal and external data sources formed in a data mesh . The team works with well-known open-source data governance tools such as Trino and Ranger, defines and executes data governance processes, and democratizes the data at Canonical. The Integrations team is responsible for the automation of SaaS user management and onboarding of new data sources to the data mesh. The team designs, develops, and operates a Python based solution to automate SaaS seat management and track spend across the application portfolio. Furthermore the team integrates internal and external data sources into the data mesh using open-source ETL solutions, enabling more data driven decisions in the organization. Location : This role will be based remotely in the EMEA region. The role entails Accountability for the design and development of an internal product Leadi...",
-      "required_skills": [
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Python Engineering Manager, Commercial Systems at Canonical, focused on Python. Location: EMEA.",
-      "rule_based_application_sentence": "Your Python Engineering Manager, Commercial Systems role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible."
-      ]
-    },
-    {
-      "id": "jobicy-150585",
-      "title": "Staff Software Engineer",
-      "company": "Cloudbeds",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
       "published_at": "2026-09-14",
-      "match_score": 55,
+      "match_score": 54,
       "priority": "medium",
-      "raw_description": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've become the World's Best Hotel PMS Solutions Provider and landed on Deloitte's Technology Fast 500 again in 2024, but we're just getting started. Location: Remote (Europe) How You'll Make an Impact: As a Staff Software Engineer in Revenue Intelligence, you will shape the technical direction of systems that help hospitality businesses understand demand, identify revenue opportunities, and make better pricing and commercial decisions. You will work across customer-facing applications, backend services, data pipelines, analytical stores, recommendation workflows, and cloud infrastructure. This is a hands-on leadership role: you will solve complex engineering problems directly while establishing architecture, improving reliability and security, reducing systemic technical debt, and aligning multiple teams around durable technical decisions. Your impact will extend beyond individual features to the quality, scalability, operability, and long-term evolution of the Revenue Intelligence platform. Our Revenue Intelligence Team: The Revenue Intelligence team builds products and platforms that turn hospitality data into practical decisions for hoteliers, including pricing recommendations, demand insights, reporting, automation, and commercial opportunities. Our systems span frontend experiences, APIs, distributed services, data processing, machine-learning workflows, and production infrastructure. We value pragmatic engineering, strong ownership, evidence-based decisions, and technical leaders who raise the effectiveness of the people and systems around them. What You Bring to the Team: Set and evolve the technical strategy for Revenue Intelligence, translating product and business goals into coherent architecture and executable engineering plans Lead the design and delivery of complex capabilities across customer-facing web applications, backend APIs, event-driven...",
+      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
       "required_skills": [
-        "AWS",
         "Docker",
-        "GitHub Actions",
         "Kubernetes",
+        "LLM",
+        "LangChain",
+        "NLP",
         "PostgreSQL",
-        "Python",
-        "Terraform"
+        "React"
       ],
       "matched_skills": [
         "Docker",
-        "GitHub Actions",
+        "LLM",
+        "LangChain",
+        "NLP",
         "PostgreSQL",
-        "Python"
+        "React"
       ],
       "missing_skills": [
-        "AWS",
-        "Kubernetes",
-        "Terraform"
+        "Kubernetes"
       ],
-      "rule_based_summary": "Staff Software Engineer at Cloudbeds, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Europe.",
-      "rule_based_application_sentence": "Your Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
+      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "6 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
+        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
@@ -195,74 +139,6 @@
       ]
     },
     {
-      "id": "jobicy-150364",
-      "title": "Software Engineer - Python - Container Images",
-      "company": "Canonical",
-      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "published_at": "2026-09-10",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a new generation of Ubuntu-based container images to simplify open-source application deployment across the world. These container images will be free to use with long-term security commitments, and engineered for performance, security and usability. As with Ubuntu, we will work in the open and welcome community participation. In this role, you’ll be building and maintaining an ever-growing portfolio of container images while working with multiple teams, both inside and outside Canonical, to ensure these are of the highest quality and offer a seamless Ubuntu user experience. You will also be highly involved in the implementation and maintenance of the Continuous Integration and Continuous Delivery automation around these container images, for which you are expected to demonstrate deep insights into container-based DevOps. You will be contributing to fast-moving products like Rocks ( OCI images ) and thus have the chance to help steer and consolidate this growing team. You’ll gain experience with numerous container technologies and open source projects, where your feedback and contributions will be critical to driving widespread container adoption. As an engineer, your seniority will be based on your software development background and ability to lead junior team members. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical. This is an exciting opportunity for experienced software engineers looking for a place to leave their mark, who are passionate about shaping an open source product with the highest quality, with and for the community! **Location**: EMEA This role entails Build robust, scalable, leading-edge container images Work on automated CI/CD processes for building, tes...",
-      "required_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Software Engineer - Python - Container Images at Canonical, focused on Docker, GitHub Actions, Kubernetes, Python. Location: APAC,  EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Software Engineer - Python - Container Images role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-150121",
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "location": "APAC,  EMEA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "published_at": "2026-09-04",
-      "match_score": 51,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Engineering Manager - Python and K8s that is passionate about building a world-class devops culture in corporate information systems. We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes. As an engineering manager you’ll lead a team in your local time zone, focused on the business workloads that make Ubuntu, Canonical, and our various services highly available around the planet.You will be responsible for sound software architecture and best practices in software quality, testing and documentation.Technical leadership experience and a background in software engineering are prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution. What you’ll do You’ll lead a team focused on productising business workloads You will build and manage a regional team of engineers You'll develop your team through coaching, mentoring, and feedback You will demonstrate sound engineering by directly contributing toward your team’s goals Set reasonable schedules based on considered estimates, with feedback loops for improvement Set and manage expectations with other engineering teams and external stakeholders Advance modern, agile so...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Engineering Manager - Python and K8s at Canonical, focused on Docker, Kubernetes, Python. Location: APAC,  EMEA.",
-      "rule_based_application_sentence": "Your Engineering Manager - Python and K8s role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
       "id": "remotive-1680495",
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies ",
@@ -278,30 +154,6 @@
       "missing_skills": [],
       "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
       "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-2086540",
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "published_at": "2026-09-08",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $500 USD total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 0: Unpaid Week 1: $100 guaranteed minimum Week 2: $150 guaranteed minimum Week 3: $250 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism es...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
