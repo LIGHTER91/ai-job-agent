@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:36:13Z",
+  "generated_at": "2026-09-18T11:09:15Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -102,6 +102,46 @@
       ]
     },
     {
+      "id": "remotive-2091129",
+      "title": "Senior Data Scientist",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "published_at": "2026-09-16",
+      "match_score": 87,
+      "priority": "high",
+      "raw_description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Proj...",
+      "required_skills": [
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "RAG",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "RAG",
+        "React"
+      ],
+      "missing_skills": [
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior Data Scientist at Lemon.io, focused on LLM, MLOps, Next.js, Python. Location: Northern America, LATAM, Europe, APAC.",
+      "rule_based_application_sentence": "Your Senior Data Scientist role interests me because it connects directly with my work around LLM, Next.js, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "5 of 6 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps."
+      ]
+    },
+    {
       "id": "jobicy-150914",
       "title": "Director, AI Center of Excellence",
       "company": "Instructure",
@@ -124,6 +164,42 @@
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
         "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-153536",
+      "title": "Senior Full-stack Engineer (Python/React) - Advertising",
+      "company": "Truelogic",
+      "location": "Brazil",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
+      "published_at": "2026-09-17",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A global digital transformation organization that helps leading enterprises reimagine how they create, manage, and deliver customer experiences by combining technology, creativity, AI, and engineering. Job Summary We are seeking a seasoned Full-Stack Engineer (Python/React) to build and ship applications powering our AI-native digital platforms. In this role, you will work across the entire stack from backend services and data pipelines to polished, production-ready frontend interfaces. You will partner closely with cross-functional teams to prototype rapidly, maintain high technical standards, and help advance how we leverage AI across our development lifecycle. Responsibilities Build, ship, and maintain full-stack applications; translate design concepts and wireframes into polished, production-ready deliverables. Partner with Product, Design, and Engineering to identify requirements, design technical solutions, and deliver high-quality software. Create reusable components and patterns, write clean and testable code, and contribute to technical standards and roadmaps across the stack. Prototype new features quickly, troubleshoot complex systems, and resolve technical issues efficiently. Improve the observability, resilience, and security of our systems. Actively contribute to engineering practices, technical discussions, and help the team innovate using AI-enabled workflows. Qualifications and Job Requirements 6+ years of professional software development experience. Strong focus on Python ; proficiency in writing clean, efficient, and extensible backend s...",
+      "required_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python",
+        "React",
+        "pytest"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python",
+        "React",
+        "pytest"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Full-stack Engineer (Python/React) - Advertising at Truelogic, focused on Docker, GitHub Actions, Python, React. Location: Brazil.",
+      "rule_based_application_sentence": "Your Senior Full-stack Engineer (Python/React) - Advertising role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "5 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
@@ -202,48 +278,6 @@
       ]
     },
     {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "published_at": "2026-09-14",
-      "match_score": 54,
-      "priority": "medium",
-      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
-      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
       "id": "jobicy-150364",
       "title": "Software Engineer - Python - Container Images",
       "company": "Canonical",
@@ -273,39 +307,6 @@
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-150121",
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "location": "APAC,  EMEA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "published_at": "2026-09-04",
-      "match_score": 51,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Engineering Manager - Python and K8s that is passionate about building a world-class devops culture in corporate information systems. We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes. As an engineering manager you’ll lead a team in your local time zone, focused on the business workloads that make Ubuntu, Canonical, and our various services highly available around the planet.You will be responsible for sound software architecture and best practices in software quality, testing and documentation.Technical leadership experience and a background in software engineering are prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution. What you’ll do You’ll lead a team focused on productising business workloads You will build and manage a regional team of engineers You'll develop your team through coaching, mentoring, and feedback You will demonstrate sound engineering by directly contributing toward your team’s goals Set reasonable schedules based on considered estimates, with feedback loops for improvement Set and manage expectations with other engineering teams and external stakeholders Advance modern, agile so...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Engineering Manager - Python and K8s at Canonical, focused on Docker, Kubernetes, Python. Location: APAC,  EMEA.",
-      "rule_based_application_sentence": "Your Engineering Manager - Python and K8s role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "Main missing or weaker skills: Kubernetes."
