@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:53:45Z",
+  "generated_at": "2026-09-20T11:17:35Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,74 +74,6 @@
   },
   "jobs": [
     {
-      "id": "remotive-1919266",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "published_at": "2026-09-16",
-      "match_score": 92,
-      "priority": "high",
-      "raw_description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The Details Typical rates: $120-$170/hr Remote You keep 100% of your rate Not a Fit Early-career engineers People without production AI experience Small gig seekers Developers focused primarily on simple AI wrappers or templated implementations Apply Tell us what you've built. 👉 build.a.team/apply-ai . We'll take it from there.",
-      "required_skills": [
-        "LLM"
-      ],
-      "matched_skills": [
-        "LLM"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Independent AI Engineer / Architect at A.Team, focused on LLM. Location: Americas, Europe, Israel.",
-      "rule_based_application_sentence": "Your Senior Independent AI Engineer / Architect role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-2091129",
-      "title": "Senior Data Scientist",
-      "company": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "published_at": "2026-09-16",
-      "match_score": 87,
-      "priority": "high",
-      "raw_description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Proj...",
-      "required_skills": [
-        "LLM",
-        "MLOps",
-        "Next.js",
-        "Python",
-        "RAG",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Next.js",
-        "Python",
-        "RAG",
-        "React"
-      ],
-      "missing_skills": [
-        "MLOps"
-      ],
-      "rule_based_summary": "Senior Data Scientist at Lemon.io, focused on LLM, MLOps, Next.js, Python. Location: Northern America, LATAM, Europe, APAC.",
-      "rule_based_application_sentence": "Your Senior Data Scientist role interests me because it connects directly with my work around LLM, Next.js, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "5 of 6 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: MLOps."
-      ]
-    },
-    {
       "id": "jobicy-150914",
       "title": "Director, AI Center of Excellence",
       "company": "Instructure",
@@ -164,6 +96,70 @@
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
         "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091141",
+      "title": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "published_at": "2026-09-18",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 32,000 organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month. Only candidates who already have experience working on large web applications will be considered. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making. If you're passionate about leveraging technology to make a positive impact, we want to hear from you! Responsibilities Searching and reading an extensive, long-lived code base to understand existing behavior and conventions. Recognizing when existing conventions may no longer be the best approach and suggesting improvements aligned with contemporary best practices. Writing robust, concise, and reusable code with accompanying tests and documentation. Reviewing other developers' code and providing constructive feedback. Incorporating feedback from code reviews to improve your skills and align with team standards. Using AI-assisted development tools effectively while maintaining responsibility for code quality and correctness. Efficiently investigating bug reports from the support team, creating well-scoped fixes or actionable plans for resolution. Scoping, prioritizing, estimating, and organizing work into manageably sized tasks. Attending regular video-conference check-ins with other members of the technical team. Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc. Contributing to discussions about design and architecture collaboratively with the larger team. Performing other related duties as directed by the lead developer. Requirements Required Qualifications Professional experience writing, deploying, and maintaining client-side code for real-world, API-driven single-page applications. Proficiency with TypeScript, React, and related technologies, including styling, state management, and efficient data exchange over HTTP. Unflinching ability to work with legacy technologies such...",
+      "required_skills": [
+        "Docker",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "Docker",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Frontend Web Application Developer at KoboToolbox, focused on Docker, LLM, Python, React. Location: USA, Canada, Argentina, Mexico, Peru.",
+      "rule_based_application_sentence": "Your Frontend Web Application Developer role interests me because it connects directly with my work around Docker, LLM, Python, React, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2091140",
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "published_at": "2026-09-18",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian. We’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space. We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. Sanctuary Computer — Development At Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson. Our projects range from design-forward websites, to robust web apps, to native mobile development. XXIX — Design When we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be. We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility. Plus, our partner organizations Lightphone Mill IngredientAI 🔮 Who we’re looking for: We're looking for a Senior Shopify Developer who balances deep e-commerce expertise with modern frontend engineering. You'll build pixel-perfect, hyper-performant storefronts ranging from custom Liquid themes to headless Hydrogen/Next.js implementations working alongside our design team to create world-class shopping experiences. In this role, you’ll work across a variety of client projects to find cost-effective, high-quality, and pragmatic solutions to complex e-commerce challenges. Responsibilities will include: Collaborating closely with Technical Leads and Designers to meet clients' custom e-commerce and technical needs. Building and maintaining high-performance storefronts using both custom Liquid (Online Store 2.0) and modern headless architectures (Shopify Stor...",
+      "required_skills": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "matched_skills": [
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Shopify Developer at Sanctuary Computer Inc, focused on Next.js, PostgreSQL. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Senior Shopify Developer role interests me because it connects directly with my work around Next.js, PostgreSQL, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
@@ -278,61 +274,67 @@
       ]
     },
     {
-      "id": "jobicy-150364",
-      "title": "Software Engineer - Python - Container Images",
-      "company": "Canonical",
-      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
-      "published_at": "2026-09-10",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. Canonical is building a new generation of Ubuntu-based container images to simplify open-source application deployment across the world. These container images will be free to use with long-term security commitments, and engineered for performance, security and usability. As with Ubuntu, we will work in the open and welcome community participation. In this role, you’ll be building and maintaining an ever-growing portfolio of container images while working with multiple teams, both inside and outside Canonical, to ensure these are of the highest quality and offer a seamless Ubuntu user experience. You will also be highly involved in the implementation and maintenance of the Continuous Integration and Continuous Delivery automation around these container images, for which you are expected to demonstrate deep insights into container-based DevOps. You will be contributing to fast-moving products like Rocks ( OCI images ) and thus have the chance to help steer and consolidate this growing team. You’ll gain experience with numerous container technologies and open source projects, where your feedback and contributions will be critical to driving widespread container adoption. As an engineer, your seniority will be based on your software development background and ability to lead junior team members. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical. This is an exciting opportunity for experienced software engineers looking for a place to leave their mark, who are passionate about shaping an open source product with the highest quality, with and for the community! **Location**: EMEA This role entails Build robust, scalable, leading-edge container images Work on automated CI/CD processes for building, tes...",
-      "required_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Software Engineer - Python - Container Images at Canonical, focused on Docker, GitHub Actions, Kubernetes, Python. Location: APAC,  EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Software Engineer - Python - Container Images role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "remotive-1919265",
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
+      "id": "remotive-2091139",
+      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
+      "company": "hey contact heroes GmbH",
+      "location": "Europe",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "published_at": "2026-09-16",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "You must be located in the Americas, Europe, or Israel to apply. A·Team is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $85+ million since. As part of A·Team, you can expect: High-paying, meaningful missions with the most audacious companies sent your way; generally $90-$150+/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, Pepsi, Walmart, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/Insight/Tiger/etc. Work alongside friends old & new: our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can. Full autonomy: say \"no\" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. Small, curated, off-the-record gatherings: for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about. Keep 100% of what you earn: if you charge $120/hr, you get $120/hr. A·Team makes money by charging a small, flat, transparent platform fee on top of your rate. How to apply: Go here: https://build.a.team/remotivereferral + mention Remotive. We respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit. What you’ll do: Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests. Find t...",
+      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+      "published_at": "2026-09-18",
+      "match_score": 54,
+      "priority": "medium",
+      "raw_description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen spezialisiert hat. Mit über 500 Agent/innen sind wir in mittlerweile 17 Ländern rund um die Uhr und rund um den Globus im Einsatz. 100 % Remote - innerhalb der EU (ausgenommen: Deutschland) Die hey contact heroes starten für eine große und bekannte Mobilfunk-Marke ein neues, größeres Projekt im Bereich Prepaid-Kundenservice. Es handelt sich um einen Inbound-Service. Dafür suchen wir zuverlässige, motivierte Freelancer innerhalb der EU, mit Wohnsitz außerhalb Deutschlands, die uns langfristig im Inbound-Customer-Service unterstützen. Wenn du außerhalb von Deutschland lebst und arbeitest und als selbständiger Freelancer remote arbeiten möchtest, bist du bei uns genau richtig. Deine Mission: Bearbeitung von Inbound-Anrufen rund um Prepaid-Produkte, Tarife, SIM-Karten, Aufladungen und technische Basisanfragen Professionelles Projektumfeld mit festen Ansprechpartnern Flexible Einsatzzeiten im Rahmen des Projekts, Du bestimmst wann Du arbeitest Vergütung pro Stunde oder pro Produktivminute (abhängig vom Projektmodell) 100 % Remote - Arbeite von deinem Standort innerhalb der EU (außer Deutschland) Dein Profil: 1. Rechtliche & formale Voraussetzungen: Selbstständigkeit/Freelancer-Status im jeweiligen Wohnsitzland Wohnsitz außerhalb von Deutschland, aber innerhalb der EU Fähigkeit, ordnungsgemäße Rechnungen gemäß den gesetzlichen Vorgaben des eigenen Landes an internationale Auftraggeber (uns) auszustellen Erfüllung der steuerlichen Pflichten im eigenen Land 2. Fachliche & persönliche Anforderungen: Deutschkenntnisse auf C1/C2-Niveau Erfahrung im telefonischen Kundenservice von Vorteil Selbstständige Arbeitsweise & Organisation Langfristiges Interesse an der Projektmitarbeit 3. Technische Voraussetzungen: Stabile Internetverbindung (mindestens 50 Mbit/s) Headset, zwei Monitore, Webcam und einen leistungsfähigen PC Ruhiger, ungestörter Arbeitsplatz im Home-Office (kein Einblick/Zugang für Dritte) Sicherer Umgang mit webbasierten Tools Unser Angebot: Langfristiges Großprojekt mit stabiler Auslastung Attraktive und faire Konditionen, je nach Projektmodell Persönlicher Support durch ein erfahrenes Team Hohe Flexibilität, Du planst deine Einsätze eigenständig Klingt gut? Dann freuen wir uns auf deine Bewerbung!",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Senior Independent Software Developer at A.Team, focused on AI/data skills. Location: Americas, Europe, Israel.",
-      "rule_based_application_sentence": "Your Senior Independent Software Developer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) at hey contact heroes GmbH, focused on AI/data skills. Location: Europe.",
+      "rule_based_application_sentence": "Your 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile."
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-151013",
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
+      "published_at": "2026-09-19",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Software Engineer for Distributed Systems Testing with a passion for building and validating resilient distributed systems. You drive the success of those leveraging Canonical’s Ubuntu and Juju to build multi-cloud deployable applications. We see quality engineering as a first class engineering practice and are looking for people who can bring deep engineering insights and a data driven approach to testing, test automation, reporting and data analytics. The Distributed Systems testing team at Canonical is responsible for the high quality of Canonical’s Cloud solutions based on for example Juju, Terraform, OpenStack, or Kubernetes. Systems are tested and deployed under highly diverse conditions, from bare metal in customer data centers to public clouds such as AWS, GCE, Azure. As a software engineer you will have the opportunity to develop CI pipelines which power Canonical’s cloud integration testing and reporting. You will help test our products on new clouds and advance our AI/ML pipelines for automatic analysis of test results. A successful candidate is interested in tackling these problems, as well as imagining and leading new initiatives within the team and across Canonical. The role entails Creating automated testing approaches and infrastructure for validating reliability, performance, and resilience of cloud orchestration tools and applications Enabling engineering teams across Canonical to develop software with confidence by making distributed system testing tooling available across the company Enhancing continuous integration pipelines for deploying and testing Canonical’s cloud native products such as Kubeflow Deploying, managing, and debugging highly distributed systems on clouds and bare metal Monitoring and reporting on automat...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Distributed Systems Testing Software Engineer, Python / Go at Canonical, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Distributed Systems Testing Software Engineer, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     }
   ]
