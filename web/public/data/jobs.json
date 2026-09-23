@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:32:54Z",
+  "generated_at": "2026-09-23T11:29:26Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -166,72 +166,6 @@
       ]
     },
     {
-      "id": "jobicy-153536",
-      "title": "Senior Full-stack Engineer (Python/React) - Advertising",
-      "company": "Truelogic",
-      "location": "Brazil",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
-      "published_at": "2026-09-17",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference. By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foster exceptional career growth and success while contributing to transformative projects that shape the future. Our Client A global digital transformation organization that helps leading enterprises reimagine how they create, manage, and deliver customer experiences by combining technology, creativity, AI, and engineering. Job Summary We are seeking a seasoned Full-Stack Engineer (Python/React) to build and ship applications powering our AI-native digital platforms. In this role, you will work across the entire stack from backend services and data pipelines to polished, production-ready frontend interfaces. You will partner closely with cross-functional teams to prototype rapidly, maintain high technical standards, and help advance how we leverage AI across our development lifecycle. Responsibilities Build, ship, and maintain full-stack applications; translate design concepts and wireframes into polished, production-ready deliverables. Partner with Product, Design, and Engineering to identify requirements, design technical solutions, and deliver high-quality software. Create reusable components and patterns, write clean and testable code, and contribute to technical standards and roadmaps across the stack. Prototype new features quickly, troubleshoot complex systems, and resolve technical issues efficiently. Improve the observability, resilience, and security of our systems. Actively contribute to engineering practices, technical discussions, and help the team innovate using AI-enabled workflows. Qualifications and Job Requirements 6+ years of professional software development experience. Strong focus on Python ; proficiency in writing clean, efficient, and extensible backend s...",
-      "required_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React",
-        "pytest"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React",
-        "pytest"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Full-stack Engineer (Python/React) - Advertising at Truelogic, focused on Docker, GitHub Actions, Python, React. Location: Brazil.",
-      "rule_based_application_sentence": "Your Senior Full-stack Engineer (Python/React) - Advertising role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "5 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-153341",
-      "title": "Forward Deployed Engineer, Python",
-      "company": "Socket",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153341-forward-deployed-engineer-python",
-      "published_at": "2026-09-15",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $ 125M in funding from top angels, operators, and security leaders. About the Role We're looking for a high-performing Python focused Forward Deployed Engineer to serve as the technical bridge between Socket's enterprise customers and our engineering teams. In this role, you'll combine your software development expertise with exceptional customer skills to drive successful implementations, write custom code, and build the foundation for our professional services offering. You'll play a critical role in ensuring our largest customers achieve maximum value from Socket's security platform while helping shape the future of our technical services. This role is remote with 20-30% travel required for customer onsite engagements. What You'll Do Serve as the primary technical advisor and trusted expert for 5-8 enterprise accounts. Write custom code, scripts, and integrations to solve complex customer implementation challenges. Lead technical onboarding sessions, training workshops, and hands-on implementation guidance. Develop custom SAST rules, CVE rules, and security policies tailored to customer environments. Coordinate seamless technical rollouts and integrations across complex enterprise environments. Build and maintain strong relationships with customer engineering teams and security stakeholders. Create standardized technical documentation, best practices guides, and reusable implementation playbooks. Facilitate communication between customers and internal product teams, translating feedback into actionable insights. Conduct on-site technical engagements including security assessments, alert optimization, and advanced configuration. Review and optimize customer alert configurations, reducing noise and improving security coverage. Anticipate technical challenges and proactively develop solutions that drive product adoption and customer success. Support the development of billable professional services offerings and advanced technical consulting. What You'll Bring 5+ years of software development experience with strong coding s...",
-      "required_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Forward Deployed Engineer, Python at Socket, focused on GitHub Actions, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Forward Deployed Engineer, Python role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "jobicy-150585",
       "title": "Staff Software Engineer",
       "company": "Cloudbeds",
@@ -274,27 +208,38 @@
       ]
     },
     {
-      "id": "remotive-2091139",
-      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "company": "hey contact heroes GmbH",
-      "location": "Europe",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "published_at": "2026-09-18",
-      "match_score": 54,
-      "priority": "medium",
-      "raw_description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen spezialisiert hat. Mit über 500 Agent/innen sind wir in mittlerweile 17 Ländern rund um die Uhr und rund um den Globus im Einsatz. 100 % Remote - innerhalb der EU (ausgenommen: Deutschland) Die hey contact heroes starten für eine große und bekannte Mobilfunk-Marke ein neues, größeres Projekt im Bereich Prepaid-Kundenservice. Es handelt sich um einen Inbound-Service. Dafür suchen wir zuverlässige, motivierte Freelancer innerhalb der EU, mit Wohnsitz außerhalb Deutschlands, die uns langfristig im Inbound-Customer-Service unterstützen. Wenn du außerhalb von Deutschland lebst und arbeitest und als selbständiger Freelancer remote arbeiten möchtest, bist du bei uns genau richtig. Deine Mission: Bearbeitung von Inbound-Anrufen rund um Prepaid-Produkte, Tarife, SIM-Karten, Aufladungen und technische Basisanfragen Professionelles Projektumfeld mit festen Ansprechpartnern Flexible Einsatzzeiten im Rahmen des Projekts, Du bestimmst wann Du arbeitest Vergütung pro Stunde oder pro Produktivminute (abhängig vom Projektmodell) 100 % Remote - Arbeite von deinem Standort innerhalb der EU (außer Deutschland) Dein Profil: 1. Rechtliche & formale Voraussetzungen: Selbstständigkeit/Freelancer-Status im jeweiligen Wohnsitzland Wohnsitz außerhalb von Deutschland, aber innerhalb der EU Fähigkeit, ordnungsgemäße Rechnungen gemäß den gesetzlichen Vorgaben des eigenen Landes an internationale Auftraggeber (uns) auszustellen Erfüllung der steuerlichen Pflichten im eigenen Land 2. Fachliche & persönliche Anforderungen: Deutschkenntnisse auf C1/C2-Niveau Erfahrung im telefonischen Kundenservice von Vorteil Selbstständige Arbeitsweise & Organisation Langfristiges Interesse an der Projektmitarbeit 3. Technische Voraussetzungen: Stabile Internetverbindung (mindestens 50 Mbit/s) Headset, zwei Monitore, Webcam und einen leistungsfähigen PC Ruhiger, ungestörter Arbeitsplatz im Home-Office (kein Einblick/Zugang für Dritte) Sicherer Umgang mit webbasierten Tools Unser Angebot: Langfristiges Großprojekt mit stabiler Auslastung Attraktive und faire Konditionen, je nach Projektmodell Persönlicher Support durch ein erfahrenes Team Hohe Flexibilität, Du planst deine Einsätze eigenständig Klingt gut? Dann freuen wir uns auf deine Bewerbung!",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) at hey contact heroes GmbH, focused on AI/data skills. Location: Europe.",
-      "rule_based_application_sentence": "Your 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "id": "jobicy-149543",
+      "title": "Python Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149543-python-engineer",
+      "published_at": "2026-09-23",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "SQL"
+      ],
+      "rule_based_summary": "Python Engineer at Canonical, focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "2 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes, SQL."
       ]
     },
     {
@@ -335,6 +280,71 @@
         "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-149563",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "published_at": "2026-09-23",
+      "match_score": 45,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MLOps",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
+      ]
+    },
+    {
+      "id": "remotive-2091144",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "published_at": "2026-09-21",
+      "match_score": 35,
+      "priority": "low",
+      "raw_description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. Join our global community and put your skills to work supporting one of the world's leading search technologies. Service Rates The rate of pay is $0.2333 per completed task, with an estimated earning potential of $14 per hour. Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines. Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. Independent Contractor Relationship This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. Qualification path Qualification Process No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements and successfully completing the qualification process. Basic Requirements • Excellent written and verbal communication skills in English • Must have resided in the United States for the past three consecutive years • Familiarity with current and historical business, media, sports, news, social media, and cultural affairs in the United States • Active use of Gmail and social media platforms • Experience using web browsers to navigate and interact with a variety of online content • Daily access to a reliable broadband internet connection • Access...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Content Reviewer - United States at TELUS Digital, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Content Reviewer - United States role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile."
       ]
     }
   ]
