@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:58:02Z",
+  "generated_at": "2026-09-28T13:47:12Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -201,6 +201,36 @@
       ]
     },
     {
+      "id": "jobicy-154113",
+      "title": "Python Developer - MyDr (100% Remote within Poland)",
+      "company": "Docplanner",
+      "location": "Poland",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154113-python-developer-mydr-100-remote-within-poland",
+      "published_at": "2026-09-27",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "MyDr is a team of new technology enthusiasts who have built from scratch and continue to develop advanced programs for Electronic Medical Documentation and comprehensive clinic management. The company has brought the Polish healthcare system into the 21st century and made it user-friendly for both doctors and patients. The flagship product - MyDr EDM - is used in over 10,000 clinics operating commercially as well as those contracted with the National Health Fund (NFZ). The program offers a complete package of functionalities essential for daily work in any medical facility: from advanced scheduling, through tools needed during appointments (modules for e-prescriptions, e-referrals, and e-sick leaves), to telemedicine solutions, and full integration with the government P1 Platform. MyDr was founded in 2017 and has since successfully grown and maintained its status as a leader in fully cloud-based EDM solutions in Poland's medical software market. Job Description Why should you join us? Because it's nice to tell family and friends that you're making the world a little bit better. You go to sleep knowing that what you do matters and that your talents align with your beliefs. What challenges await you? Creating software used by thousands of users; Building new functionalities based on the needs of the medical market in Poland and worldwide; Working in a dynamic team with practically unlimited architectural and business decision-making authority. Check if we're looking for you: You have experience working on web applications (3+ years of experience) ; You work with Python, Django, PostgreSQL ; You use modern AI tools (LLMs, agents) in daily engineering work to accelerate development, debugging, and documentation creation, while applying a solid engineering approach to result verification and maintaining quality and security; You feel comfortable working in a small team, managing processes, taking initiative, and making decisions You can communicate in English both spoken and written (B2+) . Let’s talk money A salary adequate to your experience and skills. True flexibility and work-life balance Remote or hybrid work model with or hub in Warsaw; Flexible working hours (fully flexible, as in most cases you only have to be on a couple of meetings weekly); 20/26 days of paid time off (depending on your contract); Additional paid day off on your birthday or work anniversary (you choose what you want to celebrate). Health comes first Private healthcare plan with Si...",
+      "required_skills": [
+        "PostgreSQL",
+        "Python"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Python Developer - MyDr (100% Remote within Poland) at Docplanner, focused on PostgreSQL, Python. Location: Poland.",
+      "rule_based_application_sentence": "Your Python Developer - MyDr (100% Remote within Poland) role interests me because it connects directly with my work around PostgreSQL, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "jobicy-150585",
       "title": "Staff Software Engineer",
       "company": "Cloudbeds",
@@ -240,48 +270,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-149563",
-      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "published_at": "2026-09-23",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "MLOps",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Kubernetes",
-        "MLOps"
-      ],
-      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
       ]
     },
     {
