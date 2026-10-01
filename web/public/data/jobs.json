@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:28:59Z",
+  "generated_at": "2026-10-01T13:06:36Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 6
+      "Jobicy": 4
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,66 +74,33 @@
   },
   "jobs": [
     {
-      "id": "jobicy-150914",
-      "title": "Director, AI Center of Excellence",
-      "company": "Instructure",
-      "location": "USA",
+      "id": "jobicy-154340",
+      "title": "Developer Advocate - Service Management EMEA",
+      "company": "Datadog",
+      "location": "France,  Netherlands,  Spain",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150914-director-ai-center-of-excellence",
-      "published_at": "2026-09-17",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers. We do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in: About the role. We're standing up an AI Center of Excellence, and we're looking for a Director, AI Transformation to lead it. You'll own the system that makes Instructure an AI-native company: shared infrastructure, governance, a cross-functional roadmap, and a clear, honest read on impact. You'll partner with leaders in every function to turn AI from scattered pilots into a capability that gets sharper every quarter. This role reports to the SVP, Data. Our mission for this team is simple: make Instructure the most operationally capable AI-native company in education — turning every function and team into a system that gets smarter and faster every quarter. What you will be doing. Build the foundation. Stand up and run the shared AI infrastructure — integrations, data boundaries, the approved-model registry, and a standard AI stack with single sign-on and data-loss prevention that every function can build on. Set the guardrails. Charter and run the governance council, and put in place the security, privacy, approval, and quality monitoring that let teams move fast without creating risk. Own the roadmap. Set AI COE priorities in collaboration with other departments Prove the impact. Define the standard metrics for cost, throughput, and quality, and report progress through the AI efficiency scorecard. Build capability. Create centralized training libraries and enablement programs along with HR team, and build the place where teams share what works so the whole company benefits. Lead the operating model. Run a centralized-expertise, decentralized-execution model where the Center of Excellence owns the system, functions own the outcomes Build and grow the team. Hire, coach, and develop the Center of Excellence team, including forward-deployed AI engineers, admins etc What you need to know and have. 12 or more years of experience in technology, data, or product roles, including 5 or more years leading teams, with a track record of delivering measurable operational impact at scale — not just pilots. 2 or more years working directly with...",
+      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
+      "published_at": "2026-10-01",
+      "match_score": 68,
+      "priority": "medium",
+      "raw_description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observability, incident response and service management. At Datadog , we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You'll Do: Act as a subject matter expert for service management (incident response, on-call, IDP, Work Management, Workflow Automation, Agent Builder, and operational automation) for Datadog's advocacy and engineering teams Create content in one or more mediums to build Datadog's reputation as a leader in DevOps, Monitoring, Observability and Security e.g. building demos, public speaking, blogging, documentation, webinars, open source, research reports and more Partner with product engineering teams to build compelling demos, and coach internal engineering teams on effective communication and presentation Interface with open source communities to drive key messaging in the market and develop new integrations for Datadog Contribute to the product through feedback (bugs or product enhancements suggestions), documentation, or code Who You Are: Approximately 5+ years of experience as a Platform Engineer, Site Reliability Engineer, DevOps Engineer or Software Developer with hands-on experience as an on-call/incident responder and running production systems in complex IT environments You have a strong understanding of core service-management practices (incident response, on-call, post incident reviews, and SLOs), using tools like Datadog, PagerDuty, Opsgenie, http://incident.io , Rootly, Jira Cloud Platform, Cortex, or similar and know how to navigate operational challenges of different sized organizations You’re passionate about helping teams fix organizational challenges, not just technical ones and where they intersect, and have shared your knowledge broadly. Approximately 2+ years of experience in storytelling and creating compelling content e.g. writte...",
       "required_skills": [
-        "LLM"
+        "Docker",
+        "Python"
       ],
       "matched_skills": [
-        "LLM"
+        "Docker",
+        "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Director, AI Center of Excellence at Instructure, focused on LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Director, AI Center of Excellence role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Developer Advocate - Service Management EMEA at Datadog, focused on Docker, Python. Location: France,  Netherlands,  Spain.",
+      "rule_based_application_sentence": "Your Developer Advocate - Service Management EMEA role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-151496",
-      "title": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "published_at": "2026-09-24",
-      "match_score": 69,
-      "priority": "medium",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
-      "required_skills": [
-        "AWS",
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS."
       ]
     },
     {
@@ -201,27 +168,27 @@
       ]
     },
     {
-      "id": "jobicy-154113",
-      "title": "Python Developer - MyDr (100% Remote within Poland)",
-      "company": "Docplanner",
-      "location": "Poland",
+      "id": "jobicy-154335",
+      "title": "Deployment Strategist - Brazil",
+      "company": "Elevenlabs",
+      "location": "Brazil",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154113-python-developer-mydr-100-remote-within-poland",
-      "published_at": "2026-09-27",
+      "url": "https://jobicy.com/jobs/154335-deployment-strategist-brazil",
+      "published_at": "2026-10-01",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "MyDr is a team of new technology enthusiasts who have built from scratch and continue to develop advanced programs for Electronic Medical Documentation and comprehensive clinic management. The company has brought the Polish healthcare system into the 21st century and made it user-friendly for both doctors and patients. The flagship product - MyDr EDM - is used in over 10,000 clinics operating commercially as well as those contracted with the National Health Fund (NFZ). The program offers a complete package of functionalities essential for daily work in any medical facility: from advanced scheduling, through tools needed during appointments (modules for e-prescriptions, e-referrals, and e-sick leaves), to telemedicine solutions, and full integration with the government P1 Platform. MyDr was founded in 2017 and has since successfully grown and maintained its status as a leader in fully cloud-based EDM solutions in Poland's medical software market. Job Description Why should you join us? Because it's nice to tell family and friends that you're making the world a little bit better. You go to sleep knowing that what you do matters and that your talents align with your beliefs. What challenges await you? Creating software used by thousands of users; Building new functionalities based on the needs of the medical market in Poland and worldwide; Working in a dynamic team with practically unlimited architectural and business decision-making authority. Check if we're looking for you: You have experience working on web applications (3+ years of experience) ; You work with Python, Django, PostgreSQL ; You use modern AI tools (LLMs, agents) in daily engineering work to accelerate development, debugging, and documentation creation, while applying a solid engineering approach to result verification and maintaining quality and security; You feel comfortable working in a small team, managing processes, taking initiative, and making decisions You can communicate in English both spoken and written (B2+) . Let’s talk money A salary adequate to your experience and skills. True flexibility and work-life balance Remote or hybrid work model with or hub in Warsaw; Flexible working hours (fully flexible, as in most cases you only have to be on a couple of meetings weekly); 20/26 days of paid time off (depending on your contract); Additional paid day off on your birthday or work anniversary (you choose what you want to celebrate). Health comes first Private healthcare plan with Si...",
+      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-wor...",
       "required_skills": [
-        "PostgreSQL",
+        "LLM",
         "Python"
       ],
       "matched_skills": [
-        "PostgreSQL",
+        "LLM",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Python Developer - MyDr (100% Remote within Poland) at Docplanner, focused on PostgreSQL, Python. Location: Poland.",
-      "rule_based_application_sentence": "Your Python Developer - MyDr (100% Remote within Poland) role interests me because it connects directly with my work around PostgreSQL, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Deployment Strategist - Brazil at Elevenlabs, focused on LLM, Python. Location: Brazil.",
+      "rule_based_application_sentence": "Your Deployment Strategist - Brazil role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "2 of 2 extracted skills match the profile.",
@@ -271,85 +238,42 @@
       ]
     },
     {
-      "id": "jobicy-150585",
-      "title": "Staff Software Engineer",
-      "company": "Cloudbeds",
-      "location": "Europe",
+      "id": "jobicy-154333",
+      "title": "Software Engineer, Platform Engineering",
+      "company": "Mural",
+      "location": "Argentina",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150585-staff-software-engineer-3",
-      "published_at": "2026-09-14",
-      "match_score": 55,
-      "priority": "medium",
-      "raw_description": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've become the World's Best Hotel PMS Solutions Provider and landed on Deloitte's Technology Fast 500 again in 2024, but we're just getting started. Location: Remote (Europe) How You'll Make an Impact: As a Staff Software Engineer in Revenue Intelligence, you will shape the technical direction of systems that help hospitality businesses understand demand, identify revenue opportunities, and make better pricing and commercial decisions. You will work across customer-facing applications, backend services, data pipelines, analytical stores, recommendation workflows, and cloud infrastructure. This is a hands-on leadership role: you will solve complex engineering problems directly while establishing architecture, improving reliability and security, reducing systemic technical debt, and aligning multiple teams around durable technical decisions. Your impact will extend beyond individual features to the quality, scalability, operability, and long-term evolution of the Revenue Intelligence platform. Our Revenue Intelligence Team: The Revenue Intelligence team builds products and platforms that turn hospitality data into practical decisions for hoteliers, including pricing recommendations, demand insights, reporting, automation, and commercial opportunities. Our systems span frontend experiences, APIs, distributed services, data processing, machine-learning workflows, and production infrastructure. We value pragmatic engineering, strong ownership, evidence-based decisions, and technical leaders who raise the effectiveness of the people and systems around them. What You Bring to the Team: Set and evolve the technical strategy for Revenue Intelligence, translating product and business goals into coherent architecture and executable engineering plans Lead the design and delivery of complex capabilities across customer-facing web applications, backend APIs, event-driven...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "PostgreSQL",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Staff Software Engineer at Cloudbeds, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Europe.",
-      "rule_based_application_sentence": "Your Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-151507",
-      "title": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
-      "company": "Oowlish Technology",
-      "location": "LATAM,  Argentina,  Brazil,  Mexico",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
-      "published_at": "2026-09-24",
-      "match_score": 43,
+      "url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
+      "published_at": "2026-10-01",
+      "match_score": 38,
       "priority": "low",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced AI Solutions Engineer to help build an AI-powered IT Help Desk Automation platform using AWS Bedrock and modern serverless technologies. This role focuses on designing intelligent automation workflows that leverage AI agents to streamline IT operations, including ticket triage, request routing, and identity/access management automation across enterprise systems. The ideal candidate combines strong Python development skills with hands-on experience building AI-powered applications using AWS Bedrock and modern AWS serverless services. Key Responsibilities: Design and develop AI-powered automation solutions using AWS Bedrock. Build and orchestrate AI agents capable of handling IT help desk workflows. Develop integrations with enterprise platforms using REST APIs. Implement automation for ticket triage, routing, and access request workflows. Build serverless applications using AWS Lambda and Step Functions. Integrate AI workflows with KACE, Okta, Azure AD, and similar enterprise platforms. Design secure, scalable, and maintainable cloud-native solutions. Collaborate with engineering teams to continuously improve AI agent performance. Participate in architecture discussions and technical decision-making. Requirements: 5+ years of software engineering experience. Strong Python development experience. Hands-on experience with AWS cloud services. Experience building cloud-native applications. Experience integrating enterprise systems using REST APIs. Strong problem-solving skills. Experience working in Agile environments. Strong English communication s...",
+      "raw_description": "ABOUT THE TEAM The Platform Engineering team builds the tools and services that accelerate the software development life cycle of the software engineers at Mural . We work on tools that provide a reliable development environment, on tools to easily test locally and remotely, on integrations with Github and Github Actions, and a few other pieces throughout the many stages in our build, test and release pipelines. Our work is essential to Mural's success, as we maintain the backbone of the platform, enabling seamless user experiences and fostering innovation across the company. YOUR MISSION As a Platform Engineer, you will play a crucial role in driving the performance and efficiency of the software development life cycle across the organization. You will be responsible for understanding, maintaining, and evolving existing systems while designing and implementing advanced automation tools and optimized workflows. By enabling developers to build, test, and deploy software rapidly and reliably, your work will directly enhance development cycle performance, boosting productivity and quality across the entire development team. This makes your role essential to Mural's ongoing success. WHAT YOU'LL DO Design, implement and maintain the build infrastructure for a large Typescript and NodeJS codebase Collaborate with software developers and platform engineers to define and refine the Continuous Integration and Continuous Delivery processes and its best practices. Identify and address bottlenecks, performance issues, and opportunities for automation within the development pipeline in order to speed up the whole development experience. Develop and maintain scalable platform features, ensuring the reliability, availability, and scalability of our software delivery processes. Care deeply about the problems and needs of our customers, which are all the engineers in the organization, and on training and supporting them to better use the tools we build to improve their quality of life WHAT YOU'LL BRING 5+ years of experience working on the backend, integrations or CI/CD pipelines of a high-performing engineering team Experience building reusable components and libraries, with an understanding of scalable architecture. Excellent communication skills, with a focus on documenting solutions and providing clear technical guidance A strong sense of ownership over critical problem areas A thorough understanding of Linux, Docker and CI tools like Github Actions or similar Exper...",
       "required_skills": [
-        "AWS",
         "Azure",
-        "LLM",
-        "Prompt engineering",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
         "Python",
         "Terraform"
       ],
       "matched_skills": [
-        "LLM",
-        "Prompt engineering",
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
         "Azure",
+        "Kubernetes",
         "Terraform"
       ],
-      "rule_based_summary": "Senior AI Solutions Engineer (Python & AWS Bedrock) at Oowlish Technology, focused on AWS, Azure, LLM, Prompt engineering. Location: LATAM,  Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Senior AI Solutions Engineer (Python & AWS Bedrock) role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Software Engineer, Platform Engineering at Mural, focused on Azure, Docker, GitHub Actions, Kubernetes. Location: Argentina.",
+      "rule_based_application_sentence": "Your Software Engineer, Platform Engineering role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "3 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Terraform."
+        "Main missing or weaker skills: Azure, Kubernetes, Terraform."
       ]
     },
     {
