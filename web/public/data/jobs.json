@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:06:36Z",
+  "generated_at": "2026-10-02T12:27:34Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,33 +74,43 @@
   },
   "jobs": [
     {
-      "id": "jobicy-154340",
-      "title": "Developer Advocate - Service Management EMEA",
-      "company": "Datadog",
-      "location": "France,  Netherlands,  Spain",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
-      "published_at": "2026-10-01",
-      "match_score": 68,
-      "priority": "medium",
-      "raw_description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and broaden your impact to the SRE, Engineer, DevOps, and Operations community at large. This is a unique opportunity to use both your engineering and creative storytelling skills to shape the landscape in cloud observability, incident response and service management. At Datadog , we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You'll Do: Act as a subject matter expert for service management (incident response, on-call, IDP, Work Management, Workflow Automation, Agent Builder, and operational automation) for Datadog's advocacy and engineering teams Create content in one or more mediums to build Datadog's reputation as a leader in DevOps, Monitoring, Observability and Security e.g. building demos, public speaking, blogging, documentation, webinars, open source, research reports and more Partner with product engineering teams to build compelling demos, and coach internal engineering teams on effective communication and presentation Interface with open source communities to drive key messaging in the market and develop new integrations for Datadog Contribute to the product through feedback (bugs or product enhancements suggestions), documentation, or code Who You Are: Approximately 5+ years of experience as a Platform Engineer, Site Reliability Engineer, DevOps Engineer or Software Developer with hands-on experience as an on-call/incident responder and running production systems in complex IT environments You have a strong understanding of core service-management practices (incident response, on-call, post incident reviews, and SLOs), using tools like Datadog, PagerDuty, Opsgenie, http://incident.io , Rootly, Jira Cloud Platform, Cortex, or similar and know how to navigate operational challenges of different sized organizations You’re passionate about helping teams fix organizational challenges, not just technical ones and where they intersect, and have shared your knowledge broadly. Approximately 2+ years of experience in storytelling and creating compelling content e.g. writte...",
+      "id": "remotive-2091132",
+      "title": "Senior back-end Engineer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "published_at": "2026-09-30",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reac...",
       "required_skills": [
-        "Docker",
-        "Python"
+        "Kubernetes",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React"
       ],
       "matched_skills": [
-        "Docker",
-        "Python"
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Developer Advocate - Service Management EMEA at Datadog, focused on Docker, Python. Location: France,  Netherlands,  Spain.",
-      "rule_based_application_sentence": "Your Developer Advocate - Service Management EMEA role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior back-end Engineer at Lemon.io, focused on Kubernetes, LLM, MLOps, Next.js. Location: Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway.",
+      "rule_based_application_sentence": "Your Senior back-end Engineer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 6 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, MLOps."
       ]
     },
     {
@@ -138,63 +148,41 @@
       ]
     },
     {
-      "id": "remotive-2091140",
-      "title": "Senior Shopify Developer",
-      "company": "Sanctuary Computer Inc",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
-      "published_at": "2026-09-18",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian. We’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space. We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. Sanctuary Computer — Development At Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson. Our projects range from design-forward websites, to robust web apps, to native mobile development. XXIX — Design When we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be. We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility. Plus, our partner organizations Lightphone Mill IngredientAI 🔮 Who we’re looking for: We're looking for a Senior Shopify Developer who balances deep e-commerce expertise with modern frontend engineering. You'll build pixel-perfect, hyper-performant storefronts ranging from custom Liquid themes to headless Hydrogen/Next.js implementations working alongside our design team to create world-class shopping experiences. In this role, you’ll work across a variety of client projects to find cost-effective, high-quality, and pragmatic solutions to complex e-commerce challenges. Responsibilities will include: Collaborating closely with Technical Leads and Designers to meet clients' custom e-commerce and technical needs. Building and maintaining high-performance storefronts using both custom Liquid (Online Store 2.0) and modern headless architectures (Shopify Stor...",
-      "required_skills": [
-        "Next.js",
-        "PostgreSQL"
-      ],
-      "matched_skills": [
-        "Next.js",
-        "PostgreSQL"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Shopify Developer at Sanctuary Computer Inc, focused on Next.js, PostgreSQL. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Senior Shopify Developer role interests me because it connects directly with my work around Next.js, PostgreSQL, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-154335",
-      "title": "Deployment Strategist - Brazil",
-      "company": "Elevenlabs",
-      "location": "Brazil",
+      "id": "jobicy-154401",
+      "title": "Automation Engineer (Customer Service)",
+      "company": "Nebius",
+      "location": "Europe",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154335-deployment-strategist-brazil",
-      "published_at": "2026-10-01",
-      "match_score": 58,
+      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
+      "published_at": "2026-10-02",
+      "match_score": 56,
       "priority": "medium",
-      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-wor...",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. About the team The Customer Service team at Nebius handles thousands of requests every month — quota applications, billing operations, planned enterprise cluster upgrades, and incident notifications. Volume has grown 130% over seven months and continues to grow alongside our customer base. We are building a dedicated automation team to turn repetitive manual work into scalable, maintainable systems: LLM-powered agents, self-service flows, and infrastructure tooling. The role We are looking for an Automation Engineer to design and build systems that move repetitive Customer Service work into automated flows. You will work directly with ticketing system data, build LLM agents, develop self-service flows, and integrate solutions with internal Nebius systems. Your responsibilities will include: Build agents and scripts to automate quota request processing — the largest single category of manual engineer work in the queue Develop self-service flows for billing and DSR requests: payment method updates, account deletion, marketing opt-out, invoice retrieval Build and maintain LLM-powered agents that help support engineers handle complex tickets in real time Develop N8N workflows for customer notifications and event-driven processes Integrate solutions with Jira API, billing API, and internal Nebius systems Contribute to tooling for planned cluster operations (Terraform, runbooks) Maintain and improve existing automation as ticket volumes grow We expect you to have: 3+ years of software engineering experience with a focus on automation, backend development, or system integrations Strong Python skills Hands-on experience working with REST APIs and integrating external systems Practical experience with LLM APIs or building...",
       "required_skills": [
+        "Docker",
+        "Kubernetes",
         "LLM",
-        "Python"
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "Docker",
         "LLM",
         "Python"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Deployment Strategist - Brazil at Elevenlabs, focused on LLM, Python. Location: Brazil.",
-      "rule_based_application_sentence": "Your Deployment Strategist - Brazil role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Automation Engineer (Customer Service) at Nebius, focused on Docker, Kubernetes, LLM, Python. Location: Europe.",
+      "rule_based_application_sentence": "Your Automation Engineer (Customer Service) role interests me because it connects directly with my work around Docker, LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "3 of 5 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, Terraform."
       ]
     },
     {
@@ -238,42 +226,73 @@
       ]
     },
     {
-      "id": "jobicy-154333",
-      "title": "Software Engineer, Platform Engineering",
-      "company": "Mural",
-      "location": "Argentina",
+      "id": "jobicy-154404",
+      "title": "Global Analytics Manager (Remote in Barcelona/Madrid)",
+      "company": "Docplanner",
+      "location": "Spain",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
-      "published_at": "2026-10-01",
-      "match_score": 38,
-      "priority": "low",
-      "raw_description": "ABOUT THE TEAM The Platform Engineering team builds the tools and services that accelerate the software development life cycle of the software engineers at Mural . We work on tools that provide a reliable development environment, on tools to easily test locally and remotely, on integrations with Github and Github Actions, and a few other pieces throughout the many stages in our build, test and release pipelines. Our work is essential to Mural's success, as we maintain the backbone of the platform, enabling seamless user experiences and fostering innovation across the company. YOUR MISSION As a Platform Engineer, you will play a crucial role in driving the performance and efficiency of the software development life cycle across the organization. You will be responsible for understanding, maintaining, and evolving existing systems while designing and implementing advanced automation tools and optimized workflows. By enabling developers to build, test, and deploy software rapidly and reliably, your work will directly enhance development cycle performance, boosting productivity and quality across the entire development team. This makes your role essential to Mural's ongoing success. WHAT YOU'LL DO Design, implement and maintain the build infrastructure for a large Typescript and NodeJS codebase Collaborate with software developers and platform engineers to define and refine the Continuous Integration and Continuous Delivery processes and its best practices. Identify and address bottlenecks, performance issues, and opportunities for automation within the development pipeline in order to speed up the whole development experience. Develop and maintain scalable platform features, ensuring the reliability, availability, and scalability of our software delivery processes. Care deeply about the problems and needs of our customers, which are all the engineers in the organization, and on training and supporting them to better use the tools we build to improve their quality of life WHAT YOU'LL BRING 5+ years of experience working on the backend, integrations or CI/CD pipelines of a high-performing engineering team Experience building reusable components and libraries, with an understanding of scalable architecture. Excellent communication skills, with a focus on documenting solutions and providing clear technical guidance A strong sense of ownership over critical problem areas A thorough understanding of Linux, Docker and CI tools like Github Actions or similar Exper...",
+      "url": "https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid",
+      "published_at": "2026-10-02",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "Company Description At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioDottore, DoktorTakvimi, and jameda). Our marketplaces, SaaS and AI tools simplify daily tasks and help doctors, clinics and hospitals work more efficiently, so they can focus on what really matters: caring for their patients. Learn more about our products here: pro.doctoralia.es Why join us? Real impact – We help doctors help patients. Your work truly makes a difference. At scale, yet agile – 3,000+ employees, but still fast, flexible, and hands-on. ✨ Shape the future, sustain growth – Make a difference now and build for long-term success. Job Description Leading the analytics team Manage and grow a team of 2-3 analysts: organise workload, set priorities, and keep a healthy pace using agile ways of working (sprints, backlog, clear intake) Coach analysts to grow technically and professionally; hold them accountable for quality and impact, not just output Coordinate and align with stakeholders, both global and local, ensuring the team's work lands where it matters most AI-first team & tooling Coach and upskill the team to work AI-first; using AI to query, code, and analyse faster and more consistently Set the foundations for this to scale: shared libraries, reusable code, and architecture (e.g. GitHub-based repositories) so AI-first practices are systematised, not dependent on individual habits Driving analytics for Individual Doctors & Clinics Partner directly with the VP of Individual Doctors and the VP of Clinics to understand their businesses, identify gaps, and surface opportunities Lead deep dives that go beyond describing what happened to explain why, and what to do about it Propose, run, and analyse experiments (A/B tests and beyond) that inform business decisions Data models & dashboards Build and maintain data models and automations that scale across all 13 markets Build dashboards in Looker and/or Tableau that non-technical stakeholders can actually use to make decisions Keep the team's outputs consistent with BI's dashboard and data standards, escalating gaps rather than working around them Bridging business and data teams Act as the translation layer between business needs (VP of Individual Doctors, VP of Clinics) and Docplanner's data organisation: BI, Data Platform,...",
       "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Global Analytics Manager (Remote in Barcelona/Madrid) at Docplanner, focused on Python, SQL. Location: Spain.",
+      "rule_based_application_sentence": "Your Global Analytics Manager (Remote in Barcelona/Madrid) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-154406",
+      "title": "Customer Engineer EMEA",
+      "company": "Nebius",
+      "location": "Europe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154406-customer-engineer-emea",
+      "published_at": "2026-10-02",
+      "match_score": 44,
+      "priority": "low",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We are looking for a Customer Engineer to support key and strategic Nebius GPU Cloud services customers. In this role, you will be a trusted technical advisor, helping clients design, deploy, and scale AI solutions while managing large-scale GPU workloads involving hundreds to thousands of GPUs. You will also collaborate with sales and product teams to drive growth and enhance customer satisfaction. You’re welcome to work remotely from Europe . Your responsibilities will include: Serve as the primary technical point of contact for troubleshooting and resolving complex AI/ML issues. Guide customers in optimizing GPU performance for ML training and inference workloads, ensuring seamless integration and scalability. Partner with the sales team to identify new opportunities, promote the latest products, and deliver technical presentations. Act as a bridge to product teams, providing customer feedback, relaying feature requests, and ensuring alignment with customer requirements. Engage with internal and external stakeholders, negotiate solutions, and effectively drive alignment to address customer challenges. We expect you to have: Experience: 5+ years in roles like Solutions Architect, Technical Account Manager, or Customer Engineer, with hands-on experience in cloud services and AI/ML workloads. Proficiency in Infrastructure as Code (IaC) tools like Terraform and Ansible. Experience with Kubernetes and Python programming. Solid understanding of GPU computing, including ML training, inference workloads, and GPU stacks (e.g., CUDA, OpenCL). Customer-centric approach with a proven ability to build trust and foster long-term relationships. Strong ability to explain technical concepts to technical and non-technic...",
+      "required_skills": [
+        "AWS",
         "Azure",
-        "Docker",
-        "GitHub Actions",
         "Kubernetes",
         "Python",
         "Terraform"
       ],
       "matched_skills": [
-        "Docker",
-        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
         "Azure",
         "Kubernetes",
         "Terraform"
       ],
-      "rule_based_summary": "Software Engineer, Platform Engineering at Mural, focused on Azure, Docker, GitHub Actions, Kubernetes. Location: Argentina.",
-      "rule_based_application_sentence": "Your Software Engineer, Platform Engineering role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Customer Engineer EMEA at Nebius, focused on AWS, Azure, Kubernetes, Python. Location: Europe.",
+      "rule_based_application_sentence": "Your Customer Engineer EMEA role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "1 of 5 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: Azure, Kubernetes, Terraform."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
