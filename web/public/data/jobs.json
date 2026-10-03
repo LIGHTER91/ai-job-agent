@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:27:34Z",
+  "generated_at": "2026-10-03T11:35:26Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -148,41 +148,61 @@
       ]
     },
     {
-      "id": "jobicy-154401",
-      "title": "Automation Engineer (Customer Service)",
-      "company": "Nebius",
-      "location": "Europe",
+      "id": "jobicy-148143",
+      "title": "Senior Software Engineer, Storage",
+      "company": "Reddit",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
-      "published_at": "2026-10-02",
-      "match_score": 56,
+      "url": "https://jobicy.com/jobs/148143-senior-software-engineer-storage",
+      "published_at": "2026-10-03",
+      "match_score": 58,
       "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. About the team The Customer Service team at Nebius handles thousands of requests every month — quota applications, billing operations, planned enterprise cluster upgrades, and incident notifications. Volume has grown 130% over seven months and continues to grow alongside our customer base. We are building a dedicated automation team to turn repetitive manual work into scalable, maintainable systems: LLM-powered agents, self-service flows, and infrastructure tooling. The role We are looking for an Automation Engineer to design and build systems that move repetitive Customer Service work into automated flows. You will work directly with ticketing system data, build LLM agents, develop self-service flows, and integrate solutions with internal Nebius systems. Your responsibilities will include: Build agents and scripts to automate quota request processing — the largest single category of manual engineer work in the queue Develop self-service flows for billing and DSR requests: payment method updates, account deletion, marketing opt-out, invoice retrieval Build and maintain LLM-powered agents that help support engineers handle complex tickets in real time Develop N8N workflows for customer notifications and event-driven processes Integrate solutions with Jira API, billing API, and internal Nebius systems Contribute to tooling for planned cluster operations (Terraform, runbooks) Maintain and improve existing automation as ticket volumes grow We expect you to have: 3+ years of software engineering experience with a focus on automation, backend development, or system integrations Strong Python skills Hands-on experience working with REST APIs and integrating external systems Practical experience with LLM APIs or building...",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The Storage Infra team is looking to hire a Senior Software Engineer who is excited to solve large scale storage infrastructure problems. Reddit’s mission is to bring community and belonging to everyone in the world. Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. With more than 50 million people visiting 100,000+ communities daily, it is home to the most open and authentic conversations on the internet. From pets to parenting, skincare to stocks, there’s a community for everybody on Reddit. For more information, visit redditinc.com. Our caching layer serves 100s of millions of queries/second serving 100s of billions of keys.We do this while efficiently storing 100s of Terabytes of data across thousands of machines. As a senior engineer, you will partner closely with your team and our biggest users (ML/AI/Search) to build technical solutions that can scale to Reddit’s product growth. You’ll do this while maintaining an extremely high availability and reliability bar to ensure that Reddit’s users continue to get a great experience across our entire product portfolio. In your day-to-day, you can expect to: Contribute to developing the team and organization’s long term technical strategy. Refine and maintain our data storage infrastructure to support the storage and caching needs of products supporting hundreds of millions of users. Own the infrastructure (managed and self-hosted) that supports data writes, reads and storage along with the necessary tooling and automation to efficiently operate the infrastructure. Mentor other engineers on how to design, build, and evangelize services used by hundreds of engineers across Reddit Who you might be: 5+ years of experience building internet-scale software, preferably with a focus on machine learning storage infrastructure. Software development experience in one or more general purpose programming languages; Golang, Python, C++, Java Hands-on experience implementing fea...",
       "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
+        "PostgreSQL",
         "Python"
       ],
-      "missing_skills": [
-        "Kubernetes",
-        "Terraform"
+      "matched_skills": [
+        "PostgreSQL",
+        "Python"
       ],
-      "rule_based_summary": "Automation Engineer (Customer Service) at Nebius, focused on Docker, Kubernetes, LLM, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Automation Engineer (Customer Service) role interests me because it connects directly with my work around Docker, LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "missing_skills": [],
+      "rule_based_summary": "Senior Software Engineer, Storage at Reddit, focused on PostgreSQL, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer, Storage role interests me because it connects directly with my work around PostgreSQL, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, Terraform."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-152376",
+      "title": "Major Accounts Manager",
+      "company": "RStudio",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152376-major-accounts-manager",
+      "published_at": "2026-10-03",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "We are looking for our next Major Accounts Manager to join the Posit team! In this role, you will be proactively identifying and engaging with new customers to share and demonstrate cutting-edge technologies in the rapidly growing Data Science field. Posit creates great software that helps people understand data and make better decisions in real-world applications. Our core offering is an open-source data science toolchain, and we aim to make it available to everyone, regardless of their economic means. Our customers are leading-edge innovators in analytics, machine learning, big data, and similar domains and generally work in R and Python. 50% of the Fortune 1,000 use Posit to solve their most difficult business problems. What You Will Own Public Sector Hunting: Utilizing expert outreach skills and background to reach out to net-new Public Sector (federal, state, local) customers both in the US and abroad. Market Education: Educating the market about the value of Posit's professional products and then selling our software. Revenue Management: Forecasting sales activity and revenue achievement while creating satisfied and referenceable customers. Territory Building: Mapping and building territories from the ground up. Lead Utilization: Utilizing the existing customer base from Posit conference attendees, inbound leads, and those who download our open-source product. Sales CRM: Using tools like Salesforce as a single source of truth. Target Achievement: Routinely meeting or exceeding 100% of sales targets. Industry Awareness: Keeping up with industry trends, the competitive landscape, and customer needs. What You Will Assist With Internal Collaboration: Collaborating with our marketing, product, customer success, and support teams to creatively grow our portfolio of customers. Team Contribution: Being a part of a tight-knit sales team that values best practices sharing, mentoring, and learning while collaborating well with other people. A Bit About You B2B Experience: Significant B2B Software Sales experience. Public Sector Track Record: A track record of success selling to governmental entities. Government Process Expertise: Experience with government RFQ / RFP processes, acquisition regulations, and contract mechanisms. Channel Management: Experience working with resellers, VARs, and channel partners focused on government markets. Complex Cycles: Experience in long, complex sales cycles in large agencies/organizations that involve multiple stakeholders...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Major Accounts Manager at RStudio, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Major Accounts Manager role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -226,73 +246,35 @@
       ]
     },
     {
-      "id": "jobicy-154404",
-      "title": "Global Analytics Manager (Remote in Barcelona/Madrid)",
-      "company": "Docplanner",
-      "location": "Spain",
+      "id": "jobicy-152395",
+      "title": "Framework Software Engineer",
+      "company": "ExtraHop",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid",
-      "published_at": "2026-10-02",
-      "match_score": 51,
-      "priority": "medium",
-      "raw_description": "Company Description At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioDottore, DoktorTakvimi, and jameda). Our marketplaces, SaaS and AI tools simplify daily tasks and help doctors, clinics and hospitals work more efficiently, so they can focus on what really matters: caring for their patients. Learn more about our products here: pro.doctoralia.es Why join us? Real impact – We help doctors help patients. Your work truly makes a difference. At scale, yet agile – 3,000+ employees, but still fast, flexible, and hands-on. ✨ Shape the future, sustain growth – Make a difference now and build for long-term success. Job Description Leading the analytics team Manage and grow a team of 2-3 analysts: organise workload, set priorities, and keep a healthy pace using agile ways of working (sprints, backlog, clear intake) Coach analysts to grow technically and professionally; hold them accountable for quality and impact, not just output Coordinate and align with stakeholders, both global and local, ensuring the team's work lands where it matters most AI-first team & tooling Coach and upskill the team to work AI-first; using AI to query, code, and analyse faster and more consistently Set the foundations for this to scale: shared libraries, reusable code, and architecture (e.g. GitHub-based repositories) so AI-first practices are systematised, not dependent on individual habits Driving analytics for Individual Doctors & Clinics Partner directly with the VP of Individual Doctors and the VP of Clinics to understand their businesses, identify gaps, and surface opportunities Lead deep dives that go beyond describing what happened to explain why, and what to do about it Propose, run, and analyse experiments (A/B tests and beyond) that inform business decisions Data models & dashboards Build and maintain data models and automations that scale across all 13 markets Build dashboards in Looker and/or Tableau that non-technical stakeholders can actually use to make decisions Keep the team's outputs consistent with BI's dashboard and data standards, escalating gaps rather than working around them Bridging business and data teams Act as the translation layer between business needs (VP of Individual Doctors, VP of Clinics) and Docplanner's data organisation: BI, Data Platform,...",
+      "url": "https://jobicy.com/jobs/152395-framework-software-engineer",
+      "published_at": "2026-10-03",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide visibility into the cyber threats, vulnerabilities, and network performance issues that evade their existing security and IT tools. With this insight, organizations can investigate smarter, stop threats faster, and keep operations running. Our mission is fueled by a profound social and moral responsibility to be the best at what we do, ensuring a secure world where everyone can thrive. If this sounds like a place you’d like to spend the next chapter of your career, we’d love to hear from you. Position Summary As a Software Engineer on the Framework team, you will work on complex development challenges, participate in technical design within your area, and play a meaningful role in shaping how we build and scale the systems that power ExtraHop's core products. You will work closely with cross-functional partners in Engineering, Product, and Security to deliver customer-facing features that enable detection, visibility, and automation at scale. This role is ideal for an engineer who brings technical depth, exercises sound judgment independently, and is motivated to grow their impact through excellent engineering and active collaboration. Our team builds high-performance network detection and monitoring systems that operate at scale across increasingly complex protocols and data volumes. Our services and features are written primarily in C and C++ with a focus on security, scalability, stability, and reliability. Our team is focussed on enhancing, maintaining and optimizing core components of the system and functional areas related to protocol parsing, metrics publishing, continuous packet capture and Time Series DB. This role focuses on designing and optimizing these core systems with an emphasis on performance, reliability and deep protocol awareness. You will work on next generation initiatives including scaling and performance improvement efforts, evolution of our data storage architecture (custom to open-source based) and early steps towards a cloud enabled model. Key Responsibilities Design, develop, and maintain high-performance services for ExtraHop's core Framework systems, taking ownership of moderately complex to complex features with limited guidance. W...",
       "required_skills": [
-        "Python",
-        "SQL"
+        "AWS",
+        "Python"
       ],
       "matched_skills": [
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "AWS"
       ],
-      "rule_based_summary": "Global Analytics Manager (Remote in Barcelona/Madrid) at Docplanner, focused on Python, SQL. Location: Spain.",
-      "rule_based_application_sentence": "Your Global Analytics Manager (Remote in Barcelona/Madrid) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Framework Software Engineer at ExtraHop, focused on AWS, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Framework Software Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-154406",
-      "title": "Customer Engineer EMEA",
-      "company": "Nebius",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154406-customer-engineer-emea",
-      "published_at": "2026-10-02",
-      "match_score": 44,
-      "priority": "low",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We are looking for a Customer Engineer to support key and strategic Nebius GPU Cloud services customers. In this role, you will be a trusted technical advisor, helping clients design, deploy, and scale AI solutions while managing large-scale GPU workloads involving hundreds to thousands of GPUs. You will also collaborate with sales and product teams to drive growth and enhance customer satisfaction. You’re welcome to work remotely from Europe . Your responsibilities will include: Serve as the primary technical point of contact for troubleshooting and resolving complex AI/ML issues. Guide customers in optimizing GPU performance for ML training and inference workloads, ensuring seamless integration and scalability. Partner with the sales team to identify new opportunities, promote the latest products, and deliver technical presentations. Act as a bridge to product teams, providing customer feedback, relaying feature requests, and ensuring alignment with customer requirements. Engage with internal and external stakeholders, negotiate solutions, and effectively drive alignment to address customer challenges. We expect you to have: Experience: 5+ years in roles like Solutions Architect, Technical Account Manager, or Customer Engineer, with hands-on experience in cloud services and AI/ML workloads. Proficiency in Infrastructure as Code (IaC) tools like Terraform and Ansible. Experience with Kubernetes and Python programming. Solid understanding of GPU computing, including ML training, inference workloads, and GPU stacks (e.g., CUDA, OpenCL). Customer-centric approach with a proven ability to build trust and foster long-term relationships. Strong ability to explain technical concepts to technical and non-technic...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Customer Engineer EMEA at Nebius, focused on AWS, Azure, Kubernetes, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Customer Engineer EMEA role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+        "Main missing or weaker skills: AWS."
       ]
     },
     {
