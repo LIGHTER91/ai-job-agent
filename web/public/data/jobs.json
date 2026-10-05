@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:16:39Z",
+  "generated_at": "2026-10-05T14:29:28Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -156,28 +156,36 @@
       ]
     },
     {
-      "id": "jobicy-154511",
-      "title": "Forward Deployed Engineer - Software Engineer - Sweden",
-      "company": "Elevenlabs",
-      "location": "Sweden",
+      "id": "jobicy-154544",
+      "title": "Senior Full Stack Engineer, Observability",
+      "company": "NetBox Labs",
+      "location": "LATAM,  UK,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154511-forward-deployed-engineer-software-engineer-sweden",
-      "published_at": "2026-10-04",
+      "url": "https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability",
+      "published_at": "2026-10-05",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-wor...",
+      "raw_description": "NetBox Labs is seeking a Full Stack Engineer to join our rapidly expanding engineering team. We have multiple positions open at different seniority levels across several teams. About NetBox Labs NetBox Labs builds the next generation of network automation tools for modern infrastructure teams, with NetBox as the network source of truth at the center. The Observability team builds the products that connect that source of truth to what is actually running on the network: NetBox Discovery finds devices, interfaces, and other network entities. NetBox Assurance brings discovered data into NetBox and helps operators spot drift between intended and actual state, review changes, and decide what to accept. Fleet Management and the Orb agent deploy, configure, and manage the agents that collect discovery and telemetry data from customer networks. These agents use SNMP, gNMI, and other device interfaces. Diode is the ingestion pipeline that moves that data into NetBox reliably. We're hiring a Full Stack Engineer who can work across the whole path, from the agents and services that collect network data to the interfaces operators use to understand and act on it. Role overview You'll join the Observability team and take ownership of features end to end. That covers: Go and Python services and gRPC APIs in the control and data planes. The data flows that carry discovery and telemetry results into NetBox. The React dashboards and interfaces where customers monitor network and device health, explore telemetry, review discovered data, and manage their agent fleet. You'll work closely with product, design, and other engineering teams, and you'll help run the services the team owns in production. This role is hands-on. You'll ship features across the stack, improve reliability and performance, and help define the architecture and practices needed to scale network discovery and assurance to large, complex customer environments. What you'll do Design, build, and operate backend services in Go and Python for discovery, assurance, fleet management, and data ingestion. Define and evolve gRPC and REST APIs with clear, versioned contracts using Protocol Buffers and OpenAPI. Build React and TypeScript monitoring and telemetry dashboards that show device, interface, and network health in real time, with time-series charts, status views, and drill-down from fleet to device to interface. Design dashboard experiences that help operators spot problems fast: sensible defaults, time-ran...",
       "required_skills": [
-        "Python"
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "React",
+        "Vector search"
       ],
       "matched_skills": [
-        "Python"
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "React",
+        "Vector search"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Forward Deployed Engineer - Software Engineer - Sweden at Elevenlabs, focused on Python. Location: Sweden.",
-      "rule_based_application_sentence": "Your Forward Deployed Engineer - Software Engineer - Sweden role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Senior Full Stack Engineer, Observability at NetBox Labs, focused on LLM, Prompt engineering, Python, React. Location: LATAM,  UK,  USA.",
+      "rule_based_application_sentence": "Your Senior Full Stack Engineer, Observability role interests me because it connects directly with my work around LLM, Prompt engineering, Python, React, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "5 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
@@ -224,64 +232,74 @@
       ]
     },
     {
-      "id": "jobicy-154512",
-      "title": "Solutions Engineer - LATAM",
-      "company": "Veriff",
-      "location": "LATAM",
+      "id": "jobicy-154563",
+      "title": "Senior SDK Engineer",
+      "company": "RevenueCat",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154512-solutions-engineer-latam",
-      "published_at": "2026-10-04",
+      "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
+      "published_at": "2026-10-05",
       "match_score": 53,
       "priority": "medium",
-      "raw_description": "Veriff is looking for a commercially minded Solutions Engineer to join our LATAM team and partner closely with Sales to drive new business and accelerate revenue growth across Spanish- and Portuguese-speaking markets. This role is an excellent opportunity for someone who enjoys combining technology with business, thrives in a collaborative environment, and understands that Solutions Engineering is a revenue-driving function rather than traditional technical support. You'll help us protect honest people online by: Partnering closely with Account Executives to drive technical sales engagements, accelerate opportunities, and contribute to new business revenue across Spanish- and Portuguese-speaking markets. Leading technical discovery sessions in Spanish, Portuguese, and English to understand customer challenges, technical requirements, and business objectives. Delivering compelling product demonstrations tailored to different customer audiences, including technical and non-technical stakeholders. Managing technical evaluations and proof-of-concept engagements to validate solutions and drive opportunities toward successful technical outcomes. Proactively identifying and resolving technical objections and deal blockers that could impact sales cycles. Translating complex technical capabilities into clear business value and communicating effectively with customers across different levels of technical expertise. Acting as a trusted technical partner throughout the sales cycle, from initial discovery through technical validation and handover. Collaborating with Sales, Product, Engineering, and other internal teams to share customer insights and identify opportunities for product or process improvement. Contributing to reusable demonstrations, technical sales materials, and initiatives that improve the efficiency and effectiveness of our sales process. You are the right future Veriffian for the job if you have: 2+ years of experience in Solutions Engineering, Sales Engineering, technical pre-sales, or a similar customer-facing technical role. Professional fluency in Spanish and Portuguese, both written and spoken — this is a must-have requirement. Professional fluency in English, both written and spoken. A strong commercial mindset and an understanding of how technical expertise contributes to revenue generation and winning business. Solid technical knowledge of REST APIs, SDKs, webhooks, JSON, and modern integration architectures. Hands-on experience with API t...",
+      "raw_description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading. The Role We are looking for a Senior SDK Engineer to join our team to help design, build, ship, and support end-to-end features and products that will help developers make more money. We want to bring somebody onboard that is product focused, customer focused, and passionate about building mobile SDKs with a great developer experience. This role will primarily focus on either our iOS or Android SDK (depending on your core experience), but also requires contributions to our other platform + hybrid SDKs, from time to time. Experience in these other platforms is not a requirement but the desire and excitement to work on them is. About you: You have 8+ years of experience in software, and have shipped mobile apps to Apple App Store or Google Play Store You are very experienced in Swift and Swift UI (iOS) or Java/Kotlin and Compose UI (Android) You are not afraid of iOS, Android, cross platform, or hybrid platforms. You love making products for developers. You love shipping good products. You have deep empathy for customers. You know how to ship high quality code using good testing practices in iterative cycles. You collaborate well with others and can communicate effectively in a fully-remote culture. You are proactive. When you see something broken, you jump on it to fix it or suggest improvements. You move fast, test, and iterate quickly. You ask questions when you're stuck on something. You are excited to be part of a growing team. Bonus: You have experience building SDKs. You have experience in server driven user interface...",
       "required_skills": [
+        "OpenAI",
         "Python"
       ],
       "matched_skills": [
+        "OpenAI",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Solutions Engineer - LATAM at Veriff, focused on Python. Location: LATAM.",
-      "rule_based_application_sentence": "Your Solutions Engineer - LATAM role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Senior SDK Engineer at RevenueCat, focused on OpenAI, Python. Location: EMEA,  LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Senior SDK Engineer role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "2 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile."
       ]
     },
     {
-      "id": "jobicy-154514",
-      "title": "Solutions Architect for Automotive",
-      "company": "Canonical",
-      "location": "Anywhere",
+      "id": "jobicy-154567",
+      "title": "Senior Software Engineer, Internal Tooling",
+      "company": "RevenueCat",
+      "location": "APAC,  EMEA,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "published_at": "2026-10-04",
-      "match_score": 46,
+      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
+      "published_at": "2026-10-05",
+      "match_score": 45,
       "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Solutions Architect for Automotive to help our partners (companies like Mercedes, Ford, GM, Elektrobit, Intel, Nvidia, Google, Dell, HP, Accenture, Tata and the like) and prospects understand and embrace our open source platform for themselves and their customers. Our worldwide field engineering team apply expert insights to real-world customer problems, enabling the enterprise adoption of Ubuntu, OpenStack, Kubernetes, AI/MLOps and a wide range of associated technologies. We are experts in the whole open source stack, from kernel to desktop, from cloud to embedded. And we continue to expand our range of offerings to bring our security, management and developer experience to the smallest Linux environments and devices. Our team is also interested in business problems - building things reliably, efficiently and cost-effectively, and we have to learn to speak the language of our customers and their industries. Beyond an expected Automotive expertise, this career opportunity requires a unique blend of skills. Successful candidates will know Linux well and be proficient coders and scripters. They will have experience of low-level Linux boot, BIOS, firmware and embedded software development methodologies. They also enjoy the pace of change and diversity of client engagements with driven and ambitious technology entrepreneurs. Competitive, business-focused technologists at heart, they are also dedicated team players that take pride in team and company wins. We often say that our field engineers have 'the hardest job at Canonical' because customers can ask about any aspect of our solutions and products and expect a thoughtful, well-informed answer. We always want to do the best thing for our partners and customers, regardless of our company inter...",
+      "raw_description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading. The role: We are looking for a Senior, proactive Software Engineer to join our Devops/Devex engineering team and help building and scaling the internal development platform. You would be building the tools, services and automations that empower the rest of our engineering team to ship safely and fast. RevenueCat invests heavily in tooling. We already have custom services for CI/CD, automated one-push-per-commit releases with automatic canaries, Feature Flags, DB query approval workflows, VPN access workflows. We are using Pulumi and python for IaC to describe k8s services and associated infrastructure in a single place. We want to provide autonomy, build a self-serve culture that allows teams to move fast but ensures safety and best practices. The advent of IA and agentic development is going to change a lot of things, and you will help shape this future fostering adoption while ensuring our security and architectural standards remain sane. Your job is to take all this to the next level. About you: You are a Builder: You don't just use tools; you build them. You have 5+ years of experience in SRE, DevOps, DevEx or Platform Engineering with a heavy emphasis on software development. You are Proactive: You see what is needed, you take action and own problems to turn them into solutions. You love building frameworks, abstractions and automation: You see that the best way to ensure best practices are follow is to make something so easy and joyfull to use that nobody wants to use anything else. You are AI-Curious: You understand...",
       "required_skills": [
+        "AWS",
+        "Docker",
+        "GitHub Actions",
         "Kubernetes",
-        "MLOps",
-        "Python"
+        "OpenAI",
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "OpenAI",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
         "Kubernetes",
-        "MLOps"
+        "Terraform"
       ],
-      "rule_based_summary": "Solutions Architect for Automotive at Canonical, focused on Kubernetes, MLOps, Python. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Solutions Architect for Automotive role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Senior Software Engineer, Internal Tooling at RevenueCat, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: APAC,  EMEA,  USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer, Internal Tooling role interests me because it connects directly with my work around Docker, GitHub Actions, OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "4 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, MLOps."
+        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
       ]
     },
     {
