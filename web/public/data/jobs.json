@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:29:28Z",
+  "generated_at": "2026-10-06T13:14:53Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,46 +74,6 @@
   },
   "jobs": [
     {
-      "id": "remotive-2091132",
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "published_at": "2026-09-30",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: EU, US, Canada, UK, Australia, Singapore, Ireland, Norway, Switzerland, Iceland, and Mexico. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reac...",
-      "required_skills": [
-        "Kubernetes",
-        "LLM",
-        "MLOps",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "MLOps"
-      ],
-      "rule_based_summary": "Senior back-end Engineer at Lemon.io, focused on Kubernetes, LLM, MLOps, Next.js. Location: Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway.",
-      "rule_based_application_sentence": "Your Senior back-end Engineer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "4 of 6 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, MLOps."
-      ]
-    },
-    {
       "id": "remotive-2091133",
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
@@ -153,42 +113,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Azure, MLOps."
-      ]
-    },
-    {
-      "id": "jobicy-154544",
-      "title": "Senior Full Stack Engineer, Observability",
-      "company": "NetBox Labs",
-      "location": "LATAM,  UK,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154544-senior-full-stack-engineer-observability",
-      "published_at": "2026-10-05",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "NetBox Labs is seeking a Full Stack Engineer to join our rapidly expanding engineering team. We have multiple positions open at different seniority levels across several teams. About NetBox Labs NetBox Labs builds the next generation of network automation tools for modern infrastructure teams, with NetBox as the network source of truth at the center. The Observability team builds the products that connect that source of truth to what is actually running on the network: NetBox Discovery finds devices, interfaces, and other network entities. NetBox Assurance brings discovered data into NetBox and helps operators spot drift between intended and actual state, review changes, and decide what to accept. Fleet Management and the Orb agent deploy, configure, and manage the agents that collect discovery and telemetry data from customer networks. These agents use SNMP, gNMI, and other device interfaces. Diode is the ingestion pipeline that moves that data into NetBox reliably. We're hiring a Full Stack Engineer who can work across the whole path, from the agents and services that collect network data to the interfaces operators use to understand and act on it. Role overview You'll join the Observability team and take ownership of features end to end. That covers: Go and Python services and gRPC APIs in the control and data planes. The data flows that carry discovery and telemetry results into NetBox. The React dashboards and interfaces where customers monitor network and device health, explore telemetry, review discovered data, and manage their agent fleet. You'll work closely with product, design, and other engineering teams, and you'll help run the services the team owns in production. This role is hands-on. You'll ship features across the stack, improve reliability and performance, and help define the architecture and practices needed to scale network discovery and assurance to large, complex customer environments. What you'll do Design, build, and operate backend services in Go and Python for discovery, assurance, fleet management, and data ingestion. Define and evolve gRPC and REST APIs with clear, versioned contracts using Protocol Buffers and OpenAPI. Build React and TypeScript monitoring and telemetry dashboards that show device, interface, and network health in real time, with time-series charts, status views, and drill-down from fleet to device to interface. Design dashboard experiences that help operators spot problems fast: sensible defaults, time-ran...",
-      "required_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Python",
-        "React",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Python",
-        "React",
-        "Vector search"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Full Stack Engineer, Observability at NetBox Labs, focused on LLM, Prompt engineering, Python, React. Location: LATAM,  UK,  USA.",
-      "rule_based_application_sentence": "Your Senior Full Stack Engineer, Observability role interests me because it connects directly with my work around LLM, Prompt engineering, Python, React, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "5 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -232,74 +156,74 @@
       ]
     },
     {
-      "id": "jobicy-154563",
-      "title": "Senior SDK Engineer",
-      "company": "RevenueCat",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
+      "id": "remotive-2091149",
+      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "company": "CodeForAI",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
       "published_at": "2026-10-05",
-      "match_score": 53,
+      "match_score": 52,
       "priority": "medium",
-      "raw_description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading. The Role We are looking for a Senior SDK Engineer to join our team to help design, build, ship, and support end-to-end features and products that will help developers make more money. We want to bring somebody onboard that is product focused, customer focused, and passionate about building mobile SDKs with a great developer experience. This role will primarily focus on either our iOS or Android SDK (depending on your core experience), but also requires contributions to our other platform + hybrid SDKs, from time to time. Experience in these other platforms is not a requirement but the desire and excitement to work on them is. About you: You have 8+ years of experience in software, and have shipped mobile apps to Apple App Store or Google Play Store You are very experienced in Swift and Swift UI (iOS) or Java/Kotlin and Compose UI (Android) You are not afraid of iOS, Android, cross platform, or hybrid platforms. You love making products for developers. You love shipping good products. You have deep empathy for customers. You know how to ship high quality code using good testing practices in iterative cycles. You collaborate well with others and can communicate effectively in a fully-remote culture. You are proactive. When you see something broken, you jump on it to fix it or suggest improvements. You move fast, test, and iterate quickly. You ask questions when you're stuck on something. You are excited to be part of a growing team. Bonus: You have experience building SDKs. You have experience in server driven user interface...",
+      "raw_description": "Who Should Apply We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: Software Engineers & Computer Scientists specializing in algorithms, data structures, or system design. Full-Stack & Web Developers working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). Backend & Systems Developers experienced in languages such as C++, Java, Go, Rust, or Python. DevOps & Database Engineers familiar with API design, SQL/NoSQL databases, or scripting. Role & Responsibilities As an AI Code Trainer , you will evaluate model-generated code, author reference solutions, and stress-test AI reasoning across various engineering domains. Code Auditing & Quality Analysis: Critique AI-generated solutions for logic, performance, security vulnerabilities, syntax, and coding best practices. Gold-Standard Solutions: Write clean, production-grade reference code and clear technical explanations for complex programming prompts. Test Design: Build unit tests and edge-case scenarios to evaluate model accuracy and expose edge-case failures. Technical Feedback: Write structured explanations detailing why an AI solution succeeds, fails, or produces bugs. Requirements Software Engineering Proficiency: Strong core fundamentals in at least one major programming language or web stack (e.g., Python, JavaScript/TypeScript, Java, C++, Go, C#, Rust, PHP). Debugging & Code Review: Ability to quickly analyze third-party code, catch subtle logical errors, and evaluate efficiency. Technical Communication: Clear written English to explain technical concepts and code review rationales effectively. Eligible Locations: Resident of USA, UK, Canada, Australia, New Zealand, India, Pakistan, or Philippines . Why Join Us? $50–$125/hr commensurate with your technical domain expertise and task complexity. Weekly Guaranteed Payouts directly to your choice of PayPal or Payoneer . 100% Remote & Asynchronous: Total schedule control—work whenever and wherever you choose with no fixed minimum hours. How to Apply Apply directly on our website at https://codeforai.tech/",
       "required_skills": [
-        "OpenAI",
-        "Python"
+        "Python",
+        "React",
+        "SQL"
       ],
       "matched_skills": [
-        "OpenAI",
-        "Python"
+        "Python",
+        "React"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior SDK Engineer at RevenueCat, focused on OpenAI, Python. Location: EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Senior SDK Engineer role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI, focused on Python, React, SQL. Location: USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico.",
+      "rule_based_application_sentence": "Your Software Engineer / AI Code Trainer (Python, Web, Full Stack) role interests me because it connects directly with my work around Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
+        "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
-      "id": "jobicy-154567",
-      "title": "Senior Software Engineer, Internal Tooling",
-      "company": "RevenueCat",
-      "location": "APAC,  EMEA,  USA",
+      "id": "jobicy-154682",
+      "title": "Senior Application Security Engineer",
+      "company": "Beyond Finance",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
-      "published_at": "2026-10-05",
-      "match_score": 45,
+      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
+      "published_at": "2026-10-06",
+      "match_score": 41,
       "priority": "low",
-      "raw_description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading. The role: We are looking for a Senior, proactive Software Engineer to join our Devops/Devex engineering team and help building and scaling the internal development platform. You would be building the tools, services and automations that empower the rest of our engineering team to ship safely and fast. RevenueCat invests heavily in tooling. We already have custom services for CI/CD, automated one-push-per-commit releases with automatic canaries, Feature Flags, DB query approval workflows, VPN access workflows. We are using Pulumi and python for IaC to describe k8s services and associated infrastructure in a single place. We want to provide autonomy, build a self-serve culture that allows teams to move fast but ensures safety and best practices. The advent of IA and agentic development is going to change a lot of things, and you will help shape this future fostering adoption while ensuring our security and architectural standards remain sane. Your job is to take all this to the next level. About you: You are a Builder: You don't just use tools; you build them. You have 5+ years of experience in SRE, DevOps, DevEx or Platform Engineering with a heavy emphasis on software development. You are Proactive: You see what is needed, you take action and own problems to turn them into solutions. You love building frameworks, abstractions and automation: You see that the best way to ensure best practices are follow is to make something so easy and joyfull to use that nobody wants to use anything else. You are AI-Curious: You understand...",
+      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. Role Overview As our Application Security Engineer, you will be the primary owner and driver of our application security program. You'll work hands-on with engineering teams to embed secure development practices, improve tooling and automation, and guide security considerations for new features, architectures, and services. This is a high-impact role where you'll shape the future of AppSec at a company that values security as a core part of product quality. What You'll Do Application Security Ownership Lead and evolve the company's application security strategy, roadmap, and day-to-day operations. Serve as the primary AppSec partner for numerous dev teams working on Ruby on Rails web apps, React Native mobile apps, and various other projects including Python and Go. Provide security guidance during design, development, and code review for new features and projects. Drive adoption of secure coding practices and threat-modeling across engineering teams. Tooling & Automation Manage and optimize existing AppSec tooling, including: GitHub Advanced Security (SAST, SCA, Secret Scanning) Invicti (DAST) Hadrian (ASM) AppDome (mobile application security) Cloudflare WAF Improve automation and integration of security tools into CI/CD pipelines. Identify and implement additional tools or processes to strengthen the security posture. Secure SDLC & Developer Enablement Build and maintain secure development standards, playbooks, and training materials. Partner with engineering teams during sprint planning and feature design to proactively address risks. Conduct security reviews, code assessments, and vulnerability triage with development teams. Cloud & DevOps Collaboration Work with DevOps to ensure secure AWS infrastructure deployments and configurations. Contribute to hardening efforts across ECS, IAM, networking, an...",
       "required_skills": [
         "AWS",
-        "Docker",
         "GitHub Actions",
-        "Kubernetes",
-        "OpenAI",
         "Python",
+        "React",
         "Terraform"
       ],
       "matched_skills": [
-        "Docker",
         "GitHub Actions",
-        "OpenAI",
-        "Python"
+        "Python",
+        "React"
       ],
       "missing_skills": [
         "AWS",
-        "Kubernetes",
         "Terraform"
       ],
-      "rule_based_summary": "Senior Software Engineer, Internal Tooling at RevenueCat, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: APAC,  EMEA,  USA.",
-      "rule_based_application_sentence": "Your Senior Software Engineer, Internal Tooling role interests me because it connects directly with my work around Docker, GitHub Actions, OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Application Security Engineer at Beyond Finance, focused on AWS, GitHub Actions, Python, React. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Senior Application Security Engineer role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
+        "3 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
+        "Main missing or weaker skills: AWS, Terraform."
       ]
     },
     {
@@ -324,6 +248,78 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-154681",
+      "title": "Senior Information Security Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154681-senior-information-security-engineer",
+      "published_at": "2026-10-06",
+      "match_score": 38,
+      "priority": "low",
+      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. We are looking for a Senior Information Security Engineer to join our growing Security Risk Management team. The Security Risk Management team aims to expand beyond traditional risk management; we are building an engineering driven program that designs, automates, and scales the controls, workflows, and tooling that protect Five9 and our customers. As a key contributor to the program the role supports the day-to-day execution of risk identification, assessment, treatment, and reporting across Five9's infrastructure, services, and acquisitions. You'll work directly with engineering, operations, and business stakeholders to surface security risks, drive them toward resolution, and maintain a clear picture of Five9's risk posture for leadership. Key Responsibilities: Identify, document, and assess security risks across Five9's environment, including production infrastructure, cloud services, corporate systems, and acquired platforms Maintain the Security Risk Register in Jira, ensuring risks are accurately categorized, assigned to appropriate owners, and tracked through their lifecycle Engage with service owners, engineering leads, and operations teams to establish risk ownership and drive remediation or mitigation plans Facilitate the risk acceptance process, including preparing risk acceptance documentation and coordinating approval with appropriate stakeholders Develop and deliver risk reporting for security leadership and executive audiences, including dashboards and metrics that communicate risk posture clearly Collaborate with compliance, vulnerability management, and other Information Security functions to ensure risk findings are incorporated into the broader security program Research and apply risk management frameworks and methodologies to continuously improve program maturity Contribute to the development of risk management policies, procedures, and playbooks Requirements: 3+ years of experience in information security, with at least 2 years focused on security risk management or GRC Demonstrated experience maintaining a s...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure"
+      ],
+      "rule_based_summary": "Senior Information Security Engineer at Five9, focused on AWS, Azure, Python. Location: Portugal.",
+      "rule_based_application_sentence": "Your Senior Information Security Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure."
+      ]
+    },
+    {
+      "id": "jobicy-154675",
+      "title": "Cloud Governance Engineer",
+      "company": "Five9",
+      "location": "Portugal",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154675-cloud-governance-engineer",
+      "published_at": "2026-10-06",
+      "match_score": 34,
+      "priority": "low",
+      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. This is a governance role, not a build-and-operate role. You will spend your time defining the rules our cloud estate runs by, making those rules enforceable in code, and proving they are working. You will write standards that other engineering teams have to follow, and you will be the person who explains to Finance, Security, and Product leadership why a given risk matters and what it will cost to fix or ignore. If what you want is to build and run infrastructure, this is not the right seat. If you want to own how a multi-cloud estate is governed, it is. About our estate: roughly 70% Google Cloud, with AWS and Azure in scope as secondary platforms. GCP is where the majority of the work sits, so hands-on GCP experience is a hard requirement rather than a preference. Key Responsibilities Define, document, and maintain cloud governance policies and standards across GCP, AWS, and Azure, and turn them into enforceable technical controls using GCP Organization Policy, AWS SCPs and Config, and Azure Policy Own the exception and waiver process end to end: intake, risk assessment, time-bound approval, expiry, and follow-up Partner with Security to enforce Identity and Access Management and network security standards across the organization, and review access models for least privilege Build and maintain dashboards that track governance metrics: security posture, key and credential rotation, policy violations, configuration drift, and time to remediation Own resource labeling and tagging standards and enforce them, so that cost, ownership, and environment can be attributed reliably Drive cost governance: spend visibility and showback, anomaly detection, commitment and discount coverage reviews, and surfacing waste to the teams that own it Collaborate with IT, Finance, Security, DevOps, Cloud Architects, and Product Engineering to keep governance controls consistent across all environments, and translate technical risk into language those stakeholders can act on Work with stakeholders to define service level objectives, key performance indi...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Cloud Governance Engineer at Five9, focused on AWS, Azure, Kubernetes, Python. Location: Portugal.",
+      "rule_based_application_sentence": "Your Cloud Governance Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     }
   ]
