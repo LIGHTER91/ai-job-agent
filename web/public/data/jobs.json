@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:14:53Z",
+  "generated_at": "2026-10-07T13:15:48Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -116,46 +116,6 @@
       ]
     },
     {
-      "id": "jobicy-154244",
-      "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
-      "company": "Quora",
-      "location": "Canada,  UK,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
-      "published_at": "2026-09-30",
-      "match_score": 56,
-      "priority": "medium",
-      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month. Our team owns Quora's ML platform and ranking infrastructure across four areas: serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency . We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. As a Software Engineer (New Grad) on this team, you'll work at the intersection of machine learning, distributed systems, and GPU serving performance — and your work will have an enormous impact on Quora's long-term success. No previous ML infrastructure experience is required for this role. You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong technical guidance — and you'll be shipping to production in your first few weeks. Stack: Python, Go, C++, PyTorch, Kubernetes/EKS, NVIDIA Triton, Ray, AWS Excited to see ou...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "Python",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "Python",
-        "Vector search"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Software Engineer New Grad, Machine Learning Platform - Quora at Quora, focused on AWS, Docker, Kubernetes, LLM. Location: Canada,  UK,  USA.",
-      "rule_based_application_sentence": "Your Software Engineer New Grad, Machine Learning Platform - Quora role interests me because it connects directly with my work around Docker, LLM, Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes."
-      ]
-    },
-    {
       "id": "remotive-2091149",
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
@@ -190,40 +150,71 @@
       ]
     },
     {
-      "id": "jobicy-154682",
-      "title": "Senior Application Security Engineer",
-      "company": "Beyond Finance",
-      "location": "Anywhere",
+      "id": "jobicy-152666",
+      "title": "Salesforce Developer (US-Remote)",
+      "company": "Tenable",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
-      "published_at": "2026-10-06",
-      "match_score": 41,
+      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
+      "published_at": "2026-10-07",
+      "match_score": 48,
       "priority": "low",
-      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. Role Overview As our Application Security Engineer, you will be the primary owner and driver of our application security program. You'll work hands-on with engineering teams to embed secure development practices, improve tooling and automation, and guide security considerations for new features, architectures, and services. This is a high-impact role where you'll shape the future of AppSec at a company that values security as a core part of product quality. What You'll Do Application Security Ownership Lead and evolve the company's application security strategy, roadmap, and day-to-day operations. Serve as the primary AppSec partner for numerous dev teams working on Ruby on Rails web apps, React Native mobile apps, and various other projects including Python and Go. Provide security guidance during design, development, and code review for new features and projects. Drive adoption of secure coding practices and threat-modeling across engineering teams. Tooling & Automation Manage and optimize existing AppSec tooling, including: GitHub Advanced Security (SAST, SCA, Secret Scanning) Invicti (DAST) Hadrian (ASM) AppDome (mobile application security) Cloudflare WAF Improve automation and integration of security tools into CI/CD pipelines. Identify and implement additional tools or processes to strengthen the security posture. Secure SDLC & Developer Enablement Build and maintain secure development standards, playbooks, and training materials. Partner with engineering teams during sprint planning and feature design to proactively address risks. Conduct security reviews, code assessments, and vulnerability triage with development teams. Cloud & DevOps Collaboration Work with DevOps to ensure secure AWS infrastructure deployments and configurations. Contribute to hardening efforts across ECS, IAM, networking, an...",
+      "raw_description": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a great place to work? Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together! Applicants must be authorized to work for any employer in the U.S. without sponsorship. We are unable to provide sponsorship for work visas of any kind at the time of hire, or at any point during employment. This includes, but is not limited to: F1-OPT, F1-CPT, H-1B, TN, J-1, etc Your Role: Tenable is looking for a Salesforce Developer to join our Business Technology team. This is a technical role — you are a builder first. You will own the design, development, and delivery of complex Salesforce solutions that power our go-to-market engine, including our Data Cloud platform, Agentforce AI automation, and core Sales, Service, and CPQ clouds. You write Apex and Lightning Web Components the way engineers write code: with testability, version control, and production deployments in mind. You are comfortable in a terminal, fluent with the Salesforce CLI, and you treat CI/CD pipelines as table stakes, not nice-to-haves. You will serve as a technical lead on the Business Technology Salesforce team, mentoring peers, setting development standards, and partnering directly with business stakeholders to translate complex requirements into elegant, scalable solutions. Your Opportunity: Platform Development Design and build complex Salesforce solutions using Apex (classes, triggers, batch, async), Lightning Web Components (LWC), and declarative tooling (Flow, custom metadata). Own the full development lifecycle: requirements analysis, technical design, code review, testing, and production deployment through sandbox environments using Salesforce CLI and SFDX. Establish and enforce coding standards...",
       "required_skills": [
-        "AWS",
         "GitHub Actions",
         "Python",
-        "React",
-        "Terraform"
+        "SQL"
       ],
       "matched_skills": [
         "GitHub Actions",
-        "Python",
-        "React"
+        "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Terraform"
+        "SQL"
       ],
-      "rule_based_summary": "Senior Application Security Engineer at Beyond Finance, focused on AWS, GitHub Actions, Python, React. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Senior Application Security Engineer role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Salesforce Developer (US-Remote) at Tenable, focused on GitHub Actions, Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Salesforce Developer (US-Remote) role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
+        "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS, Terraform."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-152662",
+      "title": "Customer Reliability Engineer",
+      "company": "Tailscale",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152662-customer-reliability-engineer",
+      "published_at": "2026-10-07",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role If you're passionate about solving complex technical problems and helping build trust between customers and engineering, this is the role for you. We're seeking a motivated Customer Reliability Engineer to join our team. You'll take ownership of our most complex, ambiguous customer escalations, solving issues where the root cause is not always obvious. You will work these issues to resolution or alternatively a fully-documented handoff that engineering can act on without delay. As a Customer Reliability Engineer, you'll partner closely with the Customer Success Team, Support Team, and Product/Engineering to close the gap between \"customer has described a problem\" and \"engineering has what it needs to fix it.\" This role reports directly to the Customer Reliability Engineer Team Lead. Key Responsibilities Own high-severity, post-sales technical escalations from intake through resolution or engineering handoff. This includes deep-dive investigations and reproduction of difficult-to-isolate bugs. Get on calls with customers, pull logs, and communicate with the customer about leading theories. Build engineering handoff packages that require minimal follow-up questions: reproducible case, log evidence (timestamps, node IDs), version matrix, impact scope, what's already been ruled out, and a proposed engineering team to own the fix. File and track issues for confirmed bugs, keeping the ticket/issue link intact so engineering retains full customer context. Monitor for patterns across escalations to catch recurring or systemic issues early; translate what you learn into product improvements, tooling, and runbooks that raise the technical bar for the whole Support org. Partner with Support, CSE, and Product/Eng, while staying within this team's scope. What We Are Looking For 4+ years in a technical support or escalation role at a SaaS or infrastructure company, with demonstrated ownership of escalated/enterprise-tier a...",
+      "required_skills": [
+        "GitHub Actions",
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Customer Reliability Engineer at Tailscale, focused on GitHub Actions, Kubernetes, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Customer Reliability Engineer role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
@@ -251,16 +242,16 @@
       ]
     },
     {
-      "id": "jobicy-154681",
-      "title": "Senior Information Security Engineer",
-      "company": "Five9",
-      "location": "Portugal",
+      "id": "jobicy-152668",
+      "title": "Security Sales Engineer - SLED/Public Sector",
+      "company": "Tenable",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154681-senior-information-security-engineer",
-      "published_at": "2026-10-06",
-      "match_score": 38,
+      "url": "https://jobicy.com/jobs/152668-security-sales-engineer-sled-public-sector",
+      "published_at": "2026-10-07",
+      "match_score": 33,
       "priority": "low",
-      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. We are looking for a Senior Information Security Engineer to join our growing Security Risk Management team. The Security Risk Management team aims to expand beyond traditional risk management; we are building an engineering driven program that designs, automates, and scales the controls, workflows, and tooling that protect Five9 and our customers. As a key contributor to the program the role supports the day-to-day execution of risk identification, assessment, treatment, and reporting across Five9's infrastructure, services, and acquisitions. You'll work directly with engineering, operations, and business stakeholders to surface security risks, drive them toward resolution, and maintain a clear picture of Five9's risk posture for leadership. Key Responsibilities: Identify, document, and assess security risks across Five9's environment, including production infrastructure, cloud services, corporate systems, and acquired platforms Maintain the Security Risk Register in Jira, ensuring risks are accurately categorized, assigned to appropriate owners, and tracked through their lifecycle Engage with service owners, engineering leads, and operations teams to establish risk ownership and drive remediation or mitigation plans Facilitate the risk acceptance process, including preparing risk acceptance documentation and coordinating approval with appropriate stakeholders Develop and deliver risk reporting for security leadership and executive audiences, including dashboards and metrics that communicate risk posture clearly Collaborate with compliance, vulnerability management, and other Information Security functions to ensure risk findings are incorporated into the broader security program Research and apply risk management frameworks and methodologies to continuously improve program maturity Contribute to the development of risk management policies, procedures, and playbooks Requirements: 3+ years of experience in information security, with at least 2 years focused on security risk management or GRC Demonstrated experience maintaining a s...",
+      "raw_description": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a great place to work? Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together! Your Role: At Tenable, we are looking for a passionate, technically capable cybersecurity professional to join our Public Sector team as a Sales Engineer, focusing on the west region. In this role, you will be crucial in driving sales success and enhancing customer experience through technical credibility and an authentic understanding of government operations. You will work closely with Sales Representatives and a collaborative team to differentiate Tenable, build lasting customer trust, and create enthusiastic advocates for our solutions. We value strong technical curiosity, customer empathy, and growth potential—we can teach our sales process and the mechanics of the SE role to the right candidate. Your Opportunity: Deliver Technical Demonstrations: Present compelling technical demonstrations of Tenable's platform, showcasing value and differentiation tailored to public sector needs. Support Evaluations: Assist with enterprise software trials and \"Proof of Value\" evaluations to ensure they align with customer goals. Bridge Technical Findings to Outcomes: Translate complex technical findings and exposure data into clear risk and business outcomes for both technical practitioners and executive leadership. Solve Real Problems: Address government agency challenges with consultative security insights that respect their operational constraints and budget realities. Engage and Educate: Answer technical questions, provide security insights, and support local events, conferences, and community engagements. Support Sales Efforts: Partner with sales representatives to achieve revenue targe...",
       "required_skills": [
         "AWS",
         "Azure",
@@ -273,53 +264,14 @@
         "AWS",
         "Azure"
       ],
-      "rule_based_summary": "Senior Information Security Engineer at Five9, focused on AWS, Azure, Python. Location: Portugal.",
-      "rule_based_application_sentence": "Your Senior Information Security Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Security Sales Engineer - SLED/Public Sector at Tenable, focused on AWS, Azure, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Security Sales Engineer - SLED/Public Sector role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "1 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: AWS, Azure."
-      ]
-    },
-    {
-      "id": "jobicy-154675",
-      "title": "Cloud Governance Engineer",
-      "company": "Five9",
-      "location": "Portugal",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154675-cloud-governance-engineer",
-      "published_at": "2026-10-06",
-      "match_score": 34,
-      "priority": "low",
-      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. This is a governance role, not a build-and-operate role. You will spend your time defining the rules our cloud estate runs by, making those rules enforceable in code, and proving they are working. You will write standards that other engineering teams have to follow, and you will be the person who explains to Finance, Security, and Product leadership why a given risk matters and what it will cost to fix or ignore. If what you want is to build and run infrastructure, this is not the right seat. If you want to own how a multi-cloud estate is governed, it is. About our estate: roughly 70% Google Cloud, with AWS and Azure in scope as secondary platforms. GCP is where the majority of the work sits, so hands-on GCP experience is a hard requirement rather than a preference. Key Responsibilities Define, document, and maintain cloud governance policies and standards across GCP, AWS, and Azure, and turn them into enforceable technical controls using GCP Organization Policy, AWS SCPs and Config, and Azure Policy Own the exception and waiver process end to end: intake, risk assessment, time-bound approval, expiry, and follow-up Partner with Security to enforce Identity and Access Management and network security standards across the organization, and review access models for least privilege Build and maintain dashboards that track governance metrics: security posture, key and credential rotation, policy violations, configuration drift, and time to remediation Own resource labeling and tagging standards and enforce them, so that cost, ownership, and environment can be attributed reliably Drive cost governance: spend visibility and showback, anomaly detection, commitment and discount coverage reviews, and surfacing waste to the teams that own it Collaborate with IT, Finance, Security, DevOps, Cloud Architects, and Product Engineering to keep governance controls consistent across all environments, and translate technical risk into language those stakeholders can act on Work with stakeholders to define service level objectives, key performance indi...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Cloud Governance Engineer at Five9, focused on AWS, Azure, Kubernetes, Python. Location: Portugal.",
-      "rule_based_application_sentence": "Your Cloud Governance Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     }
   ]
