@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:15:48Z",
+  "generated_at": "2026-10-08T13:22:13Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,48 +74,6 @@
   },
   "jobs": [
     {
-      "id": "remotive-2091133",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, APAC",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "published_at": "2026-10-02",
-      "match_score": 79,
-      "priority": "high",
-      "raw_description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements for the Senior React & Python Position: 4+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "LLM",
-        "MLOps",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Next.js",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "MLOps"
-      ],
-      "rule_based_summary": "Senior React Full-stack Developer at Lemon.io, focused on AWS, Azure, LLM, MLOps. Location: Europe, USA, Canada, APAC.",
-      "rule_based_application_sentence": "Your Senior React Full-stack Developer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "4 of 7 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, MLOps."
-      ]
-    },
-    {
       "id": "remotive-2091149",
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
@@ -150,51 +108,85 @@
       ]
     },
     {
-      "id": "jobicy-152666",
-      "title": "Salesforce Developer (US-Remote)",
-      "company": "Tenable",
+      "id": "jobicy-152751",
+      "title": "Data Lead - Central Data Team",
+      "company": "YipitData",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152666-salesforce-developer-us-remote",
-      "published_at": "2026-10-07",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/152751-data-lead-central-data-team",
+      "published_at": "2026-10-08",
+      "match_score": 46,
       "priority": "low",
-      "raw_description": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a great place to work? Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together! Applicants must be authorized to work for any employer in the U.S. without sponsorship. We are unable to provide sponsorship for work visas of any kind at the time of hire, or at any point during employment. This includes, but is not limited to: F1-OPT, F1-CPT, H-1B, TN, J-1, etc Your Role: Tenable is looking for a Salesforce Developer to join our Business Technology team. This is a technical role — you are a builder first. You will own the design, development, and delivery of complex Salesforce solutions that power our go-to-market engine, including our Data Cloud platform, Agentforce AI automation, and core Sales, Service, and CPQ clouds. You write Apex and Lightning Web Components the way engineers write code: with testability, version control, and production deployments in mind. You are comfortable in a terminal, fluent with the Salesforce CLI, and you treat CI/CD pipelines as table stakes, not nice-to-haves. You will serve as a technical lead on the Business Technology Salesforce team, mentoring peers, setting development standards, and partnering directly with business stakeholders to translate complex requirements into elegant, scalable solutions. Your Opportunity: Platform Development Design and build complex Salesforce solutions using Apex (classes, triggers, batch, async), Lightning Web Components (LWC), and declarative tooling (Flow, custom metadata). Own the full development lifecycle: requirements analysis, technical design, code review, testing, and production deployment through sandbox environments using Salesforce CLI and SFDX. Establish and enforce coding standards...",
+      "raw_description": "About Us YipitData is the leading market research and analytics firm for the disruptive economy. Our proprietary technology analyzes billions of alternative data points to uncover actionable insights. The world's top investment funds and Fortune 500 companies depend on our data to drive high-stakes decisions. We operate globally with offices in the US, APAC, and India. Our award-winning, people-centric culture - recognized by Inc. as a Best Workplace for three consecutive years - emphasizes transparency, ownership, and continuous mastery. What It's Like to Work Here: Ownership is real, not aspirational. An analyst here can own a data product end-to-end - from methodology to client delivery - and present directly to the investors who depend on it. You won't spend months waiting for \"meaningful work.\" Growth is driven by impact , not tenure. Scope and responsibility expand as fast as you can demonstrate you're ready. We promote based on what you've done, not how long you've been here. AI is a core working tool, not a side project. We're actively rebuilding how analytical work gets done - using AI agents, automation, and new tooling to fundamentally change what's possible. If you're excited about that, you'll thrive here. About the Role: YipitData's Central Data team sits at the foundation of everything we deliver. We build the standardized data products, methodologies, and systems that power every downstream business — from our investment research and corporate products to our data feeds. Historically, many teams solved similar data problems independently. Central Data exists to identify those common patterns and build shared solutions that improve quality, consistency, and speed across the company. As a Central Data Lead, you'll own one of these foundational data domains end-to-end. This is a highly analytical product ownership role that combines deep data expertise, systems thinking, technical leadership, and cross-functional execution. Rather than solving one-off analytical problems, you'll design the reusable systems and methodologies that enable dozens of downstream teams to move faster with greater confidence. Each domain is jointly led by a three-person leadership team: Data Lead : owns methodology, data quality, and analytical strategy Technical Product Manager : owns prioritization, roadmap, and business alignment Data Engineering Manager : owns engineering execution, platform architecture, and technical delivery Together, you'll define how your...",
       "required_skills": [
-        "GitHub Actions",
         "Python",
-        "SQL"
+        "SQL",
+        "Spark"
       ],
       "matched_skills": [
-        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "SQL",
+        "Spark"
       ],
-      "rule_based_summary": "Salesforce Developer (US-Remote) at Tenable, focused on GitHub Actions, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Salesforce Developer (US-Remote) role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Data Lead - Central Data Team at YipitData, focused on Python, SQL, Spark. Location: USA.",
+      "rule_based_application_sentence": "Your Data Lead - Central Data Team role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "1 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
+        "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: SQL, Spark."
       ]
     },
     {
-      "id": "jobicy-152662",
-      "title": "Customer Reliability Engineer",
-      "company": "Tailscale",
+      "id": "jobicy-154018",
+      "title": "Full-Stack Engineer (Back-End Leaning)",
+      "company": "Elevenlabs",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
+      "published_at": "2026-10-08",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-wor...",
+      "required_skills": [
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Full-Stack Engineer (Back-End Leaning) at Elevenlabs, focused on Kubernetes, Python. Location: Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA.",
+      "rule_based_application_sentence": "Your Full-Stack Engineer (Back-End Leaning) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "jobicy-152749",
+      "title": "Pre/Post Sales Solutions Architect",
+      "company": "Gremlin",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152662-customer-reliability-engineer",
-      "published_at": "2026-10-07",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/152749-pre-post-sales-solutions-architect",
+      "published_at": "2026-10-08",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role If you're passionate about solving complex technical problems and helping build trust between customers and engineering, this is the role for you. We're seeking a motivated Customer Reliability Engineer to join our team. You'll take ownership of our most complex, ambiguous customer escalations, solving issues where the root cause is not always obvious. You will work these issues to resolution or alternatively a fully-documented handoff that engineering can act on without delay. As a Customer Reliability Engineer, you'll partner closely with the Customer Success Team, Support Team, and Product/Engineering to close the gap between \"customer has described a problem\" and \"engineering has what it needs to fix it.\" This role reports directly to the Customer Reliability Engineer Team Lead. Key Responsibilities Own high-severity, post-sales technical escalations from intake through resolution or engineering handoff. This includes deep-dive investigations and reproduction of difficult-to-isolate bugs. Get on calls with customers, pull logs, and communicate with the customer about leading theories. Build engineering handoff packages that require minimal follow-up questions: reproducible case, log evidence (timestamps, node IDs), version matrix, impact scope, what's already been ruled out, and a proposed engineering team to own the fix. File and track issues for confirmed bugs, keeping the ticket/issue link intact so engineering retains full customer context. Monitor for patterns across escalations to catch recurring or systemic issues early; translate what you learn into product improvements, tooling, and runbooks that raise the technical bar for the whole Support org. Partner with Support, CSE, and Product/Eng, while staying within this team's scope. What We Are Looking For 4+ years in a technical support or escalation role at a SaaS or infrastructure company, with demonstrated ownership of escalated/enterprise-tier a...",
+      "raw_description": "Today’s complex, fast-paced systems have become a minefield of reliability risks—any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix ‌reliability risks before they become incidents. The Gremlin Reliability Platform helps software teams proactively monitor and test their systems for common reliability risks, build and enforce reliability standards, and automate their reliability practices organization-wide. As the industry leader in Chaos Engineering and reliability testing, we work with hundreds of the world’s largest organizations where high availability is non-negotiable. About the Role of Pre/Post Sales Solutions Architect Gremlin’s team is growing, and we’re seeking a passionate Solutions Architect to help prove the value of Reliability Management to customers. In this pre- and post-sales role, you will have the opportunity to demonstrate Gremlin Reliability Management and offer guidance on best practices for building reliable architectures. As customers convert to a paid subscription, you will advise on how to design and implement experiments to activate customers for their reliability journey. In this role, you'll get to: Demonstrate Gremlin in customer calls and webinars Partner with sales team to drive technical wins and grow Gremlin’s customer base Participate and lead proof-of-concepts with potential customers Educate potential customers on Reliability and Chaos Engineering Work with existing customers on technical projects and assist in troubleshooting Consult with customers on the resiliency of their applications and architecture, diagnose gaps and recommend solutions Participate in technical workshops and conferences Collaborate with different functions of the company including Product Marketing, Support, and Engineering We'll expect you to have: 5+ years of experience as a Solution Architect in a tech company Excellent verbal and written communication skills Strong problem-solving skills Hands on experience with: Kubernetes Platforms, Managed and Unmanaged AKS, EKS, GKE OpenShift, Rancher Certified k8 Administrator is a plus Linux - Shell scripting, Certified Linux Administrator is a plus Container and Container Runtimes Operating Systems concepts (CPU, Memory, and networking) Working knowledge of : Observability solutions - Application Performance Management Load Testing solutions (e.g JMeter, LoadRunner, Grafana K6) CI/CD and Automation To...",
       "required_skills": [
+        "AWS",
+        "Azure",
         "GitHub Actions",
         "Kubernetes",
         "Python"
@@ -204,74 +196,71 @@
         "Python"
       ],
       "missing_skills": [
+        "AWS",
+        "Azure",
         "Kubernetes"
       ],
-      "rule_based_summary": "Customer Reliability Engineer at Tailscale, focused on GitHub Actions, Kubernetes, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Customer Reliability Engineer role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Pre/Post Sales Solutions Architect at Gremlin, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: USA.",
+      "rule_based_application_sentence": "Your Pre/Post Sales Solutions Architect role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "2 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes."
       ]
     },
     {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "published_at": "2026-10-02",
-      "match_score": 40,
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "published_at": "2026-10-04",
+      "match_score": 35,
       "priority": "low",
-      "raw_description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the mo...",
+      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Freelance Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer looks more senior than the target profile."
       ]
     },
     {
-      "id": "jobicy-152668",
-      "title": "Security Sales Engineer - SLED/Public Sector",
-      "company": "Tenable",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152668-security-sales-engineer-sled-public-sector",
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
       "published_at": "2026-10-07",
-      "match_score": 33,
+      "match_score": 28,
       "priority": "low",
-      "raw_description": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a great place to work? Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together! Your Role: At Tenable, we are looking for a passionate, technically capable cybersecurity professional to join our Public Sector team as a Sales Engineer, focusing on the west region. In this role, you will be crucial in driving sales success and enhancing customer experience through technical credibility and an authentic understanding of government operations. You will work closely with Sales Representatives and a collaborative team to differentiate Tenable, build lasting customer trust, and create enthusiastic advocates for our solutions. We value strong technical curiosity, customer empathy, and growth potential—we can teach our sales process and the mechanics of the SE role to the right candidate. Your Opportunity: Deliver Technical Demonstrations: Present compelling technical demonstrations of Tenable's platform, showcasing value and differentiation tailored to public sector needs. Support Evaluations: Assist with enterprise software trials and \"Proof of Value\" evaluations to ensure they align with customer goals. Bridge Technical Findings to Outcomes: Translate complex technical findings and exposure data into clear risk and business outcomes for both technical practitioners and executive leadership. Solve Real Problems: Address government agency challenges with consultative security insights that respect their operational constraints and budget realities. Engage and Educate: Answer technical questions, provide security insights, and support local events, conferences, and community engagements. Support Sales Efforts: Partner with sales representatives to achieve revenue targe...",
+      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
       "required_skills": [
-        "AWS",
-        "Azure",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
         "Azure"
       ],
-      "rule_based_summary": "Security Sales Engineer - SLED/Public Sector at Tenable, focused on AWS, Azure, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Security Sales Engineer - SLED/Public Sector role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "matched_skills": [],
+      "missing_skills": [
+        "Azure"
+      ],
+      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "0 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS, Azure."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
       ]
     }
   ]
