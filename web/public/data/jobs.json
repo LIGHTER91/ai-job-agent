@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:10:54Z",
+  "generated_at": "2026-10-10T12:25:28Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,35 +74,35 @@
   },
   "jobs": [
     {
-      "id": "jobicy-154905",
-      "title": "Accounting Automation Engineer",
-      "company": "Ruby Labs",
-      "location": "Europe",
+      "id": "jobicy-152924",
+      "title": "Staff AI Product Analyst",
+      "company": "ANGI",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
-      "published_at": "2026-10-09",
-      "match_score": 53,
+      "url": "https://jobicy.com/jobs/152924-staff-ai-product-analyst",
+      "published_at": "2026-10-10",
+      "match_score": 58,
       "priority": "medium",
-      "raw_description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role We are hiring an Accounting Automation Engineer to replace manual accounting work across a multi-entity, multi-country enterprise, using Claude Code and agentic AI. You will use Claude Code and agentic AI, plus Python or JavaScript/TypeScript, to automate accounts payable, accounts receivable, reconciliations, month-end close and the wider day-to-day accounting operation. You need strong IFRS or US GAAP knowledge to get the numbers right, because an automation that posts wrong entries is worse than no automation. We build agentic AI systems and AI agents, not fixed step-by-step workflows. Experience with rule-based workflow builders such as n8n or Zapier is not relevant to this role. Titles we will consider: Accounting Automation Engineer, Finance Engineer, Financial Systems Engineer, Technical Accountant (with engineering background), Accounting Systems Manager (with engineering background). Key Responsibilities The goal is to automate the repeatable core of enterprise accounting, with human review kept only where judgment is needed. Accounts payable Invoice capture and data extraction from PDFs and email, using AI where useful Vendor matching, coding suggestions, and 2-way/3-way PO matching Duplicate invoice detection and approval routing Payment run preparation and vendor statement reconciliation Accounts receivable Invoice generation and delivery Cash application and bank receipt matching Aging reports, dunning and collections reminders Credit note handling and bad debt/ECL provision support Reconciliations Bank and card reconciliations across all accounts and currencies Balance sheet account reconciliations (prepayments, accruals, deferred revenue, fixed assets) Intercompany and subledger-to-GL reconciliations Exception reports that flag only the items a human needs to review Month-end close Close checklist tracking and scheduled reminders Recurring, accrual, prepayment and amortization journals Depreciation runs and FX revaluation Trial balance checks, flux/variance analysis, and draft commentary Management reporting packs General accounting...",
+      "raw_description": "For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well. For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you. Angi at a glance: Founded in 1995 as Angie’s List and rebranded in 2021 Global company with 9 brands in 8 countries and employees worldwide Homeowners have turned to us for 300 million home projects and counting About the team The Staff AI Product Analyst will define AI-native product analytics for Angi, turning visionary technology into prioritized use cases, robust evaluation disciplines, and a trusted data ecosystem. This role is central to building Angi’s agentic product analytics capability—defining where AI-native analytics creates real leverage, designing the evaluation frameworks that earn organizational trust, and establishing repeatable system standards. As a senior individual contributor, you will have broad influence across the product analytics function and beyond, ensuring that both human teams and AI agents remain aligned on truth, quality, and usefulness. The ideal candidate is a systems-thinking data expert who bridges the gap between deep AI capabilities and practical business outcomes. What you’ll do AI Product Strategy & Metrics Design Flagship Journey Measurement: Partner with AI product, engineering, and domain experts to define north-star and guardrail metrics for flagship AI journeys, focusing on adoption, task completion, quality, and downstream business outcomes. Causal Framing & Experimentation: Align closely with data science partners on test design, interpretation, and causal framing when new AI products ship. Data Layer Systems Thinking: Map how agents interact with metrics, raw tables, documentation, and APIs to ensure requirements for data and analytics engineering are explicit, structured, and testable. Evaluation, Governance & Backlog Management Eval Framework Architecture: Design and maintain formal evaluation sets, \"golden datasets,\" rubrics, and regression checks for agent outputs to guarantee accuracy, completeness, policy safety, and usefulness. Taxonomy & Failure Mode Analysis: Systematically categorize wrong answers, tool misuse, context gaps, and data edge cases, feeding those insights back into pr...",
       "required_skills": [
+        "LLM",
         "Python",
-        "SQL"
+        "RAG"
       ],
       "matched_skills": [
-        "Python"
+        "LLM",
+        "Python",
+        "RAG"
       ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Accounting Automation Engineer at Ruby Labs, focused on Python, SQL. Location: Europe.",
-      "rule_based_application_sentence": "Your Accounting Automation Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "missing_skills": [],
+      "rule_based_summary": "Staff AI Product Analyst at ANGI, focused on LLM, Python, RAG. Location: USA.",
+      "rule_based_application_sentence": "Your Staff AI Product Analyst role interests me because it connects directly with my work around LLM, Python, RAG, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "3 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -140,98 +140,103 @@
       ]
     },
     {
-      "id": "jobicy-154900",
-      "title": "DevOps Engineer (Observability)",
-      "company": "Twilio",
-      "location": "Ireland",
+      "id": "jobicy-152949",
+      "title": "Senior Engineer (Software), Enterprise",
+      "company": "NetBox Labs",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154900-devops-engineer-observability",
-      "published_at": "2026-10-09",
-      "match_score": 38,
+      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+      "published_at": "2026-10-10",
+      "match_score": 43,
       "priority": "low",
-      "raw_description": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . See yourself at Twilio Join the team as our next Software Engineer on Twilio’s platform engineering observability team. About the job This position is needed to help our platform engineering observability team. Twilio is undergoing a large-scale observability transformation—and you can help shape the foundation. Observability is a strategic pillar and a key enabler for faster incident response, deeper customer-centric insights, and more cost-effective platform operations. As a Software Engineer on the Platform Observability team, you’ll play a critical role in re-architecting how telemetry flows and is utilized through Twilio—making it structured, accessible, affordable, and actionable. Over the next 3 years, Twilio is rebuilding nearly every component of our observability platform, from data collection to real-time analytics. You will drive core initiatives that shift Twilio from fragmented tooling and wasteful data sprawl to a unified, OpenTelemetry-first observability stack built for scale. You’ll lead technically and strategically—designing platform components, influencing org-wide architectural decisions, mentoring engineers, and engaging directly with teams across Platform Engineering and R&D Responsibilities In this role, you’ll: Lead the end-to-end architecture and delivery of key observability platform components, with a focus on reliability, scalability, and usability. Drive consistency and quality across all observability signals—logs, metrics, traces, and continuous profiling—b...",
+      "raw_description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will: Design, architect, and implement Kubernetes-based, high-availability (HA) on-premises solutions, including control plane applications, telemetry systems, air-gapped installations, and appliance offerings Extend and maintain our Kubernetes operator, the core of how NetBox Enterprise installs, upgrades, and heals itself in customer environments Develop and maintain our operational management console and associated tools, ensuring a seamless user experience for lifecycle management Architect and implement robust multi-stage CI/CD pipelines using GitHub Actions and complementary DevOps technologies Drive releases on our six-week cadence, four weeks of build followed by two weeks of stabilization, including versioning strategy and structured release management Write Rust and Python across the stack, from operator internals to internal tooling and APIs Build internal tooling and APIs to facilitate integration testing by upstream application teams, validating changes ahead of inclusion in on-premises releases Develop comprehensive documentation and establish best practice guidelines for deployments Take a weekly turn as Engineering Guardian, fielding questions and escalations from across the organization and working directly with Customer Success and customers to diagnose and resolve deployment and operational issues Requirements: 5+ years in software engineering, platform engineering, or SRE, with proven experience writing robust, maintainable code Demonstrated expertise with Kubernetes, Helm charts, and deployment automation, including complex multi-cluster and multi-region deployments Hands-on experience building inside an AI-augmented development harness, including Claude Code and the workflows that make agentic tooling reliable Strong Python skills for tooling, APIs, and automation Hands-on experience with CI/CD systems (GitHub Actions), GitOps delivery (ArgoCD or FluxCD), and infrastructure-as-code (Terraform) Strong knowledge of Linux systems, including system administration, troubleshooting, and networking Solid understanding of sof...",
       "required_skills": [
-        "AWS",
+        "GitHub Actions",
         "Kubernetes",
-        "Python"
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Kubernetes"
+        "Kubernetes",
+        "Terraform"
       ],
-      "rule_based_summary": "DevOps Engineer (Observability) at Twilio, focused on AWS, Kubernetes, Python. Location: Ireland.",
-      "rule_based_application_sentence": "Your DevOps Engineer (Observability) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Engineer (Software), Enterprise at NetBox Labs, focused on GitHub Actions, Kubernetes, Python, Terraform. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Engineer (Software), Enterprise role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes."
+        "Main missing or weaker skills: Kubernetes, Terraform."
       ]
     },
     {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "published_at": "2026-10-04",
-      "match_score": 35,
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "published_at": "2026-10-08",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
+      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $500 USD total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 0: Unpaid Week 1: $100 guaranteed minimum Week 2: $150 guaranteed minimum Week 3: $250 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism es...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-154887",
-      "title": "Manager, Professional Services",
-      "company": "Collibra",
-      "location": "USA",
+      "id": "jobicy-152955",
+      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
+      "company": "Datadog",
+      "location": "Germany,  Italy,  Netherlands,  Spain,  Sweden,  UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154887-manager-professional-services",
-      "published_at": "2026-10-09",
-      "match_score": 34,
+      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
+      "published_at": "2026-10-10",
+      "match_score": 38,
       "priority": "low",
-      "raw_description": "Joining Collibra ’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuring growth, adoption and renewal, Federal Solution Architects act as customer champions, ensuring customers are onboarded and realizing value rapidly. Managers, Professional Services at Collibra are responsible for Supporting federal customer engagements by delivering mission-aligned architectural design and execution of Collibra products that adhere to Collibra Public Sector’s Delivery Models, Engagement Processes, Methodologies, and Artifacts, while ensuring compliance with applicable government regulations and security standards (e.g., FedRAMP, FISMA, GovCloud). Providing federal agencies with tailored data governance strategies that incorporate best practices, enable knowledge transfer, and drive measurable business and mission outcomes. Partnering cross-functionally with Collibra Sales, Customer Engineering, Product, Support, and Executive teams to ensure alignment with federal acquisition cycles and stakeholder priorities. Identifying opportunities to expand Collibra’s footprint within agencies by aligning product capabilities to evolving agency mandates, modernization efforts, and compliance requirements. Meeting or exceeding utilization goals in support of federal client success, long-term program engagement, and repeatable delivery excellence. Contributing to the growth of Collibra’s public sector services and licensing business through account expansion, strategic planning, and customer advocacy. You have 5-10 years of consulting experience supporting U.S. federal agencies with knowledge in the areas of Data Governance, Data Management or Data Quality. An understanding of the leading PaaS providers, Data Lakes, Databases, and Integration platforms commonly adopted by federal agencies. A minimum of 2 years of experience working with cloud platforms, network-based API integration (REST/JSON), and deployment automation. Linux CLI proficiency. Hands-on experience with AWS/Azure, Kubernetes, infrastructure and platform. Experience with big data technologies such as Spark, and Hadoop. Familiarity in enterprise security solutions such as LDAP or Kerberos. Hands-on experience with Data Quality, Data Pipelines, Data Orchestration, and/or Job Control t...",
+      "raw_description": "We are Datadog 's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels & Alliances business segment. The PSA is responsible for supporting a variety of technical initiatives and activities for our partners (for example: cloud migration, application modernization, DevOps transformation). They are accountable for the outcome of these initiatives, and frequently collaborate with both Datadog and Partner resources to drive success. The PSA is a trusted technical advisor for our Partner channel. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Ensure the successful onboarding, training, enablement, and certification of partner technical resources; Participate in periodic joint business planning and review sessions to ensure direct alignment between Datadog and Partner technical teams; Collaborate internally to support Partner technical initiatives such as end-customer demonstrations and proofs of value; partner team enablement workshops; assessment, advice, and coaching on lead practices; Advocate on behalf of Partners’ technical concerns (use cases, feature requests, support issues, e.g.) with Datadog internal teams and personnel, helping to bring those concerns to resolution; Analyze and understand Partner service offerings on a regular basis and provide recommendations to enhance the value of those services through greater or improved adoption of Datadog features and capabilities; Collaborate with Datadog’s product management, engineering and technical services teams to help identify and prioritize new features and capabilities; Continuously help curate and evolve lead/best practices for Datadog platform adoption and success. Who You Are: Possess a solid technical grounding with hands-on experience of IT Development and/or Operations Has a demonstrable track-record and never-ending passion for learning; successful candidates for this position typically have 10-15 years of experience in a customer or partner facing technical role A self-starter, tech-sa...",
       "required_skills": [
         "AWS",
         "Azure",
+        "Docker",
         "Kubernetes",
         "Python",
-        "Spark"
+        "Terraform"
       ],
       "matched_skills": [
+        "Docker",
         "Python"
       ],
       "missing_skills": [
         "AWS",
         "Azure",
         "Kubernetes",
-        "Spark"
+        "Terraform"
       ],
-      "rule_based_summary": "Manager, Professional Services at Collibra, focused on AWS, Azure, Kubernetes, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Manager, Professional Services role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Partner Solutions Architect (Pan-EMEA GSI) at Datadog, focused on AWS, Azure, Docker, Kubernetes. Location: Germany,  Italy,  Netherlands,  Spain,  Sweden,  UK.",
+      "rule_based_application_sentence": "Your Partner Solutions Architect (Pan-EMEA GSI) role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 5 extracted skills match the profile.",
+        "2 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Spark."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
