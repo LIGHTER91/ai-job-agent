@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:25:28Z",
+  "generated_at": "2026-10-11T12:43:19Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,32 +74,108 @@
   },
   "jobs": [
     {
-      "id": "jobicy-152924",
-      "title": "Staff AI Product Analyst",
-      "company": "ANGI",
-      "location": "USA",
+      "id": "jobicy-155056",
+      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+      "company": "Reddit",
+      "location": "Netherlands,  UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152924-staff-ai-product-analyst",
-      "published_at": "2026-10-10",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well. For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the winnable work they want, when they want. For employees, we're an amazing place to call home. We can't wait to welcome you. Angi at a glance: Founded in 1995 as Angie’s List and rebranded in 2021 Global company with 9 brands in 8 countries and employees worldwide Homeowners have turned to us for 300 million home projects and counting About the team The Staff AI Product Analyst will define AI-native product analytics for Angi, turning visionary technology into prioritized use cases, robust evaluation disciplines, and a trusted data ecosystem. This role is central to building Angi’s agentic product analytics capability—defining where AI-native analytics creates real leverage, designing the evaluation frameworks that earn organizational trust, and establishing repeatable system standards. As a senior individual contributor, you will have broad influence across the product analytics function and beyond, ensuring that both human teams and AI agents remain aligned on truth, quality, and usefulness. The ideal candidate is a systems-thinking data expert who bridges the gap between deep AI capabilities and practical business outcomes. What you’ll do AI Product Strategy & Metrics Design Flagship Journey Measurement: Partner with AI product, engineering, and domain experts to define north-star and guardrail metrics for flagship AI journeys, focusing on adoption, task completion, quality, and downstream business outcomes. Causal Framing & Experimentation: Align closely with data science partners on test design, interpretation, and causal framing when new AI products ship. Data Layer Systems Thinking: Map how agents interact with metrics, raw tables, documentation, and APIs to ensure requirements for data and analytics engineering are explicit, structured, and testable. Evaluation, Governance & Backlog Management Eval Framework Architecture: Design and maintain formal evaluation sets, \"golden datasets,\" rubrics, and regression checks for agent outputs to guarantee accuracy, completeness, policy safety, and usefulness. Taxonomy & Failure Mode Analysis: Systematically categorize wrong answers, tool misuse, context gaps, and data edge cases, feeding those insights back into pr...",
+      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
+      "published_at": "2026-10-11",
+      "match_score": 81,
+      "priority": "high",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Location: Reddit has a flexible first workforce. Don't live near our office? No worries: you can work remotely from anywhere in the UK or the Netherlands. The Ads Foundational Representations (AFR) team develops signals and representations of Reddit’s core entities (ads, posts, users, and so on), capturing the semantic, contextual, and behavioral information that Reddit Ads needs. We work on building embeddings to understand content and users' interests based on the content they engage with. Our team has the potential to highlight one of Reddit's biggest differentiators: genuinely curated, high-quality, extremely relevant, and daily updated organic content. We are a Machine Learning/Data heavy team with a focus on the following areas: Multimodal & Content Embeddings - Make sense of organic (posts, comments, subreddits) and promoted (ads, shopping products, their landing pages) text and media content by embedding them into a shared space. Contextual and Behavioral Relevance - Working with Product & Data Science, establishing definitions of what ads are relevant to users and the content we show them next to, building metrics and fine-tuning embeddings to better reflect relevance. Knowledge Graph Embeddings - Building representations for the Knowledge graph entities, e.g., intellectual properties/brands, to be used for high-precision targeting & business insights. User Intent Modeling - Leveraging various techniques to introduce user representations based on the content they interact with: batch & real-time sequence modeling, LLM summarization, etc. LLM-based Representations - Leveraging LLMs, VLMs, and foundational models to build complex representations of Reddit entities that improve ranking outcomes The signals and features we create become a key piece in the Ads Delivery funnel, from targeting to the auction, as well as the Business Insights product and other advertiser-facing products such as Creative generation and optimization. As a Staff ML Engineer , you’ll be in charge of setting the technical direc...",
       "required_skills": [
+        "Airflow",
+        "Knowledge graphs",
+        "Kubernetes",
         "LLM",
+        "NLP",
         "Python",
-        "RAG"
+        "Vector search"
       ],
       "matched_skills": [
+        "Knowledge graphs",
         "LLM",
+        "NLP",
         "Python",
-        "RAG"
+        "Vector search"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Staff AI Product Analyst at ANGI, focused on LLM, Python, RAG. Location: USA.",
-      "rule_based_application_sentence": "Your Staff AI Product Analyst role interests me because it connects directly with my work around LLM, Python, RAG, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "Airflow",
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Staff Machine Learning Engineer, Ads Foundational Representations at Reddit, focused on Airflow, Knowledge graphs, Kubernetes, LLM. Location: Netherlands,  UK.",
+      "rule_based_application_sentence": "Your Staff Machine Learning Engineer, Ads Foundational Representations role interests me because it connects directly with my work around Knowledge graphs, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "5 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Airflow, Kubernetes."
+      ]
+    },
+    {
+      "id": "jobicy-155050",
+      "title": "Product Engineering",
+      "company": "Polar",
+      "location": "Europe,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155050-product-engineering",
+      "published_at": "2026-10-11",
+      "match_score": 62,
+      "priority": "medium",
+      "raw_description": "Product Engineering at Polar Product engineering at Polar is about shaping and building the finance layer for the next generation of AI products. We’re rethinking how billing works for a world of usage-based software, programmable pricing and AI agents – from real-time metering and pricing as code, to more flexible customer identities, giving developers greater control over how they monetize their products. We’re interested in engineers who enjoy working across our entire stack, solving complex technical challenges while shaping how developers interact with and experience Polar. We value engineers who think beyond implementation, challenge assumptions and bring the technical depth and product judgement to make sophisticated systems feel simple. We operate as a small, remote-first team with a strong bias towards shipping. We value engineers who can work independently, collaborate when it matters and maintain a high bar for quality without sacrificing speed. More about Polar and how we work What you could work on Depending on your experience and where you can have the greatest impact, this could include: Own product development end-to-end: Identifying opportunities, shipping and iterating on features across our stack – taking responsibility for both the technical implementation and the product outcome. Build exceptional developer experiences: Bringing a strong eye for design, usability and detail to everything you ship. Turning complex billing and monetization workflows into intuitive interfaces, powerful APIs and thoughtful abstractions that make our merchants’ lives easier. Ship with speed and quality: Delivering improvements continuously, balancing fast iterations with robust engineering, performance and attention to detail. Stay close to our users: Engaging with our merchants, to understand how they use Polar, uncover pain points and translate feedback into meaningful product improvements. What we look for We’re particularly interested in senior engineers who combine strong technical foundations with exceptional product judgement and design sensibility. People who care deeply about developer experience, have opinions about what makes great software and know that building the right thing often means knowing what not to build. Some of the qualities and experience we value in this area include: Strong technical foundations: Experience building, shipping and evolving production software, with deep expertise in at least one part of the stack and the abilit...",
+      "required_skills": [
+        "AWS",
+        "FastAPI",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "FastAPI",
+        "PostgreSQL",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS"
+      ],
+      "rule_based_summary": "Product Engineering at Polar, focused on AWS, FastAPI, PostgreSQL, Python. Location: Europe,  USA.",
+      "rule_based_application_sentence": "Your Product Engineering role interests me because it connects directly with my work around FastAPI, PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 3 extracted skills match the profile.",
+        "4 of 5 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS."
+      ]
+    },
+    {
+      "id": "jobicy-155051",
+      "title": "Software Engineer, AI Enablement",
+      "company": "Tailscale",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement",
+      "published_at": "2026-10-11",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Thank you for considering Tailscale . If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role We're seeking a talented and motivated full-time Software Engineer, AI Enablement to help Tailscale's engineering organization get the most out of AI-assisted development. You'll join a small, high-leverage team reporting to our co-founder, working alongside our first AI enablement engineer to build the tools, workflows, and practices that help every engineer at Tailscale build faster and more safely with AI. This is a foundational role — you'll have real latitude to shape what AI enablement means here as we scale, with direct visibility into how the whole engineering org adopts these tools. Key Responsibilities Partner with engineering leadership and Tailscale's technical staff to define and drive our internal AI-enablement roadmap. Work closely with the team building Aperture by Tailscale, our AI gateway used both internally and offered as a product. Build and iterate on the tools, workflows, and shared practices that help engineers get real value from coding agents — and evaluate new models and tools, making clear calls on what we adopt. Partner with engineering and non-engineering teams to find high-leverage opportunities to apply AI — this is a support function, so success means other teams shipping faster because of what you've built. Establish the guardrails, review practices, and documentation that make AI-generated code safe to ship, and act as the internal advocate who helps teams adopt good practices without mandating a single tool. Track adoption and measure the real impact of AI tooling on velocity and quality, and report back to leadership. What We Are Looking For 5+ years of professio...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Software Engineer, AI Enablement at Tailscale, focused on Python. Location: UK.",
+      "rule_based_application_sentence": "Your Software Engineer, AI Enablement role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
@@ -140,42 +216,6 @@
       ]
     },
     {
-      "id": "jobicy-152949",
-      "title": "Senior Engineer (Software), Enterprise",
-      "company": "NetBox Labs",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
-      "published_at": "2026-10-10",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issues unique to on-prem environments, and collaborate closely with high-performing, cross-functional teams. In this role you will: Design, architect, and implement Kubernetes-based, high-availability (HA) on-premises solutions, including control plane applications, telemetry systems, air-gapped installations, and appliance offerings Extend and maintain our Kubernetes operator, the core of how NetBox Enterprise installs, upgrades, and heals itself in customer environments Develop and maintain our operational management console and associated tools, ensuring a seamless user experience for lifecycle management Architect and implement robust multi-stage CI/CD pipelines using GitHub Actions and complementary DevOps technologies Drive releases on our six-week cadence, four weeks of build followed by two weeks of stabilization, including versioning strategy and structured release management Write Rust and Python across the stack, from operator internals to internal tooling and APIs Build internal tooling and APIs to facilitate integration testing by upstream application teams, validating changes ahead of inclusion in on-premises releases Develop comprehensive documentation and establish best practice guidelines for deployments Take a weekly turn as Engineering Guardian, fielding questions and escalations from across the organization and working directly with Customer Success and customers to diagnose and resolve deployment and operational issues Requirements: 5+ years in software engineering, platform engineering, or SRE, with proven experience writing robust, maintainable code Demonstrated expertise with Kubernetes, Helm charts, and deployment automation, including complex multi-cluster and multi-region deployments Hands-on experience building inside an AI-augmented development harness, including Claude Code and the workflows that make agentic tooling reliable Strong Python skills for tooling, APIs, and automation Hands-on experience with CI/CD systems (GitHub Actions), GitOps delivery (ArgoCD or FluxCD), and infrastructure-as-code (Terraform) Strong knowledge of Linux systems, including system administration, troubleshooting, and networking Solid understanding of sof...",
-      "required_skills": [
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Senior Engineer (Software), Enterprise at NetBox Labs, focused on GitHub Actions, Kubernetes, Python, Terraform. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Engineer (Software), Enterprise role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, Terraform."
-      ]
-    },
-    {
       "id": "remotive-2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -197,46 +237,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-152955",
-      "title": "Partner Solutions Architect (Pan-EMEA GSI)",
-      "company": "Datadog",
-      "location": "Germany,  Italy,  Netherlands,  Spain,  Sweden,  UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152955-partner-solutions-architect-pan-emea-gsi",
-      "published_at": "2026-10-10",
-      "match_score": 38,
-      "priority": "low",
-      "raw_description": "We are Datadog 's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. The Partner Solution Architect (PSA) is a Datadog expert who will work closely with Datadog’s Director of Partner Solutions Architects, and is aligned to our Channels & Alliances business segment. The PSA is responsible for supporting a variety of technical initiatives and activities for our partners (for example: cloud migration, application modernization, DevOps transformation). They are accountable for the outcome of these initiatives, and frequently collaborate with both Datadog and Partner resources to drive success. The PSA is a trusted technical advisor for our Partner channel. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Ensure the successful onboarding, training, enablement, and certification of partner technical resources; Participate in periodic joint business planning and review sessions to ensure direct alignment between Datadog and Partner technical teams; Collaborate internally to support Partner technical initiatives such as end-customer demonstrations and proofs of value; partner team enablement workshops; assessment, advice, and coaching on lead practices; Advocate on behalf of Partners’ technical concerns (use cases, feature requests, support issues, e.g.) with Datadog internal teams and personnel, helping to bring those concerns to resolution; Analyze and understand Partner service offerings on a regular basis and provide recommendations to enhance the value of those services through greater or improved adoption of Datadog features and capabilities; Collaborate with Datadog’s product management, engineering and technical services teams to help identify and prioritize new features and capabilities; Continuously help curate and evolve lead/best practices for Datadog platform adoption and success. Who You Are: Possess a solid technical grounding with hands-on experience of IT Development and/or Operations Has a demonstrable track-record and never-ending passion for learning; successful candidates for this position typically have 10-15 years of experience in a customer or partner facing technical role A self-starter, tech-sa...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Partner Solutions Architect (Pan-EMEA GSI) at Datadog, focused on AWS, Azure, Docker, Kubernetes. Location: Germany,  Italy,  Netherlands,  Spain,  Sweden,  UK.",
-      "rule_based_application_sentence": "Your Partner Solutions Architect (Pan-EMEA GSI) role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
