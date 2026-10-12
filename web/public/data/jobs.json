@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:43:19Z",
+  "generated_at": "2026-10-12T15:15:11Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,111 +74,47 @@
   },
   "jobs": [
     {
-      "id": "jobicy-155056",
-      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-      "company": "Reddit",
-      "location": "Netherlands,  UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
-      "published_at": "2026-10-11",
-      "match_score": 81,
-      "priority": "high",
-      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Location: Reddit has a flexible first workforce. Don't live near our office? No worries: you can work remotely from anywhere in the UK or the Netherlands. The Ads Foundational Representations (AFR) team develops signals and representations of Reddit’s core entities (ads, posts, users, and so on), capturing the semantic, contextual, and behavioral information that Reddit Ads needs. We work on building embeddings to understand content and users' interests based on the content they engage with. Our team has the potential to highlight one of Reddit's biggest differentiators: genuinely curated, high-quality, extremely relevant, and daily updated organic content. We are a Machine Learning/Data heavy team with a focus on the following areas: Multimodal & Content Embeddings - Make sense of organic (posts, comments, subreddits) and promoted (ads, shopping products, their landing pages) text and media content by embedding them into a shared space. Contextual and Behavioral Relevance - Working with Product & Data Science, establishing definitions of what ads are relevant to users and the content we show them next to, building metrics and fine-tuning embeddings to better reflect relevance. Knowledge Graph Embeddings - Building representations for the Knowledge graph entities, e.g., intellectual properties/brands, to be used for high-precision targeting & business insights. User Intent Modeling - Leveraging various techniques to introduce user representations based on the content they interact with: batch & real-time sequence modeling, LLM summarization, etc. LLM-based Representations - Leveraging LLMs, VLMs, and foundational models to build complex representations of Reddit entities that improve ranking outcomes The signals and features we create become a key piece in the Ads Delivery funnel, from targeting to the auction, as well as the Business Insights product and other advertiser-facing products such as Creative generation and optimization. As a Staff ML Engineer , you’ll be in charge of setting the technical direc...",
-      "required_skills": [
-        "Airflow",
-        "Knowledge graphs",
-        "Kubernetes",
-        "LLM",
-        "NLP",
-        "Python",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "Knowledge graphs",
-        "LLM",
-        "NLP",
-        "Python",
-        "Vector search"
-      ],
-      "missing_skills": [
-        "Airflow",
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Staff Machine Learning Engineer, Ads Foundational Representations at Reddit, focused on Airflow, Knowledge graphs, Kubernetes, LLM. Location: Netherlands,  UK.",
-      "rule_based_application_sentence": "Your Staff Machine Learning Engineer, Ads Foundational Representations role interests me because it connects directly with my work around Knowledge graphs, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "5 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Airflow, Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-155050",
-      "title": "Product Engineering",
-      "company": "Polar",
-      "location": "Europe,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155050-product-engineering",
-      "published_at": "2026-10-11",
-      "match_score": 62,
-      "priority": "medium",
-      "raw_description": "Product Engineering at Polar Product engineering at Polar is about shaping and building the finance layer for the next generation of AI products. We’re rethinking how billing works for a world of usage-based software, programmable pricing and AI agents – from real-time metering and pricing as code, to more flexible customer identities, giving developers greater control over how they monetize their products. We’re interested in engineers who enjoy working across our entire stack, solving complex technical challenges while shaping how developers interact with and experience Polar. We value engineers who think beyond implementation, challenge assumptions and bring the technical depth and product judgement to make sophisticated systems feel simple. We operate as a small, remote-first team with a strong bias towards shipping. We value engineers who can work independently, collaborate when it matters and maintain a high bar for quality without sacrificing speed. More about Polar and how we work What you could work on Depending on your experience and where you can have the greatest impact, this could include: Own product development end-to-end: Identifying opportunities, shipping and iterating on features across our stack – taking responsibility for both the technical implementation and the product outcome. Build exceptional developer experiences: Bringing a strong eye for design, usability and detail to everything you ship. Turning complex billing and monetization workflows into intuitive interfaces, powerful APIs and thoughtful abstractions that make our merchants’ lives easier. Ship with speed and quality: Delivering improvements continuously, balancing fast iterations with robust engineering, performance and attention to detail. Stay close to our users: Engaging with our merchants, to understand how they use Polar, uncover pain points and translate feedback into meaningful product improvements. What we look for We’re particularly interested in senior engineers who combine strong technical foundations with exceptional product judgement and design sensibility. People who care deeply about developer experience, have opinions about what makes great software and know that building the right thing often means knowing what not to build. Some of the qualities and experience we value in this area include: Strong technical foundations: Experience building, shipping and evolving production software, with deep expertise in at least one part of the stack and the abilit...",
-      "required_skills": [
-        "AWS",
-        "FastAPI",
-        "PostgreSQL",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "FastAPI",
-        "PostgreSQL",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Product Engineering at Polar, focused on AWS, FastAPI, PostgreSQL, Python. Location: Europe,  USA.",
-      "rule_based_application_sentence": "Your Product Engineering role interests me because it connects directly with my work around FastAPI, PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS."
-      ]
-    },
-    {
-      "id": "jobicy-155051",
-      "title": "Software Engineer, AI Enablement",
-      "company": "Tailscale",
+      "id": "jobicy-155100",
+      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "company": "Cresta",
       "location": "UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement",
-      "published_at": "2026-10-11",
-      "match_score": 58,
+      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
+      "published_at": "2026-10-12",
+      "match_score": 74,
       "priority": "medium",
-      "raw_description": "Thank you for considering Tailscale . If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role We're seeking a talented and motivated full-time Software Engineer, AI Enablement to help Tailscale's engineering organization get the most out of AI-assisted development. You'll join a small, high-leverage team reporting to our co-founder, working alongside our first AI enablement engineer to build the tools, workflows, and practices that help every engineer at Tailscale build faster and more safely with AI. This is a foundational role — you'll have real latitude to shape what AI enablement means here as we scale, with direct visibility into how the whole engineering org adopts these tools. Key Responsibilities Partner with engineering leadership and Tailscale's technical staff to define and drive our internal AI-enablement roadmap. Work closely with the team building Aperture by Tailscale, our AI gateway used both internally and offered as a product. Build and iterate on the tools, workflows, and shared practices that help engineers get real value from coding agents — and evaluate new models and tools, making clear calls on what we adopt. Partner with engineering and non-engineering teams to find high-leverage opportunities to apply AI — this is a support function, so success means other teams shipping faster because of what you've built. Establish the guardrails, review practices, and documentation that make AI-generated code safe to ship, and act as the internal advocate who helps teams adopt good practices without mandating a single tool. Track adoption and measure the real impact of AI tooling on velocity and quality, and report back to leadership. What We Are Looking For 5+ years of professio...",
+      "raw_description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day. Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world’s leading investors, including a16z, Greylock, and Sequoia. Cresta’s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. About the role: At Cresta, the AI Agent team is on a mission to create state-of-the-art AI Agents that solve practical problems for our customers. We are focused on leveraging the latest technologies in Large Language Models (LLMs) and AI Agent systems, while ensuring that the solutions we develop are cost-effective, secure, and reliable. As an AI Agent Engineer , you'll be at the forefront of deploying AI agents that address real-world challenges. In this role, you will work closely with customers as well as our software and machine learning engineers, ensuring high-impact AI Agent deployments and contributing to the continuous improvement of our core AI platform. You’ll develop intelligent AI agents, integrate them seamlessly with external systems and offer hands-on technical expertise to ensure successful deployments.. This position requires strong engineering skills, adaptability, and customer engagement. If you are self-driven, analytical, and eager to leverage AI in practical applications, this role is for you. What You'll Do : AI Agent Development: Develop, configure, deploy, and optimize AI agents using Cresta’s AI platform and tools. System Integration: Build AI agent integrations with external systems (APIs, databases, CRMs, etc.) to ensure seamless workflow integration. Performance Optimization: Optimize AI agent performance (e.g. fine-tune prompts and configurations) and troubleshoot issues in complex enterprise environments. Requirements Gathering: Colla...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "RAG"
       ],
       "matched_skills": [
-        "Python"
+        "Docker",
+        "GitHub Actions",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "RAG"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Software Engineer, AI Enablement at Tailscale, focused on Python. Location: UK.",
-      "rule_based_application_sentence": "Your Software Engineer, AI Enablement role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS",
+        "Azure"
+      ],
+      "rule_based_summary": "Senior Forward Deployed Engineer (AI Agent) - UK at Cresta, focused on AWS, Azure, Docker, GitHub Actions. Location: UK.",
+      "rule_based_application_sentence": "Your Senior Forward Deployed Engineer (AI Agent) - UK role interests me because it connects directly with my work around Docker, GitHub Actions, LLM, Prompt engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "6 of 8 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
@@ -216,6 +152,44 @@
       ]
     },
     {
+      "id": "jobicy-155084",
+      "title": "Senior Web Developer",
+      "company": "UpGuard",
+      "location": "Australia",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155084-senior-web-developer",
+      "published_at": "2026-10-12",
+      "match_score": 52,
+      "priority": "medium",
+      "raw_description": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. Where does this role fit in? The Marketing team at UpGuard includes multiple marketing and design functions, including Product Marketing, Demand Gen, Marketing Ops, Content Marketing, SEO, Community, Design, and Video. UpGuard’s vision is to become a leader in the markets we play in (Cyber VRM, Attack Surface Management) by providing a best-in-class SaaS platform for organizations to manage their third-party risk and external attack surface. Our purpose as a Marketing team is to facilitate this goal by growing UpGuard with a repeatable and scalable marketing engine and a leading brand. This role is a pivotal technical position within UpGuard's marketing team, focusing on the full-stack development of our website. You'll be instrumental in building robust and high-performing web experiences, from intricate front-end interfaces to powerful back-end systems (largely leveraging Netlify). This position offers a unique opportunity to contribute significantly to our ongoing tech stack evolution , including the implementation of the Astro framework. You'll work closely with our cross-functional web team, including designers, content strategists, and SEO specialists, to translate design concepts into functional realities, develop interactive tools, and ensure our website stands as a leading example of modern web development in the SaaS space. What will you do? Full-Stack Web Development: Take ownership of both front-end and back-end development for UpGuard's marketing website, ensuring seamless integration, high performance, and scalability. Tech Stack Evolution & Implementation: Play a key role in the research, adoption, and implementation of new web technologies, with a strong focus on Astro , Netlify and other modern frameworks, contributing to architectural decisions and best practices...",
+      "required_skills": [
+        "AWS",
+        "GitHub Actions",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "LLM",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS"
+      ],
+      "rule_based_summary": "Senior Web Developer at UpGuard, focused on AWS, GitHub Actions, LLM, Python. Location: Australia.",
+      "rule_based_application_sentence": "Your Senior Web Developer role interests me because it connects directly with my work around GitHub Actions, LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS."
+      ]
+    },
+    {
       "id": "remotive-2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -237,6 +211,47 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-155079",
+      "title": "Senior Staff Software Engineer",
+      "company": "Cision",
+      "location": "Bulgaria,  Hungary",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155079-senior-staff-software-engineer",
+      "published_at": "2026-10-12",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. At Cision, we build software that supports large-scale, global enterprise infrastructure. Our teams enable platform, operations, and engineering groups with tools that improve visibility, reliability, automation, and decision-making across complex systems. We are seeking a Staff Full Stack Software Engineer to lead the design and delivery of internal platforms used by enterprise infrastructure teams. This is a senior individual contributor role for an engineer who thrives in ambiguity, works independently, and owns systems end-to-end—from architecture through production operations. You will operate as a technical leader within the team, influencing design decisions, setting engineering standards, and delivering high-impact solutions across backend services, data pipelines, and user-facing applications. What You’ll Do • Architect, build, and own full-stack software platforms supporting enterprise infrastructure and operations teams. • Lead the technical design of systems that ingest, process, analyze, and expose infrastructure and operational data at scale. • Develop backend services and APIs for data collection, enrichment, and querying. • Build and maintain web interfaces with advanced search, filtering, and usability tailored for technical users. • Design and implement ETL and data processing pipelines for structured and semi-structured data sources. • Ensure applications are fully containerized and production-ready using Docker and Kubernetes-based deployment models. • Act as a technical authority on system design, performance, reliability, and maintainability. • Collaborate with platform, infrastructure, security, and product stakeholders to shape solutions aligned with long-term platform strategy. • Set and uphold engineering best practices around testing, code quality, documenta...",
+      "required_skills": [
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "PostgreSQL",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Kubernetes",
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Staff Software Engineer at Cision, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Bulgaria,  Hungary.",
+      "rule_based_application_sentence": "Your Senior Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: AWS, Kubernetes, SQL."
       ]
     },
     {
