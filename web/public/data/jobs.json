@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:15:11Z",
+  "generated_at": "2026-10-13T14:05:57Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,119 +74,125 @@
   },
   "jobs": [
     {
-      "id": "jobicy-155100",
-      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
-      "company": "Cresta",
-      "location": "UK",
+      "id": "jobicy-155187",
+      "title": "Senior Decision Scientist",
+      "company": "Instructure",
+      "location": "Mexico",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
-      "published_at": "2026-10-12",
-      "match_score": 74,
+      "url": "https://jobicy.com/jobs/155187-senior-decision-scientist-2",
+      "published_at": "2026-10-13",
+      "match_score": 67,
       "priority": "medium",
-      "raw_description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to power world-class customer experiences every day. Born from the Stanford AI Lab, Cresta has raised more than $270 million from the world’s leading investors, including a16z, Greylock, and Sequoia. Cresta’s leadership includes some of the leading minds in AI today. Our CEO, Ping Wu , founded and led Google's Contact Center AI and Vertex AI platforms before joining Cresta to build the future of AI-driven customer experiences. Over the next few years, AI is going to redefine how people all over the world interact with businesses every day. Come build that future at Cresta. About the role: At Cresta, the AI Agent team is on a mission to create state-of-the-art AI Agents that solve practical problems for our customers. We are focused on leveraging the latest technologies in Large Language Models (LLMs) and AI Agent systems, while ensuring that the solutions we develop are cost-effective, secure, and reliable. As an AI Agent Engineer , you'll be at the forefront of deploying AI agents that address real-world challenges. In this role, you will work closely with customers as well as our software and machine learning engineers, ensuring high-impact AI Agent deployments and contributing to the continuous improvement of our core AI platform. You’ll develop intelligent AI agents, integrate them seamlessly with external systems and offer hands-on technical expertise to ensure successful deployments.. This position requires strong engineering skills, adaptability, and customer engagement. If you are self-driven, analytical, and eager to leverage AI in practical applications, this role is for you. What You'll Do : AI Agent Development: Develop, configure, deploy, and optimize AI agents using Cresta’s AI platform and tools. System Integration: Build AI agent integrations with external systems (APIs, databases, CRMs, etc.) to ensure seamless workflow integration. Performance Optimization: Optimize AI agent performance (e.g. fine-tune prompts and configurations) and troubleshoot issues in complex enterprise environments. Requirements Gathering: Colla...",
+      "raw_description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers. We do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in: As a Senior Decision Scientist, you will drive meaningful business outcomes by leading complex analytical initiatives and serving as a trusted partner to senior stakeholders. What you will do: Drive business impact through data-driven insights. Identify and pursue high-value opportunities to improve product adoption, customer engagement, and revenue growth using advanced analytical and statistical methods. Lead experimentation and causal analysis. Design and execute rigorous A/B tests and causal inference studies to evaluate the impact of new product features, pricing strategies, and go-to-market initiatives. Champion experimental rigor across teams. Influence product and business strategy. Partner with product managers, engineers, marketing leaders, and senior stakeholders to translate complex business questions into structured analytical frameworks and deliver strategic recommendations. Deliver end-to-end analytical solutions. Own the full lifecycle of analytical initiatives — from identifying opportunities and building models to deploying solutions and measuring impact. Default to AI-first thinking. Design analysis approaches, recommend solutions, and elevate standards and throughput across the team by leveraging AI tooling and modern analytical techniques. Contribute to decision science best practices. Help define standards for experimentation, modeling, and insight delivery that raise the bar for analytical quality across the organization. Mentor and elevate peers. Guide data scientists and analysts by demonstrating best practices in methodology, communication, and stakeholder engagement. Communicate insights clearly and effectively. Translate complex analytical findings into actionable recommendations for both technical and non-technical audiences, including executive leadership. What you will need to know/have: Master's degree or PhD in Statistics, Computer Science, Economics, Applied Mathematics, Operations Research, or a related quantitative field. 5–7 years of experience in data science, analytics, or a related discipline...",
       "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "GitHub Actions",
-        "LLM",
-        "Prompt engineering",
         "Python",
-        "RAG"
+        "SQL"
       ],
       "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "LLM",
-        "Prompt engineering",
-        "Python",
-        "RAG"
+        "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Azure"
+        "SQL"
       ],
-      "rule_based_summary": "Senior Forward Deployed Engineer (AI Agent) - UK at Cresta, focused on AWS, Azure, Docker, GitHub Actions. Location: UK.",
-      "rule_based_application_sentence": "Your Senior Forward Deployed Engineer (AI Agent) - UK role interests me because it connects directly with my work around Docker, GitHub Actions, LLM, Prompt engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Decision Scientist at Instructure, focused on Python, SQL. Location: Mexico.",
+      "rule_based_application_sentence": "Your Senior Decision Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "6 of 8 extracted skills match the profile.",
+        "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
-      ]
-    },
-    {
-      "id": "remotive-2091149",
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-      "company": "CodeForAI",
-      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "published_at": "2026-10-05",
-      "match_score": 52,
-      "priority": "medium",
-      "raw_description": "Who Should Apply We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit: Software Engineers & Computer Scientists specializing in algorithms, data structures, or system design. Full-Stack & Web Developers working with modern front-end or back-end frameworks (JavaScript, TypeScript, React, Node.js, Python, PHP, Ruby, etc.). Backend & Systems Developers experienced in languages such as C++, Java, Go, Rust, or Python. DevOps & Database Engineers familiar with API design, SQL/NoSQL databases, or scripting. Role & Responsibilities As an AI Code Trainer , you will evaluate model-generated code, author reference solutions, and stress-test AI reasoning across various engineering domains. Code Auditing & Quality Analysis: Critique AI-generated solutions for logic, performance, security vulnerabilities, syntax, and coding best practices. Gold-Standard Solutions: Write clean, production-grade reference code and clear technical explanations for complex programming prompts. Test Design: Build unit tests and edge-case scenarios to evaluate model accuracy and expose edge-case failures. Technical Feedback: Write structured explanations detailing why an AI solution succeeds, fails, or produces bugs. Requirements Software Engineering Proficiency: Strong core fundamentals in at least one major programming language or web stack (e.g., Python, JavaScript/TypeScript, Java, C++, Go, C#, Rust, PHP). Debugging & Code Review: Ability to quickly analyze third-party code, catch subtle logical errors, and evaluate efficiency. Technical Communication: Clear written English to explain technical concepts and code review rationales effectively. Eligible Locations: Resident of USA, UK, Canada, Australia, New Zealand, India, Pakistan, or Philippines . Why Join Us? $50–$125/hr commensurate with your technical domain expertise and task complexity. Weekly Guaranteed Payouts directly to your choice of PayPal or Payoneer . 100% Remote & Asynchronous: Total schedule control—work whenever and wherever you choose with no fixed minimum hours. How to Apply Apply directly on our website at https://codeforai.tech/",
-      "required_skills": [
-        "Python",
-        "React",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Software Engineer / AI Code Trainer (Python, Web, Full Stack) at CodeForAI, focused on Python, React, SQL. Location: USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico.",
-      "rule_based_application_sentence": "Your Software Engineer / AI Code Trainer (Python, Web, Full Stack) role interests me because it connects directly with my work around Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: SQL."
       ]
     },
     {
-      "id": "jobicy-155084",
-      "title": "Senior Web Developer",
-      "company": "UpGuard",
-      "location": "Australia",
+      "id": "jobicy-155196",
+      "title": "Senior GTM Systems & AI Specialist",
+      "company": "Cobalt",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155084-senior-web-developer",
-      "published_at": "2026-10-12",
-      "match_score": 52,
-      "priority": "medium",
-      "raw_description": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love. By integrating security ratings, threat intel, and agentic AI, we empower organisations to stay ahead of an ever evolving attack surface. We aren’t just building another tool; we’re defining a category. We provide the autonomy to ship world-class technology and the resources to do it at a global scale. Where does this role fit in? The Marketing team at UpGuard includes multiple marketing and design functions, including Product Marketing, Demand Gen, Marketing Ops, Content Marketing, SEO, Community, Design, and Video. UpGuard’s vision is to become a leader in the markets we play in (Cyber VRM, Attack Surface Management) by providing a best-in-class SaaS platform for organizations to manage their third-party risk and external attack surface. Our purpose as a Marketing team is to facilitate this goal by growing UpGuard with a repeatable and scalable marketing engine and a leading brand. This role is a pivotal technical position within UpGuard's marketing team, focusing on the full-stack development of our website. You'll be instrumental in building robust and high-performing web experiences, from intricate front-end interfaces to powerful back-end systems (largely leveraging Netlify). This position offers a unique opportunity to contribute significantly to our ongoing tech stack evolution , including the implementation of the Astro framework. You'll work closely with our cross-functional web team, including designers, content strategists, and SEO specialists, to translate design concepts into functional realities, develop interactive tools, and ensure our website stands as a leading example of modern web development in the SaaS space. What will you do? Full-Stack Web Development: Take ownership of both front-end and back-end development for UpGuard's marketing website, ensuring seamless integration, high performance, and scalability. Tech Stack Evolution & Implementation: Play a key role in the research, adoption, and implementation of new web technologies, with a strong focus on Astro , Netlify and other modern frameworks, contributing to architectural decisions and best practices...",
+      "url": "https://jobicy.com/jobs/155196-senior-gtm-systems-ai-specialist",
+      "published_at": "2026-10-13",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive Security Testing that empower organizations to OPERATE FEARLESSLY and INNOVATE SECURELY. Our customers can start a pentest in as little as 24 hours and integrate with advanced development cycles thanks to the powerful combination of our SaaS platform coupled with an exclusive community of testers known as the Cobalt Core. Accepting just 5% of applicants, the Cobalt Core boasts over 500 closely vetted and highly skilled testers who jointly conduct thousands of tests each year and are at the forefront of identifying and helping remediate risk across a dynamically changing attack surface. Cobalt is an Equal Opportunity Employer and we strive to build a diverse and inclusive workforce at our company. At Cobalt we aspire to engage with diverse individuals, communities, and organizations in order to continue to nurture our unique rich diverse culture. Join our team, and be your true self to do your best work. Description We are looking for a Senior GTM Systems & AI Specialist to own and scale the technology infrastructure that powers Cobalt’s go-to-market organization. Reporting to the Sr. Director of Revenue Operations, this role will serve as the technical owner of our GTM technology ecosystem, with deep hands-on responsibility for Salesforce, HubSpot, integrations, enrichment, automation, and the systems supporting our customer lifecycle. This is a highly cross-functional individual contributor role for someone who combines deep GTM systems expertise with a strong understanding of how modern B2B SaaS revenue organizations operate. You won’t just administer tools — you’ll partner with Revenue Operations, Marketing, Sales, Customer Success, and Analytics to translate business needs into scalable technical solutions and identify opportunities to leverage automation and AI to improve how our GTM teams operate. Success in this role means our GTM teams have reliable systems, connected and trustworthy data, scalable automation, and an increasingly AI-enabled technology ecosystem that helps the business operate more efficiently. What You'll Own GTM Systems & Architecture Serve as the primary technical owner and administrator of Sal...",
       "required_skills": [
-        "AWS",
-        "GitHub Actions",
-        "LLM",
+        "Computer vision",
         "Python",
-        "React"
+        "SQL"
       ],
       "matched_skills": [
-        "GitHub Actions",
-        "LLM",
-        "Python",
-        "React"
+        "Computer vision",
+        "Python"
       ],
       "missing_skills": [
-        "AWS"
+        "SQL"
       ],
-      "rule_based_summary": "Senior Web Developer at UpGuard, focused on AWS, GitHub Actions, LLM, Python. Location: Australia.",
-      "rule_based_application_sentence": "Your Senior Web Developer role interests me because it connects directly with my work around GitHub Actions, LLM, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior GTM Systems & AI Specialist at Cobalt, focused on Computer vision, Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Senior GTM Systems & AI Specialist role interests me because it connects directly with my work around Computer vision, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 5 extracted skills match the profile.",
+        "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS."
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-155194",
+      "title": "Senior Detection Analyst",
+      "company": "Zscaler",
+      "location": "Costa Rica",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155194-senior-detection-analyst",
+      "published_at": "2026-10-13",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Senior Detection Analyst to join our team. This is a remote role (in Costa Rica), reporting to the Manager, Detection Analyst in the Detection Operations Team. You will utilize our detection platform to analyze telemetry, alerts, and log sources across several detection domains including Endpoint, Identity, Network, and Cloud to publish threats for our Managed Detection and Response customers. Additionally, by leading projects to improve the Detection Operations workflow through orchestration and automation, you will ensure our customers receive high-fidelity threat analysis and concisely written communication regarding emerging threats at scale. What You’ll Do (Role Expectations) Analyze EDR telemetry, alerts, and log sources across several detection domains including Endpoint, Identity, Network, and Cloud/SaaS Publish and review threats for customers using concisely written communication to effectively convey key indicators and remediation context Improve and innovate Detection Operations workflows through orchestration and automation to manage high volumes of telemetry Who You Are (Success Profile) You act like an owner with a passion for our mission, operating with integrity and navigating seamlessly between high-level strategy and hands-on execution. You are a high-trust collaborator who embraces a challenge culture through clear, respectful feedback to build trust and elevate the...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Detection Analyst at Zscaler, focused on Python, SQL. Location: Costa Rica.",
+      "rule_based_application_sentence": "Your Senior Detection Analyst role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "published_at": "2026-10-11",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -211,47 +217,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-155079",
-      "title": "Senior Staff Software Engineer",
-      "company": "Cision",
-      "location": "Bulgaria,  Hungary",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155079-senior-staff-software-engineer",
-      "published_at": "2026-10-12",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, all while making meaningful contributions to the brands we accelerate. Join us in shaping the future of communication and building authentic connections that matter. Whether you're solving complex problems or driving bold innovations, your growth is our success, and together, we’ll create the conversations of tomorrow. Empower your impact at Cision. Be seen, be understood, be you. At Cision, we build software that supports large-scale, global enterprise infrastructure. Our teams enable platform, operations, and engineering groups with tools that improve visibility, reliability, automation, and decision-making across complex systems. We are seeking a Staff Full Stack Software Engineer to lead the design and delivery of internal platforms used by enterprise infrastructure teams. This is a senior individual contributor role for an engineer who thrives in ambiguity, works independently, and owns systems end-to-end—from architecture through production operations. You will operate as a technical leader within the team, influencing design decisions, setting engineering standards, and delivering high-impact solutions across backend services, data pipelines, and user-facing applications. What You’ll Do • Architect, build, and own full-stack software platforms supporting enterprise infrastructure and operations teams. • Lead the technical design of systems that ingest, process, analyze, and expose infrastructure and operational data at scale. • Develop backend services and APIs for data collection, enrichment, and querying. • Build and maintain web interfaces with advanced search, filtering, and usability tailored for technical users. • Design and implement ETL and data processing pipelines for structured and semi-structured data sources. • Ensure applications are fully containerized and production-ready using Docker and Kubernetes-based deployment models. • Act as a technical authority on system design, performance, reliability, and maintainability. • Collaborate with platform, infrastructure, security, and product stakeholders to shape solutions aligned with long-term platform strategy. • Set and uphold engineering best practices around testing, code quality, documenta...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "PostgreSQL",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Kubernetes",
-        "SQL"
-      ],
-      "rule_based_summary": "Senior Staff Software Engineer at Cision, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Bulgaria,  Hungary.",
-      "rule_based_application_sentence": "Your Senior Staff Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS, Kubernetes, SQL."
       ]
     },
     {
