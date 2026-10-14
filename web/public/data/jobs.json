@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:05:57Z",
+  "generated_at": "2026-10-14T11:45:43Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,101 +74,111 @@
   },
   "jobs": [
     {
-      "id": "jobicy-155187",
-      "title": "Senior Decision Scientist",
-      "company": "Instructure",
-      "location": "Mexico",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155187-senior-decision-scientist-2",
-      "published_at": "2026-10-13",
-      "match_score": 67,
-      "priority": "medium",
-      "raw_description": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education and careers. We do this by giving smart, creative, passionate people opportunities to create awesome. And that's where you come in: As a Senior Decision Scientist, you will drive meaningful business outcomes by leading complex analytical initiatives and serving as a trusted partner to senior stakeholders. What you will do: Drive business impact through data-driven insights. Identify and pursue high-value opportunities to improve product adoption, customer engagement, and revenue growth using advanced analytical and statistical methods. Lead experimentation and causal analysis. Design and execute rigorous A/B tests and causal inference studies to evaluate the impact of new product features, pricing strategies, and go-to-market initiatives. Champion experimental rigor across teams. Influence product and business strategy. Partner with product managers, engineers, marketing leaders, and senior stakeholders to translate complex business questions into structured analytical frameworks and deliver strategic recommendations. Deliver end-to-end analytical solutions. Own the full lifecycle of analytical initiatives — from identifying opportunities and building models to deploying solutions and measuring impact. Default to AI-first thinking. Design analysis approaches, recommend solutions, and elevate standards and throughput across the team by leveraging AI tooling and modern analytical techniques. Contribute to decision science best practices. Help define standards for experimentation, modeling, and insight delivery that raise the bar for analytical quality across the organization. Mentor and elevate peers. Guide data scientists and analysts by demonstrating best practices in methodology, communication, and stakeholder engagement. Communicate insights clearly and effectively. Translate complex analytical findings into actionable recommendations for both technical and non-technical audiences, including executive leadership. What you will need to know/have: Master's degree or PhD in Statistics, Computer Science, Economics, Applied Mathematics, Operations Research, or a related quantitative field. 5–7 years of experience in data science, analytics, or a related discipline...",
-      "required_skills": [
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Senior Decision Scientist at Instructure, focused on Python, SQL. Location: Mexico.",
-      "rule_based_application_sentence": "Your Senior Decision Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-155196",
-      "title": "Senior GTM Systems & AI Specialist",
-      "company": "Cobalt",
+      "id": "jobicy-155260",
+      "title": "Senior Data Scientist, Audio",
+      "company": "Deepgram",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155196-senior-gtm-systems-ai-specialist",
-      "published_at": "2026-10-13",
-      "match_score": 48,
-      "priority": "low",
-      "raw_description": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless, effective and collaborative Offensive Security Testing that empower organizations to OPERATE FEARLESSLY and INNOVATE SECURELY. Our customers can start a pentest in as little as 24 hours and integrate with advanced development cycles thanks to the powerful combination of our SaaS platform coupled with an exclusive community of testers known as the Cobalt Core. Accepting just 5% of applicants, the Cobalt Core boasts over 500 closely vetted and highly skilled testers who jointly conduct thousands of tests each year and are at the forefront of identifying and helping remediate risk across a dynamically changing attack surface. Cobalt is an Equal Opportunity Employer and we strive to build a diverse and inclusive workforce at our company. At Cobalt we aspire to engage with diverse individuals, communities, and organizations in order to continue to nurture our unique rich diverse culture. Join our team, and be your true self to do your best work. Description We are looking for a Senior GTM Systems & AI Specialist to own and scale the technology infrastructure that powers Cobalt’s go-to-market organization. Reporting to the Sr. Director of Revenue Operations, this role will serve as the technical owner of our GTM technology ecosystem, with deep hands-on responsibility for Salesforce, HubSpot, integrations, enrichment, automation, and the systems supporting our customer lifecycle. This is a highly cross-functional individual contributor role for someone who combines deep GTM systems expertise with a strong understanding of how modern B2B SaaS revenue organizations operate. You won’t just administer tools — you’ll partner with Revenue Operations, Marketing, Sales, Customer Success, and Analytics to translate business needs into scalable technical solutions and identify opportunities to leverage automation and AI to improve how our GTM teams operate. Success in this role means our GTM teams have reliable systems, connected and trustworthy data, scalable automation, and an increasingly AI-enabled technology ecosystem that helps the business operate more efficiently. What You'll Own GTM Systems & Architecture Serve as the primary technical owner and administrator of Sal...",
+      "url": "https://jobicy.com/jobs/155260-senior-data-scientist-audio",
+      "published_at": "2026-10-14",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack in the Box. Deepgram’s voice-native foundation models are accessed through cloud APIs or as self-hosted and on-premises software, with unmatched accuracy, low latency, and cost efficiency. Backed by a recent Series C led by leading global investors and strategic partners, Deepgram has processed over 50,000 years of audio and transcribed more than 1 trillion words. There is no organization in the world that understands voice better than Deepgram. Company Operating Rhythm At Deepgram, we expect an AI-first mindset—AI use and comfort aren’t optional, they’re core to how we operate, innovate, and measure performance. Every team member who works at Deepgram is expected to actively use and experiment with advanced AI tools, and even build your own into your everyday work. We measure how effectively AI is applied to deliver results, and consistent, creative use of the latest AI capabilities is key to success here. Candidates should be comfortable adopting new models and modes quickly, integrating AI into their workflows, and continuously pushing the boundaries of what these technologies can do. Additionally, we move at the pace of AI. Change is rapid, and you can expect your day-to-day work to evolve just as quickly. This may not be the right role if you’re not excited to experiment, adapt, think on your feet, and learn constantly, or if you’re seeking something highly prescriptive with a traditional 9-to-5. Deepgram is looking for a Data Scientist to sit at the intersection between research and data: people who think deeply about what conversational data is actually composed of, what makes data valuable, and how to best leverage that. Conversational audio presents incredibly rich scientific, engineering, and infrastructure challenges that are orders of magnitude harder than working with text. Speech carries speakers, accents, dialects, emotion, overlapping talk, code-switching, domain vocabulary, and acoustic conditions that range from a quiet studio to a drive-through — all with rich context that moves the conversation. In this role you...",
       "required_skills": [
-        "Computer vision",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Computer vision",
+        "LLM",
+        "NLP",
         "Python"
       ],
-      "missing_skills": [
-        "SQL"
+      "matched_skills": [
+        "LLM",
+        "NLP",
+        "Python"
       ],
-      "rule_based_summary": "Senior GTM Systems & AI Specialist at Cobalt, focused on Computer vision, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Senior GTM Systems & AI Specialist role interests me because it connects directly with my work around Computer vision, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "missing_skills": [],
+      "rule_based_summary": "Senior Data Scientist, Audio at Deepgram, focused on LLM, NLP, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Data Scientist, Audio role interests me because it connects directly with my work around LLM, NLP, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-155194",
-      "title": "Senior Detection Analyst",
-      "company": "Zscaler",
-      "location": "Costa Rica",
+      "id": "jobicy-155257",
+      "title": "Senior Cloud Security Engineer",
+      "company": "Beyond Finance",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155194-senior-detection-analyst",
-      "published_at": "2026-10-13",
-      "match_score": 43,
+      "url": "https://jobicy.com/jobs/155257-senior-cloud-security-engineer",
+      "published_at": "2026-10-14",
+      "match_score": 46,
       "priority": "low",
-      "raw_description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Senior Detection Analyst to join our team. This is a remote role (in Costa Rica), reporting to the Manager, Detection Analyst in the Detection Operations Team. You will utilize our detection platform to analyze telemetry, alerts, and log sources across several detection domains including Endpoint, Identity, Network, and Cloud to publish threats for our Managed Detection and Response customers. Additionally, by leading projects to improve the Detection Operations workflow through orchestration and automation, you will ensure our customers receive high-fidelity threat analysis and concisely written communication regarding emerging threats at scale. What You’ll Do (Role Expectations) Analyze EDR telemetry, alerts, and log sources across several detection domains including Endpoint, Identity, Network, and Cloud/SaaS Publish and review threats for customers using concisely written communication to effectively convey key indicators and remediation context Improve and innovate Detection Operations workflows through orchestration and automation to manage high volumes of telemetry Who You Are (Success Profile) You act like an owner with a passion for our mission, operating with integrity and navigating seamlessly between high-level strategy and hands-on execution. You are a high-trust collaborator who embraces a challenge culture through clear, respectful feedback to build trust and elevate the...",
+      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. The Role As a Senior Security Engineer, you'll harden the security posture of our AWS environment and our software development pipeline. Cloud Security and vulnerability management in Wiz are the primary focus. You'll partner with DevOps, Engineering, and our Application Security Engineer to build preventative controls across infrastructure, identity, and CI/CD. The work is hands-on: configuring tooling, reviewing architecture, hardening pipelines, and supporting application security work where your range is needed. Key Responsibilities Own cloud security posture across our AWS environment using Wiz and AWS-native services, reducing risk across IAM, network segmentation, container security, secrets, and data exposure. Establish secure defaults in our Infrastructure as Code through reusable modules, guardrails, and policy as code. Harden CI/CD pipelines in partnership with DevOps. Run vulnerability management across cloud and application findings: intake, prioritization, SLA tracking, and remediation with engineering. Build automation that scales the program: ingestion, deduplication, prioritization, and developer-facing workflows. Instrument telemetry, alerting, and runbooks for the systems you own. Operate and tune our WAF: managed and custom rules, rate limiting, and bot mitigation. Requirements 5+ years of hands-on security engineering across cloud security and vulnerability management. Strong AWS security background: IAM, networking, container orchestration, and logging and audit. Hands-on experience securing CI/CD pipelines and Infrastructure as Code; Terraform required. Experience running or substantially contributing to a vulnerability management program. Working knowledge of OWASP Top 10 and threat modeling. Operates independently and drives projects without day-to-day oversight. Nice to Have Exp...",
       "required_skills": [
+        "AWS",
+        "Computer vision",
+        "GitHub Actions",
         "Python",
-        "SQL"
+        "Terraform"
       ],
       "matched_skills": [
+        "Computer vision",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "AWS",
+        "Terraform"
       ],
-      "rule_based_summary": "Senior Detection Analyst at Zscaler, focused on Python, SQL. Location: Costa Rica.",
-      "rule_based_application_sentence": "Your Senior Detection Analyst role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Senior Cloud Security Engineer at Beyond Finance, focused on AWS, Computer vision, GitHub Actions, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Cloud Security Engineer role interests me because it connects directly with my work around Computer vision, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "3 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: AWS, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-155261",
+      "title": "Staff Security Engineer",
+      "company": "Beyond Finance",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155261-staff-security-engineer",
+      "published_at": "2026-10-14",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. Role Overview As a Staff Security Engineer, you'll get involved early with Product and Software Engineering teams to embed security into our architecture and processes as they design, build, and ship. You'll also be someone the Security team can pull into any project, at any phase and regardless of domain, to make sure it lands on the right security outcome. This is a hands-on role, and you don't need to be an expert in all three areas: application security, cloud security, and security automation and tooling. You should have strong, demonstrated depth in one of the three, along with enough working knowledge of the other two to contribute without hand-holding and to be a trusted voice on technical decisions outside the systems you personally own. What You'll Do Partner with Engineering, DevOps, and Product across projects, providing security input at any phase of design or build, regardless of domain. Guide secure design and code review for web and mobile applications, and help manage core AppSec tooling (SAST, SCA, secret scanning, DAST, ASM, and mobile security tooling). Help triage and remediate application-level vulnerabilities with engineering teams. Contribute to cloud security posture across the AWS environment, including IAM, network segmentation, container security, secrets, and data exposure, using CNAPP and AWS-native tooling. Support cloud and application vulnerability management, and help tune WAF rules as needed. Build automation and internal tooling, primarily in Python, that reduces manual work for the security team. Contribute to security log pipelines, SIEM detections, and endpoint security controls. Help embed security checks, such as scanning and secrets detection, into CI/CD pipelines in partnership with DevOps. Contribute to secure development and infrastructure standards, playbooks...",
+      "required_skills": [
+        "AWS",
+        "Computer vision",
+        "GitHub Actions",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Computer vision",
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Terraform"
+      ],
+      "rule_based_summary": "Staff Security Engineer at Beyond Finance, focused on AWS, Computer vision, GitHub Actions, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Staff Security Engineer role interests me because it connects directly with my work around Computer vision, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Terraform."
       ]
     },
     {
