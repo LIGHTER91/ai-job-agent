@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:45:43Z",
+  "generated_at": "2026-10-15T11:21:47Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,111 +74,111 @@
   },
   "jobs": [
     {
-      "id": "jobicy-155260",
-      "title": "Senior Data Scientist, Audio",
-      "company": "Deepgram",
-      "location": "USA",
+      "id": "jobicy-155056",
+      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+      "company": "Reddit",
+      "location": "Netherlands,  UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155260-senior-data-scientist-audio",
-      "published_at": "2026-10-14",
-      "match_score": 82,
+      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
+      "published_at": "2026-10-15",
+      "match_score": 81,
       "priority": "high",
-      "raw_description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ‘Powered by Deepgram’, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Daily, Cresta, Granola, and Jack in the Box. Deepgram’s voice-native foundation models are accessed through cloud APIs or as self-hosted and on-premises software, with unmatched accuracy, low latency, and cost efficiency. Backed by a recent Series C led by leading global investors and strategic partners, Deepgram has processed over 50,000 years of audio and transcribed more than 1 trillion words. There is no organization in the world that understands voice better than Deepgram. Company Operating Rhythm At Deepgram, we expect an AI-first mindset—AI use and comfort aren’t optional, they’re core to how we operate, innovate, and measure performance. Every team member who works at Deepgram is expected to actively use and experiment with advanced AI tools, and even build your own into your everyday work. We measure how effectively AI is applied to deliver results, and consistent, creative use of the latest AI capabilities is key to success here. Candidates should be comfortable adopting new models and modes quickly, integrating AI into their workflows, and continuously pushing the boundaries of what these technologies can do. Additionally, we move at the pace of AI. Change is rapid, and you can expect your day-to-day work to evolve just as quickly. This may not be the right role if you’re not excited to experiment, adapt, think on your feet, and learn constantly, or if you’re seeking something highly prescriptive with a traditional 9-to-5. Deepgram is looking for a Data Scientist to sit at the intersection between research and data: people who think deeply about what conversational data is actually composed of, what makes data valuable, and how to best leverage that. Conversational audio presents incredibly rich scientific, engineering, and infrastructure challenges that are orders of magnitude harder than working with text. Speech carries speakers, accents, dialects, emotion, overlapping talk, code-switching, domain vocabulary, and acoustic conditions that range from a quiet studio to a drive-through — all with rich context that moves the conversation. In this role you...",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Location: Reddit has a flexible first workforce. Don't live near our office? No worries: you can work remotely from anywhere in the UK or the Netherlands. The Ads Foundational Representations (AFR) team develops signals and representations of Reddit’s core entities (ads, posts, users, and so on), capturing the semantic, contextual, and behavioral information that Reddit Ads needs. We work on building embeddings to understand content and users' interests based on the content they engage with. Our team has the potential to highlight one of Reddit's biggest differentiators: genuinely curated, high-quality, extremely relevant, and daily updated organic content. We are a Machine Learning/Data heavy team with a focus on the following areas: Multimodal & Content Embeddings - Make sense of organic (posts, comments, subreddits) and promoted (ads, shopping products, their landing pages) text and media content by embedding them into a shared space. Contextual and Behavioral Relevance - Working with Product & Data Science, establishing definitions of what ads are relevant to users and the content we show them next to, building metrics and fine-tuning embeddings to better reflect relevance. Knowledge Graph Embeddings - Building representations for the Knowledge graph entities, e.g., intellectual properties/brands, to be used for high-precision targeting & business insights. User Intent Modeling - Leveraging various techniques to introduce user representations based on the content they interact with: batch & real-time sequence modeling, LLM summarization, etc. LLM-based Representations - Leveraging LLMs, VLMs, and foundational models to build complex representations of Reddit entities that improve ranking outcomes The signals and features we create become a key piece in the Ads Delivery funnel, from targeting to the auction, as well as the Business Insights product and other advertiser-facing products such as Creative generation and optimization. As a Staff ML Engineer , you’ll be in charge of setting the technical direc...",
       "required_skills": [
+        "Airflow",
+        "Knowledge graphs",
+        "Kubernetes",
         "LLM",
         "NLP",
+        "Python",
+        "Vector search"
+      ],
+      "matched_skills": [
+        "Knowledge graphs",
+        "LLM",
+        "NLP",
+        "Python",
+        "Vector search"
+      ],
+      "missing_skills": [
+        "Airflow",
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Staff Machine Learning Engineer, Ads Foundational Representations at Reddit, focused on Airflow, Knowledge graphs, Kubernetes, LLM. Location: Netherlands,  UK.",
+      "rule_based_application_sentence": "Your Staff Machine Learning Engineer, Ads Foundational Representations role interests me because it connects directly with my work around Knowledge graphs, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "5 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Airflow, Kubernetes."
+      ]
+    },
+    {
+      "id": "jobicy-152419",
+      "title": "Software Engineer, AI/ML Infrastructure",
+      "company": "Thumbtack",
+      "location": "Canada",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure",
+      "published_at": "2026-10-15",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together. About the Machine Learning Infrastructure Team At Thumbtack, our challenges span a wide range of areas, including search, recommendations, matchmaking, pricing, safety, content generation, fraud detection, and more. The ML Infrastructure team is responsible for centralizing, standardizing and evolving AI/ML infrastructure that enables these experiences. We empower product engineering teams by providing scalable, high-performance systems that drive AI innovation at scale. To read more about some of the engineering challenges at Thumbtack, visit our engineering blog . Challenge As a Software Engineer on the ML Infrastructure team, you will work closely with product and platform engineering teams to build and evolve core AI platform capabilities. You will help design and improve systems that allow teams to develop, run, and scale GenAI-powered applications in production. Your work will directly support AI-driven experiences used by millions of customers and pros across the Thumbtack ecosystem. What you'll do Build and evolve core AI platform capabilities that enable teams to develop, run, and scale GenAI-powered applications across Thumbtack. Contribute to the design, development, and deployment of scalable tools and infrastructure to support the efforts of our applied scientists, including traditional ML model training and serving systems, feature and data workflows, CI/CD, orchestration, deployment, and evaluation tooling. Work hands on across the stack, from backend services and execution infrastructure to integrations with AI models and tooling. Partner with senior engineers to evaluate next-generation AI infrastructure frameworks and tools that help product teams harness advances in AI. Drive projects to completion with a strong focus on business impact and measurable outcomes. Solve complex technical problems and stay up to date with advances in this rapidly evolving space. In order...",
+      "required_skills": [
+        "GitHub Actions",
+        "LLM",
+        "PostgreSQL",
         "Python"
       ],
       "matched_skills": [
+        "GitHub Actions",
         "LLM",
-        "NLP",
+        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Senior Data Scientist, Audio at Deepgram, focused on LLM, NLP, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Data Scientist, Audio role interests me because it connects directly with my work around LLM, NLP, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Software Engineer, AI/ML Infrastructure at Thumbtack, focused on GitHub Actions, LLM, PostgreSQL, Python. Location: Canada.",
+      "rule_based_application_sentence": "Your Software Engineer, AI/ML Infrastructure role interests me because it connects directly with my work around GitHub Actions, LLM, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 3 extracted skills match the profile.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-155257",
-      "title": "Senior Cloud Security Engineer",
-      "company": "Beyond Finance",
-      "location": "USA",
+      "id": "jobicy-153258",
+      "title": "Analyst II, Full Stack (Revenue Analytics)",
+      "company": "Affirm",
+      "location": "Spain",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155257-senior-cloud-security-engineer",
-      "published_at": "2026-10-14",
-      "match_score": 46,
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+      "published_at": "2026-10-15",
+      "match_score": 47,
       "priority": "low",
-      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. The Role As a Senior Security Engineer, you'll harden the security posture of our AWS environment and our software development pipeline. Cloud Security and vulnerability management in Wiz are the primary focus. You'll partner with DevOps, Engineering, and our Application Security Engineer to build preventative controls across infrastructure, identity, and CI/CD. The work is hands-on: configuring tooling, reviewing architecture, hardening pipelines, and supporting application security work where your range is needed. Key Responsibilities Own cloud security posture across our AWS environment using Wiz and AWS-native services, reducing risk across IAM, network segmentation, container security, secrets, and data exposure. Establish secure defaults in our Infrastructure as Code through reusable modules, guardrails, and policy as code. Harden CI/CD pipelines in partnership with DevOps. Run vulnerability management across cloud and application findings: intake, prioritization, SLA tracking, and remediation with engineering. Build automation that scales the program: ingestion, deduplication, prioritization, and developer-facing workflows. Instrument telemetry, alerting, and runbooks for the systems you own. Operate and tune our WAF: managed and custom rules, rate limiting, and bot mitigation. Requirements 5+ years of hands-on security engineering across cloud security and vulnerability management. Strong AWS security background: IAM, networking, container orchestration, and logging and audit. Hands-on experience securing CI/CD pipelines and Infrastructure as Code; Terraform required. Experience running or substantially contributing to a vulnerability management program. Working knowledge of OWASP Top 10 and threat modeling. Operates independently and drives projects without day-to-day oversight. Nice to Have Exp...",
+      "raw_description": "At Affirm , we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization. As a Analyst at Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement. You’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure. What you'll do Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts Build and maintain critical reporting data models that power external merchant reporting Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows) Develop processes, governance, and foundations to scale the impact of analytics within Revenue. What we look for 3+ years of work experience in an analytics engineering or business intelligence role Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake) Understanding of the data foundations required for reliable AI, including semantic layers, metadata, evals, metric definitions, documentation, and data quality Demonstrated experience integrating AI tools into day-to-day analytics engineering workflows to improve development speed, quality, and scalability Familiarity with Salesforce and experience supporting commercial areas of the business Ability to identify user needs and translate them into robust, scalable data products Ability to start with an ambiguous problem, deconstruct it into tangible steps,...",
       "required_skills": [
-        "AWS",
-        "Computer vision",
-        "GitHub Actions",
         "Python",
-        "Terraform"
+        "SQL"
       ],
       "matched_skills": [
-        "Computer vision",
-        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Terraform"
+        "SQL"
       ],
-      "rule_based_summary": "Senior Cloud Security Engineer at Beyond Finance, focused on AWS, Computer vision, GitHub Actions, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Cloud Security Engineer role interests me because it connects directly with my work around Computer vision, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Analyst II, Full Stack (Revenue Analytics) at Affirm, focused on Python, SQL. Location: Spain.",
+      "rule_based_application_sentence": "Your Analyst II, Full Stack (Revenue Analytics) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
+        "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-155261",
-      "title": "Staff Security Engineer",
-      "company": "Beyond Finance",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155261-staff-security-engineer",
-      "published_at": "2026-10-14",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "At Beyond Finance , we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology, and customized financial solutions, we've helped over 1 million clients on their path to a brighter future. While we're proud of what we've already accomplished, we're searching for new collaborators to help us get to the next level! If you're looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you. Role Overview As a Staff Security Engineer, you'll get involved early with Product and Software Engineering teams to embed security into our architecture and processes as they design, build, and ship. You'll also be someone the Security team can pull into any project, at any phase and regardless of domain, to make sure it lands on the right security outcome. This is a hands-on role, and you don't need to be an expert in all three areas: application security, cloud security, and security automation and tooling. You should have strong, demonstrated depth in one of the three, along with enough working knowledge of the other two to contribute without hand-holding and to be a trusted voice on technical decisions outside the systems you personally own. What You'll Do Partner with Engineering, DevOps, and Product across projects, providing security input at any phase of design or build, regardless of domain. Guide secure design and code review for web and mobile applications, and help manage core AppSec tooling (SAST, SCA, secret scanning, DAST, ASM, and mobile security tooling). Help triage and remediate application-level vulnerabilities with engineering teams. Contribute to cloud security posture across the AWS environment, including IAM, network segmentation, container security, secrets, and data exposure, using CNAPP and AWS-native tooling. Support cloud and application vulnerability management, and help tune WAF rules as needed. Build automation and internal tooling, primarily in Python, that reduces manual work for the security team. Contribute to security log pipelines, SIEM detections, and endpoint security controls. Help embed security checks, such as scanning and secrets detection, into CI/CD pipelines in partnership with DevOps. Contribute to secure development and infrastructure standards, playbooks...",
-      "required_skills": [
-        "AWS",
-        "Computer vision",
-        "GitHub Actions",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Computer vision",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Terraform"
-      ],
-      "rule_based_summary": "Staff Security Engineer at Beyond Finance, focused on AWS, Computer vision, GitHub Actions, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Staff Security Engineer role interests me because it connects directly with my work around Computer vision, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Terraform."
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
