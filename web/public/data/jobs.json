@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:21:47Z",
+  "generated_at": "2026-10-16T11:17:00Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,111 +74,147 @@
   },
   "jobs": [
     {
-      "id": "jobicy-155056",
-      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-      "company": "Reddit",
-      "location": "Netherlands,  UK",
+      "id": "jobicy-150767",
+      "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+      "company": "Udacity",
+      "location": "APAC,  EMEA,  Canada,  Europe,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
-      "published_at": "2026-10-15",
-      "match_score": 81,
-      "priority": "high",
-      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Location: Reddit has a flexible first workforce. Don't live near our office? No worries: you can work remotely from anywhere in the UK or the Netherlands. The Ads Foundational Representations (AFR) team develops signals and representations of Reddit’s core entities (ads, posts, users, and so on), capturing the semantic, contextual, and behavioral information that Reddit Ads needs. We work on building embeddings to understand content and users' interests based on the content they engage with. Our team has the potential to highlight one of Reddit's biggest differentiators: genuinely curated, high-quality, extremely relevant, and daily updated organic content. We are a Machine Learning/Data heavy team with a focus on the following areas: Multimodal & Content Embeddings - Make sense of organic (posts, comments, subreddits) and promoted (ads, shopping products, their landing pages) text and media content by embedding them into a shared space. Contextual and Behavioral Relevance - Working with Product & Data Science, establishing definitions of what ads are relevant to users and the content we show them next to, building metrics and fine-tuning embeddings to better reflect relevance. Knowledge Graph Embeddings - Building representations for the Knowledge graph entities, e.g., intellectual properties/brands, to be used for high-precision targeting & business insights. User Intent Modeling - Leveraging various techniques to introduce user representations based on the content they interact with: batch & real-time sequence modeling, LLM summarization, etc. LLM-based Representations - Leveraging LLMs, VLMs, and foundational models to build complex representations of Reddit entities that improve ranking outcomes The signals and features we create become a key piece in the Ads Delivery funnel, from targeting to the auction, as well as the Business Insights product and other advertiser-facing products such as Creative generation and optimization. As a Staff ML Engineer , you’ll be in charge of setting the technical direc...",
+      "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+      "published_at": "2026-10-16",
+      "match_score": 60,
+      "priority": "medium",
+      "raw_description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems, Cloud Computing and more. Our rapidly growing global organization is revolutionizing how the enterprise market bridges the talent shortage and skills gaps during their digital transformation journey. Recognized for its innovative impact, Udacity part of Accenture continues to empower people with the skills they need to secure the jobs they want. Our School of Artificial Intelligence is committed to providing high-quality upskilling opportunities in this rapidly evolving field. We regularly launch new projects and are seeking experienced mentors to join us as external contractors to support our programs and learners. As new initiatives arise, we will reach out to qualified candidates within this talent pool to provide details on project scope, expected timelines, and compensation. If you are passionate about tackling meaningful challenges and making a difference we invite you to apply and explore this opportunity to collaborate with us. You’ll be an excellent fit if you have: Proven technical expertise with 5+ years of experience in Artificial Intelligence or Machine Learning A passion for mentoring and helping others succeed in their learning Excellent interpersonal skills. You enjoy building relationships, communicating effectively, and fostering a positive learning environment A deep understanding of the tech industry and emerging trends in AI and related fields The flexibility to work part-time as an external contractor alongside your current commitments Mandatory Technical Skills – School of AI Proficiency in Python and API integration Strong understanding of core AI/ML concepts Familiarity with LLMs and Generative AI tools Experience with prompt engineering and model evaluation Working knowledge of ML libraries (NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow) Exposure to AI frameworks (e.g., LangChain, LlamaIndex) Understanding of RAG, embeddings, and vector databases Ability to build or support AI-driven applications/workflows Awareness of AI use cases, limitations, and ethics Strong problem-solving and communication skills Preferred: Experience with cloud platforms (AWS,...",
       "required_skills": [
-        "Airflow",
-        "Knowledge graphs",
-        "Kubernetes",
+        "AWS",
+        "Azure",
         "LLM",
-        "NLP",
+        "LangChain",
+        "Prompt engineering",
         "Python",
+        "RAG",
         "Vector search"
       ],
       "matched_skills": [
-        "Knowledge graphs",
         "LLM",
-        "NLP",
+        "LangChain",
+        "Prompt engineering",
         "Python",
+        "RAG",
         "Vector search"
       ],
       "missing_skills": [
-        "Airflow",
-        "Kubernetes"
+        "AWS",
+        "Azure"
       ],
-      "rule_based_summary": "Staff Machine Learning Engineer, Ads Foundational Representations at Reddit, focused on Airflow, Knowledge graphs, Kubernetes, LLM. Location: Netherlands,  UK.",
-      "rule_based_application_sentence": "Your Staff Machine Learning Engineer, Ads Foundational Representations role interests me because it connects directly with my work around Knowledge graphs, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
+      "rule_based_summary": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) at Udacity, focused on AWS, Azure, LLM, LangChain. Location: APAC,  EMEA,  Canada,  Europe,  USA.",
+      "rule_based_application_sentence": "Your AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) role interests me because it connects directly with my work around LLM, LangChain, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "5 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "6 of 8 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Airflow, Kubernetes."
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
-      "id": "jobicy-152419",
-      "title": "Software Engineer, AI/ML Infrastructure",
-      "company": "Thumbtack",
-      "location": "Canada",
+      "id": "jobicy-153337",
+      "title": "Sales Engineer, Enterprise",
+      "company": "Socket",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure",
-      "published_at": "2026-10-15",
+      "url": "https://jobicy.com/jobs/153337-sales-engineer-enterprise-2",
+      "published_at": "2026-10-16",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together. About the Machine Learning Infrastructure Team At Thumbtack, our challenges span a wide range of areas, including search, recommendations, matchmaking, pricing, safety, content generation, fraud detection, and more. The ML Infrastructure team is responsible for centralizing, standardizing and evolving AI/ML infrastructure that enables these experiences. We empower product engineering teams by providing scalable, high-performance systems that drive AI innovation at scale. To read more about some of the engineering challenges at Thumbtack, visit our engineering blog . Challenge As a Software Engineer on the ML Infrastructure team, you will work closely with product and platform engineering teams to build and evolve core AI platform capabilities. You will help design and improve systems that allow teams to develop, run, and scale GenAI-powered applications in production. Your work will directly support AI-driven experiences used by millions of customers and pros across the Thumbtack ecosystem. What you'll do Build and evolve core AI platform capabilities that enable teams to develop, run, and scale GenAI-powered applications across Thumbtack. Contribute to the design, development, and deployment of scalable tools and infrastructure to support the efforts of our applied scientists, including traditional ML model training and serving systems, feature and data workflows, CI/CD, orchestration, deployment, and evaluation tooling. Work hands on across the stack, from backend services and execution infrastructure to integrations with AI models and tooling. Partner with senior engineers to evaluate next-generation AI infrastructure frameworks and tools that help product teams harness advances in AI. Drive projects to completion with a strong focus on business impact and measurable outcomes. Solve complex technical problems and stay up to date with advances in this rapidly evolving space. In order...",
+      "raw_description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $ 125M in funding from top angels, operators, and security leaders. About the Role Socket is looking for a Sales Engineer to support our enterprise customers. In this role you will be at the nexus between our customers and our engineering, product, and design teams. You'll work cross-functionally in order to provide technical education, guidance, and support in a pre-sales capacity. What You'll Do Lead discussions and product demonstrations to showcase capabilities; address customer challenges, respond to questions, and handle objections. Craft technical content to guide customers in implementing specific use cases or extending our solution. Collaborate with account teams to understand customer requirements and translate them to Socket capabilities, emphasizing business value. Support Proof of Concepts (POCs) that align with customer requirements; provide technical expertise, troubleshooting, and guidance throughout the evaluation process. Provide guidance on integrating solutions into the customer's existing infrastructure. Distill and communicate customer needs and product feedback to Product Management, Engineering, Marketing, and Sales. Collaborate with Customer Success to drive post-sales revenue, ensure retention, and contribute to growth. Execute cross-functional projects involving teams such as Engineering, Sales, and Marketing. What You'll Bring Required: 7 plus years of pre-sales experience in a Sales Engineering or Solutions Engineering role. Hands-on experience working with enterprise customers in the security or technical SaaS space. Ability to multitask and efficiently handle multiple competing priorities, delegating when necessary while being highly organized, detail oriented, and demonstrating excellent time management skills. Empathetic mindset for the customer and a commitment to delving deep into the challenges they present or experience. Ability to work cross-functionally and contribute directly to Sales, Product and Engineering teams. Ability and desire to learn new tools and technologies. Familiarity w...",
       "required_skills": [
-        "GitHub Actions",
         "LLM",
-        "PostgreSQL",
         "Python"
       ],
       "matched_skills": [
-        "GitHub Actions",
         "LLM",
-        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Software Engineer, AI/ML Infrastructure at Thumbtack, focused on GitHub Actions, LLM, PostgreSQL, Python. Location: Canada.",
-      "rule_based_application_sentence": "Your Software Engineer, AI/ML Infrastructure role interests me because it connects directly with my work around GitHub Actions, LLM, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Sales Engineer, Enterprise at Socket, focused on LLM, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Sales Engineer, Enterprise role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 4 extracted skills match the profile.",
+        "2 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-153258",
-      "title": "Analyst II, Full Stack (Revenue Analytics)",
-      "company": "Affirm",
-      "location": "Spain",
+      "id": "jobicy-153342",
+      "title": "Sales Engineer, Commercial",
+      "company": "Socket",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
-      "published_at": "2026-10-15",
-      "match_score": 47,
-      "priority": "low",
-      "raw_description": "At Affirm , we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infrastructure, semantic foundations, and analytical systems that power Affirm’s Revenue organization. As a Analyst at Revenue Analytics, you’ll build scalable data products that power day-to-day decision-making - owning end-to-end work across data modeling, metric definitions, dashboards, automation, and enablement. You’ll also help strengthen our semantic layer and data governance, laying the foundation for reliable AI. The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure. What you'll do Develop dbt data models, dashboards, metrics, and automation processes for the revenue field team and revenue analysts Build and maintain critical reporting data models that power external merchant reporting Build the semantic, metadata, and context layers that allow AI systems to accurately understand Revenue data, metrics, and business definitions Partner with Business Systems, engineering, and business stakeholders to translate requirements into durable, well-tested data products Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows) Develop processes, governance, and foundations to scale the impact of analytics within Revenue. What we look for 3+ years of work experience in an analytics engineering or business intelligence role Strong working knowledge of SQL, dbt, Python, data modeling, and data visualization Hands-on experience with BI tools (Sigma/Looker/Tableau), Databricks, and cloud data warehouses (Snowflake) Understanding of the data foundations required for reliable AI, including semantic layers, metadata, evals, metric definitions, documentation, and data quality Demonstrated experience integrating AI tools into day-to-day analytics engineering workflows to improve development speed, quality, and scalability Familiarity with Salesforce and experience supporting commercial areas of the business Ability to identify user needs and translate them into robust, scalable data products Ability to start with an ambiguous problem, deconstruct it into tangible steps,...",
+      "url": "https://jobicy.com/jobs/153342-sales-engineer-commercial",
+      "published_at": "2026-10-16",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $ 125M in funding from top angels, operators, and security leaders. About the Role Socket is looking for a Sales Engineer to support our commercial customers. In this role you will be at the nexus between our customers and our engineering, product, and design teams. You'll work cross-functionally in order to provide technical education, guidance, and support in a pre-sales capacity. What You'll Do Lead discussions and product demonstrations to showcase capabilities; address customer challenges, respond to questions, and handle objections. Craft technical content to guide customers in implementing specific use cases or extending our solution. Collaborate with account teams to understand customer requirements and translate them to Socket capabilities, emphasizing business value. Support Proof of Concepts (POCs) that align with customer requirements; provide technical expertise, troubleshooting, and guidance throughout the evaluation process. Provide guidance on integrating solutions into the customer's existing infrastructure. Distill and communicate customer needs and product feedback to Product Management, Engineering, Marketing, and Sales. Collaborate with Customer Success to drive post-sales revenue, ensure retention, and contribute to growth. Execute cross-functional projects involving teams such as Engineering, Sales, and Marketing. What You'll Bring 5+ years in pre-sales technical roles (Sales Engineer, Solutions Engineer, Solutions Architect, TAM) with commercial customers Prior experience in security, developer tools, or SaaS environments Hands-on technical background: prior software engineering, data science, or equivalent role Deep familiarity with package managers (at least one of npm or PyPI) and programming ecosystems (at least one of JavaScript or Python) Understanding of software supply chain security and vulnerability management concepts Ability to read/write basic scripts in Python, JS, or Go Knowledge of source control systems (Git, GitHub, GitLab, Bitbucket) RESTful API and integration experience Our Inter...",
       "required_skills": [
-        "Python",
-        "SQL"
+        "Python"
       ],
       "matched_skills": [
         "Python"
       ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Analyst II, Full Stack (Revenue Analytics) at Affirm, focused on Python, SQL. Location: Spain.",
-      "rule_based_application_sentence": "Your Analyst II, Full Stack (Revenue Analytics) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "missing_skills": [],
+      "rule_based_summary": "Sales Engineer, Commercial at Socket, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Sales Engineer, Commercial role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "published_at": "2026-10-14",
+      "match_score": 54,
+      "priority": "medium",
+      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "LLM",
+        "LangChain",
+        "NLP",
+        "PostgreSQL",
+        "React"
+      ],
+      "matched_skills": [
+        "Docker",
+        "LLM",
+        "LangChain",
+        "NLP",
+        "PostgreSQL",
+        "React"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
+      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "6 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
@@ -227,35 +263,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-2091045",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "published_at": "2026-10-07",
-      "match_score": 28,
-      "priority": "low",
-      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
-      "required_skills": [
-        "Azure"
-      ],
-      "matched_skills": [],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
       ]
     }
   ]
