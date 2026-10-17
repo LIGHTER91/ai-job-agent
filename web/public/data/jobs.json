@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:17:00Z",
+  "generated_at": "2026-10-17T10:36:46Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,108 +74,6 @@
   },
   "jobs": [
     {
-      "id": "jobicy-150767",
-      "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
-      "company": "Udacity",
-      "location": "APAC,  EMEA,  Canada,  Europe,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
-      "published_at": "2026-10-16",
-      "match_score": 60,
-      "priority": "medium",
-      "raw_description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems, Cloud Computing and more. Our rapidly growing global organization is revolutionizing how the enterprise market bridges the talent shortage and skills gaps during their digital transformation journey. Recognized for its innovative impact, Udacity part of Accenture continues to empower people with the skills they need to secure the jobs they want. Our School of Artificial Intelligence is committed to providing high-quality upskilling opportunities in this rapidly evolving field. We regularly launch new projects and are seeking experienced mentors to join us as external contractors to support our programs and learners. As new initiatives arise, we will reach out to qualified candidates within this talent pool to provide details on project scope, expected timelines, and compensation. If you are passionate about tackling meaningful challenges and making a difference we invite you to apply and explore this opportunity to collaborate with us. You’ll be an excellent fit if you have: Proven technical expertise with 5+ years of experience in Artificial Intelligence or Machine Learning A passion for mentoring and helping others succeed in their learning Excellent interpersonal skills. You enjoy building relationships, communicating effectively, and fostering a positive learning environment A deep understanding of the tech industry and emerging trends in AI and related fields The flexibility to work part-time as an external contractor alongside your current commitments Mandatory Technical Skills – School of AI Proficiency in Python and API integration Strong understanding of core AI/ML concepts Familiarity with LLMs and Generative AI tools Experience with prompt engineering and model evaluation Working knowledge of ML libraries (NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow) Exposure to AI frameworks (e.g., LangChain, LlamaIndex) Understanding of RAG, embeddings, and vector databases Ability to build or support AI-driven applications/workflows Awareness of AI use cases, limitations, and ethics Strong problem-solving and communication skills Preferred: Experience with cloud platforms (AWS,...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "LLM",
-        "LangChain",
-        "Prompt engineering",
-        "Python",
-        "RAG",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "LLM",
-        "LangChain",
-        "Prompt engineering",
-        "Python",
-        "RAG",
-        "Vector search"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure"
-      ],
-      "rule_based_summary": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) at Udacity, focused on AWS, Azure, LLM, LangChain. Location: APAC,  EMEA,  Canada,  Europe,  USA.",
-      "rule_based_application_sentence": "Your AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC) role interests me because it connects directly with my work around LLM, LangChain, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 8 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
-      ]
-    },
-    {
-      "id": "jobicy-153337",
-      "title": "Sales Engineer, Enterprise",
-      "company": "Socket",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153337-sales-engineer-enterprise-2",
-      "published_at": "2026-10-16",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $ 125M in funding from top angels, operators, and security leaders. About the Role Socket is looking for a Sales Engineer to support our enterprise customers. In this role you will be at the nexus between our customers and our engineering, product, and design teams. You'll work cross-functionally in order to provide technical education, guidance, and support in a pre-sales capacity. What You'll Do Lead discussions and product demonstrations to showcase capabilities; address customer challenges, respond to questions, and handle objections. Craft technical content to guide customers in implementing specific use cases or extending our solution. Collaborate with account teams to understand customer requirements and translate them to Socket capabilities, emphasizing business value. Support Proof of Concepts (POCs) that align with customer requirements; provide technical expertise, troubleshooting, and guidance throughout the evaluation process. Provide guidance on integrating solutions into the customer's existing infrastructure. Distill and communicate customer needs and product feedback to Product Management, Engineering, Marketing, and Sales. Collaborate with Customer Success to drive post-sales revenue, ensure retention, and contribute to growth. Execute cross-functional projects involving teams such as Engineering, Sales, and Marketing. What You'll Bring Required: 7 plus years of pre-sales experience in a Sales Engineering or Solutions Engineering role. Hands-on experience working with enterprise customers in the security or technical SaaS space. Ability to multitask and efficiently handle multiple competing priorities, delegating when necessary while being highly organized, detail oriented, and demonstrating excellent time management skills. Empathetic mindset for the customer and a commitment to delving deep into the challenges they present or experience. Ability to work cross-functionally and contribute directly to Sales, Product and Engineering teams. Ability and desire to learn new tools and technologies. Familiarity w...",
-      "required_skills": [
-        "LLM",
-        "Python"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Sales Engineer, Enterprise at Socket, focused on LLM, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Sales Engineer, Enterprise role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-153342",
-      "title": "Sales Engineer, Commercial",
-      "company": "Socket",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153342-sales-engineer-commercial",
-      "published_at": "2026-10-16",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software downloaded over a billion times a month, Socket has raised $ 125M in funding from top angels, operators, and security leaders. About the Role Socket is looking for a Sales Engineer to support our commercial customers. In this role you will be at the nexus between our customers and our engineering, product, and design teams. You'll work cross-functionally in order to provide technical education, guidance, and support in a pre-sales capacity. What You'll Do Lead discussions and product demonstrations to showcase capabilities; address customer challenges, respond to questions, and handle objections. Craft technical content to guide customers in implementing specific use cases or extending our solution. Collaborate with account teams to understand customer requirements and translate them to Socket capabilities, emphasizing business value. Support Proof of Concepts (POCs) that align with customer requirements; provide technical expertise, troubleshooting, and guidance throughout the evaluation process. Provide guidance on integrating solutions into the customer's existing infrastructure. Distill and communicate customer needs and product feedback to Product Management, Engineering, Marketing, and Sales. Collaborate with Customer Success to drive post-sales revenue, ensure retention, and contribute to growth. Execute cross-functional projects involving teams such as Engineering, Sales, and Marketing. What You'll Bring 5+ years in pre-sales technical roles (Sales Engineer, Solutions Engineer, Solutions Architect, TAM) with commercial customers Prior experience in security, developer tools, or SaaS environments Hands-on technical background: prior software engineering, data science, or equivalent role Deep familiarity with package managers (at least one of npm or PyPI) and programming ecosystems (at least one of JavaScript or Python) Understanding of software supply chain security and vulnerability management concepts Ability to read/write basic scripts in Python, JS, or Go Knowledge of source control systems (Git, GitHub, GitLab, Bitbucket) RESTful API and integration experience Our Inter...",
-      "required_skills": [
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Sales Engineer, Commercial at Socket, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Sales Engineer, Commercial role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -215,6 +113,116 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "jobicy-153466",
+      "title": "Senior DevOps Engineer - Storage Platforms",
+      "company": "Five9",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
+      "published_at": "2026-10-17",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. We are seeking a highly experienced Senior DevOps Engineer – Storage Platforms to build, automate and operate large-scale Software Defined Storage (SDS) and Kubernetes platforms in a private cloud environment. This role focuses on Storage Engineering with Infrastructure-as-Code and GitOps practices while ensuring scalability, resilience, and performance . This is a deeply technical role requiring expert-level understanding of Software Defined Storage, Kubernetes and extensive working knowledge on Linux Operating systems. You will also collaborate with platform and SRE teams to maintain secure, performant, and multi-tenant-isolated services that serve high-throughput, mission-critical applications. Key Responsibilities Deploy, automate, and operate large-scale Software Defined Storage architectures across private and public cloud regions within ITIL methodology. Deploy and support enterprise storage platforms (Pure Storage, HPE, NetApp) and SDS solutions (Ceph, Longhorn). Integrate self-service storage workflows for Kubernetes CSI and OpenStack consumers (VM and Baremetal). Implement and manage backup solutions (preferably Rubik). Build and maintain Infrastructure-as-Code for storage platforms using Ansible, Terraform, Helm and Git, with Python/Bash automation. Implement CI/CD pipelines for infrastructure updates, patching, upgrades, testing, and rollback. Implement and improve monitoring, alerting, and observability for storage systems (capacity, latency, IOPS, recovery health) using GitOps and tools such as Prometheus, Loki, and Grafana. Perform deep troubleshooting across storage, Kubernetes, hypervisors, networking, and Linux systems . Develop and maintain technical documentation , architecture diagrams, operational procedures, and runbooks Participate in on-call rotations , incident response, and root cause analysis. Collaborate globally on change management , documentation, and operational best practices. Minimum Qualifications 6+ years of experience managing enterprise storage and Kubernetes platforms on Linux. Strong hands-...",
+      "required_skills": [
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior DevOps Engineer - Storage Platforms at Five9, focused on GitHub Actions, Kubernetes, Python, Terraform. Location: USA.",
+      "rule_based_application_sentence": "Your Senior DevOps Engineer - Storage Platforms role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-155008",
+      "title": "Controls Product Senior Manager",
+      "company": "Monzo",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155008-controls-product-senior-manager",
+      "published_at": "2026-10-17",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ London/Cardiff/UK Remote | £85,000 - £115,000 + Incentive Awards tied to your performance + Benefits ✨ This role sits at the heart of our Control Discipline change agenda, building the controls product platform that powers safe growth at Monzo. At Monzo, we don’t treat risk and controls as a bureaucratic governance process. We treat our control framework, tools, and data pipelines as an internal product - designed to give engineers, product managers, and business leads the ability to ship fast - and safely. We are looking for a Senior Controls Product Manager to join our newly established Controls Product & Enablement team within our Controls Discipline. Sitting at the intersection of Product, Risk, Data, and Engineering, you will act as the Product Lead for Monzo’s core risk lifecycles (Issues, RCSAs, Controls, Policy, Reg Traceability). You won't just write requirement docs for someone else to build - you are a builder yourself. You’ll prototype low-code tools, leverage AI models, interrogate data pipelines, and architect automated workflows to turn manual risk friction into seamless, automated self-service. ⭐ Our Controls team The role will sit within the Controls Product & Enablement team which is part of the wider Controls Discipline in Monzo’s 1st line of defence Our teams work closely with cross-functional teams across the organisation including Technology, Data, Product, Operations as well and Risk & Compliance (the 2nd line of defence). As this is a newly established team (wherein you’ll have two direct reports already working in the team as data and automation specialists), this role holder needs to bring a flexible and adaptable mindset, as...",
+      "required_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Controls Product Senior Manager at Monzo, focused on LLM, Prompt engineering, Python, SQL. Location: UK.",
+      "rule_based_application_sentence": "Your Controls Product Senior Manager role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-153417",
+      "title": "Senior Infrastructure Engineer, Core Systems",
+      "company": "QuickNode",
+      "location": "Portugal,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153417-senior-infrastructure-engineer-core-systems",
+      "published_at": "2026-10-17",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Quicknode is a cloud-based infrastructure company that powers the blockchain ecosystem. Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. Quicknode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The Quicknode team has over 110 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily. We are a global remote company with offices in Fort Lauderdale, FL and Lisbon, Portugal. The Role As a Senior Infrastructure Engineer at Quicknode, you’ll play a pivotal role in architecting, developing, and implementing our next-generation infrastructure platforms across both private and public clouds. This role focuses on building robust, scalable systems that go beyond traditional cloud deployments — developing hybrid environments that integrate bare-metal, virtualization, and orchestration technologies. You’ll drive automation, standardization, and operational excellence across Quicknode’s infrastructure ecosystem, ensuring performance, reliability, and scalability as we expand our Web3 infrastructure footprint globally. What You'll Do Research, architect, and deploy complex infrastructure systems across bare-metal servers, hypervisors, orchestrators, virtual machines, and containerized environments. Design and implement automation using Infrastructure-as-Code and Configuration Management principles (Terraform, Ansible, Consul) to ensure reproducibility, speed, and consistency in infrastructure deployment. Establish and maintain infrastructure standards, documentation, and architecture diagrams to support scale, reliability, and compliance across environments. Partner with Technical Operations, CloudOps, and Platform teams to ensure smooth integration of systems, improve deployment efficiency, and enhance observability. Optimize resource allocation and infrastructure cost efficiency while maintaining performance and uptime goals. Continuously improve resilience and scalability through proactive capacity planning, disaster recovery testing, and infrastructure modernization initiatives. What You'll Bring Minimum 5 years of experience in Systems Administration, Datacenter Operations, or Infrastructure Engineering, with deep expertise in Linux/Unix systems. Proven success designing and managing hyb...",
+      "required_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior Infrastructure Engineer, Core Systems at QuickNode, focused on Docker, GitHub Actions, Kubernetes, Python. Location: Portugal,  USA.",
+      "rule_based_application_sentence": "Your Senior Infrastructure Engineer, Core Systems role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, Terraform."
       ]
     },
     {
