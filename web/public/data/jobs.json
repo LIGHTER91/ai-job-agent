@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:36:46Z",
+  "generated_at": "2026-10-18T10:58:36Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,34 @@
   },
   "jobs": [
     {
+      "id": "jobicy-155698",
+      "title": "IT Support Specialist",
+      "company": "6sense",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155698-it-support-specialist-3",
+      "published_at": "2026-10-18",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Our Mission: 6sense 's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Every 6sensor plays a part in deﬁning the future of our industry-leading technology. 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers. We want 6sense to be the best chapter of your career. IT Support Specialist About the Role 6sense is looking for an IT Support Specialist who is passionate about delivering exceptional employee experiences through world-class IT support. This role combines hands-on end user support with administration of modern workplace technologies, identity systems, SaaS applications, endpoint management, and AI platforms. You'll support a global workforce while helping improve IT operations through automation, documentation, and process improvement. We're looking for someone who enjoys solving problems, learning new technologies, and creating scalable solutions that make employees more productive. What You'll Do Provide Tier 1 and Tier 2 support through tickets, chat, email, and remote support sessions. Support macOS, Windows 11, Microsoft 365, Teams, Slack, and Zoom environments. Manage user lifecycle processes including onboarding, offboarding, access requests, and role changes. Administer and troubleshoot Okta, Entra ID, SSO, MFA, and identity-related services. Support and manage SaaS platforms including Microsoft 365, Slack, Zoom, 1Password, GitHub, Claude Enterprise, and Workato. Deploy, configure, and maintain endpoints using Intune, Iru, and CrowdStrike. Maintain accurate asset inventory and device lifecycle management. Support Microsoft Copilot, Claude, and other AI technologies while promoting responsible AI practices. Develop scripts, automations, and workflow improvements that reduce manual effort and improve efficiency. Create and maintain documentation, knowledge articles, and standard operating procedures. Provide occasional support for Zoom Rooms, Teams meetings, executive users, and company events. What We're Looking For 3+ years of experience in IT Support, Help Desk, Service Desk, or End User Computing. Experience supporti...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "IT Support Specialist at 6sense, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your IT Support Specialist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -116,71 +144,37 @@
       ]
     },
     {
-      "id": "jobicy-153466",
-      "title": "Senior DevOps Engineer - Storage Platforms",
-      "company": "Five9",
-      "location": "USA",
+      "id": "jobicy-155673",
+      "title": "AI Automation & Ops Lead",
+      "company": "Fresh Prints",
+      "location": "Philippines",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
-      "published_at": "2026-10-17",
-      "match_score": 51,
+      "url": "https://jobicy.com/jobs/155673-ai-automation-ops-lead",
+      "published_at": "2026-10-18",
+      "match_score": 52,
       "priority": "medium",
-      "raw_description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empowering our employees to be their authentic selves. We are seeking a highly experienced Senior DevOps Engineer – Storage Platforms to build, automate and operate large-scale Software Defined Storage (SDS) and Kubernetes platforms in a private cloud environment. This role focuses on Storage Engineering with Infrastructure-as-Code and GitOps practices while ensuring scalability, resilience, and performance . This is a deeply technical role requiring expert-level understanding of Software Defined Storage, Kubernetes and extensive working knowledge on Linux Operating systems. You will also collaborate with platform and SRE teams to maintain secure, performant, and multi-tenant-isolated services that serve high-throughput, mission-critical applications. Key Responsibilities Deploy, automate, and operate large-scale Software Defined Storage architectures across private and public cloud regions within ITIL methodology. Deploy and support enterprise storage platforms (Pure Storage, HPE, NetApp) and SDS solutions (Ceph, Longhorn). Integrate self-service storage workflows for Kubernetes CSI and OpenStack consumers (VM and Baremetal). Implement and manage backup solutions (preferably Rubik). Build and maintain Infrastructure-as-Code for storage platforms using Ansible, Terraform, Helm and Git, with Python/Bash automation. Implement CI/CD pipelines for infrastructure updates, patching, upgrades, testing, and rollback. Implement and improve monitoring, alerting, and observability for storage systems (capacity, latency, IOPS, recovery health) using GitOps and tools such as Prometheus, Loki, and Grafana. Perform deep troubleshooting across storage, Kubernetes, hypervisors, networking, and Linux systems . Develop and maintain technical documentation , architecture diagrams, operational procedures, and runbooks Participate in on-call rotations , incident response, and root cause analysis. Collaborate globally on change management , documentation, and operational best practices. Minimum Qualifications 6+ years of experience managing enterprise storage and Kubernetes platforms on Linux. Strong hands-...",
-      "required_skills": [
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Senior DevOps Engineer - Storage Platforms at Five9, focused on GitHub Actions, Kubernetes, Python, Terraform. Location: USA.",
-      "rule_based_application_sentence": "Your Senior DevOps Engineer - Storage Platforms role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-155008",
-      "title": "Controls Product Senior Manager",
-      "company": "Monzo",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/155008-controls-product-senior-manager",
-      "published_at": "2026-10-17",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ London/Cardiff/UK Remote | £85,000 - £115,000 + Incentive Awards tied to your performance + Benefits ✨ This role sits at the heart of our Control Discipline change agenda, building the controls product platform that powers safe growth at Monzo. At Monzo, we don’t treat risk and controls as a bureaucratic governance process. We treat our control framework, tools, and data pipelines as an internal product - designed to give engineers, product managers, and business leads the ability to ship fast - and safely. We are looking for a Senior Controls Product Manager to join our newly established Controls Product & Enablement team within our Controls Discipline. Sitting at the intersection of Product, Risk, Data, and Engineering, you will act as the Product Lead for Monzo’s core risk lifecycles (Issues, RCSAs, Controls, Policy, Reg Traceability). You won't just write requirement docs for someone else to build - you are a builder yourself. You’ll prototype low-code tools, leverage AI models, interrogate data pipelines, and architect automated workflows to turn manual risk friction into seamless, automated self-service. ⭐ Our Controls team The role will sit within the Controls Product & Enablement team which is part of the wider Controls Discipline in Monzo’s 1st line of defence Our teams work closely with cross-functional teams across the organisation including Technology, Data, Product, Operations as well and Risk & Compliance (the 2nd line of defence). As this is a newly established team (wherein you’ll have two direct reports already working in the team as data and automation specialists), this role holder needs to bring a flexible and adaptable mindset, as...",
+      "raw_description": "AI Automation & Operations Lead Company: Nucleus Network Location: Remote Employment type: Full-time Working hours: To be confirmed based on required US time-zone overlap About Nucleus Network Nucleus Network is built around a simple mission: introducing great people to great people. The business operates across three core areas: Nucleus Advisory: A warm-introductions-as-a-service business that has made and tracked more than 10,000 introductions. Nucleus Ventures: A venture capital firm incubated by Nucleus that deployed more than $54 million across 28 companies within 2.5 years. Nucleus Community: An events business that hosted more than 70 experiences over the past year across New York City, Los Angeles, Miami, San Francisco, Las Vegas, Cannes, and other locations. As Nucleus continues to grow, we are looking for someone who can help us use AI and automation to operate more intelligently, efficiently, and at scale. About the Role We are looking for a highly resourceful and hands-on AI Automation & Operations Lead to identify, build, and implement AI-powered workflows across Nucleus Network. This is not a traditional machine-learning or AI research role. You will not be expected to build foundational AI models. Instead, you will use existing AI tools, automation platforms, APIs, and lightweight development to solve real operational problems. You will work closely with the Nucleus leadership team to understand how different parts of the business operate, identify repetitive or inefficient processes, and turn those opportunities into reliable systems and automations. A major initial focus will be improving how Nucleus captures, organizes, enriches, and uses relationship data. However, the role will eventually support processes across Nucleus Advisory, Nucleus Ventures, Nucleus Community, and other internal functions. The ideal candidate is curious, technically capable, business-minded, and comfortable taking an ambiguous problem from idea to working solution. What You’ll Do Identify opportunities for AI and automation Learn how different teams and business units at Nucleus currently operate. Map existing workflows and identify repetitive, manual, or inefficient processes. Recommend where AI and automation can create the greatest operational impact. Prioritize projects based on business value, complexity, urgency, and scalability. Help the leadership team distinguish between processes that should be automated and those that still require human judgment. B...",
       "required_skills": [
         "LLM",
+        "OpenAI",
         "Prompt engineering",
         "Python",
         "SQL"
       ],
       "matched_skills": [
         "LLM",
+        "OpenAI",
         "Prompt engineering",
         "Python"
       ],
       "missing_skills": [
         "SQL"
       ],
-      "rule_based_summary": "Controls Product Senior Manager at Monzo, focused on LLM, Prompt engineering, Python, SQL. Location: UK.",
-      "rule_based_application_sentence": "Your Controls Product Senior Manager role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "AI Automation & Ops Lead at Fresh Prints, focused on LLM, OpenAI, Prompt engineering, Python. Location: Philippines.",
+      "rule_based_application_sentence": "Your AI Automation & Ops Lead role interests me because it connects directly with my work around LLM, OpenAI, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
+        "4 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
@@ -188,41 +182,51 @@
       ]
     },
     {
-      "id": "jobicy-153417",
-      "title": "Senior Infrastructure Engineer, Core Systems",
-      "company": "QuickNode",
-      "location": "Portugal,  USA",
+      "id": "jobicy-155671",
+      "title": "Software Engineer - Applied AI",
+      "company": "DevRev",
+      "location": "Philippines",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153417-senior-infrastructure-engineer-core-systems",
-      "published_at": "2026-10-17",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Quicknode is a cloud-based infrastructure company that powers the blockchain ecosystem. Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. Quicknode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The Quicknode team has over 110 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily. We are a global remote company with offices in Fort Lauderdale, FL and Lisbon, Portugal. The Role As a Senior Infrastructure Engineer at Quicknode, you’ll play a pivotal role in architecting, developing, and implementing our next-generation infrastructure platforms across both private and public clouds. This role focuses on building robust, scalable systems that go beyond traditional cloud deployments — developing hybrid environments that integrate bare-metal, virtualization, and orchestration technologies. You’ll drive automation, standardization, and operational excellence across Quicknode’s infrastructure ecosystem, ensuring performance, reliability, and scalability as we expand our Web3 infrastructure footprint globally. What You'll Do Research, architect, and deploy complex infrastructure systems across bare-metal servers, hypervisors, orchestrators, virtual machines, and containerized environments. Design and implement automation using Infrastructure-as-Code and Configuration Management principles (Terraform, Ansible, Consul) to ensure reproducibility, speed, and consistency in infrastructure deployment. Establish and maintain infrastructure standards, documentation, and architecture diagrams to support scale, reliability, and compliance across environments. Partner with Technical Operations, CloudOps, and Platform teams to ensure smooth integration of systems, improve deployment efficiency, and enhance observability. Optimize resource allocation and infrastructure cost efficiency while maintaining performance and uptime goals. Continuously improve resilience and scalability through proactive capacity planning, disaster recovery testing, and infrastructure modernization initiatives. What You'll Bring Minimum 5 years of experience in Systems Administration, Datacenter Operations, or Infrastructure Engineering, with deep expertise in Linux/Unix systems. Proven success designing and managing hyb...",
+      "url": "https://jobicy.com/jobs/155671-software-engineer-applied-ai",
+      "published_at": "2026-10-18",
+      "match_score": 52,
+      "priority": "medium",
+      "raw_description": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions. It extends your existing software with AI-native apps and agents that work alongside your teams and customers – updating workflows, coordinating across teams, and eliminating repetitive work. We call this Team Intelligence: human-AI collaboration that breaks down silos, brings people back together, and frees you to solve bigger problems. Backed by Khosla Ventures and Mayfield with $150M+ raised, DevRev is trusted by global companies across industries. About the Role: As a Forward Deployed Engineer at DevRev, you will work closely with our pre- and post-sales Customer Experience team by developing solutions over the core platform via applications written in TypeScript, JavaScript, Python, etc. One of the key functions of this role is, building the Knowledge Graph that includes integration of DevRev with other SaaS and non-SaaS systems through webhooks and APIs and/ or real-time communication architectures. You will be expected to employ your creativity and expertise to ideate and shape how AI, analytics and workflows are used in customers' processes. What You'll Do: Customer-facing: 30% working directly with customers. Coding & Integration: 70-80% hands-on technical implementation Build & Deploy Solutions: Design, develop, and launch AI agents, integrations, and automations that connect DevRev with customers' existing tech stacks and workflows. Integrate Systems: Connect DevRev with SaaS and non-SaaS platforms through APIs, webhooks, and real-time communication architectures for seamless data flow. Optimize AI Performance: Apply prompt engineering, fine-tune semantic search engines, and leverage generative AI techniques to enhance agent accuracy and user experience. Own Data Insights: Write SQL queries, perform data analysis, and build dashboards to surface insights that drive customer decision-making. Prototype & Iterate: Develop rapid proofs-of-concept, conduct live technical demos, and refine solutions based on customer and stakeholder feedback. Lead Cross-functional Collaboration: Maintain constant communication loops with customers, engineering, product, customer success, support, and revenue teams to ensure alignment. Guide Technical Adoption: Learn an...",
       "required_skills": [
+        "AWS",
         "Docker",
         "GitHub Actions",
-        "Kubernetes",
+        "Knowledge graphs",
+        "LLM",
+        "Prompt engineering",
         "Python",
-        "Terraform"
+        "RAG",
+        "SQL",
+        "Vector search"
       ],
       "matched_skills": [
         "Docker",
         "GitHub Actions",
-        "Python"
+        "Knowledge graphs",
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "RAG",
+        "Vector search"
       ],
       "missing_skills": [
-        "Kubernetes",
-        "Terraform"
+        "AWS",
+        "SQL"
       ],
-      "rule_based_summary": "Senior Infrastructure Engineer, Core Systems at QuickNode, focused on Docker, GitHub Actions, Kubernetes, Python. Location: Portugal,  USA.",
-      "rule_based_application_sentence": "Your Senior Infrastructure Engineer, Core Systems role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Software Engineer - Applied AI at DevRev, focused on AWS, Docker, GitHub Actions, Knowledge graphs. Location: Philippines.",
+      "rule_based_application_sentence": "Your Software Engineer - Applied AI role interests me because it connects directly with my work around Docker, GitHub Actions, Knowledge graphs, LLM, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
+        "8 of 10 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, Terraform."
+        "Main missing or weaker skills: AWS, SQL."
       ]
     },
     {
