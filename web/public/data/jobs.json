@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:03:57Z",
+  "generated_at": "2026-10-20T11:30:01Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,40 +74,6 @@
   },
   "jobs": [
     {
-      "id": "jobicy-153592",
-      "title": "Software Engineer, Analytics",
-      "company": "Bayesian Health",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153592-software-engineer-analytics",
-      "published_at": "2026-10-19",
-      "match_score": 62,
-      "priority": "medium",
-      "raw_description": "Software Engineer, Analytics In Brief We’re an early-stage startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will lead the development of our clinical AI/ML product analytics infrastructure, frameworks, and tools to enable our client success, product, clinical, and technology teams to uplevel our decision making through better insights. Who We Are Bayesian Health ’s mission is to improve patient outcomes by empowering clinicians with the insights they need to make the right decision for the right patient at the point-of-care. We’re a diverse team of clinicians, engineers, machine learning experts, product designers, and performance improvement leaders committed to enabling smarter, patient-specific care delivery through unlocking the power of data. We’re funded by top tier tech and biotech investors: Obvious Ventures, Andreessen Horowitz, American Medical Association’s venture arm, Catalio Partners, and LifeForce Capital. Our company has won many awards; most recent recognitions include: Forbes AI Top 50, World Economic Forum Tech Pioneer, Time Best Inventions, BioTech AI Company of the Year. Read more about our recent publication in Nature Medicine that associates our products with lives saved. What you'll do As a Senior Software Engineer, Analytics, you will work closely with client success, product managers, clinicians, data scientists, and other software engineers to build infrastructure, frameworks, and tools to improve client analytics, facilitate clinical case reviews, and support product investigation. This role is crucial to provide internal visibility into product performance that will drive expansion of our clinical AI/ML module offerings and revenue growth. Responsibilities Product performance monitoring and optimization: Partner with client success and clinical product subject matter experts to implement the infrastructure, queries, and automation to monitor the KPIs and success metrics of our products across multiple clinical domains and clients. Clinical case review and investigation : Build frameworks and tools to empower our clinical team to independently review and investigate clinical cases reported by our clients and identify cases with certain criteria that need further evaluation. Data platform and analytics technical foundations: Propose and implement foundational improvements and innovations to boost our data platform scalability with e...",
-      "required_skills": [
-        "AWS",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "SQL"
-      ],
-      "rule_based_summary": "Software Engineer, Analytics at Bayesian Health, focused on AWS, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Software Engineer, Analytics role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, SQL."
-      ]
-    },
-    {
       "id": "remotive-2091158",
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
@@ -135,6 +101,44 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-153674",
+      "title": "Application Integration Developer",
+      "company": "Nebius",
+      "location": "Europe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153674-application-integration-developer",
+      "published_at": "2026-10-20",
+      "match_score": 56,
+      "priority": "medium",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. Your responsibilities will include: Develop and maintain Python-based API integrations between our HR information system (HRIS) and business systems, including finance, travel, expense management, and recruiting platforms. Build and maintain cloud-native services, web applications, and containerized workloads on Microsoft Azure. Implement automation for system workflows, onboarding/offboarding, access-related processes, and data synchronization. Create and maintain deployment pipelines and Infrastructure-as-Code with Terraform. Own integrations through implementation, testing, deployment, and production support; respond to alerts and troubleshoot issues across APIs, Azure services, and data sources within agreed SLAs. Implement safeguards for sensitive employee data, including validation, audit trails, and controls around mass changes. Work with business stakeholders to clarify requirements and maintain technical documentation as part of each change. We expect you to have: 3+ years of integration or backend development experience, including hands-on experience deploying and supporting production workloads in Microsoft Azure. Practical experience with Azure compute and integration services. Our stack includes Azure Functions, App Service, Container Apps, Container Instances, Service Bus, and API Management. Practical Python development skills, including maintaining and debugging existing services and automations. Experience integrating REST APIs, webhooks, and Microsoft Graph API, with an understanding of pagination, rate limits, retries, and idempotency. Experience working with CI/CD pipelines and Terraform for Azure deployments. Good understanding of OAuth 2.0, Microsoft Entra ID, and managed identities for secur...",
+      "required_skills": [
+        "Azure",
+        "GitHub Actions",
+        "PostgreSQL",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "Azure",
+        "Terraform"
+      ],
+      "rule_based_summary": "Application Integration Developer at Nebius, focused on Azure, GitHub Actions, PostgreSQL, Python. Location: Europe.",
+      "rule_based_application_sentence": "Your Application Integration Developer role interests me because it connects directly with my work around GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure, Terraform."
       ]
     },
     {
@@ -180,30 +184,41 @@
       ]
     },
     {
-      "id": "jobicy-153558",
-      "title": "Staff Firmware Engineer",
-      "company": "Lunar Energy",
+      "id": "jobicy-153659",
+      "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
+      "company": "Hopper",
       "location": "UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153558-staff-firmware-engineer",
-      "published_at": "2026-10-19",
-      "match_score": 53,
+      "url": "https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform",
+      "published_at": "2026-10-20",
+      "match_score": 52,
       "priority": "medium",
-      "raw_description": "Staff Firmware Engineer Embedded/Firmware Engineers at Lunar will be responsible for the full product development lifecycle of our products’ firmware and software, which are important sources of functionality, adaptability, and optimization of our designs. We are looking for people who are passionate about a more sustainable future, and want to make that vision a reality. An ideal candidate is excited and ready to collaborate closely with a dedicated, cross-functional team to deliver innovative, best-in-class products. Engineers at Lunar are hands-on and involved in all aspects of the product, and own the design from forming concepts based on first principles to managing high-volume production quality. Lunar Energy was founded to transition homes to 100% clean energy—making our electricity greener, our air cleaner and our energy more safe, secure and reliable for all. We’re a fast-growing, global company building the world’s best clean energy products to electrify all homes and connect communities to form clean, resilient virtual power plants. On a given day at Lunar, you’ll likely… Develop wireless network communication solutions for high-volume products, ensuring continuous 24/7 reliability Design firmware software that runs in our home energy product components: RF communication protocols, mobile app interfaces, system diagnostics and updates. Drive design discussions on system architecture to achieve the desired product functionality. Collaborate with the team on design and development, including participating in code reviews. Work collaboratively with other disciplines across the company to continuously refine and improve our understanding of how our products can create the greatest impact, get to market quickly, and operate reliably for our customers Desired Skills: Degree in a computer-engineering related or adjacent field, or demonstrated commensurate ability. 5+ years experience delivering firmware for new products as part of a team. Proficiency in C, and working familiarity with Python. Rust knowledge is nice to have. Experience working with IP stack protocols: Ethernet, WiFi, TCP, UDP, HTTPS, etc Working knowledge of Bluetooth/BLE. Experience working with WiFi networks and Espressif ecosystem Working knowledge of Oscilloscopes, Logic Analyzers and other lab test equipment Benefits: We’re dedicated to creating a remarkable employee experience. At Lunar, competitive base pay is one part of our total compensation package. Lunar employees also ha...",
+      "raw_description": "About the Role HTS Assist is Hopper 's agentic AI assistant for travel, resolving flight changes, cancellations, refunds, and bookings over chat and voice for some of the world's largest travel brands. We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across React/TypeScript front ends, Scala and Python services, and cloud infrastructure. The team is lean and senior, ownership is broad, and the path from your code to a traveler's phone call is short. What would your day-to-day look like Own the voice channel end to end, including telephony and CPaaS integrations (e.g., Twilio, Amazon Connect), streaming speech-to-text and text-to-speech pipelines, realtime model orchestration, and latency and quality budgets Build product features across the stack, including web chat front ends in React/TypeScript, backend services in Scala and Python, and infrastructure on GCP Design for multi-tenant scale, with one codebase serving many partners through configuration rather than forks Build the safety and compliance plumbing enterprise partners audit, including guardrails, content filtering, and PII redaction integration points Keep revenue-critical deployments healthy through observability, alerting, incident response, and SLA performance Build the platform capabilities forward-deployed engineers configure for partner telephony integrations and go-lives Raise the engineering bar through code review, architecture reviews, and mentoring An ideal candidate has 6+ years of software engineering experience, with senior-level ownership of production systems and genuine full-stack range Hands-on realtime systems experience, such as voice applications, WebRTC/SIP, streaming media, or comparable low-latency products Strength in a modern front end (React, TypeScript) and depth on the backend (Scala or another JVM language, and/or Python), along with cloud infrastructure experience on GCP or AWS A track record designing, building, and maintaining RESTful APIs, microservices, or event-driven systems Familiarity using AI coding tools as a standard part of their workflow, with the judgment to review, correct, and own everything that ships An operable-systems mindset, covering SLAs, observability, on-call rotations, and rollback plans The ability to break down complex problems, make pragmatic tradeoffs, and ship iteratively, backed by strong communication across product, design, and operations Bonus p...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "React"
       ],
       "matched_skills": [
-        "Python"
+        "LLM",
+        "OpenAI",
+        "Python",
+        "React"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Staff Firmware Engineer at Lunar Energy, focused on Python. Location: UK.",
-      "rule_based_application_sentence": "Your Staff Firmware Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS"
+      ],
+      "rule_based_summary": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform at Hopper, focused on AWS, LLM, OpenAI, Python. Location: UK.",
+      "rule_based_application_sentence": "Your Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform role interests me because it connects directly with my work around LLM, OpenAI, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "4 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS."
       ]
     },
     {
@@ -245,6 +260,48 @@
       ]
     },
     {
+      "id": "jobicy-153653",
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "location": "Europe,  UAE",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
+      "published_at": "2026-10-20",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. About the Role We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers. This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering. Responsibilities Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments. Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies. Build and maintain Infrastructure as Code (IaC) using Terraform. Design and improve CI/CD pipelines for application and infrastructure deployment. Deploy and operate middleware platforms such as Kafka, Redis and NGINX. Automate operational tasks using Golang and Python. Improve observability through monitoring, logging, alerting, and distributed tracing. Ensure platform reliability, scalability, security, and disaster recovery. Troubleshoot production incidents and perform root cause analysis. Work closely with software engineers to improve deployment processes and platform developer experience. Participate in on-call rotations and incident response. Requirements 3+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer. Strong experience with at least one major cloud platform: AWS / GCP / Azure Hands-on experience managing Kubernetes production environments. Experience with Karpe...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "DevOps Engineer, Blockchain Infra (Fully Remote) at Binance, focused on AWS, Azure, Docker, GitHub Actions. Location: Europe,  UAE.",
+      "rule_based_application_sentence": "Your DevOps Engineer, Blockchain Infra (Fully Remote) role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 7 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+      ]
+    },
+    {
       "id": "remotive-1680495",
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies ",
@@ -266,42 +323,6 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-153597",
-      "title": "Sr. Data Engineer",
-      "company": "Carrot",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153597-sr-data-engineer-3",
-      "published_at": "2026-10-19",
-      "match_score": 36,
-      "priority": "low",
-      "raw_description": "About Carrot : Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between. Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide. Carrot is widely regarded as a defining force in healthcare innovation as a recipient of several top-tier awards, including Fast Company's 'Most Innovative Companies' and CNBC's '100 Barrier Breaking Startups'. The company is regularly cited by leading global outlets — including The Economist, Bloomberg, The Wall Street Journal, NPR, ABC News, and Harvard Business Review — as a leading voice on digital health, the future of work, and family health. Learn more at get-carrot.com . The Opportunity Carrot is seeking a Sr. Data Engineer to lead the evolution, reliability, and scalability of our modern data infrastructure across analytics, reporting, and business intelligence. In this role, you will architect, build, and maintain robust, automated data pipelines, orchestrate workflows, integrate diverse data sources, and partner with stakeholders across the business to deliver secure, compliant, high-quality data solutions. Your work will span the full data lifecycle, from architecting resilient ETL/ELT pipelines and developing real-time and batch data integrations to automating reporting, reducing technical debt, and enabling advanced analytics. Sr. Data Engineers at Carrot are operational stewards and technical mentors, driving improvements in system maturity, cost efficiency, automation, and collaborative practices. You will join our Data Engineering team, which develops and optimizes scalable data pipelines and cloud infrastructure to enable secure, automated reporting and analytics across Carrot. The team collaborates closely with Business Intelligence, Product, Finance, Legal, and Commercial partners to deliver reliable integrations and self-serve solutions that drive business insights and operational efficiency. What You’ll Own In this role, you will: Architect, build, test, deploy, and maintain scalable, automated ETL/ELT pipelines using Python, dbt, an...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow",
-        "SQL"
-      ],
-      "rule_based_summary": "Sr. Data Engineer at Carrot, focused on AWS, Airflow, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Sr. Data Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, SQL."
       ]
     }
   ]
