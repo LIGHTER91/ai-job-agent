@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:30:01Z",
+  "generated_at": "2026-10-21T11:41:51Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,50 @@
   },
   "jobs": [
     {
+      "id": "jobicy-156098",
+      "title": "Applied AI Engineer",
+      "company": "Future PLC",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156098-applied-ai-engineer-2",
+      "published_at": "2026-10-21",
+      "match_score": 78,
+      "priority": "high",
+      "raw_description": "About Us: Future is building a personalized guidance system for lifelong health. We help people understand what to do next for their body, goals, and stage of life — then support them in turning those decisions into sustained behavior change. By combining AI, human expertise, personal health data, and accountability, Future helps members improve performance today while building the resilience, capacity, and healthspan they need for decades to come. About the Role We're looking for an Applied AI Engineer to help us build and ship AI-powered features that directly improve our product experience and business outcomes. This is a hands-on, product-focused role where you'll take ideas from concept to production — designing intelligent systems, validating them with real users, and turning them into reliable, scalable services. You'll work at the intersection of AI, product, and engineering — partnering closely with cross-functional teams to identify high-impact opportunities, prototype quickly, and iterate based on data. This isn't a research-only role. You'll own the full lifecycle: experimentation, evaluation, deployment, monitoring, and continuous improvement. The ideal candidate is excited about applying LLMs and modern ML tooling to real-world problems. You think in terms of systems, tradeoffs, and outcomes — not just models. You care about performance, quality, latency, and cost in production. Most importantly, you're motivated by shipping impactful AI experiences that customers actually use. What You'll Do Build and ship AI agents that serve real users: tool-calling LLM systems with structured output, parallel API orchestration, and streaming responses. Design evaluation harnesses and quality scoring — we use Langfuse, rubrics to measure safety, effectiveness, and personalization. Own the full loop: prototype a new agent capability, validate it with evals, deploy it to staging and production, monitor traces, and iterate. Improve reliability, latency, and cost through prompt caching strategies, token budgets, retry logic, and observability. Write the tools agents use: API integrations with Pydantic validation, exercise search over local databases, structured workout submission. What You Bring Strong Python skills: you've built and deployed services on large production systems. Experience with LangChain/LangGraph or similar agent frameworks. Hands-on experience with LLMs in production: prompt engineering, tool/function calling, structured output, evaluati...",
+      "required_skills": [
+        "AWS",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Prompt engineering",
+        "Pydantic",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Prompt engineering",
+        "Pydantic",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Terraform"
+      ],
+      "rule_based_summary": "Applied AI Engineer at Future PLC, focused on AWS, LLM, LangChain, LangGraph. Location: USA.",
+      "rule_based_application_sentence": "Your Applied AI Engineer role interests me because it connects directly with my work around LLM, LangChain, LangGraph, Prompt engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "6 of 8 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Terraform."
+      ]
+    },
+    {
       "id": "remotive-2091158",
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
@@ -104,41 +148,88 @@
       ]
     },
     {
-      "id": "jobicy-153674",
-      "title": "Application Integration Developer",
-      "company": "Nebius",
-      "location": "Europe",
+      "id": "jobicy-153740",
+      "title": "AI Senior Engineer (Vision)",
+      "company": "Able",
+      "location": "LATAM",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153674-application-integration-developer",
-      "published_at": "2026-10-20",
-      "match_score": 56,
+      "url": "https://jobicy.com/jobs/153740-ai-senior-engineer-vision",
+      "published_at": "2026-10-21",
+      "match_score": 58,
       "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. Your responsibilities will include: Develop and maintain Python-based API integrations between our HR information system (HRIS) and business systems, including finance, travel, expense management, and recruiting platforms. Build and maintain cloud-native services, web applications, and containerized workloads on Microsoft Azure. Implement automation for system workflows, onboarding/offboarding, access-related processes, and data synchronization. Create and maintain deployment pipelines and Infrastructure-as-Code with Terraform. Own integrations through implementation, testing, deployment, and production support; respond to alerts and troubleshoot issues across APIs, Azure services, and data sources within agreed SLAs. Implement safeguards for sensitive employee data, including validation, audit trails, and controls around mass changes. Work with business stakeholders to clarify requirements and maintain technical documentation as part of each change. We expect you to have: 3+ years of integration or backend development experience, including hands-on experience deploying and supporting production workloads in Microsoft Azure. Practical experience with Azure compute and integration services. Our stack includes Azure Functions, App Service, Container Apps, Container Instances, Service Bus, and API Management. Practical Python development skills, including maintaining and debugging existing services and automations. Experience integrating REST APIs, webhooks, and Microsoft Graph API, with an understanding of pagination, rate limits, retries, and idempotency. Experience working with CI/CD pipelines and Terraform for Azure deployments. Good understanding of OAuth 2.0, Microsoft Entra ID, and managed identities for secur...",
+      "raw_description": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things—so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown… and so has our ambition. Now, we’re entering our next chapter—defined by applied AI. AI is a powerful force in the end-to-end software development cycle, and we’re creating practices that allow us to deliver software fast and more effectively than traditional approaches, creating meaningful value for our partners. Today, our builder mindset is driving us to become an AI-native organization across every function. We’re still evolving, and that’s part of the opportunity. If you want to build, learn, and tackle challenges alongside an ambitious team, let’s build together. This position is 100% remote within LatAm. What you’ll be doing We are seeking someone who enjoys working at the cutting edge where Computer Vision meets Logic . You will be responsible for the \"eyes\" and the \"brain\" of our system—extracting complex data from visual documents and then orchestrating how that data is used by Large Language Models. In short, someone who likes: Unlocking Visual Data: Building pipelines that can \"read\" complex documents, understanding layout, charts, and visual context using Vision-Language Models (GPT-4V, Claude 3.5) and Layout Analysis . Orchestrating Intelligence: Owning the application logic layer. You will use LangChain or LangGraph to build the agents and chains that query our data, reason about it, and generate responses. Native PDF Handling: Handling the messy reality of PDF processing (PyMuPDF, layout parsing) to preserve structure before the AI even sees it. Prompt Engineering & Logic: Crafting complex prompts and control flows to ensure models interpret financial charts and layouts accurately without hallucinating. Cost & Scale: Applying a cost-optimization mindset (batch processing, model selection) to ensure our vision and orchestration layers are economically viable. What we’re looking for We want to work with people who have a passion for collaborating with their teams, building software while nurturing inclusive and respectful relationships with their coworkers. With the ones that are open about their shortcomings and what they do not know now, but remain eager to keep on growing and closing those gaps. Ideal...",
       "required_skills": [
-        "Azure",
-        "GitHub Actions",
-        "PostgreSQL",
+        "Computer vision",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Prompt engineering",
         "Python",
-        "Terraform"
+        "Vector search"
       ],
       "matched_skills": [
-        "GitHub Actions",
+        "Computer vision",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Prompt engineering",
+        "Python",
+        "Vector search"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "AI Senior Engineer (Vision) at Able, focused on Computer vision, LLM, LangChain, LangGraph. Location: LATAM.",
+      "rule_based_application_sentence": "Your AI Senior Engineer (Vision) role interests me because it connects directly with my work around Computer vision, LLM, LangChain, LangGraph, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "7 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-156097",
+      "title": "Manager, Machine Learning Engineering",
+      "company": "Tala",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156097-manager-machine-learning-engineering",
+      "published_at": "2026-10-21",
+      "match_score": 57,
+      "priority": "medium",
+      "raw_description": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in capital to more than 14 million customers across Africa, Latin America, and Asia, building the definitive contextual dataset on thin-file borrowers in emerging markets. Tala is now converting that foundation into shared infrastructure that partners, capital providers, and ecosystems can build on. The company has been named to the Fortune Impact 20 list, CNBC’s World’s Top Fintech Companies twice, CNBC Disruptor 50 for five years, and Forbes’ Fintech 50 list for ten years running. Given the global nature of our team, we operate on a remote-first approach with office hubs in Santa Monica, CA (HQ); Nairobi, Kenya; Mexico City, Mexico; Manila, the Philippines; and Bangalore, India. Most Talazens join us because they connect with our mission. If you are energized by the impact you can make at Tala, we’d love to hear from you! The Role We’re looking for a Manager, Machine Learning Engineering to lead Tala’s ML Platform team. This person will manage a team of Machine Learning Engineers responsible for building the platforms, frameworks, and infrastructure that enable our Data Science teams to securely train, deploy, monitor, and operate machine learning models at scale. This is a player-coach management role. You’ll be responsible for developing and growing the team while also providing enough technical leadership to guide architecture, engineering practices, reliability, and production systems. The role has a particular focus on real-time machine learning inference and streaming data systems, as well as the platforms that support batch model development and deployment. What You'll Do Lead & Grow the Team Manage and develop a team of 4–6 Machine Learning Engineers across mid-to-senior levels. Hire, source, interview, and close strong MLE talent. Establish clear expectations, provide regular feedback, and create development plans for direct reports. Coach engineers toward growth and promotion while addressing performance gaps directly and thoughtfully. Create opportunities for engineers to take on challenging projects and grow their technical leadership. Own Engineering Delivery Set quarterly goals and ensure the team consistently delivers against them. Own prioritiza...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Spark"
+      ],
+      "matched_skills": [
+        "Docker",
         "PostgreSQL",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
+        "Airflow",
         "Azure",
-        "Terraform"
+        "Kubernetes",
+        "SQL",
+        "Spark"
       ],
-      "rule_based_summary": "Application Integration Developer at Nebius, focused on Azure, GitHub Actions, PostgreSQL, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Application Integration Developer role interests me because it connects directly with my work around GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Manager, Machine Learning Engineering at Tala, focused on AWS, Airflow, Azure, Docker. Location: USA.",
+      "rule_based_application_sentence": "Your Manager, Machine Learning Engineering role interests me because it connects directly with my work around Docker, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 9 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure, Terraform."
+        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, SQL."
       ]
     },
     {
@@ -184,44 +275,6 @@
       ]
     },
     {
-      "id": "jobicy-153659",
-      "title": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform",
-      "company": "Hopper",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153659-senior-full-stack-engineer-realtime-voice-customer-experience-platform",
-      "published_at": "2026-10-20",
-      "match_score": 52,
-      "priority": "medium",
-      "raw_description": "About the Role HTS Assist is Hopper 's agentic AI assistant for travel, resolving flight changes, cancellations, refunds, and bookings over chat and voice for some of the world's largest travel brands. We're looking for a senior full stack engineer to anchor this product, owning the realtime and voice layer end to end while building across React/TypeScript front ends, Scala and Python services, and cloud infrastructure. The team is lean and senior, ownership is broad, and the path from your code to a traveler's phone call is short. What would your day-to-day look like Own the voice channel end to end, including telephony and CPaaS integrations (e.g., Twilio, Amazon Connect), streaming speech-to-text and text-to-speech pipelines, realtime model orchestration, and latency and quality budgets Build product features across the stack, including web chat front ends in React/TypeScript, backend services in Scala and Python, and infrastructure on GCP Design for multi-tenant scale, with one codebase serving many partners through configuration rather than forks Build the safety and compliance plumbing enterprise partners audit, including guardrails, content filtering, and PII redaction integration points Keep revenue-critical deployments healthy through observability, alerting, incident response, and SLA performance Build the platform capabilities forward-deployed engineers configure for partner telephony integrations and go-lives Raise the engineering bar through code review, architecture reviews, and mentoring An ideal candidate has 6+ years of software engineering experience, with senior-level ownership of production systems and genuine full-stack range Hands-on realtime systems experience, such as voice applications, WebRTC/SIP, streaming media, or comparable low-latency products Strength in a modern front end (React, TypeScript) and depth on the backend (Scala or another JVM language, and/or Python), along with cloud infrastructure experience on GCP or AWS A track record designing, building, and maintaining RESTful APIs, microservices, or event-driven systems Familiarity using AI coding tools as a standard part of their workflow, with the judgment to review, correct, and own everything that ships An operable-systems mindset, covering SLAs, observability, on-call rotations, and rollback plans The ability to break down complex problems, make pragmatic tradeoffs, and ship iteratively, backed by strong communication across product, design, and operations Bonus p...",
-      "required_skills": [
-        "AWS",
-        "LLM",
-        "OpenAI",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "LLM",
-        "OpenAI",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform at Hopper, focused on AWS, LLM, OpenAI, Python. Location: UK.",
-      "rule_based_application_sentence": "Your Senior Full Stack Engineer (Realtime & Voice) Customer Experience Platform role interests me because it connects directly with my work around LLM, OpenAI, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS."
-      ]
-    },
-    {
       "id": "jobicy-155673",
       "title": "AI Automation & Ops Lead",
       "company": "Fresh Prints",
@@ -257,48 +310,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-153653",
-      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
-      "company": "Binance",
-      "location": "Europe,  UAE",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153653-devops-engineer-blockchain-infra-fully-remote",
-      "published_at": "2026-10-20",
-      "match_score": 51,
-      "priority": "medium",
-      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. About the Role We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers. This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering. Responsibilities Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments. Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies. Build and maintain Infrastructure as Code (IaC) using Terraform. Design and improve CI/CD pipelines for application and infrastructure deployment. Deploy and operate middleware platforms such as Kafka, Redis and NGINX. Automate operational tasks using Golang and Python. Improve observability through monitoring, logging, alerting, and distributed tracing. Ensure platform reliability, scalability, security, and disaster recovery. Troubleshoot production incidents and perform root cause analysis. Work closely with software engineers to improve deployment processes and platform developer experience. Participate in on-call rotations and incident response. Requirements 3+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer. Strong experience with at least one major cloud platform: AWS / GCP / Azure Hands-on experience managing Kubernetes production environments. Experience with Karpe...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "DevOps Engineer, Blockchain Infra (Fully Remote) at Binance, focused on AWS, Azure, Docker, GitHub Actions. Location: Europe,  UAE.",
-      "rule_based_application_sentence": "Your DevOps Engineer, Blockchain Infra (Fully Remote) role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 7 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
