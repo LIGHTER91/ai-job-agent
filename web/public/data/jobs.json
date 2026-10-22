@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:41:51Z",
+  "generated_at": "2026-10-22T11:45:02Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,50 +74,6 @@
   },
   "jobs": [
     {
-      "id": "jobicy-156098",
-      "title": "Applied AI Engineer",
-      "company": "Future PLC",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156098-applied-ai-engineer-2",
-      "published_at": "2026-10-21",
-      "match_score": 78,
-      "priority": "high",
-      "raw_description": "About Us: Future is building a personalized guidance system for lifelong health. We help people understand what to do next for their body, goals, and stage of life — then support them in turning those decisions into sustained behavior change. By combining AI, human expertise, personal health data, and accountability, Future helps members improve performance today while building the resilience, capacity, and healthspan they need for decades to come. About the Role We're looking for an Applied AI Engineer to help us build and ship AI-powered features that directly improve our product experience and business outcomes. This is a hands-on, product-focused role where you'll take ideas from concept to production — designing intelligent systems, validating them with real users, and turning them into reliable, scalable services. You'll work at the intersection of AI, product, and engineering — partnering closely with cross-functional teams to identify high-impact opportunities, prototype quickly, and iterate based on data. This isn't a research-only role. You'll own the full lifecycle: experimentation, evaluation, deployment, monitoring, and continuous improvement. The ideal candidate is excited about applying LLMs and modern ML tooling to real-world problems. You think in terms of systems, tradeoffs, and outcomes — not just models. You care about performance, quality, latency, and cost in production. Most importantly, you're motivated by shipping impactful AI experiences that customers actually use. What You'll Do Build and ship AI agents that serve real users: tool-calling LLM systems with structured output, parallel API orchestration, and streaming responses. Design evaluation harnesses and quality scoring — we use Langfuse, rubrics to measure safety, effectiveness, and personalization. Own the full loop: prototype a new agent capability, validate it with evals, deploy it to staging and production, monitor traces, and iterate. Improve reliability, latency, and cost through prompt caching strategies, token budgets, retry logic, and observability. Write the tools agents use: API integrations with Pydantic validation, exercise search over local databases, structured workout submission. What You Bring Strong Python skills: you've built and deployed services on large production systems. Experience with LangChain/LangGraph or similar agent frameworks. Hands-on experience with LLMs in production: prompt engineering, tool/function calling, structured output, evaluati...",
-      "required_skills": [
-        "AWS",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "Prompt engineering",
-        "Pydantic",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "Prompt engineering",
-        "Pydantic",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Terraform"
-      ],
-      "rule_based_summary": "Applied AI Engineer at Future PLC, focused on AWS, LLM, LangChain, LangGraph. Location: USA.",
-      "rule_based_application_sentence": "Your Applied AI Engineer role interests me because it connects directly with my work around LLM, LangChain, LangGraph, Prompt engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "6 of 8 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Terraform."
-      ]
-    },
-    {
       "id": "remotive-2091158",
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
@@ -148,88 +104,31 @@
       ]
     },
     {
-      "id": "jobicy-153740",
-      "title": "AI Senior Engineer (Vision)",
-      "company": "Able",
-      "location": "LATAM",
+      "id": "jobicy-155051",
+      "title": "Software Engineer, AI Enablement",
+      "company": "Tailscale",
+      "location": "UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/153740-ai-senior-engineer-vision",
-      "published_at": "2026-10-21",
+      "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement",
+      "published_at": "2026-10-22",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things—so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown… and so has our ambition. Now, we’re entering our next chapter—defined by applied AI. AI is a powerful force in the end-to-end software development cycle, and we’re creating practices that allow us to deliver software fast and more effectively than traditional approaches, creating meaningful value for our partners. Today, our builder mindset is driving us to become an AI-native organization across every function. We’re still evolving, and that’s part of the opportunity. If you want to build, learn, and tackle challenges alongside an ambitious team, let’s build together. This position is 100% remote within LatAm. What you’ll be doing We are seeking someone who enjoys working at the cutting edge where Computer Vision meets Logic . You will be responsible for the \"eyes\" and the \"brain\" of our system—extracting complex data from visual documents and then orchestrating how that data is used by Large Language Models. In short, someone who likes: Unlocking Visual Data: Building pipelines that can \"read\" complex documents, understanding layout, charts, and visual context using Vision-Language Models (GPT-4V, Claude 3.5) and Layout Analysis . Orchestrating Intelligence: Owning the application logic layer. You will use LangChain or LangGraph to build the agents and chains that query our data, reason about it, and generate responses. Native PDF Handling: Handling the messy reality of PDF processing (PyMuPDF, layout parsing) to preserve structure before the AI even sees it. Prompt Engineering & Logic: Crafting complex prompts and control flows to ensure models interpret financial charts and layouts accurately without hallucinating. Cost & Scale: Applying a cost-optimization mindset (batch processing, model selection) to ensure our vision and orchestration layers are economically viable. What we’re looking for We want to work with people who have a passion for collaborating with their teams, building software while nurturing inclusive and respectful relationships with their coworkers. With the ones that are open about their shortcomings and what they do not know now, but remain eager to keep on growing and closing those gaps. Ideal...",
+      "raw_description": "Thank you for considering Tailscale . If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital. About the Role We're seeking a talented and motivated full-time Software Engineer, AI Enablement to help Tailscale's engineering organization get the most out of AI-assisted development. You'll join a small, high-leverage team reporting to our co-founder, working alongside our first AI enablement engineer to build the tools, workflows, and practices that help every engineer at Tailscale build faster and more safely with AI. This is a foundational role — you'll have real latitude to shape what AI enablement means here as we scale, with direct visibility into how the whole engineering org adopts these tools. Key Responsibilities Partner with engineering leadership and Tailscale's technical staff to define and drive our internal AI-enablement roadmap. Work closely with the team building Aperture by Tailscale, our AI gateway used both internally and offered as a product. Build and iterate on the tools, workflows, and shared practices that help engineers get real value from coding agents — and evaluate new models and tools, making clear calls on what we adopt. Partner with engineering and non-engineering teams to find high-leverage opportunities to apply AI — this is a support function, so success means other teams shipping faster because of what you've built. Establish the guardrails, review practices, and documentation that make AI-generated code safe to ship, and act as the internal advocate who helps teams adopt good practices without mandating a single tool. Track adoption and measure the real impact of AI tooling on velocity and quality, and report back to leadership. What We Are Looking For 5+ years of professio...",
       "required_skills": [
-        "Computer vision",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "Prompt engineering",
-        "Python",
-        "Vector search"
+        "Python"
       ],
       "matched_skills": [
-        "Computer vision",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "Prompt engineering",
-        "Python",
-        "Vector search"
+        "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "AI Senior Engineer (Vision) at Able, focused on Computer vision, LLM, LangChain, LangGraph. Location: LATAM.",
-      "rule_based_application_sentence": "Your AI Senior Engineer (Vision) role interests me because it connects directly with my work around Computer vision, LLM, LangChain, LangGraph, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Software Engineer, AI Enablement at Tailscale, focused on Python. Location: UK.",
+      "rule_based_application_sentence": "Your Software Engineer, AI Enablement role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "7 of 7 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-156097",
-      "title": "Manager, Machine Learning Engineering",
-      "company": "Tala",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156097-manager-machine-learning-engineering",
-      "published_at": "2026-10-21",
-      "match_score": 57,
-      "priority": "medium",
-      "raw_description": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in capital to more than 14 million customers across Africa, Latin America, and Asia, building the definitive contextual dataset on thin-file borrowers in emerging markets. Tala is now converting that foundation into shared infrastructure that partners, capital providers, and ecosystems can build on. The company has been named to the Fortune Impact 20 list, CNBC’s World’s Top Fintech Companies twice, CNBC Disruptor 50 for five years, and Forbes’ Fintech 50 list for ten years running. Given the global nature of our team, we operate on a remote-first approach with office hubs in Santa Monica, CA (HQ); Nairobi, Kenya; Mexico City, Mexico; Manila, the Philippines; and Bangalore, India. Most Talazens join us because they connect with our mission. If you are energized by the impact you can make at Tala, we’d love to hear from you! The Role We’re looking for a Manager, Machine Learning Engineering to lead Tala’s ML Platform team. This person will manage a team of Machine Learning Engineers responsible for building the platforms, frameworks, and infrastructure that enable our Data Science teams to securely train, deploy, monitor, and operate machine learning models at scale. This is a player-coach management role. You’ll be responsible for developing and growing the team while also providing enough technical leadership to guide architecture, engineering practices, reliability, and production systems. The role has a particular focus on real-time machine learning inference and streaming data systems, as well as the platforms that support batch model development and deployment. What You'll Do Lead & Grow the Team Manage and develop a team of 4–6 Machine Learning Engineers across mid-to-senior levels. Hire, source, interview, and close strong MLE talent. Establish clear expectations, provide regular feedback, and create development plans for direct reports. Coach engineers toward growth and promotion while addressing performance gaps directly and thoughtfully. Create opportunities for engineers to take on challenging projects and grow their technical leadership. Own Engineering Delivery Set quarterly goals and ensure the team consistently delivers against them. Own prioritiza...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "Python",
-        "SQL",
-        "Spark"
-      ],
-      "matched_skills": [
-        "Docker",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "Kubernetes",
-        "SQL",
-        "Spark"
-      ],
-      "rule_based_summary": "Manager, Machine Learning Engineering at Tala, focused on AWS, Airflow, Azure, Docker. Location: USA.",
-      "rule_based_application_sentence": "Your Manager, Machine Learning Engineering role interests me because it connects directly with my work around Docker, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 9 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, SQL."
       ]
     },
     {
@@ -310,6 +209,74 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-156267",
+      "title": "B2B Senior Site Reliability Engineer",
+      "company": "Jamf",
+      "location": "Poland",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/156267-b2b-senior-site-reliability-engineer",
+      "published_at": "2026-10-22",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "At Jamf , we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret to our success lies in our connectivity, while operating with a high degree of flexibility. Work-life balance remains our priority while feeling connected is important to maintain our strong culture, achieve our goals, and thrive as #OneJamf. What you’ll do at Jamf: As a Senior Site Reliability Engineer, you'll help us balance development velocity with the reliability our customers depend on. You'll partner with engineering teams to shape how their services are measured, lead the work to improve them, and use what you learn from production to build the automation and agentic tooling that improves reliability globally. You'll work fluently with agentic development tools as part of your everyday practice, using them to move faster, to investigate harder problems and to multiply your impact. This is individual contributor role at the intersection of Engineering, Product, Customer Success and Technical Support, where you'll play a meaningful part in shaping how we practice SRE at Jamf. This role if offered as remote in Poland . You may be required to work periodically at a Jamf office or collaborative work location with other Jamf employees in your area for certain events or moments that matter. We are only able to accept applications for those based in Poland and have sponsorship to live and work in Poland. #LI-Remote What you can expect to do in this role: Partner with engineering teams to define service-level objectives, error budgets, and supporting indicators for their services, and help them use those measures to inform prioritization and reliability investment. Investigate complex production issues end-to-end across application, data, infrastructure, and network layers, using AI to correlate logs, metrics, and code and to pressure-test hypotheses before acting. Produce clear technical documentation, runbooks, architecture notes, postmortems and proofs of concept for both technical and non-technical audiences, in a form that engineers and AI tools can re-use. Identify systemic sources of toil and lead the work to eliminate them through automation, AI agents, tooling, and process change. Set the conditions for AI agents to do reliable work in our environmen...",
+      "required_skills": [
+        "AWS",
+        "GitHub Actions",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "SQL"
+      ],
+      "rule_based_summary": "B2B Senior Site Reliability Engineer at Jamf, focused on AWS, GitHub Actions, Python, SQL. Location: Poland.",
+      "rule_based_application_sentence": "Your B2B Senior Site Reliability Engineer role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, SQL."
+      ]
+    },
+    {
+      "id": "jobicy-155006",
+      "title": "IT Engineer",
+      "company": "Elevenlabs",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/155006-it-engineer-2",
+      "published_at": "2026-10-22",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-wor...",
+      "required_skills": [
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Terraform"
+      ],
+      "rule_based_summary": "IT Engineer at Elevenlabs, focused on Python, Terraform. Location: USA.",
+      "rule_based_application_sentence": "Your IT Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Terraform.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Terraform."
       ]
     },
     {
