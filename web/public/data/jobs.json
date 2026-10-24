@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:32:30Z",
+  "generated_at": "2026-10-24T10:52:19Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,64 @@
   },
   "jobs": [
     {
+      "id": "jobicy-153948",
+      "title": "Lead Machine Learning Engineer",
+      "company": "Serve Robotics",
+      "location": "Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153948-lead-machine-learning-engineer-3",
+      "published_at": "2026-10-24",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "At Serve Robotics , we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago while doing commercial deliveries. We’re looking for talented individuals who will grow robotic deliveries from surprising novelty to efficient ubiquity. Who We Are We are tech industry veterans in software, hardware, and design who are pooling our skills to build the future we want to live in. We are solving real-world problems leveraging robotics, machine learning and computer vision, among other disciplines, with a mindful eye towards the end-to-end user experience. Our team is agile, diverse, and driven. We believe that the best way to solve complicated dynamic problems is collaboratively and respectfully. This role develops and scales large-scale machine learning training systems for multimodal robotics data, enabling the creation of high-performance autonomy models. By optimizing distributed training pipelines, neural network architectures, and data processing workflows, the position improves training efficiency, accelerates model iteration, and maximizes GPU utilization. The role collaborates closely with ML researchers and infrastructure teams, influencing the design, deployment, and performance of end-to-end autonomy models and the large-scale data pipelines that support them. Responsibilities Design and maintain training systems that can process and learn from petabyte-scale multimodal datasets (e.g., video and point cloud data). This includes ensuring data is efficiently loaded, distributed, and processed across large GPU clusters. Identify and resolve bottlenecks in the training pipeline, including data loading, preprocessing, model computation, and inter-node communication, to maximize GPU utilization and reduce training time. Work with the ML team to develop and refine neural network architectures suitable for autonomy tasks, particularly those handling high-dimensional and sequential sensor data. Create and adjust loss functions and training strategies that help the model learn effectively from complex multimodal inputs and improve autonomy performance. Configure, monitor, and maintain large-scale distributed training jobs across multiple machines...",
+      "required_skills": [
+        "Computer vision",
+        "Python"
+      ],
+      "matched_skills": [
+        "Computer vision",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Lead Machine Learning Engineer at Serve Robotics, focused on Computer vision, Python. Location: Canada,  USA.",
+      "rule_based_application_sentence": "Your Lead Machine Learning Engineer role interests me because it connects directly with my work around Computer vision, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-153939",
+      "title": "Senior Machine Learning Engineer, Ads - Quora",
+      "company": "Quora",
+      "location": "Canada,  Ireland,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/153939-senior-machine-learning-engineer-ads-quora",
+      "published_at": "2026-10-24",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Our Monetization team works on challenging problems every day. Our Machine Learning Engineers are tasked with optimizing the advertising product at Quora, and the team covers the entire Machine Learning Ads lifecycle from end-to-end, including ads targeting, ranking and auction dynamics, and quality measurement. Ingrained in our culture is the desire to constantly learn and improve, and our engineers are encouraged to think big and experiment with new ideas. Using continuous deployment, we quickly see our changes in the product and make fast iterations. As a remote-first company, our engineers have a high degree of flexibility and autonomy, and everyone on the engineering team has a huge impact on our product, revenue and company. Since we first launched our advertising platform, we've grown to support thousands of advertisers who are reaching over 300 million+ monthly unique visitors on Quora. Our journey is just beginning as we continue to build new products from the ground up and tackle exciting challenges at scale. We are looking for an experienced Machine Learning Engineer to join the Ads ML team as an ads ranking specialist. You will improve CTR and CVR prediction, model calibration, user and ad representations, and user-sequence modeling, translating improvements in ranking quality into meas...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Machine Learning Engineer, Ads - Quora at Quora, focused on Python. Location: Canada,  Ireland,  USA.",
+      "rule_based_application_sentence": "Your Senior Machine Learning Engineer, Ads - Quora role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-2091158",
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
@@ -146,70 +204,6 @@
       ]
     },
     {
-      "id": "jobicy-156540",
-      "title": "Senior HPC Cluster Engineer",
-      "company": "Nebius",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer",
-      "published_at": "2026-10-23",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We’re looking for a Senior HPC Cluster Engineer to join our team and play a key role in the development of our cutting-edge hyperscaler platform. The GPU & InfiniBand team is responsible for enhancing and optimizing the core components of our Cloud platform, with a specific focus on GPU computing, InfiniBand networks, and the KVM/QEMU stack. You’ll work closely with hardware virtualization and device emulation technologies, ensuring high performance and security in multi-GPU, HPC environments. The role involves analyzing, troubleshooting, and improving infrastructure to support new hardware, fine-tuning system performance, and automating fault detection and resolution in a complex system. In this position, you will be responsible for: Tuning the performance of GPU clusters and InfiniBand networks to ensure optimal operation in HPC and GPU-based environments. Analyzing and troubleshooting the root cause of issues related to GPUs and InfiniBand networks, and proposing corrective actions. Integrating new hardware into the existing infrastructure, including support for new GPU hardware through software stacks like Kubernetes, QEMU, and KVM. Enhancing automation systems for proactive monitoring, detecting, and resolving issues in GPU and InfiniBand environments. Configuring and managing GPU devices and InfiniBand fabrics, ensuring efficient and reliable operation. We expect you to have: 5+ years of professional experience in system-level software development (focused on performance optimization, low-level programming). 3+ years of hands-on experience with Linux systems (administration, troubleshooting, and performance tuning). In-depth understanding of server architecture, including PCIe devices, NICs, Linux O...",
-      "required_skills": [
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Senior HPC Cluster Engineer at Nebius, focused on Kubernetes, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Senior HPC Cluster Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-156543",
-      "title": "Senior HPC Engineer, GPU Compute",
-      "company": "Nebius",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute",
-      "published_at": "2026-10-23",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We’re looking for a Senior HPC Cluster Engineer to join our team and play a key role in the development of our cutting-edge hyperscaler platform. The GPU & InfiniBand team is responsible for enhancing and optimizing the core components of our Cloud platform, with a specific focus on GPU computing, InfiniBand networks, and the KVM/QEMU stack. You’ll work closely with hardware virtualization and device emulation technologies, ensuring high performance and security in multi-GPU, HPC environments. The role involves analyzing, troubleshooting, and improving infrastructure to support new hardware, fine-tuning system performance, and automating fault detection and resolution in a complex system. In this position, you will be responsible for: Tuning the performance of GPU clusters and InfiniBand networks to ensure optimal operation in HPC and GPU-based environments. Analyzing and troubleshooting the root cause of issues related to GPUs and InfiniBand networks, and proposing corrective actions. Integrating new hardware into the existing infrastructure, including support for new GPU hardware through software stacks like Kubernetes, QEMU, and KVM. Enhancing automation systems for proactive monitoring, detecting, and resolving issues in GPU and InfiniBand environments. Configuring and managing GPU devices and InfiniBand fabrics, ensuring efficient and reliable operation. We expect you to have: 5+ years of professional experience in system-level software development (focused on performance optimization, low-level programming). 3+ years of hands-on experience with Linux systems (administration, troubleshooting, and performance tuning). In-depth understanding of server architecture, including PCIe devices, NICs, Linux O...",
-      "required_skills": [
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Senior HPC Engineer, GPU Compute at Nebius, focused on Kubernetes, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Senior HPC Engineer, GPU Compute role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
       "id": "jobicy-155673",
       "title": "AI Automation & Ops Lead",
       "company": "Fresh Prints",
@@ -248,67 +242,64 @@
       ]
     },
     {
-      "id": "jobicy-156537",
-      "title": "Senior Data Engineer",
-      "company": "Nebius",
-      "location": "Europe,  Israel",
+      "id": "jobicy-149523",
+      "title": "Cloud Field Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156537-senior-data-engineer-5",
-      "published_at": "2026-10-23",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+      "published_at": "2026-10-24",
+      "match_score": 42,
       "priority": "low",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role The Data Engineering team builds and operates the data platform that powers analytics, business intelligence, operational reporting, and data-driven products across Nebius. We ingest data from internal and external systems, develop reliable transformation pipelines and data models, and make trusted datasets available to business and product teams. We are looking for a Senior Data Engineer to own substantial parts of our data platform and deliver complex data products end to end. You will turn ambiguous business needs into pragmatic technical solutions, make architecture and implementation trade-offs, and improve the reliability, scalability, and usability of our data ecosystem. You will work closely with product, platform, and business teams, helping them use data effectively while ensuring that our systems remain maintainable and trustworthy as Nebius grows. Your responsibilities: Own the design, delivery, and operation of complex data pipelines, datasets, and platform components. Translate business and analytical requirements into scalable data models, reliable data products, and clear technical plans. Design and evolve data architecture, storage, processing, and orchestration patterns for large-scale workloads. Improve data quality, observability, lineage, and incident response for critical datasets and pipelines. Investigate and resolve challenging performance, reliability, and data-correctness issues in production. Establish reusable tools, conventions, and automation that improve engineering productivity and reduce operational risk. Work with product teams and business stakeholders to define data contracts, priorities, and success criteria. Contribute to technical direction through design reviews, t...",
+      "raw_description": "Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology. This role has very diverse responsibilities. The team members are Linux and cloud solutions architects for our customers, designing private and public cloud solutions fitting their workload needs. They are the cloud consultants who work hands-on with the technologies by deploying, testing and handing over the solution to our support or managed services team at the end of a project. They are also software engineers who use Python to develop Kubernetes operators and Linux open source infrastructure-as-code. The people who love this role are developers who like to solve customer problems through architecture, presentations and training. Location: This role will be home based. What your day will look like Work across the entire Linux stack, from kernel, networking, storage, to applications Work in Python to design and deliver open source code Architect cloud infrastructure solutions like OpenStack, Kubernetes, Ceph, Hadoop and Spark either On-Premises or in Public Cloud (AWS, Azure, Google Cloud) Coach and develop your colleagues where you have insights Grow a healthy, collaborative engineering culture in line with the company values Work from the comfort of your home Global travel up to 25% of time for internal and external events What we are looking for in you University degree in Computer Science or related software engineering expertise You have sound knowledge of cloud computing concepts & technologies, such as Kubernetes, OpenStack, AWS, GCP, Azure, Ceph, etc. You have practical knowledge of Linux and networking You have Intermediate to Advanced level of Python programming skills You are a dynamic person who loves to jump in new projects and interact with people You have a demonstrated drive for continual learning Excellent communication and presentation skills (English) You have great organisational skills and follow-up reliably on commitments (Optional) You speak a second language What you’ll learn OpenStack and Kubernetes infrastructure Linux Ubuntu and networking knowledge Wide range of open source applications and skills Work directly with customers in a range of different businesses Real-life and hands-on exposure to a wide range of e...",
       "required_skills": [
-        "Airflow",
-        "Docker",
+        "AWS",
+        "Azure",
         "Kubernetes",
         "Python",
-        "SQL",
-        "Terraform"
+        "Spark"
       ],
       "matched_skills": [
-        "Docker",
         "Python"
       ],
       "missing_skills": [
-        "Airflow",
+        "AWS",
+        "Azure",
         "Kubernetes",
-        "SQL",
-        "Terraform"
+        "Spark"
       ],
-      "rule_based_summary": "Senior Data Engineer at Nebius, focused on Airflow, Docker, Kubernetes, Python. Location: Europe,  Israel.",
-      "rule_based_application_sentence": "Your Senior Data Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
+      "rule_based_summary": "Cloud Field Engineer at Canonical, focused on AWS, Azure, Kubernetes, Python. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Cloud Field Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
+        "1 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Airflow, Kubernetes, SQL, Terraform."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Spark."
       ]
     },
     {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
+      "id": "remotive-2091161",
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "published_at": "2026-10-11",
-      "match_score": 40,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "published_at": "2026-10-22",
+      "match_score": 39,
       "priority": "low",
-      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
+      "raw_description": "AI Trainer - Video Annotation Remote | Independent Contractor Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the world around them. We are inviting detail-oriented professionals to complete our certification process for potential robotics AI projects. ▌ What you will do As part of the certification process, you will demonstrate your ability to: Annotate short video clips by identifying objects, actions and events. Evaluate video quality, relevance and accuracy against established guidelines. Assess the clarity and plausibility of movements. Apply instructions consistently and identify potential quality issues. ▌ What you bring Strong attention to detail and analytical thinking. Strong written English and the ability to follow detailed instructions independently. A commitment to accuracy and consistency. No previous AI or robotics experience required. ▌ What the work looks like You may review short videos and be asked to tag objects or actions, rate video clarity or camera angles on a 1 to 10 scale, or assess whether movements are clearly visible and plausible. Please note: We currently have three projects open, and completing the certification process will allow us to evaluate which project may be the best fit for you.",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "AI Trainer - Video Annotation at iMerit Technology, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your AI Trainer - Video Annotation role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The seniority is not explicit, so the project treats it as moderately compatible."
       ]
     }
   ]
