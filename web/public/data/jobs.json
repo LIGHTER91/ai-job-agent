@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:53:21Z",
+  "generated_at": "2026-10-27T12:04:34Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -104,6 +104,36 @@
       ]
     },
     {
+      "id": "jobicy-151770",
+      "title": "ChatGPT Performance Engineer",
+      "company": "OpenAI",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151770-chatgpt-performance-engineer",
+      "published_at": "2026-10-27",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "About the Team We bring OpenAI 's technology to the world through products like ChatGPT and the OpenAI API. We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth. About the Role OpenAI is looking for an experienced Performance Engineer to help us scale the performance, reliability, and efficiency of our systems. In this role, you'll apply deep technical expertise to optimize infrastructure and application-level performance across mission-critical products like ChatGPT and our developer API. You’ll work cross-functionally with teams building core services, training models, and developing real-time user experiences to push our latency, throughput, and cost-efficiency to the next level. We are looking for engineers who thrive in ambiguous environments, value deep systems understanding, and are motivated by delivering measurable impact. This is a highly technical, individual contributor role focused on root-cause analysis, profiling, instrumentation, and architecture-level performance improvements across our stack. In this role, you will: Analyze and optimize performance across application, middleware, runtime, and infrastructure layers—networking, storage, Python runtime, GPU utilization, and beyond. Develop tooling and metrics that provide deep observability into system performance. Collaborate closely with infra, platform, training, and product teams to identify key performance goals and drive systemic improvements. Influence architecture and design decisions to prioritize latency, throughput, and efficiency at scale. Lead investigations into high-impact performance regressions or scalability issues in production. Drive performance testing strategies and help define SLAs/SLOs around latency and throughput for critical systems. You might thrive in this role if you: Have 7+ years of experience in software engineering with a strong track record in performance or reliability of high-scale distributed systems. Are deeply comfortable with performance profiling tools and tracing systems. Have experience optimizing performance across one or more layers of the stack (e.g., database, networking, storage, application runtime, GC tuning, Python/Golang internals, GPU utilization). Have a strong understanding of OS internals, scheduling, memory management, and IO patterns. Have contributed to observability, benchmarking, or perform...",
+      "required_skills": [
+        "OpenAI",
+        "Python"
+      ],
+      "matched_skills": [
+        "OpenAI",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "ChatGPT Performance Engineer at OpenAI, focused on OpenAI, Python. Location: USA.",
+      "rule_based_application_sentence": "Your ChatGPT Performance Engineer role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -146,113 +176,77 @@
       ]
     },
     {
-      "id": "jobicy-157082",
-      "title": "Sr. DevOps Engineer",
-      "company": "Cyware",
+      "id": "jobicy-151779",
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157082-sr-devops-engineer",
-      "published_at": "2026-10-26",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, attackers, and vulnerabilities. Cyware’s Cyber Fusion platform integrates SOAR and TIP technology, enabling collaboration across siloed security teams. Cyware is widely deployed by enterprises, government agencies, and MSSPs, and is the leading threat intelligence sharing platform for global ISACs and CERTs. Why We’re Hiring Cyware is hiring a Senior DevOps Engineer to build, secure, and operate the infrastructure supporting product environments in AWS and AWS GovCloud. This role owns CI/CD, deployment, and operational reliability across commercial and government environments, ensuring releases meet high standards of security, availability, and compliance across cloud boundaries, including FedRAMP High, GovRAMP Moderate, and IL5 environments. About You You are driven, inquisitive, proactive, and energetic. You have a growth mindset and are committed to delivering results. You thrive in a fast-paced, collaborative environment. You are passionate about cloud engineering, DevOps, automation, security, reliability, and scalable systems. Come join an exciting cybersecurity product startup that has closed its Series C funding round! What You’ll Do Work closely with development teams to integrate projects into production AWS and AWS GovCloud environments and ensure ongoing support. Design, build, and maintain CI/CD pipelines using Bitbucket Pipelines, GitHub Actions, Jenkins, or equivalent; support Helm chart packaging and ArgoCD/GitOps deployment into Kubernetes. Operate and harden infrastructure within compliance-heavy authorization boundaries such as FedRAMP High, GovRAMP Moderate, and IL5, maintaining continuous compliance across releases. Own environment segmentation, secrets management, and access controls consistent with NIST 800-53 and FedRAMP control families. Manage Kubernetes workloads, Helm chart versioning, and release promotion across development, staging, commercial, and GovCloud production environments. Build reliable, scalable infrastructure services in AWS and support infrastructure for both cloud and on-premise deployments. Implement infrastructure as code using Terraform, CloudFormation, or CDK for repeatable, auditable pr...",
+      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+      "published_at": "2026-10-27",
+      "match_score": 52,
+      "priority": "medium",
+      "raw_description": "About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We empower our people to bring big ideas and tiny egos, landing us on Outside Magazine’s list of “ Best Places to Work\" and Built In’s “ 100 Best Remote-First Places to Work.\" TeamSnap is seeking a Staff Software Engineer, Backend, to join our fully distributed engineering team and help us continue scaling systems that serve millions of daily users and tens of thousands of amateur sports organizations. Our stack includes Node, TypeScript, Elixir, Ruby/Rails, SQL, React, cloud-based services, event-driven systems, queues, background jobs, caching layers, and observability tooling. We are looking for a hands-on Staff Backend Engineer who can build and improve APIs and services, reason through production issues across the system, lead technical design in ambiguous areas, mentor engineers, and raise the quality bar across the team. This person should be comfortable working closely with infrastructure, platform, and data teams without being expected to own those functions directly. As an engineering team, we architect and build scalable systems using service-oriented and event-driven architecture. This role will help shape the technical foundation behind TeamSnap’s product experience, with a focus on backend systems, APIs, services, data performance, reliability, observability, and production quality. What You'll Do: Architect, build, and evolve backend APIs, services, event-driven workflows, queues, background jobs, data models, caching strategies, and integrations that support millions of users and thousands of sports organizations. Own complex backend product and technical work from discovery through design, implementation, rollout, production support, and long term maintainability. Lead ambiguous technical initiatives by breaking down problems, identifying risks, making practical tradeoffs, and helping teams move from uncertainty to clear execution. Improve the reliability, scalability, performance, and operability of production systems through thoughtful architecture, strong testing practices, database optimization, caching, monitoring, alerting, and incident follow-up. Debug complex production issues by reasoning across application code, datab...",
       "required_skills": [
-        "AWS",
-        "Azure",
-        "Computer vision",
         "Docker",
         "GitHub Actions",
-        "Kubernetes",
-        "PostgreSQL",
         "Python",
-        "Terraform"
+        "React",
+        "SQL"
       ],
       "matched_skills": [
-        "Computer vision",
         "Docker",
         "GitHub Actions",
-        "PostgreSQL",
-        "Python"
+        "Python",
+        "React"
       ],
       "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
+        "SQL"
       ],
-      "rule_based_summary": "Sr. DevOps Engineer at Cyware, focused on AWS, Azure, Computer vision, Docker. Location: USA.",
-      "rule_based_application_sentence": "Your Sr. DevOps Engineer role interests me because it connects directly with my work around Computer vision, Docker, GitHub Actions, PostgreSQL, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Staff Backend Engineer at TeamSnap, focused on Docker, GitHub Actions, Python, React. Location: USA.",
+      "rule_based_application_sentence": "Your Staff Backend Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "5 of 9 extracted skills match the profile.",
+        "4 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
-      "id": "jobicy-157093",
-      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
-      "company": "GitLab",
-      "location": "Australia",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157093-intermediate-security-engineer-security-incident-response-team-sirt",
-      "published_at": "2026-10-26",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software. * Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab. An overview of this role As an Intermediate Security Engineer on GitLab's Security Incident Response Team (SIRT), you will be on the frontline of protecting both GitLab.com and GitLab the company from security threats. This role operates on a compressed 4-day work schedule, with a full-time week's hours condensed into four longer working days. Shifts run Sunday through Wednesday to provide 24/7/365 security coverage. Your primary focus will be detecting and responding to security incidents during your scheduled shifts. You'll work extensively with our incident response automation tools to investigate, analyze, and resolve security events. You'll also have opportunities to contribute to our security tooling and automation, helping to improve our detection and response capabilities. In this role, you'll develop expertise using our security infrastructure to monitor for threats, analyze potential incidents, and coordinate response efforts across teams. This position is ideal for someone who wants to grow their incident response skills while working within GitLab's established security framework. You'll learn to think both ta...",
-      "required_skills": [
-        "AWS",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Intermediate Security Engineer, Security Incident Response Team (SIRT) at GitLab, focused on AWS, Python. Location: Australia.",
-      "rule_based_application_sentence": "Your Intermediate Security Engineer, Security Incident Response Team (SIRT) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS."
-      ]
-    },
-    {
-      "id": "jobicy-157074",
-      "title": "Senior IT Automation Engineer",
-      "company": "Huntress",
+      "id": "jobicy-151775",
+      "title": "Security Engineer, Agent Security",
+      "company": "OpenAI",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157074-senior-it-automation-engineer",
-      "published_at": "2026-10-26",
+      "url": "https://jobicy.com/jobs/151775-security-engineer-agent-security",
+      "published_at": "2026-10-27",
       "match_score": 43,
       "priority": "low",
-      "raw_description": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection. Huntress now secures more than 6M endpoints and 16M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other. Reports to: Manager, IT Solutions Engineering Location: Remote US Compensation Range: $130,000 to $140,000 base plus bonus and equity What You’ll Do: As a Senior IT Automation Engineer on the IT Solutions Engineering team, you will shape how Huntress uses automation and AI to work smarter, move faster, and scale securely. You will own the strategy and operating model for our Automation and Agentic AI Center of Excellence, turning tools such as Claude, Glean, Zapier, and related platforms into practical systems that improve how teams get work done. You embrace continuous improvement by testing what has the most leverage, learning quickly, and improving the patterns that scale. You find friction before it becomes someone else’s problem and owning the path from idea to adoption. You measure success by the operational impact, security, and value your systems create across Huntress.You’ll work side by side with the rest of the IT Solution Engineering team and automation engineering peers to accomplish your work. Responsibilities: Lead cross-functional initiatives that use automation to improve operational scale, employee experience, and business execution. Own the enterprise automation and integration stack, including Zapier and connected business systems, while ensuring performance, maintainability, and security alignment. Establish and operate the Automation and...",
+      "raw_description": "About the Team The team’s mission is to accelerate the secure evolution of agentic AI systems at OpenAI . To achieve this, the team designs, implements, and continuously refines security policies, frameworks, and controls that defend OpenAI’s most critical assets—including the user and customer data embedded within them—against the unique risks introduced by agentic AI. About the Role As a Security Engineer on the Agent Security Team , you will be at the forefront of securing OpenAI’s cutting-edge agentic AI systems. Your role will involve designing and implementing robust security frameworks, policies, and controls to safeguard OpenAI’s critical assets and ensure the safe deployment of agentic systems. You will develop comprehensive threat models, partner tightly with our Agent Infrastructure group to fortify the platforms that power OpenAI’s most advanced agentic systems, and lead efforts to enhance safety monitoring pipelines at scale. We are looking for a versatile engineer who thrives in ambiguity and can make meaningful contributions from day one. You should be prepared to ship solutions quickly while maintaining a high standard of quality and security. We’re looking for people who can drive innovative solutions that will set the industry standard for agent security. You will need to bring your expertise in securing complex systems and designing robust isolation strategies for emerging AI technologies, all while being mindful of usability. You will communicate effectively across various teams and functions, ensuring your solutions are scalable and robust while working collaboratively in an innovative environment. In this fast-paced setting, you will have the opportunity to solve complex security challenges, influence OpenAI’s security strategy, and play a pivotal role in advancing the safe and responsible deployment of agentic AI systems. You’ll be responsible for: Architecting security controls for agentic AI – design, implement, and iterate on identity, network, and runtime-level defenses (e.g., sandboxing, policy enforcement) that integrate directly with the Agent Infrastructure stack. Building production-grade security tooling – ship code that hardens safety monitoring pipelines across agent executions at scale. Collaborating cross-functionally – work daily with Agent Infrastructure, product, research, safety, and security teams to balance security, performance, and usability. Influencing strategy & standards – shape the long-term Agent Securi...",
       "required_skills": [
+        "AWS",
         "Azure",
+        "OpenAI",
         "Python"
       ],
       "matched_skills": [
+        "OpenAI",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
         "Azure"
       ],
-      "rule_based_summary": "Senior IT Automation Engineer at Huntress, focused on Azure, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior IT Automation Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Security Engineer, Agent Security at OpenAI, focused on AWS, Azure, OpenAI, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Security Engineer, Agent Security role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
