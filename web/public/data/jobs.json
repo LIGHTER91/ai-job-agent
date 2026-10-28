@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:04:34Z",
+  "generated_at": "2026-10-28T12:45:04Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 3
+      "Jobicy": 4
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,6 +74,96 @@
   },
   "jobs": [
     {
+      "id": "jobicy-157382",
+      "title": "Software Development Manager",
+      "company": "Veracyte",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/157382-software-development-manager-2",
+      "published_at": "2026-10-27",
+      "match_score": 73,
+      "priority": "medium",
+      "raw_description": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven environment. This is what we call the Veracyte way – it’s about how we work together, guided by our values, to give clinicians the insights they need to help patients make life-changing decisions. Our Values: We Seek A Better Way : We pursue bold ideas, embrace complexity, and keep pushing forward. We Make It Happen : We act with urgency, deliver with excellence, and always find a way. We Are Stronger Together : We engage with empathy, align around what's best for Veracyte, and celebrate as one team. We Care Deeply : We show up with integrity, kindness, and respect for one another. The Position: Veracyte is seeking an experienced Software Development Manager to lead the engineering team responsible for our AI-powered Billing Automation platform. This team builds and operates software that improves laboratory billing, reimbursement, claims processing, and other revenue-cycle workflows through cloud-native applications, enterprise integrations, workflow automation, and artificial intelligence. The Software Development Manager will be accountable for the team’s people leadership, technical direction, execution, and operational performance. This leader will establish effective engineering practices, develop a high-performing team, and ensure the predictable delivery of secure, reliable, and maintainable software. You will partner closely with Product Management, Revenue Cycle Management, Finance, Laboratory Operations, Data & AI, Enterprise Applications, Architecture, and CloudOps. Together, these groups identify business needs and deliver software that reduces manual effort, improves billing accuracy, accelerates reimbursement, and increases operational efficiency. The ideal candidate is, first and foremost, an accomplished software engineering manager with a strong record of developing engineers and delivering complex enterprise software. Experience with healthcare billing, revenue-cycle management, or AI-enabled products is valuable but not required. This is a hybrid role based out of our San Diego, CA or South San Francisco, CA office. We may also be open to remote for the ideal candidate. Key Responsibilities: Lead, mentor...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "OpenAI",
+        "RAG",
+        "Terraform",
+        "Vector search"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "OpenAI",
+        "RAG",
+        "Vector search"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Terraform"
+      ],
+      "rule_based_summary": "Software Development Manager at Veracyte, focused on AWS, Azure, GitHub Actions, LLM. Location: USA.",
+      "rule_based_application_sentence": "Your Software Development Manager role interests me because it connects directly with my work around GitHub Actions, LLM, LangChain, LangGraph, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "7 of 10 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-147495",
+      "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+      "company": "WorkWave",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
+      "published_at": "2026-10-28",
+      "match_score": 61,
+      "priority": "medium",
+      "raw_description": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users. This is not a research-only role, nor is it a service-oriented internal analytics position. We want someone who has taken machine learning from problem definition through experimentation, production deployment, measurement, iteration, and long-term ownership. You understand that great models are not just accurate in notebooks—they are usable, explainable, measurable, scalable, and valuable inside a real product. Whether your background leans heavily toward Data Engineering/ML Ops or Applied Data Science, you have a strong bias toward shipping and an interest in bridging both worlds to bring AI to life. WHAT YOU'LL DO: Engineering & AI Enablement End-to-End ML Ownership: Drive the development of machine learning capabilities (forecasting, recommendation, ranking, optimization, or decision intelligence) powering customer-facing SaaS products. Pipeline & Model Development: Design reliable data and feature pipelines alongside models from discovery through experimentation, validation, deployment, and monitoring. Product Integration: Partner with Product Managers and Software Engineers to embed ML directly into product workflows, user experiences, and decision-making tools. Pragmatic Prototyping: Move quickly from prototype to production while balancing accuracy, interpretability, latency, maintainability, and business impact. Ecosystem Ownership & Strategy Evaluation & Experimentation: Define offline and online evaluation strategies, including model quality, drift, and reliability. Design A/B tests and causal measurement frameworks to prove ML features improve customer outcomes. Data Health & Feedback Loops: Collaborate with Data teams to ensure models are supported by high-quality features, while building feedback loops so product experiences improve over time. Platform & MLOps Support: Help manage and optimize cloud data infrastructure, ensuring trustworthy insights and proactively managing data health before it impacts users. Product & Technical Direction Strategic Judgment: Bring strong judgment around when to use traditional ML, statistical modeling, LLMs, heuristics, or simpler product logic. Make practical trade-offs across model complexity and customer impact. Roadmap Influence: Clearly communicate what ML...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "LLM",
+        "MLOps",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "MLOps",
+        "SQL"
+      ],
+      "rule_based_summary": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence) at WorkWave, focused on AWS, Airflow, Azure, LLM. Location: USA.",
+      "rule_based_application_sentence": "Your Applied Data Scientist / Machine Learning Engineer (Decision Intelligence) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "2 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, MLOps, SQL."
+      ]
+    },
+    {
       "id": "remotive-2091158",
       "title": "Software Engineer, AI Coding Tasks",
       "company": "Askable",
@@ -104,149 +194,55 @@
       ]
     },
     {
-      "id": "jobicy-151770",
-      "title": "ChatGPT Performance Engineer",
-      "company": "OpenAI",
+      "id": "jobicy-144633",
+      "title": "Senior Business Engineer - Ads",
+      "company": "Reddit",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151770-chatgpt-performance-engineer",
-      "published_at": "2026-10-27",
+      "url": "https://jobicy.com/jobs/144633-senior-business-engineer-ads",
+      "published_at": "2026-10-28",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "About the Team We bring OpenAI 's technology to the world through products like ChatGPT and the OpenAI API. We seek to learn from deployment and distribute the benefits of AI, while ensuring that this powerful tool is used responsibly and safely. Safety is more important to us than unfettered growth. About the Role OpenAI is looking for an experienced Performance Engineer to help us scale the performance, reliability, and efficiency of our systems. In this role, you'll apply deep technical expertise to optimize infrastructure and application-level performance across mission-critical products like ChatGPT and our developer API. You’ll work cross-functionally with teams building core services, training models, and developing real-time user experiences to push our latency, throughput, and cost-efficiency to the next level. We are looking for engineers who thrive in ambiguous environments, value deep systems understanding, and are motivated by delivering measurable impact. This is a highly technical, individual contributor role focused on root-cause analysis, profiling, instrumentation, and architecture-level performance improvements across our stack. In this role, you will: Analyze and optimize performance across application, middleware, runtime, and infrastructure layers—networking, storage, Python runtime, GPU utilization, and beyond. Develop tooling and metrics that provide deep observability into system performance. Collaborate closely with infra, platform, training, and product teams to identify key performance goals and drive systemic improvements. Influence architecture and design decisions to prioritize latency, throughput, and efficiency at scale. Lead investigations into high-impact performance regressions or scalability issues in production. Drive performance testing strategies and help define SLAs/SLOs around latency and throughput for critical systems. You might thrive in this role if you: Have 7+ years of experience in software engineering with a strong track record in performance or reliability of high-scale distributed systems. Are deeply comfortable with performance profiling tools and tracing systems. Have experience optimizing performance across one or more layers of the stack (e.g., database, networking, storage, application runtime, GC tuning, Python/Golang internals, GPU utilization). Have a strong understanding of OS internals, scheduling, memory management, and IO patterns. Have contributed to observability, benchmarking, or perform...",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit is entering a period of unprecedented innovation and growth—and there’s never been a more exciting time to join. The Ads Business Engineering team operates at the intersection of engineering, product, sales, and business development, delivering technical expertise and solutions that empower technology partners, agencies, and advertisers to seamlessly integrate with Reddit’s advertising platform. As a key member of this rapidly expanding team, you’ll have the opportunity to take meaningful ownership—driving cutting-edge AdTech integrations, launching and managing strategic partnership programs, and helping scale Reddit’s developer ecosystem. At Reddit, a Business Engineer plays a critical role in driving the success of our advertising API products and platform integrations. This experienced engineer role combines deep technical consulting with hands-on engineering, where you'll guide strategic integrations, often contributing directly to implementation across Reddit’s stack or in the codebases of partners (or direct advertisers). You will be a key technical advisor—trusted to own the end-to-end relationship with Reddit’s most important advertising partners, and execute on the long-term strategy for how we develop an ecosystem of developers. You’ll work across engineering, product, sales, and business development teams to connect Reddit’s capabilities to the evolving needs of the market. You won’t just recommend solutions—you’ll implement them across systems, including platform changes, and also help define frameworks for scaling and repeatability. If you're passionate about creating high-impact technical partnerships, influencing roadmaps, and building at the intersection of AdTech and developer experience, this is the role for you. Responsibilities Act as a trusted technical advisor and solutions architect for strategic partners (or direct advertisers), guiding them through the integration and adoption of Reddit’s advertising APIs and tools. Design and prototype proof-of-concept solutions that accele...",
       "required_skills": [
-        "OpenAI",
         "Python"
       ],
       "matched_skills": [
-        "OpenAI",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "ChatGPT Performance Engineer at OpenAI, focused on OpenAI, Python. Location: USA.",
-      "rule_based_application_sentence": "Your ChatGPT Performance Engineer role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Senior Business Engineer - Ads at Reddit, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Business Engineer - Ads role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
+      "id": "remotive-2091134",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "published_at": "2026-10-14",
-      "match_score": 54,
-      "priority": "medium",
-      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
-      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-151779",
-      "title": "Staff Backend Engineer",
-      "company": "TeamSnap",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
-      "published_at": "2026-10-27",
-      "match_score": 52,
-      "priority": "medium",
-      "raw_description": "About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We empower our people to bring big ideas and tiny egos, landing us on Outside Magazine’s list of “ Best Places to Work\" and Built In’s “ 100 Best Remote-First Places to Work.\" TeamSnap is seeking a Staff Software Engineer, Backend, to join our fully distributed engineering team and help us continue scaling systems that serve millions of daily users and tens of thousands of amateur sports organizations. Our stack includes Node, TypeScript, Elixir, Ruby/Rails, SQL, React, cloud-based services, event-driven systems, queues, background jobs, caching layers, and observability tooling. We are looking for a hands-on Staff Backend Engineer who can build and improve APIs and services, reason through production issues across the system, lead technical design in ambiguous areas, mentor engineers, and raise the quality bar across the team. This person should be comfortable working closely with infrastructure, platform, and data teams without being expected to own those functions directly. As an engineering team, we architect and build scalable systems using service-oriented and event-driven architecture. This role will help shape the technical foundation behind TeamSnap’s product experience, with a focus on backend systems, APIs, services, data performance, reliability, observability, and production quality. What You'll Do: Architect, build, and evolve backend APIs, services, event-driven workflows, queues, background jobs, data models, caching strategies, and integrations that support millions of users and thousands of sports organizations. Own complex backend product and technical work from discovery through design, implementation, rollout, production support, and long term maintainability. Lead ambiguous technical initiatives by breaking down problems, identifying risks, making practical tradeoffs, and helping teams move from uncertainty to clear execution. Improve the reliability, scalability, performance, and operability of production systems through thoughtful architecture, strong testing practices, database optimization, caching, monitoring, alerting, and incident follow-up. Debug complex production issues by reasoning across application code, datab...",
-      "required_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Staff Backend Engineer at TeamSnap, focused on Docker, GitHub Actions, Python, React. Location: USA.",
-      "rule_based_application_sentence": "Your Staff Backend Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-151775",
-      "title": "Security Engineer, Agent Security",
-      "company": "OpenAI",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151775-security-engineer-agent-security",
-      "published_at": "2026-10-27",
-      "match_score": 43,
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "published_at": "2026-10-26",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "About the Team The team’s mission is to accelerate the secure evolution of agentic AI systems at OpenAI . To achieve this, the team designs, implements, and continuously refines security policies, frameworks, and controls that defend OpenAI’s most critical assets—including the user and customer data embedded within them—against the unique risks introduced by agentic AI. About the Role As a Security Engineer on the Agent Security Team , you will be at the forefront of securing OpenAI’s cutting-edge agentic AI systems. Your role will involve designing and implementing robust security frameworks, policies, and controls to safeguard OpenAI’s critical assets and ensure the safe deployment of agentic systems. You will develop comprehensive threat models, partner tightly with our Agent Infrastructure group to fortify the platforms that power OpenAI’s most advanced agentic systems, and lead efforts to enhance safety monitoring pipelines at scale. We are looking for a versatile engineer who thrives in ambiguity and can make meaningful contributions from day one. You should be prepared to ship solutions quickly while maintaining a high standard of quality and security. We’re looking for people who can drive innovative solutions that will set the industry standard for agent security. You will need to bring your expertise in securing complex systems and designing robust isolation strategies for emerging AI technologies, all while being mindful of usability. You will communicate effectively across various teams and functions, ensuring your solutions are scalable and robust while working collaboratively in an innovative environment. In this fast-paced setting, you will have the opportunity to solve complex security challenges, influence OpenAI’s security strategy, and play a pivotal role in advancing the safe and responsible deployment of agentic AI systems. You’ll be responsible for: Architecting security controls for agentic AI – design, implement, and iterate on identity, network, and runtime-level defenses (e.g., sandboxing, policy enforcement) that integrate directly with the Agent Infrastructure stack. Building production-grade security tooling – ship code that hardens safety monitoring pipelines across agent executions at scale. Collaborating cross-functionally – work daily with Agent Infrastructure, product, research, safety, and security teams to balance security, performance, and usability. Influencing strategy & standards – shape the long-term Agent Securi...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "OpenAI",
-        "Python"
-      ],
-      "matched_skills": [
-        "OpenAI",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure"
-      ],
-      "rule_based_summary": "Security Engineer, Agent Security at OpenAI, focused on AWS, Azure, OpenAI, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Security Engineer, Agent Security role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "raw_description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qualified, vetted candidates within 24 hours without the grind. This is a pivotal moment: we’re transitioning from a services-driven marketplace to a technology-driven platform. We need an engineering leader who can drive that transformation. The Role You will own engineering at Lemon.io . You’ll lead a growing team of engineers, make critical architecture and prioritization decisions, and be directly accountable for the speed and quality of what we ship. This is not a management-layer role. You’ll be hands-on, deeply involved in product decisions, and working side by side with the founder. What You’ll Do: Own the technical roadmap and make sure every engineering effort maps directly to business impact. No features for features’ sake. Lead and grow an engineering team that ships fast, iterates constantly, and treats complexity as a cost. Tackle the hard, multi-layered problem: automated vetting, intelligent matching at scale, demand-side bottlenecks. And figure out where the real leverage is. Make hard prioritization calls. Decide what we build, what we skip, and what we kill. Work directly with the founder and product team to define what success looks like before writing a single line of code. Build the engineering culture: high ownership, high speed, low bureaucracy. Who You Are: Product-minded, business-first Obsessed with simplicity First principles thinker Fast. Bias toward action Experience: You’ve led engineering teams (5–30+ people) at a startup or high-growth company. You have hands-on experience with modern stacks and are comfortable with AI/ML tooling. You’ve worked in a distributed, async-first team. Why Lemon.io : Profitable and growing. No fundraising pressure, real business fundamentals. A pivotal moment: you’re not maintaining an engine, you’re building one. The product roadmap is wide open. Direct access to the founder. No layers. Your decisions ship...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Head of Engineering at Lemon.io, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Head of Engineering role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
+        "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -270,6 +266,40 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The seniority is not explicit, so the project treats it as moderately compatible."
+      ]
+    },
+    {
+      "id": "jobicy-151895",
+      "title": "Service Desk/System Administrator",
+      "company": "Playson",
+      "location": "Ukraine",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
+      "published_at": "2026-10-28",
+      "match_score": 38,
+      "priority": "low",
+      "raw_description": "What this role actually is This is a hands-on operational role. Your customers are our employees. The work is a mix of live support, access administration, endpoint and MDM management, onboarding and offboarding, equipment logistics, and documentation, plus improving those processes so the same problems stop coming back. You will own requests end-to-end rather than passing them along, work directly with non-technical colleagues, and handle several things at once on a busy day. Routine service work is a permanent part of the job, not a temporary phase before something else. Key Responsibilities Own employee IT requests end-to-end: prioritize by impact and urgency, keep people informed, resolve, document, and prevent recurrence. Administer user accounts, permissions, and access across Google Workspace, Atlassian, GitHub, and AWS, applying least privilege. Run IT onboarding and offboarding: accounts provisioned on day one, access revoked promptly on exit, devices recovered. Prepare, configure, and maintain macOS and Windows workstations through MDM: policies, software deployment, patching, encryption, and recovery. Own IT equipment procurement, delivery, returns, and inventory accuracy for employees across supported locations, including international shipping and vendor coordination. Troubleshoot hardware, software, network, and SaaS issues methodically: reproduce, isolate, verify. Maintain IT documentation, knowledge-base articles, and asset records so support does not depend on one person being online. Reduce repetitive work through practical scripting and automation, and improve support processes without weakening security controls. Enforce IT security and access policies; recognize and escalate suspicious activity and access gaps. Requirements 3+ years of hands-on experience in IT support, Service Desk, or system administration, with personal ownership of the areas above (not adjacent exposure while other teams handled them). Practical experience supporting macOS in a production employee environment. Hands-on MDM administration (Jamf, Kandji, Intune, JumpCloud, Hexnode, or similar): enrollment, policies, software deployment, compliance. Administration of Google Workspace, plus at least two of: Atlassian, GitHub access management, or cloud IAM (AWS / GCP / Azure). Demonstrated ownership of access lifecycle - joiners, movers, leavers - including approval flows and least-privilege practice. Experience with equipment provisioning, inventory, and remote/int...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure"
+      ],
+      "rule_based_summary": "Service Desk/System Administrator at Playson, focused on AWS, Azure, Python. Location: Ukraine.",
+      "rule_based_application_sentence": "Your Service Desk/System Administrator role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure."
       ]
     }
   ]
