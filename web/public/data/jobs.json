@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:45:04Z",
+  "generated_at": "2026-10-29T12:54:19Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 5
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,6 +74,46 @@
   },
   "jobs": [
     {
+      "id": "remotive-2091135",
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "published_at": "2026-10-27",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large GPU clusters. The fleet is set to grow about 10×; the team won't. That's where you come in. Who they’re looking for : Site Reliability Engineer, Senior Back-end Developer with Golang, Senior Back-end Developer with Python, AI Infrastructure Engineer, Distributed Storage Engineer, DevOps. Requirements for Senior Back-end Developers with Golang 5+ years of commercial experience with Golang 2+ years of commercial experience with Kubernetes 1+ year of experience in AI-assisted coding Experience with distributed systems Requirements for Senior Back-end Developers with Python 5+ years of commercial experience with Python 2+ years of commercial experience with Linux 2+ years of commercial experience with Kubernetes 1+ year of experience in AI-assisted coding Experience with distributed systems You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in your first weeks Other job listings you can check using the link . You will be redirected to the career page with offers from the client on our website. How it works Apply and complete your profile Verify your role Once approved, we match you with a project. Ready? Apply! NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python &...",
+      "required_skills": [
+        "Kubernetes",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior Back-end Developer at Lemon.io, focused on Kubernetes, LLM, MLOps, Next.js. Location: Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia.",
+      "rule_based_application_sentence": "Your Senior Back-end Developer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 6 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, MLOps."
+      ]
+    },
+    {
       "id": "jobicy-157382",
       "title": "Software Development Manager",
       "company": "Veracyte",
@@ -122,103 +162,117 @@
       ]
     },
     {
-      "id": "jobicy-147495",
-      "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
-      "company": "WorkWave",
+      "id": "jobicy-157798",
+      "title": "Staff Analyst, Product & Marketing",
+      "company": "hims &#038; hers",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
-      "published_at": "2026-10-28",
-      "match_score": 61,
+      "url": "https://jobicy.com/jobs/157798-staff-analyst-product-marketing",
+      "published_at": "2026-10-29",
+      "match_score": 70,
       "priority": "medium",
-      "raw_description": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users. This is not a research-only role, nor is it a service-oriented internal analytics position. We want someone who has taken machine learning from problem definition through experimentation, production deployment, measurement, iteration, and long-term ownership. You understand that great models are not just accurate in notebooks—they are usable, explainable, measurable, scalable, and valuable inside a real product. Whether your background leans heavily toward Data Engineering/ML Ops or Applied Data Science, you have a strong bias toward shipping and an interest in bridging both worlds to bring AI to life. WHAT YOU'LL DO: Engineering & AI Enablement End-to-End ML Ownership: Drive the development of machine learning capabilities (forecasting, recommendation, ranking, optimization, or decision intelligence) powering customer-facing SaaS products. Pipeline & Model Development: Design reliable data and feature pipelines alongside models from discovery through experimentation, validation, deployment, and monitoring. Product Integration: Partner with Product Managers and Software Engineers to embed ML directly into product workflows, user experiences, and decision-making tools. Pragmatic Prototyping: Move quickly from prototype to production while balancing accuracy, interpretability, latency, maintainability, and business impact. Ecosystem Ownership & Strategy Evaluation & Experimentation: Define offline and online evaluation strategies, including model quality, drift, and reliability. Design A/B tests and causal measurement frameworks to prove ML features improve customer outcomes. Data Health & Feedback Loops: Collaborate with Data teams to ensure models are supported by high-quality features, while building feedback loops so product experiences improve over time. Platform & MLOps Support: Help manage and optimize cloud data infrastructure, ensuring trustworthy insights and proactively managing data health before it impacts users. Product & Technical Direction Strategic Judgment: Bring strong judgment around when to use traditional ML, statistical modeling, LLMs, heuristics, or simpler product logic. Make practical trade-offs across model complexity and customer impact. Roadmap Influence: Clearly communicate what ML...",
+      "raw_description": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achieve. Hims & Hers is a public company, traded on the NYSE under the ticker symbol “HIMS.” To learn more about the brand and offerings, you can visit hims.com/about and hims.com/how-it-works . For information on the company’s outstanding benefits, culture, and its talent-first flexible/remote work approach, see below and visit www.hims.com/careers-professionals . About the Role: As a Staff Analyst, Product & Marketing, you will serve as a strategic analytics partner to both the Product and Marketing organizations, driving impact across the full customer journey from acquisition and conversion to retention and growth. You will work cross-functionally with product managers, growth leads, category managers, marketing channel owners, designers, engineers, and data scientists in a fast-paced collaborative environment. Your expertise in A/B testing, digital analytics, marketing measurement, experimental design, and predictive modeling will allow Hims and Hers to optimize the customer experience and marketing investments in equal measure. This position will report to the Director of Product and Marketing Analytics. You Will: Provide thought leadership and strategic partnership to both Product and Marketing stakeholders, influencing roadmap and channel investment decisions with data-driven insights Own the experimentation strategy across product and marketing workstreams, including test design, success metrics, sample-size estimation, guardrails, and results interpretation Apply causal inference methods such as difference-in-differences and propensity score matching to move beyond correlation and identify what is actually driving metric movement Partner with Data Science to contribute to predictive models, including churn, LTV, and conversion propensity, that directly inform product and marketing decisions Own conversion funnel analytics end to end, identifying drop-off points, diagnosing root causes, and partnering with Product and Category...",
       "required_skills": [
-        "AWS",
         "Airflow",
-        "Azure",
-        "LLM",
-        "MLOps",
         "Python",
         "SQL"
       ],
       "matched_skills": [
-        "LLM",
+        "Python"
+      ],
+      "missing_skills": [
+        "Airflow",
+        "SQL"
+      ],
+      "rule_based_summary": "Staff Analyst, Product & Marketing at hims &#038; hers, focused on Airflow, Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Staff Analyst, Product & Marketing role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Airflow, SQL."
+      ]
+    },
+    {
+      "id": "jobicy-157489",
+      "title": "Senior Backend Software Engineer",
+      "company": "Headway.co",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/157489-senior-backend-software-engineer",
+      "published_at": "2026-10-28",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. The Work Backend at Headway involves high-stakes logic. You’re building a reliable abstraction layer over a fragmented healthcare system. What you could work on: The Modern AI-enabled Clinical System: Help design and build the systems that store and manage clinical data. This isn't just a database; it's a high-integrity system for treatment plans, progress notes, patient history, and AI-powered clinical intelligence - from session transcript-to-note generation to automated summaries that give providers their time back. The Insurance Billing Engine: We apply AI pragmatically ( blog ) to reduce administrative burdens for providers and handle the burden of traditional billing workflows. You’ll scale the systems that handle the unique, often nonsensical rules of every major insurance payer to accurately estimate and file claims hundreds of thousands of times per month. Patient-First Infrastructure: We’re moving toward a patient-centric model. Build the backend services that power personalized care recommendations, health tracking, and longitudinal data views as well as innovative user experiences to help patients find a therapist that meets their needs Financial Integrity: Work on the ledger systems that ensure 70,000+ providers get paid accurately. This requires building for idempotency and strict consistency in a multi-pa...",
+      "required_skills": [
+        "AWS",
+        "Gemini",
+        "PostgreSQL",
+        "Python",
+        "Spark"
+      ],
+      "matched_skills": [
+        "Gemini",
+        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Airflow",
-        "Azure",
-        "MLOps",
-        "SQL"
+        "Spark"
       ],
-      "rule_based_summary": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence) at WorkWave, focused on AWS, Airflow, Azure, LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Applied Data Scientist / Machine Learning Engineer (Decision Intelligence) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Backend Software Engineer at Headway.co, focused on AWS, Gemini, PostgreSQL, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Backend Software Engineer role interests me because it connects directly with my work around Gemini, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "2 of 7 extracted skills match the profile.",
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, MLOps, SQL."
+        "Main missing or weaker skills: AWS, Spark."
       ]
     },
     {
-      "id": "remotive-2091158",
-      "title": "Software Engineer, AI Coding Tasks",
-      "company": "Askable",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "published_at": "2026-10-17",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Complete a short screener interview and upload your resume. Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate. Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks. Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them. Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it. Review. A reviewer checks your task and you revise it. Most tasks take more than one round. Next task. Once your task is accepted, start another. Requirements 2+ years of professional software engineering Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code) Strong in at least one of Python, TypeScript, Go, Rust, Java or C++ Solid with Docker, Linux, Git and automated testing Regular use of an AI coding tool Experience writing tests, rubrics or evaluation criteria, ideally for AI models You can explain a change clearly and concisely, in your own words At least 10 hours a week, starting now A secure personal or work computer (no public or shared machines) Nice to have Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure Experience building agent tasks or RL environments Terms US$1,000 for each task that passes our quality review, paid directly to you Once your proposal is qualified, you sign Askable's contract and accept its terms The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us Don't publish the work anywhere: no public pull request or public fork Apply at https://www.askable.com/experts/roles/senior-software-engineer",
-      "required_skills": [
-        "Docker",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Software Engineer, AI Coding Tasks at Askable, focused on Docker, Python. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Software Engineer, AI Coding Tasks role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-144633",
-      "title": "Senior Business Engineer - Ads",
-      "company": "Reddit",
-      "location": "USA",
+      "id": "jobicy-157787",
+      "title": "Senior Software Engineer",
+      "company": "Twilio",
+      "location": "Ireland",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/144633-senior-business-engineer-ads",
-      "published_at": "2026-10-28",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit is entering a period of unprecedented innovation and growth—and there’s never been a more exciting time to join. The Ads Business Engineering team operates at the intersection of engineering, product, sales, and business development, delivering technical expertise and solutions that empower technology partners, agencies, and advertisers to seamlessly integrate with Reddit’s advertising platform. As a key member of this rapidly expanding team, you’ll have the opportunity to take meaningful ownership—driving cutting-edge AdTech integrations, launching and managing strategic partnership programs, and helping scale Reddit’s developer ecosystem. At Reddit, a Business Engineer plays a critical role in driving the success of our advertising API products and platform integrations. This experienced engineer role combines deep technical consulting with hands-on engineering, where you'll guide strategic integrations, often contributing directly to implementation across Reddit’s stack or in the codebases of partners (or direct advertisers). You will be a key technical advisor—trusted to own the end-to-end relationship with Reddit’s most important advertising partners, and execute on the long-term strategy for how we develop an ecosystem of developers. You’ll work across engineering, product, sales, and business development teams to connect Reddit’s capabilities to the evolving needs of the market. You won’t just recommend solutions—you’ll implement them across systems, including platform changes, and also help define frameworks for scaling and repeatability. If you're passionate about creating high-impact technical partnerships, influencing roadmaps, and building at the intersection of AdTech and developer experience, this is the role for you. Responsibilities Act as a trusted technical advisor and solutions architect for strategic partners (or direct advertisers), guiding them through the integration and adoption of Reddit’s advertising APIs and tools. Design and prototype proof-of-concept solutions that accele...",
+      "url": "https://jobicy.com/jobs/157787-senior-software-engineer-18",
+      "published_at": "2026-10-29",
+      "match_score": 45,
+      "priority": "low",
+      "raw_description": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . See yourself at Twilio Join the team as Twilio’s next Senior Software Engineer. About the job This position will be part of a team of talented engineers within our Commerce Platform Team, who build services and products that operate at a massive scale. This platform is central to Twilio's core business as it is responsible for managing the billing lifecycle and payment experience for our customers, while also acting as a gateway for discovering and selling our products. Billing is going through a transformational journey, and we are introducing new and exciting capabilities. The engineer in this role will be part of a team that focuses on the control plane, billing experience and account lifecycle management. The successful candidate will design, build, and operate core billing platform services that help transition our platform and our customers to the next generation architecture. These services work for all Twilio customers, regardless of their scale and billing complexity. The ideal candidate will build high-quality, innovative and fully performing software that complies with high levels of coding standards and technical design. This is to build and integrate services that continuously improve our ability to provide products to customers while simultaneously delivering industry leading availability. We do this by leveraging technologies that include AWS cloud infrastructure and APIs, Apache Kafka, Rest APIs (OpenAPI compliance), while also building our own services. Responsibilities In...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "React",
+        "SQL"
       ],
       "matched_skills": [
-        "Python"
+        "Docker",
+        "GitHub Actions",
+        "Python",
+        "React"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Business Engineer - Ads at Reddit, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Business Engineer - Ads role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS",
+        "Kubernetes",
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Software Engineer at Twilio, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Ireland.",
+      "rule_based_application_sentence": "Your Senior Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "4 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Kubernetes, SQL."
       ]
     },
     {
@@ -269,37 +323,47 @@
       ]
     },
     {
-      "id": "jobicy-151895",
-      "title": "Service Desk/System Administrator",
-      "company": "Playson",
-      "location": "Ukraine",
+      "id": "jobicy-157784",
+      "title": "Staff DevOps Engineer",
+      "company": "Bloomreach",
+      "location": "Czechia",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151895-service-desk-system-administrator",
-      "published_at": "2026-10-28",
-      "match_score": 38,
+      "url": "https://jobicy.com/jobs/157784-staff-devops-engineer-4",
+      "published_at": "2026-10-29",
+      "match_score": 39,
       "priority": "low",
-      "raw_description": "What this role actually is This is a hands-on operational role. Your customers are our employees. The work is a mix of live support, access administration, endpoint and MDM management, onboarding and offboarding, equipment logistics, and documentation, plus improving those processes so the same problems stop coming back. You will own requests end-to-end rather than passing them along, work directly with non-technical colleagues, and handle several things at once on a busy day. Routine service work is a permanent part of the job, not a temporary phase before something else. Key Responsibilities Own employee IT requests end-to-end: prioritize by impact and urgency, keep people informed, resolve, document, and prevent recurrence. Administer user accounts, permissions, and access across Google Workspace, Atlassian, GitHub, and AWS, applying least privilege. Run IT onboarding and offboarding: accounts provisioned on day one, access revoked promptly on exit, devices recovered. Prepare, configure, and maintain macOS and Windows workstations through MDM: policies, software deployment, patching, encryption, and recovery. Own IT equipment procurement, delivery, returns, and inventory accuracy for employees across supported locations, including international shipping and vendor coordination. Troubleshoot hardware, software, network, and SaaS issues methodically: reproduce, isolate, verify. Maintain IT documentation, knowledge-base articles, and asset records so support does not depend on one person being online. Reduce repetitive work through practical scripting and automation, and improve support processes without weakening security controls. Enforce IT security and access policies; recognize and escalate suspicious activity and access gaps. Requirements 3+ years of hands-on experience in IT support, Service Desk, or system administration, with personal ownership of the areas above (not adjacent exposure while other teams handled them). Practical experience supporting macOS in a production employee environment. Hands-on MDM administration (Jamf, Kandji, Intune, JumpCloud, Hexnode, or similar): enrollment, policies, software deployment, compliance. Administration of Google Workspace, plus at least two of: Atlassian, GitHub access management, or cloud IAM (AWS / GCP / Azure). Demonstrated ownership of access lifecycle - joiners, movers, leavers - including approval flows and least-privilege practice. Experience with equipment provisioning, inventory, and remote/int...",
+      "raw_description": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. We're designing the future of autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. And we're building all of that on the intelligence of a single AI engine — Loomi — so that personalization isn't only autonomous…it's also consistent.From retail to financial services, hospitality to gaming, businesses use Bloomreach to drive higher growth and lasting loyalty. We power personalization for more than 1,400 global brands, including American Eagle, Sonepar, and Pandora. Are you looking for a cutting-edge tech stack to work with daily? We are currently expanding our Infrastructure team and are looking for a new colleague to join as a Staff DevOps / Infrastructure Engineer . You can work from home or one of our Central Europe offices (Bratislava, Brno, Prague) on a full-time basis. The base salary range for this position is 1 520 000 - 1 900 000 CZK. The pay range actually offered will take into account a variety of potential factors considered in compensation, including but not limited to skills, qualifications, geographic location, accomplishments, experience, credentials, internal equity and business needs, and may vary from the range listed above. Are you ready to grow with us? What tech stack do we have for you? Kubernetes (GKE), Terraform, GitLab Google Cloud, including a wide range of managed products such as Cloud SQL, BigQuery, Bigtable, Dataflow, and Pub/Sub Self-hosted stack: MongoDB, Kafka, Elasticsearch, Etcd, Victoria Metrics, InfluxDB, Sentry Python, Golang Minimum requirements: At least 5 years of production experience with: Kubernetes - we are looking for an engineer who not only deploys applications to a cluster, but also understands what is happening behind the scenes and can operate 24x7 production GCP (preferred)/AWS/Azure - our solution is built on top of the GCP platform. Candidate should be...",
       "required_skills": [
         "AWS",
         "Azure",
-        "Python"
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "SQL",
+        "Terraform"
       ],
       "matched_skills": [
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Azure"
+        "Azure",
+        "Kubernetes",
+        "SQL",
+        "Terraform"
       ],
-      "rule_based_summary": "Service Desk/System Administrator at Playson, focused on AWS, Azure, Python. Location: Ukraine.",
-      "rule_based_application_sentence": "Your Service Desk/System Administrator role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Staff DevOps Engineer at Bloomreach, focused on AWS, Azure, Docker, GitHub Actions. Location: Czechia.",
+      "rule_based_application_sentence": "Your Staff DevOps Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "3 of 8 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, SQL, Terraform."
       ]
     }
   ]
