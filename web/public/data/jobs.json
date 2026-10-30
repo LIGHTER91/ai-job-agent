@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:54:19Z",
+  "generated_at": "2026-10-30T12:47:08Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 5
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -114,165 +114,115 @@
       ]
     },
     {
-      "id": "jobicy-157382",
-      "title": "Software Development Manager",
-      "company": "Veracyte",
-      "location": "USA",
+      "id": "jobicy-151496",
+      "title": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157382-software-development-manager-2",
-      "published_at": "2026-10-27",
-      "match_score": 73,
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "published_at": "2026-10-25",
+      "match_score": 69,
       "priority": "medium",
-      "raw_description": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a purpose driven environment. This is what we call the Veracyte way – it’s about how we work together, guided by our values, to give clinicians the insights they need to help patients make life-changing decisions. Our Values: We Seek A Better Way : We pursue bold ideas, embrace complexity, and keep pushing forward. We Make It Happen : We act with urgency, deliver with excellence, and always find a way. We Are Stronger Together : We engage with empathy, align around what's best for Veracyte, and celebrate as one team. We Care Deeply : We show up with integrity, kindness, and respect for one another. The Position: Veracyte is seeking an experienced Software Development Manager to lead the engineering team responsible for our AI-powered Billing Automation platform. This team builds and operates software that improves laboratory billing, reimbursement, claims processing, and other revenue-cycle workflows through cloud-native applications, enterprise integrations, workflow automation, and artificial intelligence. The Software Development Manager will be accountable for the team’s people leadership, technical direction, execution, and operational performance. This leader will establish effective engineering practices, develop a high-performing team, and ensure the predictable delivery of secure, reliable, and maintainable software. You will partner closely with Product Management, Revenue Cycle Management, Finance, Laboratory Operations, Data & AI, Enterprise Applications, Architecture, and CloudOps. Together, these groups identify business needs and deliver software that reduces manual effort, improves billing accuracy, accelerates reimbursement, and increases operational efficiency. The ideal candidate is, first and foremost, an accomplished software engineering manager with a strong record of developing engineers and delivering complex enterprise software. Experience with healthcare billing, revenue-cycle management, or AI-enabled products is valuable but not required. This is a hybrid role based out of our San Diego, CA or South San Francisco, CA office. We may also be open to remote for the ideal candidate. Key Responsibilities: Lead, mentor...",
+      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
       "required_skills": [
         "AWS",
-        "Azure",
         "GitHub Actions",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "OpenAI",
-        "RAG",
-        "Terraform",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "OpenAI",
-        "RAG",
-        "Vector search"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Terraform"
-      ],
-      "rule_based_summary": "Software Development Manager at Veracyte, focused on AWS, Azure, GitHub Actions, LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Software Development Manager role interests me because it connects directly with my work around GitHub Actions, LLM, LangChain, LangGraph, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "7 of 10 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-157798",
-      "title": "Staff Analyst, Product & Marketing",
-      "company": "hims &#038; hers",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157798-staff-analyst-product-marketing",
-      "published_at": "2026-10-29",
-      "match_score": 70,
-      "priority": "medium",
-      "raw_description": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achieve. Hims & Hers is a public company, traded on the NYSE under the ticker symbol “HIMS.” To learn more about the brand and offerings, you can visit hims.com/about and hims.com/how-it-works . For information on the company’s outstanding benefits, culture, and its talent-first flexible/remote work approach, see below and visit www.hims.com/careers-professionals . About the Role: As a Staff Analyst, Product & Marketing, you will serve as a strategic analytics partner to both the Product and Marketing organizations, driving impact across the full customer journey from acquisition and conversion to retention and growth. You will work cross-functionally with product managers, growth leads, category managers, marketing channel owners, designers, engineers, and data scientists in a fast-paced collaborative environment. Your expertise in A/B testing, digital analytics, marketing measurement, experimental design, and predictive modeling will allow Hims and Hers to optimize the customer experience and marketing investments in equal measure. This position will report to the Director of Product and Marketing Analytics. You Will: Provide thought leadership and strategic partnership to both Product and Marketing stakeholders, influencing roadmap and channel investment decisions with data-driven insights Own the experimentation strategy across product and marketing workstreams, including test design, success metrics, sample-size estimation, guardrails, and results interpretation Apply causal inference methods such as difference-in-differences and propensity score matching to move beyond correlation and identify what is actually driving metric movement Partner with Data Science to contribute to predictive models, including churn, LTV, and conversion propensity, that directly inform product and marketing decisions Own conversion funnel analytics end to end, identifying drop-off points, diagnosing root causes, and partnering with Product and Category...",
-      "required_skills": [
-        "Airflow",
         "Python",
-        "SQL"
+        "React"
       ],
       "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Airflow",
-        "SQL"
-      ],
-      "rule_based_summary": "Staff Analyst, Product & Marketing at hims &#038; hers, focused on Airflow, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Staff Analyst, Product & Marketing role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Airflow, SQL."
-      ]
-    },
-    {
-      "id": "jobicy-157489",
-      "title": "Senior Backend Software Engineer",
-      "company": "Headway.co",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157489-senior-backend-software-engineer",
-      "published_at": "2026-10-28",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. The Work Backend at Headway involves high-stakes logic. You’re building a reliable abstraction layer over a fragmented healthcare system. What you could work on: The Modern AI-enabled Clinical System: Help design and build the systems that store and manage clinical data. This isn't just a database; it's a high-integrity system for treatment plans, progress notes, patient history, and AI-powered clinical intelligence - from session transcript-to-note generation to automated summaries that give providers their time back. The Insurance Billing Engine: We apply AI pragmatically ( blog ) to reduce administrative burdens for providers and handle the burden of traditional billing workflows. You’ll scale the systems that handle the unique, often nonsensical rules of every major insurance payer to accurately estimate and file claims hundreds of thousands of times per month. Patient-First Infrastructure: We’re moving toward a patient-centric model. Build the backend services that power personalized care recommendations, health tracking, and longitudinal data views as well as innovative user experiences to help patients find a therapist that meets their needs Financial Integrity: Work on the ledger systems that ensure 70,000+ providers get paid accurately. This requires building for idempotency and strict consistency in a multi-pa...",
-      "required_skills": [
-        "AWS",
-        "Gemini",
-        "PostgreSQL",
-        "Python",
-        "Spark"
-      ],
-      "matched_skills": [
-        "Gemini",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Spark"
-      ],
-      "rule_based_summary": "Senior Backend Software Engineer at Headway.co, focused on AWS, Gemini, PostgreSQL, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Backend Software Engineer role interests me because it connects directly with my work around Gemini, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Spark."
-      ]
-    },
-    {
-      "id": "jobicy-157787",
-      "title": "Senior Software Engineer",
-      "company": "Twilio",
-      "location": "Ireland",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157787-senior-software-engineer-18",
-      "published_at": "2026-10-29",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings. . See yourself at Twilio Join the team as Twilio’s next Senior Software Engineer. About the job This position will be part of a team of talented engineers within our Commerce Platform Team, who build services and products that operate at a massive scale. This platform is central to Twilio's core business as it is responsible for managing the billing lifecycle and payment experience for our customers, while also acting as a gateway for discovering and selling our products. Billing is going through a transformational journey, and we are introducing new and exciting capabilities. The engineer in this role will be part of a team that focuses on the control plane, billing experience and account lifecycle management. The successful candidate will design, build, and operate core billing platform services that help transition our platform and our customers to the next generation architecture. These services work for all Twilio customers, regardless of their scale and billing complexity. The ideal candidate will build high-quality, innovative and fully performing software that complies with high levels of coding standards and technical design. This is to build and integrate services that continuously improve our ability to provide products to customers while simultaneously delivering industry leading availability. We do this by leveraging technologies that include AWS cloud infrastructure and APIs, Apache Kafka, Rest APIs (OpenAPI compliance), while also building our own services. Responsibilities In...",
-      "required_skills": [
-        "AWS",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "React",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
         "GitHub Actions",
         "Python",
         "React"
       ],
       "missing_skills": [
-        "AWS",
+        "AWS"
+      ],
+      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
+      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: AWS."
+      ]
+    },
+    {
+      "id": "jobicy-149543",
+      "title": "Python Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149543-python-engineer",
+      "published_at": "2026-10-24",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
         "Kubernetes",
         "SQL"
       ],
-      "rule_based_summary": "Senior Software Engineer at Twilio, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: Ireland.",
-      "rule_based_application_sentence": "Your Senior Software Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Python Engineer at Canonical, focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes, SQL."
+      ]
+    },
+    {
+      "id": "jobicy-149563",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "published_at": "2026-10-24",
+      "match_score": 45,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "MLOps",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, SQL."
+        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
       ]
     },
     {
@@ -320,50 +270,6 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The seniority is not explicit, so the project treats it as moderately compatible."
-      ]
-    },
-    {
-      "id": "jobicy-157784",
-      "title": "Staff DevOps Engineer",
-      "company": "Bloomreach",
-      "location": "Czechia",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/157784-staff-devops-engineer-4",
-      "published_at": "2026-10-29",
-      "match_score": 39,
-      "priority": "low",
-      "raw_description": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. We’re making conversational shopping a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. We're designing the future of autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. And we're building all of that on the intelligence of a single AI engine — Loomi — so that personalization isn't only autonomous…it's also consistent.From retail to financial services, hospitality to gaming, businesses use Bloomreach to drive higher growth and lasting loyalty. We power personalization for more than 1,400 global brands, including American Eagle, Sonepar, and Pandora. Are you looking for a cutting-edge tech stack to work with daily? We are currently expanding our Infrastructure team and are looking for a new colleague to join as a Staff DevOps / Infrastructure Engineer . You can work from home or one of our Central Europe offices (Bratislava, Brno, Prague) on a full-time basis. The base salary range for this position is 1 520 000 - 1 900 000 CZK. The pay range actually offered will take into account a variety of potential factors considered in compensation, including but not limited to skills, qualifications, geographic location, accomplishments, experience, credentials, internal equity and business needs, and may vary from the range listed above. Are you ready to grow with us? What tech stack do we have for you? Kubernetes (GKE), Terraform, GitLab Google Cloud, including a wide range of managed products such as Cloud SQL, BigQuery, Bigtable, Dataflow, and Pub/Sub Self-hosted stack: MongoDB, Kafka, Elasticsearch, Etcd, Victoria Metrics, InfluxDB, Sentry Python, Golang Minimum requirements: At least 5 years of production experience with: Kubernetes - we are looking for an engineer who not only deploys applications to a cluster, but also understands what is happening behind the scenes and can operate 24x7 production GCP (preferred)/AWS/Azure - our solution is built on top of the GCP platform. Candidate should be...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "SQL",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "SQL",
-        "Terraform"
-      ],
-      "rule_based_summary": "Staff DevOps Engineer at Bloomreach, focused on AWS, Azure, Docker, GitHub Actions. Location: Czechia.",
-      "rule_based_application_sentence": "Your Staff DevOps Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 8 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, SQL, Terraform."
       ]
     }
   ]
