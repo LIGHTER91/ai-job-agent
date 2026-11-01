@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:18:11Z",
+  "generated_at": "2026-11-01T13:14:28Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -13,8 +13,7 @@
       "Data Engineer"
     ],
     "source_counts": {
-      "Remotive": 3,
-      "Jobicy": 1
+      "Remotive": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -111,41 +110,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Kubernetes, MLOps."
-      ]
-    },
-    {
-      "id": "jobicy-151496",
-      "title": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "published_at": "2026-10-25",
-      "match_score": 69,
-      "priority": "medium",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
-      "required_skills": [
-        "AWS",
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS."
       ]
     },
     {
