@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:04:46Z",
+  "generated_at": "2026-11-04T14:25:44Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -13,7 +13,8 @@
       "Data Engineer"
     ],
     "source_counts": {
-      "Remotive": 3
+      "Remotive": 3,
+      "Jobicy": 4
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -113,6 +114,46 @@
       ]
     },
     {
+      "id": "jobicy-154244",
+      "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
+      "company": "Quora",
+      "location": "Canada,  UK,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
+      "published_at": "2026-10-31",
+      "match_score": 56,
+      "priority": "medium",
+      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month. Our team owns Quora's ML platform and ranking infrastructure across four areas: serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency . We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. As a Software Engineer (New Grad) on this team, you'll work at the intersection of machine learning, distributed systems, and GPU serving performance — and your work will have an enormous impact on Quora's long-term success. No previous ML infrastructure experience is required for this role. You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong technical guidance — and you'll be shipping to production in your first few weeks. Stack: Python, Go, C++, PyTorch, Kubernetes/EKS, NVIDIA Triton, Ray, AWS Excited to see ou...",
+      "required_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "LLM",
+        "Python",
+        "Vector search"
+      ],
+      "matched_skills": [
+        "Docker",
+        "LLM",
+        "Python",
+        "Vector search"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Software Engineer New Grad, Machine Learning Platform - Quora at Quora, focused on AWS, Docker, Kubernetes, LLM. Location: Canada,  UK,  USA.",
+      "rule_based_application_sentence": "Your Software Engineer New Grad, Machine Learning Platform - Quora role interests me because it connects directly with my work around Docker, LLM, Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Kubernetes."
+      ]
+    },
+    {
       "id": "remotive-2091165",
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
@@ -151,21 +192,122 @@
       ]
     },
     {
-      "id": "remotive-2091134",
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
+      "id": "jobicy-158090",
+      "title": "Technical Support Engineer",
+      "company": "Kustomer",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/158090-technical-support-engineer-5",
+      "published_at": "2026-11-04",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "About Kustomer Kustomer is the AI-native customer experience platform that turns every interaction into a lasting relationship and a measurable business outcome. By unifying customer data, conversations and AI-native workflows into a single connected timeline, Kustomer helps teams cultivate customers, not tickets, resolving issues faster and delivering more personalized service across every channel. Today, Kustomer is the core platform for leading customer service brands like Sweetgreen, Starz, Vuori, Goldbelly and Cotopaxi. Founded in 2015 by serial entrepreneurs Brad Birnbaum and Jeremy Suriel, Kustomer raised nearly $200M in funding culminating in a Series E before being acquired by Meta in a deal that closed in 2022. In 2023, Kustomer's founders and original investors, Battery, Redpoint, and Boldstart Ventures, spun the company back out with a $60M investment as an independent, privately held business ready to focus more deeply on AI. In 2025, Norwest led our Series B, bringing our total funding to $90M. This momentum allowed Kustomer to double down on AI-native innovation and build a sharper roadmap for the future of customer experience. Our Krew is a remote-friendly team spread across the U.S. with hubs in NYC and London. We gather in person each year at our annual Kustomer Kick-Off event and always look for Krew members who are curious, collaborative, and ready to shape the future of Customer Experience. About the Role Kustomer’s AI agent resolves routine questions, and our support partners handle the next layer of straightforward requests. This role handles what’s left: complex, ambiguous technical issues across webhooks, APIs, workflows, integrations, and AI agent behavior. You’ll be the final escalation point before Engineering. You’ll also make Tier 1 and 2 stronger by turning each hard case into a runbook, a fix, or a product improvement. You’ll be responsible for: Owning technical issues end to end, from reproduction through root cause and resolution, within defined SLAs Diagnosing failures in webhooks, REST API integrations, workflows, and automations using logs, payloads, and developer tools Troubleshooting AI agent behavior, such as misrouted or incorrect resolutions, knowledge gaps, and failed actions or integrations, and recommending configuration or knowledge fixes Escalating to Engineering with clear reproduction steps, evidence, and impact, and following through to resolution Identifying recurring issue patterns and partnering with...",
+      "required_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Technical Support Engineer at Kustomer, focused on LLM, Prompt engineering, Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Technical Support Engineer role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-154514",
+      "title": "Solutions Architect for Automotive",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
+      "published_at": "2026-11-04",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Solutions Architect for Automotive to help our partners (companies like Mercedes, Ford, GM, Elektrobit, Intel, Nvidia, Google, Dell, HP, Accenture, Tata and the like) and prospects understand and embrace our open source platform for themselves and their customers. Our worldwide field engineering team apply expert insights to real-world customer problems, enabling the enterprise adoption of Ubuntu, OpenStack, Kubernetes, AI/MLOps and a wide range of associated technologies. We are experts in the whole open source stack, from kernel to desktop, from cloud to embedded. And we continue to expand our range of offerings to bring our security, management and developer experience to the smallest Linux environments and devices. Our team is also interested in business problems - building things reliably, efficiently and cost-effectively, and we have to learn to speak the language of our customers and their industries. Beyond an expected Automotive expertise, this career opportunity requires a unique blend of skills. Successful candidates will know Linux well and be proficient coders and scripters. They will have experience of low-level Linux boot, BIOS, firmware and embedded software development methodologies. They also enjoy the pace of change and diversity of client engagements with driven and ambitious technology entrepreneurs. Competitive, business-focused technologists at heart, they are also dedicated team players that take pride in team and company wins. We often say that our field engineers have 'the hardest job at Canonical' because customers can ask about any aspect of our solutions and products and expect a thoughtful, well-informed answer. We always want to do the best thing for our partners and customers, regardless of our company inter...",
+      "required_skills": [
+        "Kubernetes",
+        "MLOps",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Solutions Architect for Automotive at Canonical, focused on Kubernetes, MLOps, Python. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Solutions Architect for Automotive role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, MLOps."
+      ]
+    },
+    {
+      "id": "jobicy-149990",
+      "title": "Talent Scientist",
+      "company": "Canonical",
+      "location": "EMEA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/149990-talent-scientist",
+      "published_at": "2026-11-04",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "As a pioneer remote-first tech company with a product that inspires people globally, we attract a huge number of applicants to our organisation. We have created a hiring process that is totally unique empowering our business based Hiring Leadership team to lead talent selection. Our Talent Science team ensures that our processes are effective and that the business is able to make the best decisions to select exceptional talent. This is an exceptional opportunity to join a team that is changing the way an organisation hires. Our Talent Science team has a mission to ensure that we follow objective, scientifically rigorous and efficient processes to select the very best new colleagues regardless of location, culture or background. We work closely with our key stakeholders to ensure that decisions are being made in the right way and that our hiring model supports the selection of world class talent, regardless of location, culture or background. As a Talent Scientist, you will work closely with these Hiring Leads to drive initiatives, automation and best practice whilst offering an expert viewpoint on talent assessments. This is not a recruiter position; it's about the science of talent and performance, raising awareness and insights across the business so that they are able to select the best talent available from our global talent pool. We have a number of mid-senior level openings in our team seeking the following: Passion and drive to embed scientific approaches that deliver impact on how an organisation selects talent. Strong behavioural interviewing techniques (competency based and psychometric assessments). Excellent analytical problem solving ability to identify trends and patterns using SQL, statistical analysis or Python, BI tooling, etc. An exceptional academic background including a Bachelors or Masters degree in a Psychology based subject. A high level of personal organisation to work remotely and be effective. Location: This is a remote position based in the EMEA region What your day will look like As a Talent Scientist you will: Drive talent analytics to provide our business with real-time insight, partnering with the business to help them move through their hiring processes efficiently. Conduct in-depth behavioural talent interviews providing considerable insights into motivations and behaviours. Build key relationships with global stakeholders to ensure we deliver against our hiring agenda, closely monitoring hiring activities, driving resu...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Talent Scientist at Canonical, focused on Python, SQL. Location: EMEA.",
+      "rule_based_application_sentence": "Your Talent Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
       "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
-      "published_at": "2026-10-26",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "published_at": "2026-11-02",
       "match_score": 40,
       "priority": "low",
-      "raw_description": "About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qualified, vetted candidates within 24 hours without the grind. This is a pivotal moment: we’re transitioning from a services-driven marketplace to a technology-driven platform. We need an engineering leader who can drive that transformation. The Role You will own engineering at Lemon.io . You’ll lead a growing team of engineers, make critical architecture and prioritization decisions, and be directly accountable for the speed and quality of what we ship. This is not a management-layer role. You’ll be hands-on, deeply involved in product decisions, and working side by side with the founder. What You’ll Do: Own the technical roadmap and make sure every engineering effort maps directly to business impact. No features for features’ sake. Lead and grow an engineering team that ships fast, iterates constantly, and treats complexity as a cost. Tackle the hard, multi-layered problem: automated vetting, intelligent matching at scale, demand-side bottlenecks. And figure out where the real leverage is. Make hard prioritization calls. Decide what we build, what we skip, and what we kill. Work directly with the founder and product team to define what success looks like before writing a single line of code. Build the engineering culture: high ownership, high speed, low bureaucracy. Who You Are: Product-minded, business-first Obsessed with simplicity First principles thinker Fast. Bias toward action Experience: You’ve led engineering teams (5–30+ people) at a startup or high-growth company. You have hands-on experience with modern stacks and are comfortable with AI/ML tooling. You’ve worked in a distributed, async-first team. Why Lemon.io : Profitable and growing. No fundraising pressure, real business fundamentals. A pivotal moment: you’re not maintaining an engine, you’re building one. The product roadmap is wide open. Direct access to the founder. No layers. Your decisions ship...",
+      "raw_description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the mo...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Head of Engineering at Lemon.io, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Head of Engineering role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Freelance Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Freelance Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
