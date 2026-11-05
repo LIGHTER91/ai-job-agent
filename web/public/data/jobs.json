@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:25:44Z",
+  "generated_at": "2026-11-05T14:33:10Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -114,6 +114,66 @@
       ]
     },
     {
+      "id": "jobicy-159087",
+      "title": "Principal Data Scientist, Ads",
+      "company": "Reddit",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159087-principal-data-scientist-ads",
+      "published_at": "2026-11-05",
+      "match_score": 67,
+      "priority": "medium",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit's Ads Data Science team is seeking a highly motivated Principal Data Scientist to drive the strategic application of advanced quantitative methods across our advertising platform to advance the intelligence powering the advertiser experience on Reddit. In this pivotal leadership role, you will be responsible for defining and implementing the next generation of foundational data science solutions, leveraging expertise in statistics, econometrics, machine learning and/or other quantitative methods to optimize Reddit's Ads marketplace. You will partner closely with Analytics Engineering to ensure our underlying data systems are continuously upleveled to support advanced analysis and modeling at scale. You will be a strategic partner, collaborating closely with Product, Engineering, and Business leaders to establish the long-term vision for measurement, prediction, and optimization. As a thought leader, you will champion scientific rigor, causal inference, and economic modeling, while providing deep mentorship to the broader team. If you are passionate about applying foundational quantitative science to solve complex, high-impact business problems, join us in shaping the future of Reddit ads. What you’ll do Define the future of Ads Data Science: Own the design and long-term evolution of our core Ads Data Science solutions and infrastructure, building for the next several years of continued scale, revenue growth, and relevance. Strategic leadership & scientific roadmap: Identify fundamental gaps and opportunities in our current systems (including platform, auction, targeting, and full-funnel relevance models). Lead the strategic design and scientific roadmap for new solutions to significantly improve Advertiser ROI, User experience, and Reddit revenue. Drive end-to-end impact: Take end-to-end ownership of complex problem domains such as full funnel acceleration, advertiser lifetime value (LTV), and developing advanced predictive and causal frameworks that power Reddit’s strategic investments. Establish sc...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Principal Data Scientist, Ads at Reddit, focused on Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Principal Data Scientist, Ads role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-159104",
+      "title": "Developer Support Engineer",
+      "company": "Algolia",
+      "location": "Australia",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159104-developer-support-engineer",
+      "published_at": "2026-11-05",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industry analyst firms. The Algolia platform turns a company's products, content, and business rules into data that humans, applications and AI agents can act upon. The result is trusted customer experiences with stronger conversions for measurable business impact. At Algolia, we are passionate about helping developers and product teams connect their users with what matters most in milliseconds! Algolia was built to help users deliver an intuitive search-as-you-type experience on their websites and mobile apps. We provide a search API used by thousands of customers in more than 100 countries, handling billions of search queries monthly. The Developer Support Engineer is a critical role at Algolia. We’re on the front-lines and are often the first team customers contact when they need help with our products or services. We're looking for a Developer Support Engineer to assist our technical users with implementing Algolia in a variety of web and mobile development technical stacks. This could mean helping a developer trying to build the next big thing in their garage, or Fortune 500 companies focused on providing a world-class experience to their millions of users. As a Developer Support Engineer, you will partner with the customer success, product, and engineering teams to find the best solutions for our customers.. We have a hands-on culture, and expect you to roll up your sleeves and get to work solving difficult problems that stand in the way of our customers’ success. YOUR ROLE WILL CONSIST OF: Handling technical requests via web and email support channels. Conducting professional and empathetic conversations with customers to gather information, troubleshoot, and resolve their technical obstacles. Submitting bug reports to the Engineering team for problems needing attention. Partnering with Product Teams and Engineering to develop subject matter expertise and serve as a product expert to the rest of the support team. Contributing to internal and external knowledge bases. Participating in internal projects to improve processes and tools. REQUIREMENTS: Strong desire to help people solve problems with the ability to explain complex technical concepts to a broad audi...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Developer Support Engineer at Algolia, focused on Python. Location: Australia.",
+      "rule_based_application_sentence": "Your Developer Support Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "jobicy-154244",
       "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
       "company": "Quora",
@@ -192,104 +252,44 @@
       ]
     },
     {
-      "id": "jobicy-158090",
-      "title": "Technical Support Engineer",
-      "company": "Kustomer",
-      "location": "USA",
+      "id": "jobicy-159117",
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "location": "Europe,  UAE",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/158090-technical-support-engineer-5",
-      "published_at": "2026-11-04",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "About Kustomer Kustomer is the AI-native customer experience platform that turns every interaction into a lasting relationship and a measurable business outcome. By unifying customer data, conversations and AI-native workflows into a single connected timeline, Kustomer helps teams cultivate customers, not tickets, resolving issues faster and delivering more personalized service across every channel. Today, Kustomer is the core platform for leading customer service brands like Sweetgreen, Starz, Vuori, Goldbelly and Cotopaxi. Founded in 2015 by serial entrepreneurs Brad Birnbaum and Jeremy Suriel, Kustomer raised nearly $200M in funding culminating in a Series E before being acquired by Meta in a deal that closed in 2022. In 2023, Kustomer's founders and original investors, Battery, Redpoint, and Boldstart Ventures, spun the company back out with a $60M investment as an independent, privately held business ready to focus more deeply on AI. In 2025, Norwest led our Series B, bringing our total funding to $90M. This momentum allowed Kustomer to double down on AI-native innovation and build a sharper roadmap for the future of customer experience. Our Krew is a remote-friendly team spread across the U.S. with hubs in NYC and London. We gather in person each year at our annual Kustomer Kick-Off event and always look for Krew members who are curious, collaborative, and ready to shape the future of Customer Experience. About the Role Kustomer’s AI agent resolves routine questions, and our support partners handle the next layer of straightforward requests. This role handles what’s left: complex, ambiguous technical issues across webhooks, APIs, workflows, integrations, and AI agent behavior. You’ll be the final escalation point before Engineering. You’ll also make Tier 1 and 2 stronger by turning each hard case into a runbook, a fix, or a product improvement. You’ll be responsible for: Owning technical issues end to end, from reproduction through root cause and resolution, within defined SLAs Diagnosing failures in webhooks, REST API integrations, workflows, and automations using logs, payloads, and developer tools Troubleshooting AI agent behavior, such as misrouted or incorrect resolutions, knowledge gaps, and failed actions or integrations, and recommending configuration or knowledge fixes Escalating to Engineering with clear reproduction steps, evidence, and impact, and following through to resolution Identifying recurring issue patterns and partnering with...",
+      "url": "https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2",
+      "published_at": "2026-11-05",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About the Role We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers. This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering. Responsibilities Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments. Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies. Build and maintain Infrastructure as Code (IaC) using Terraform. Design and improve CI/CD pipelines for application and infrastructure deployment. Deploy and operate middleware platforms such as Kafka, Redis and NGINX. Automate operational tasks using Golang and Python. Improve observability through monitoring, logging, alerting, and distributed tracing. Ensure platform reliability, scalability, security, and disaster recovery. Troubleshoot production incidents and perform root cause analysis. Work closely with software engineers to improve deployment processes and platform developer experience. Participate in on-call rotations and incident response. Requirements 5+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer. Strong experience with at least one major cloud platform: AWS / GCP / Azure Hands-on experience managing Kubernetes production environments. Experience with Karpenter for Kubernetes autoscaling and node lifecycle management. Strong experience with Terraform for infr...",
       "required_skills": [
-        "LLM",
-        "Prompt engineering",
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
         "Python",
-        "SQL"
+        "Terraform"
       ],
       "matched_skills": [
-        "LLM",
-        "Prompt engineering",
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
       ],
-      "rule_based_summary": "Technical Support Engineer at Kustomer, focused on LLM, Prompt engineering, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Technical Support Engineer role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "DevOps Engineer, Blockchain Infra (Fully Remote) at Binance, focused on AWS, Azure, Docker, GitHub Actions. Location: Europe,  UAE.",
+      "rule_based_application_sentence": "Your DevOps Engineer, Blockchain Infra (Fully Remote) role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "3 of 7 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-154514",
-      "title": "Solutions Architect for Automotive",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "published_at": "2026-11-04",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a Solutions Architect for Automotive to help our partners (companies like Mercedes, Ford, GM, Elektrobit, Intel, Nvidia, Google, Dell, HP, Accenture, Tata and the like) and prospects understand and embrace our open source platform for themselves and their customers. Our worldwide field engineering team apply expert insights to real-world customer problems, enabling the enterprise adoption of Ubuntu, OpenStack, Kubernetes, AI/MLOps and a wide range of associated technologies. We are experts in the whole open source stack, from kernel to desktop, from cloud to embedded. And we continue to expand our range of offerings to bring our security, management and developer experience to the smallest Linux environments and devices. Our team is also interested in business problems - building things reliably, efficiently and cost-effectively, and we have to learn to speak the language of our customers and their industries. Beyond an expected Automotive expertise, this career opportunity requires a unique blend of skills. Successful candidates will know Linux well and be proficient coders and scripters. They will have experience of low-level Linux boot, BIOS, firmware and embedded software development methodologies. They also enjoy the pace of change and diversity of client engagements with driven and ambitious technology entrepreneurs. Competitive, business-focused technologists at heart, they are also dedicated team players that take pride in team and company wins. We often say that our field engineers have 'the hardest job at Canonical' because customers can ask about any aspect of our solutions and products and expect a thoughtful, well-informed answer. We always want to do the best thing for our partners and customers, regardless of our company inter...",
-      "required_skills": [
-        "Kubernetes",
-        "MLOps",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "MLOps"
-      ],
-      "rule_based_summary": "Solutions Architect for Automotive at Canonical, focused on Kubernetes, MLOps, Python. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Solutions Architect for Automotive role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, MLOps."
-      ]
-    },
-    {
-      "id": "jobicy-149990",
-      "title": "Talent Scientist",
-      "company": "Canonical",
-      "location": "EMEA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149990-talent-scientist",
-      "published_at": "2026-11-04",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "As a pioneer remote-first tech company with a product that inspires people globally, we attract a huge number of applicants to our organisation. We have created a hiring process that is totally unique empowering our business based Hiring Leadership team to lead talent selection. Our Talent Science team ensures that our processes are effective and that the business is able to make the best decisions to select exceptional talent. This is an exceptional opportunity to join a team that is changing the way an organisation hires. Our Talent Science team has a mission to ensure that we follow objective, scientifically rigorous and efficient processes to select the very best new colleagues regardless of location, culture or background. We work closely with our key stakeholders to ensure that decisions are being made in the right way and that our hiring model supports the selection of world class talent, regardless of location, culture or background. As a Talent Scientist, you will work closely with these Hiring Leads to drive initiatives, automation and best practice whilst offering an expert viewpoint on talent assessments. This is not a recruiter position; it's about the science of talent and performance, raising awareness and insights across the business so that they are able to select the best talent available from our global talent pool. We have a number of mid-senior level openings in our team seeking the following: Passion and drive to embed scientific approaches that deliver impact on how an organisation selects talent. Strong behavioural interviewing techniques (competency based and psychometric assessments). Excellent analytical problem solving ability to identify trends and patterns using SQL, statistical analysis or Python, BI tooling, etc. An exceptional academic background including a Bachelors or Masters degree in a Psychology based subject. A high level of personal organisation to work remotely and be effective. Location: This is a remote position based in the EMEA region What your day will look like As a Talent Scientist you will: Drive talent analytics to provide our business with real-time insight, partnering with the business to help them move through their hiring processes efficiently. Conduct in-depth behavioural talent interviews providing considerable insights into motivations and behaviours. Build key relationships with global stakeholders to ensure we deliver against our hiring agenda, closely monitoring hiring activities, driving resu...",
-      "required_skills": [
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Talent Scientist at Canonical, focused on Python, SQL. Location: EMEA.",
-      "rule_based_application_sentence": "Your Talent Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
