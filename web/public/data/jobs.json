@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:10:57Z",
+  "generated_at": "2026-11-07T12:53:53Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,160 +74,90 @@
   },
   "jobs": [
     {
-      "id": "jobicy-159265",
-      "title": "Data Scientist",
-      "company": "Solace",
-      "location": "USA",
+      "id": "jobicy-159481",
+      "title": "Senior Software Engineer - Digital Workplace",
+      "company": "Canonical",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159265-data-scientist-7",
-      "published_at": "2026-11-06",
-      "match_score": 62,
+      "url": "https://jobicy.com/jobs/159481-senior-software-engineer-digital-workplace",
+      "published_at": "2026-11-07",
+      "match_score": 60,
       "priority": "medium",
-      "raw_description": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions—and get better outcomes. We're a Series C startup, founded in 2022 and backed by Inspired Capital, Craft Ventures, Torch Capital, Menlo Ventures, Signalfire, and IVP. Our U.S. based team is lean, mission-driven, and growing quickly. Solace isn't a place to coast. We're here to redefine healthcare—and that demands urgency, precision, and heart. If you're looking to stretch yourself, sharpen your edge, and do the best work of your life alongside a team that cares deeply, you're in the right place. We’re intense, and we like it that way. Read more in our Bloomberg funding announcement here . About the Role At Solace, data isn't just about understanding the past; it's about predicting the future. We are a rapidly scaling startup where we work hard, move fast, and wear many hats. The Solace Data Team is looking for a Data Scientist who excels at forecasting, prediction, and machine learning to help us anticipate patient needs and optimize our operations. Reporting directly to the VP of Data, you will have the opportunity to lead high-impact projects that directly influence our strategic decision-making. In this role, you will go beyond descriptive analytics to build the predictive engines that drive our business. Whether you are forecasting operational volume, modeling patient risk, or designing rigorous A/B tests, you will bridge the gap between advanced statistics and practical business application, ensuring our models are robust, interpretable, and impactful. What You’ll Do Build Predictive Models: Develop and refine machine learning models to solve critical business problems, such as predicting patient churn, estimating operational volume, or scoring advocate quality. Drive Forecasting Rigor: Own the development of time-series forecasts that guide our capacity planning and resource allocation. You will help us anticipate \"what comes next\" with higher accuracy. Design & Analyze Experiments: Lead the design and analysis of A/B tests and causal inference studies. You will ensure we measure the true impact of our product and operational changes. Uncover Deep Insights: Apply advanced statistical methods to complex datasets to find patterns that...",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. The role We build internal systems to the same standard as our public products: specified, tested, reviewed and observable. We want engineers who enjoy that rigour and take full ownership of what they ship. What you will do Design and deliver systems and platforms, including intuitive UIs Build Go services and APIs that connect many data sources Design data models and architecture for connected systems Turn data into clear dashboards and visualisations Build LLM-powered features into everyday workflows Write specs, estimate work and deliver to agreed criteria Set a high bar in code review, testing and documentation Partner with non-technical colleagues to turn needs into tools Mentor engineers and improve how the team works Who you are You have deep expertise in at least two of: Back-end services in Go Modern front-end engineering [React/Svelte/TypeScript] Data engineering and analytics Data visualisation Applied LLM/ML in production workflows You also: Treat testing, security, performance and accessibility as part of the job Handle sensitive people data with care Write clearly and work well in a distributed team Own your work from first spec to production Nice to have : Python, Go, React, Svelte, PostgreSQL, Kubernetes, a history of building tools for HR, finance or operations. The ideal candidate will use their passion for experimentation and analytics to build tomorrow’s tech organisation. This team will help us gain insights into the business and our talent pool, and use those insights to improve the experience of working at Canonical. As a Workplace Engineer at Canonical, you need an analytical, data-driven mind and a passion to connect and make sense of interesting data from APIs. We focus heavily on the collection of metrics, optimising processes, an...",
       "required_skills": [
-        "Airflow",
-        "Docker",
-        "MLOps",
-        "NLP",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "NLP",
-        "Python"
-      ],
-      "missing_skills": [
-        "Airflow",
-        "MLOps",
-        "SQL"
-      ],
-      "rule_based_summary": "Data Scientist at Solace, focused on Airflow, Docker, MLOps, NLP. Location: USA.",
-      "rule_based_application_sentence": "Your Data Scientist role interests me because it connects directly with my work around Docker, NLP, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: Airflow, MLOps, SQL."
-      ]
-    },
-    {
-      "id": "jobicy-159248",
-      "title": "Security Engineer - Product Security",
-      "company": "Spotify",
-      "location": "Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159248-security-engineer-product-security",
-      "published_at": "2026-11-06",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Security engineers at Spotify help protect our environment and more than 700 million users. Within Platform, our Product Security team evaluates and communicates Spotify's security posture, helping developers and leadership make informed decisions about security risks. We own the vulnerability management platform, supporting the full lifecycle of identifying, attributing, remediating, and reporting security vulnerabilities. As AI changes how vulnerabilities are discovered and exploited, we're evolving how Spotify responds. We're looking for a Security Engineer to help transform vulnerability findings into reliable, actionable code improvements using agentic AI. You'll build the tools, workflows, and evaluation frameworks that make automated remediation more effective, scalable, and safe, while helping developers focus on building great experiences for our users. What You'll Do Build and improve agentic AI workflows that turn security vulnerability findings into tested, review-ready code changes for engineering teams across Spotify. Design and implement evaluation frameworks to measure the quality of automated fixes, including correctness, completeness, safety, build and test success, and pull request merge rates. Develop tools and processes to compare remediation approaches, evaluate AI models, and continuously improve the reliability and effectiveness of generated fixes. Research and apply emerging practices in AI-assisted vulnerability remediation, including prompt engineering, context engineering, and vulnerability-specific fix guidance. Identify which vulnerability types are suitable for automated remediation, balancing security impact, technical feasibility, and developer experience. Collaborate with developers and security stakeholders to collect feedback through code reviews, pull requests, support channels, and interactive sessions, using these insights to improve remediation quality. Help shape how Spotify approaches security posture management by building scalable solutions that reduce security risks and make it easier for teams to address vulnerabilities. Who You Are You have experience in software engineering, pa...",
-      "required_skills": [
-        "Prompt engineering",
-        "Python"
-      ],
-      "matched_skills": [
-        "Prompt engineering",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Security Engineer - Product Security at Spotify, focused on Prompt engineering, Python. Location: Canada,  USA.",
-      "rule_based_application_sentence": "Your Security Engineer - Product Security role interests me because it connects directly with my work around Prompt engineering, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-159236",
-      "title": "Growth Marketing Manager, AI & Paid Programs",
-      "company": "Demandbase, Inc.",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159236-growth-marketing-manager-ai-paid-programs",
-      "published_at": "2026-11-06",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their data and tech stacks – all in one platform. As a company, we’re as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us. We have also continuously been recognized as One of The Best Places To Work in the San Francisco Bay Area by Fortune, and One of The 60 Best Companies To Sell For by Selling Power. Our offices are located in San Francisco, New York, Austin, Seattle, India, and the United Kingdom. About the Role You'll run the programs that fill the top of our funnel: paid search, paid social, and our AI SDR. You'll also build the agents and workflows that make our demand gen team faster. You're part operator and part builder. You manage agency partners to pipeline outcomes, and when a process is manual and repetitive, you automate it. Success means more pipeline per dollar and fewer hours spent on work a workflow could do. What You'll Do Paid programs Drive paid search and paid social (LinkedIn, Google, Meta) strategy, budget pacing, and performance. Manage our paid media agency day to day, and hold them to pipeline and CAC, not impressions and clicks. Run continuous creative, audience, and bid experiments, then scale what works and cut what doesn't. AI SDR (Qualified) Manage our Qualified AI SDR: build and launch campaigns in the tool, and improve our existing playbooks, messaging, and routing based on what the data shows. Work with the SDR team to build a feedback loop on handoffs, lead quality, and meeting-to-pipeline conversion. Track AI SDR performance and share regular readouts on what’s working, what isn’t, and what to try next. Agents and workflows Build AI agents and automated workflows that support demand gen. Examples include campaign QA, ad copy and creative variants, spend anomaly alerts, account enrichment and routing, and weekly performance readouts. Use tools like Claude, Clay, n8n/Zapier, and Demandbase to cut manual work and speed up launches. Document what you build so the team can use it and extend it. Measurement Track performance from ad platform to MAP to CR...",
-      "required_skills": [
-        "LLM",
-        "Python"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Growth Marketing Manager, AI & Paid Programs at Demandbase, Inc., focused on LLM, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Growth Marketing Manager, AI & Paid Programs role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-154244",
-      "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
-      "company": "Quora",
-      "location": "Canada,  UK,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
-      "published_at": "2026-10-31",
-      "match_score": 56,
-      "priority": "medium",
-      "raw_description": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in Canada or the United States. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's collective intelligence. To do so, we have two platforms: Quora : a global knowledge sharing platform with millions of monthly unique visitors, bringing people together to share insights on various topics and providing a unique platform to learn and connect with others. Poe : a cloud workspace where millions of users run multiple AI agents on shared context and tools. One subscription, every frontier model, and the collaboration layer that makes them work together. Behind these products are passionate, collaborative, and high-performing global teams. We have a culture rooted in transparency, idea-sharing, and experimentation that allows us to celebrate success and grow together through meaningful work. Join us on this journey to create a positive impact and make a significant change in the world. This role will be working on our Quora product. About the Team and Role: Machine Learning is central to Quora's mission of growing the world's collective intelligence. We have 100+ Machine Learning models in production powering various product features. We use a variety of algorithms — everything from linear models to decision trees and deep neural networks. Our production models operate at a huge scale, serving hundreds of millions of people using Quora every month. Our team owns Quora's ML platform and ranking infrastructure across four areas: serving reliability, ML engineer enablement and developer velocity, business impact, and cost efficiency . We want to empower all ML engineers at Quora to be as impactful as they can be in solving different ML problems at scale. As a Software Engineer (New Grad) on this team, you'll work at the intersection of machine learning, distributed systems, and GPU serving performance — and your work will have an enormous impact on Quora's long-term success. No previous ML infrastructure experience is required for this role. You'll be joining a team of senior and staff engineers, learning this stack from the people who built it, with a dedicated mentor and strong technical guidance — and you'll be shipping to production in your first few weeks. Stack: Python, Go, C++, PyTorch, Kubernetes/EKS, NVIDIA Triton, Ray, AWS Excited to see ou...",
-      "required_skills": [
-        "AWS",
-        "Docker",
         "Kubernetes",
         "LLM",
+        "PostgreSQL",
         "Python",
-        "Vector search"
+        "React"
       ],
       "matched_skills": [
-        "Docker",
         "LLM",
+        "PostgreSQL",
         "Python",
-        "Vector search"
+        "React"
       ],
       "missing_skills": [
-        "AWS",
         "Kubernetes"
       ],
-      "rule_based_summary": "Software Engineer New Grad, Machine Learning Platform - Quora at Quora, focused on AWS, Docker, Kubernetes, LLM. Location: Canada,  UK,  USA.",
-      "rule_based_application_sentence": "Your Software Engineer New Grad, Machine Learning Platform - Quora role interests me because it connects directly with my work around Docker, LLM, Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Software Engineer - Digital Workplace at Canonical, focused on Kubernetes, LLM, PostgreSQL, Python. Location: EMEA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer - Digital Workplace role interests me because it connects directly with my work around LLM, PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 6 extracted skills match the profile.",
+        "4 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes."
+        "Main missing or weaker skills: Kubernetes."
       ]
     },
     {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
+      "id": "jobicy-159482",
+      "title": "Senior Software Engineer - Python/Golang - Kubernetes",
+      "company": "Canonical",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159482-senior-software-engineer-python-golang-kubernetes",
+      "published_at": "2026-11-07",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a senior software engineer to join our Kubernetes product team. As a member of that team, you will build the operators and addons; the former, offering complete lifecycle management of mission-critical components, and the latter, a zero-ops experience for seamlessly integrating projects into your Kubernetes. You will gain familiarity with the latest features in Kubernetes and look to incorporate the best of open-source to bring functionality to our end-users. You will collaborate with industry peers and partners to bring the right solutions to our customers. This is an exciting opportunity for a senior software engineer passionate about open source software, Linux, Golang, Python and Kubernetes. Location : This is a remote position available in EMEA and the Americas. What you will focus on Work closely with other leads, assuming joint responsibility for outcomes at the team, department, and company level. Mentor, develop, and advise colleagues on their career progression. Write high-quality code to create new features Debug issues and interact with a vibrant community Collaborate proactively with a distributed team Work from home with global travel 2 to 4 weeks for internal and external events What we are looking for in you You are a Golang developer also fluent in Python You have experience with Kubernetes You have strong written and verbal communication skills You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree You love technology and working with brilliant people What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition t...",
+      "required_skills": [
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Senior Software Engineer - Python/Golang - Kubernetes at Canonical, focused on Kubernetes, Python. Location: EMEA,  LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer - Python/Golang - Kubernetes role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "remotive-2091168",
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "location": "USA",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "published_at": "2026-11-02",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "published_at": "2026-11-06",
       "match_score": 40,
       "priority": "low",
-      "raw_description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role. The ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy. About the Role Our client base is constantly evolving, and writers may create content across a wide range of industries, including: Fashion, including mass-market and luxury brands Skincare and beauty Tech and software Finance and investing Law, including family law, divorce, and product liability Education Home improvement Automobiles and motorcycles Health and wellness Medical and clinical fields Digital marketing SEO, PR, advertising, and marketing Writers with experience in highly specialized industries such as tech, finance, law, health, medical, SEO, PR, advertising, or marketing are strongly encouraged to apply. Responsibilities Write clear, engaging, SEO-friendly content for eCommerce and lead generation websites Create category pages, product descriptions, blog posts, landing pages, and website copy Research client industries, products, services, audiences, and competitors Follow detailed client guidelines and adapt to different brand voices Blend SEO best practices with brand priorities and conversion-focused writing Complete assignments by deadline and communicate professionally with the team Qualifications Excellent English writing, grammar, editing, and proofreading skills 2 to 4 years of professional, non-academic writing experience preferred Strong understanding of SEO writing best practices Ability to research unfamiliar industries and technical topics Ability to write creative, engaging, accurate, and ROI-focused content Portfolio featuring published work preferred Experience in specialized industries strongly preferred Compensation Writers are paid on a per-word basis. Rates are assessed according to our KPI rubric. Initial compensation is up to $0.06 per word, with $0.034 per word being the most typical rate This equals approximately $30 or $17 per 500-word page After 400 live pages, the top rate increases to $0.064 per word, with $0.038 per word being the most typical rate After 800 live pages, the top rate increases to $0.07 per word, with $0.044 per word being the mo...",
+      "raw_description": "Job Title: Patient Care Advocate Job Location: Remote About Us: We are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and pharmacies, we work to reduce the financial burden of medications, ensuring that patients can access the treatments they need without excessive costs. Role Overview: As a key member of our team, you will help patients navigate our Prescription Payment Plan. This involves working closely with patients, insurance providers, healthcare professionals, and pharmacies to ensure seamless enrollment, eligibility verification, cost-sharing, and prescription fulfillment. What You’ll Do: Patient Enrollment & Eligibility : Assist patients with enrolling in the program, ensuring all necessary personal and insurance information is provided and verifying eligibility. Prescription Coverage : Help patients confirm that their prescribed medications are covered under the program, and manage the approval process for eligible medications. Cost-Sharing & Payment : Reduce patients' out-of-pocket costs by applying the program benefits. Manage copayments, coinsurance, and assist with additional copay assistance when applicable. Prescription Fulfillment : Coordinate with participating pharmacies to ensure the correct application of benefits during prescription filling, ensuring patients pay the reduced amount. Refills & Continued Use : Support patients by ensuring they continue receiving medications at reduced costs, monitoring adherence to medication regimens, and ensuring continued eligibility. Program Renewal & Updates : Guide patients through annual renewals and inform them about any updates to the program or medication formulary. What We’re Looking For: High school diploma or GED required Experience in healthcare, insurance or customer service required (experience with prescription assistance programs is a plus) Strong attention to detail and ability to navigate complex processes Excellent communication skills for working with patients, healthcare providers, and pharmacies A genuine passion for helping others and making a positive impact on their healthcare access The ability to work efficiently and collaboratively within a team environment Success Factors for Working from Home Private Workspace: A dedicated, quiet workspace with a door that closes, free from ambient noise. Ergonomics : A comfortable desk and chair setup that allows for the pr...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Freelance Copywriter at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Copywriter role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "US Remote Patient Care Advocate (Customer Service) at VXI Global Solutions, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your US Remote Patient Care Advocate (Customer Service) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
@@ -280,6 +210,41 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile."
+      ]
+    },
+    {
+      "id": "jobicy-159470",
+      "title": "Lead Data Engineer",
+      "company": "Oddball",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159470-lead-data-engineer",
+      "published_at": "2026-11-07",
+      "match_score": 31,
+      "priority": "low",
+      "raw_description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a Lead Data Engineer to join our VA team, setting the technical approach for moving legacy data warehouse data and pipelines onto an Azure and Databricks lakehouse. What you'll be doing: Set the technical approach for migrating data and pipelines onto the lakehouse Guide migration teams on patterns, reconciliation, and quality gates Design reusable migration pipelines using Azure Data Factory and Azure Databricks Define how source and target data are reconciled to confirm accuracy Resolve the hardest pipeline and performance problems Mentor data engineers and review their work Partner with product, QA, and platform teams What you’ll bring: Data engineering leadership on large migration or modernization programs Deep experience with Databricks or Spark and Azure Data Factory Strong SQL and Python skills Experience moving legacy ETL and data warehouse workloads to the cloud Understanding of lakehouse and medallion architecture, including Delta Experience in federal or regulated data environments is a plus Thrives in a remote, collaborative Agile environment and genuinely enjoys leading and mentoring engineers Communicates clearly and openly, whether setting technical direction or aligning with the customer Perform other related duties as assigned Requirements: Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance. Education: Bachelor's Degree Benefits: Fully remote Tech & Education Stipend Comprehensive Benefits Package Company Match 401(k) plan Flexible PTO, Paid Holidays Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities: Oddball is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin, gender, sexual orientation, marital status, gender identity or expression, sex (including pregn...",
+      "required_skills": [
+        "Azure",
+        "Python",
+        "SQL",
+        "Spark"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Azure",
+        "SQL",
+        "Spark"
+      ],
+      "rule_based_summary": "Lead Data Engineer at Oddball, focused on Azure, Python, SQL, Spark. Location: USA.",
+      "rule_based_application_sentence": "Your Lead Data Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: Azure, SQL, Spark."
       ]
     }
   ]
