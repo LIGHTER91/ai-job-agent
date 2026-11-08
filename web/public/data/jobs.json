@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:53:53Z",
+  "generated_at": "2026-11-08T13:16:29Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 3
+      "Jobicy": 5
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,72 +74,175 @@
   },
   "jobs": [
     {
-      "id": "jobicy-159481",
-      "title": "Senior Software Engineer - Digital Workplace",
-      "company": "Canonical",
-      "location": "EMEA",
+      "id": "jobicy-159801",
+      "title": "Principal Data Scientist, User Ecosystem",
+      "company": "Reddit",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159481-senior-software-engineer-digital-workplace",
-      "published_at": "2026-11-07",
-      "match_score": 60,
-      "priority": "medium",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. The role We build internal systems to the same standard as our public products: specified, tested, reviewed and observable. We want engineers who enjoy that rigour and take full ownership of what they ship. What you will do Design and deliver systems and platforms, including intuitive UIs Build Go services and APIs that connect many data sources Design data models and architecture for connected systems Turn data into clear dashboards and visualisations Build LLM-powered features into everyday workflows Write specs, estimate work and deliver to agreed criteria Set a high bar in code review, testing and documentation Partner with non-technical colleagues to turn needs into tools Mentor engineers and improve how the team works Who you are You have deep expertise in at least two of: Back-end services in Go Modern front-end engineering [React/Svelte/TypeScript] Data engineering and analytics Data visualisation Applied LLM/ML in production workflows You also: Treat testing, security, performance and accessibility as part of the job Handle sensitive people data with care Write clearly and work well in a distributed team Own your work from first spec to production Nice to have : Python, Go, React, Svelte, PostgreSQL, Kubernetes, a history of building tools for HR, finance or operations. The ideal candidate will use their passion for experimentation and analytics to build tomorrow’s tech organisation. This team will help us gain insights into the business and our talent pool, and use those insights to improve the experience of working at Canonical. As a Workplace Engineer at Canonical, you need an analytical, data-driven mind and a passion to connect and make sense of interesting data from APIs. We focus heavily on the collection of metrics, optimising processes, an...",
+      "url": "https://jobicy.com/jobs/159801-principal-data-scientist-user-ecosystem",
+      "published_at": "2026-11-08",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit is a complex consumer ecosystem where users, content, communities, and conversations interact over time. We are looking for a very senior data science thought leader to shape how Reddit understands and improves that ecosystem for the user / consumer flywheel. This role will define the measurement, modeling, and experimentation strategy for major Consumer questions: how users discover value, form habits, and deepen engagement; how we understand and serve user intent; how content and communities evolve; and how our systems create durable value for users, contributors, communities, and Reddit. The ideal candidate will bring deep expertise in one or more areas of consumer science, such as: Recommender systems and information retrieval User modeling, personalization, lifecycle, LTV, or optimization Content, community, or ecosystem modeling Knowledge graphs and representations of users, content, and communities Causal inference, experimentation, and long-term consumer measurement You will partner with leaders across Product, Engineering, Research, and Community to turn ambiguous consumer problems into clear scientific questions, durable analytical systems, and decisions that improve Reddit at scale. What you’ll do Set the scientific direction for high-impact Consumer problems spanning discovery, relevance, personalization, user growth, retention, content, and communities. Build a durable understanding of users, their intent, their needs, and the behaviors that lead to lasting value Develop models and frameworks that represent users, content, communities, and their relationships over time for use in systems that operate at scale Determine how to measure consumer and ecosystem health when objectives compete and short-term engagement may differ from long-term value. Set learning agendas and steer experimentation strategy to distinguish durable improvement from temporary metric movement. Build state-of-the-art measurement systems to evaluate heterogeneous effects across user personas, acquisition cohorts, plat...",
       "required_skills": [
-        "Kubernetes",
-        "LLM",
-        "PostgreSQL",
-        "Python",
-        "React"
+        "Knowledge graphs"
       ],
       "matched_skills": [
-        "LLM",
-        "PostgreSQL",
-        "Python",
-        "React"
+        "Knowledge graphs"
       ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Senior Software Engineer - Digital Workplace at Canonical, focused on Kubernetes, LLM, PostgreSQL, Python. Location: EMEA.",
-      "rule_based_application_sentence": "Your Senior Software Engineer - Digital Workplace role interests me because it connects directly with my work around LLM, PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "missing_skills": [],
+      "rule_based_summary": "Principal Data Scientist, User Ecosystem at Reddit, focused on Knowledge graphs. Location: USA.",
+      "rule_based_application_sentence": "Your Principal Data Scientist, User Ecosystem role interests me because it connects directly with my work around Knowledge graphs, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 5 extracted skills match the profile.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-159482",
-      "title": "Senior Software Engineer - Python/Golang - Kubernetes",
-      "company": "Canonical",
-      "location": "EMEA,  LATAM,  Canada,  USA",
+      "id": "jobicy-159769",
+      "title": "Deployment Strategist - Mexico",
+      "company": "Elevenlabs",
+      "location": "Mexico",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159482-senior-software-engineer-python-golang-kubernetes",
-      "published_at": "2026-11-07",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring a senior software engineer to join our Kubernetes product team. As a member of that team, you will build the operators and addons; the former, offering complete lifecycle management of mission-critical components, and the latter, a zero-ops experience for seamlessly integrating projects into your Kubernetes. You will gain familiarity with the latest features in Kubernetes and look to incorporate the best of open-source to bring functionality to our end-users. You will collaborate with industry peers and partners to bring the right solutions to our customers. This is an exciting opportunity for a senior software engineer passionate about open source software, Linux, Golang, Python and Kubernetes. Location : This is a remote position available in EMEA and the Americas. What you will focus on Work closely with other leads, assuming joint responsibility for outcomes at the team, department, and company level. Mentor, develop, and advise colleagues on their career progression. Write high-quality code to create new features Debug issues and interact with a vibrant community Collaborate proactively with a distributed team Work from home with global travel 2 to 4 weeks for internal and external events What we are looking for in you You are a Golang developer also fluent in Python You have experience with Kubernetes You have strong written and verbal communication skills You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree You love technology and working with brilliant people What we offer you We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition t...",
+      "url": "https://jobicy.com/jobs/159769-deployment-strategist-mexico",
+      "published_at": "2026-11-08",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún C...",
       "required_skills": [
-        "Kubernetes",
+        "LLM",
         "Python"
       ],
       "matched_skills": [
+        "LLM",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Deployment Strategist - Mexico at Elevenlabs, focused on LLM, Python. Location: Mexico.",
+      "rule_based_application_sentence": "Your Deployment Strategist - Mexico role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-159756",
+      "title": "Senior Staff Product Manager, Device Security",
+      "company": "1Password",
+      "location": "Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159756-senior-staff-product-manager-device-security",
+      "published_at": "2026-11-08",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work. If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future. As Senior Staff Product Manager, Device Security, you’ll define the strategy and roadmap for the device security capabilities that help organizations understand, control, and govern access across their environments. You’ll work at the intersection of device health, identity, access management, and Artificial Intelligence (AI), helping customers reduce security risk while building a more unified experience across people, machines, and AI agents. You’ll partner with Engineering, Design, and Go To Market (GTM) teams to turn complex security challenges into products that are clear, useful, and measurable. Reporting to the Director, Product Management – Device Security, this is a remote role open to candidates in the United States or Canada. How we’re using AI today Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iter...",
+      "required_skills": [
+        "NLP"
+      ],
+      "matched_skills": [
+        "NLP"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Staff Product Manager, Device Security at 1Password, focused on NLP. Location: Canada,  USA.",
+      "rule_based_application_sentence": "Your Senior Staff Product Manager, Device Security role interests me because it connects directly with my work around NLP, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-159786",
+      "title": "Lead AI Architect - Data Platform",
+      "company": "Banyan Software",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159786-lead-ai-architect-data-platform",
+      "published_at": "2026-11-08",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping portfolio companies modernize through shared AI expertise and operational discipline. Founded in 2016, Banyan operates more than 120 portfolio companies across North and South America, Europe, and APAC, and has appeared on the Inc. 5000 list for six consecutive years. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world. The Role We are hiring our first Lead AI Architect to design, build, and run the centralized data and AI platform that powers Banyan. The cornerstone of the work is a centralized data model, a Banyan data lake, that consolidates the data we already have and unlocks safe AI experimentation for our internal functional teams: Finance, M&A, Business Development, and others. This role is modeled on a classical Enterprise Architect role and adapted for an AI-first world. You will set the target-state architecture, choose the patterns we standardize on, write code yourself, and own the result. You will partner with our embedded business analysts and the leaders of each functional vertical so the platform stays grounded in real use cases, not abstractions. This is a player-coach role. You start hands-on. Over time you build and lead a small platform team. What You Will Build A centralized data lake on AWS: the single, governed source of truth for internal Banyan data. Designed for analytics, ML, and AI experimentation. A reference architecture for AI: patterns and building blocks our verticals use to go from idea to safe production: model selection, RAG, evaluation, observability, cost controls. Guardrails that make experimentation safe: data classification, access tiering, sandboxes, audit logging, and clear rules for what can be sent where. A platform team and operating model: the team, standards, and rituals that keep the platform reliable and improving as adoption grows. What You Will Do Define and own the target-state data and AI architecture for Banyan. Make the trade-offs explicit and write them down. Design and build the AWS-centric data lake. Set the patterns for storage, cataloging, query, ingestion, modeling, and lineage. Likely stack: S3, Glue, Lake Forma...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "RAG",
+        "SQL",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "LLM",
+        "OpenAI",
+        "Python",
+        "RAG"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "SQL",
+        "Terraform"
+      ],
+      "rule_based_summary": "Lead AI Architect - Data Platform at Banyan Software, focused on AWS, Airflow, LLM, OpenAI. Location: USA.",
+      "rule_based_application_sentence": "Your Lead AI Architect - Data Platform role interests me because it connects directly with my work around LLM, OpenAI, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 8 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, SQL, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-159794",
+      "title": "Senior Staff Platform Engineer",
+      "company": "Veeam Software",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159794-senior-staff-platform-engineer",
+      "published_at": "2026-11-08",
+      "match_score": 41,
+      "priority": "low",
+      "raw_description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands. We are looking for a Senior Staff Platform Engineer to lead the design and evolution of our global cloud infrastructure, with deep expertise in Microsoft Azure. This role is ideal for a hands-on infrastructure expert with a track record of designing secure, scalable, and maintainable systems that support enterprise-grade SaaS platforms. You’ll play a critical role in building and operating the foundation of our modern data protection platform, helping define the future of our cloud architecture, disaster recovery readiness, and internal developer experience. In this Role, you will: Design, build, and evolve cloud infrastructure using modern Infrastructure-as-Code tools (Terraform, Pulumi) Architect and manage core cloud services, including networking, identity/access control, account/subscription hierarchy, and resource governance Define and implement cloud-based disaster recovery strategies that meet enterprise RTO/RPO requirements Drive standards for high availability, security, scalability, and cost-efficiency across our cloud environments (Azure and/or AWS) Lead initiatives that improve developer experience, platform reliability, and operational excellence Build internal tooling and automation to simplify cloud adoption and resource provisioning for engineering teams Serve as a technical leader and mentor, guiding engineers across platform, SRE, and product teams Partner with security, compliance, and operations teams to enforce cloud architecture policies and guardrails Represent the platform team in architecture reviews, planning discussions, and cross-functional programs Technologies you will work with: Azure (e.g., VNETs, Azure AD, AKS, Private Link) AWS (e.g., VPC, IAM, EKS, PrivateLink, Organizations) Terraform, Pulumi, Kubernetes, Docker, Helm, GitHub Actions, Go, Bash, Python What we are looking for: 8+...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "Kubernetes"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
       ],
-      "rule_based_summary": "Senior Software Engineer - Python/Golang - Kubernetes at Canonical, focused on Kubernetes, Python. Location: EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Senior Software Engineer - Python/Golang - Kubernetes role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Senior Staff Platform Engineer at Veeam Software, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Staff Platform Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "3 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
@@ -190,61 +293,32 @@
       ]
     },
     {
-      "id": "remotive-2091166",
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
-      "location": "USA",
+      "id": "remotive-2091045",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
-      "published_at": "2026-11-04",
-      "match_score": 35,
-      "priority": "low",
-      "raw_description": "We are looking for an independent, flexible, remote opportunity where you can help improve AI-powered search technology from the comfort of your home? If you're curious, internet-savvy, and enjoy evaluating online content, this freelance project could be a great fit. A Day in the Life of a Content Reviewer - US In this role, you will analyze and provide feedback on text, webpages, images, and other types of online content for leading search engines using a specialized online platform. By reviewing and rating search results for relevance and quality, you will help improve the overall search experience for millions of users around the world, including yourself. Join our global community and put your skills to work supporting one of the world's leading search technologies. Service Rates The rate of pay is $0.2333 per completed task, with an estimated earning potential of $14 per hour. Compensation is based on tasks completed and project availability. Estimated earnings may vary depending on task volume and program requirements including, quality, and productivity, in accordance with the program's quality standards and guidelines. Please note that only one member per household may participate in this program. If it is identified that more than one person from the same household is participating in the TELUS Digital Rating Program, all associated accounts may be removed from the program. Independent Contractor Relationship This opportunity is offered on an independent contractor basis. Contributors have the flexibility to choose when and how much they work, subject to project availability and quality requirements. This opportunity is not and should not be construed as creating an employment relationship with TELUS Digital. Qualification path Qualification Process No previous professional experience is required to apply for this opportunity. However, participation in this project requires meeting the basic requirements and successfully completing the qualification process. Basic Requirements • Excellent written and verbal communication skills in English • Must have resided in the United States for the past three consecutive years • Familiarity with current and historical business, media, sports, news, social media, and cultural affairs in the United States • Active use of Gmail and social media platforms • Experience using web browsers to navigate and interact with a variety of online content • Daily access to a reliable broadband internet connection • Access...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Content Reviewer - United States at TELUS Digital, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your Content Reviewer - United States role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
-      ]
-    },
-    {
-      "id": "jobicy-159470",
-      "title": "Lead Data Engineer",
-      "company": "Oddball",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159470-lead-data-engineer",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
       "published_at": "2026-11-07",
-      "match_score": 31,
+      "match_score": 28,
       "priority": "low",
-      "raw_description": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a Lead Data Engineer to join our VA team, setting the technical approach for moving legacy data warehouse data and pipelines onto an Azure and Databricks lakehouse. What you'll be doing: Set the technical approach for migrating data and pipelines onto the lakehouse Guide migration teams on patterns, reconciliation, and quality gates Design reusable migration pipelines using Azure Data Factory and Azure Databricks Define how source and target data are reconciled to confirm accuracy Resolve the hardest pipeline and performance problems Mentor data engineers and review their work Partner with product, QA, and platform teams What you’ll bring: Data engineering leadership on large migration or modernization programs Deep experience with Databricks or Spark and Azure Data Factory Strong SQL and Python skills Experience moving legacy ETL and data warehouse workloads to the cloud Understanding of lakehouse and medallion architecture, including Delta Experience in federal or regulated data environments is a plus Thrives in a remote, collaborative Agile environment and genuinely enjoys leading and mentoring engineers Communicates clearly and openly, whether setting technical direction or aligning with the customer Perform other related duties as assigned Requirements: Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance. Education: Bachelor's Degree Benefits: Fully remote Tech & Education Stipend Comprehensive Benefits Package Company Match 401(k) plan Flexible PTO, Paid Holidays Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities: Oddball is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin, gender, sexual orientation, marital status, gender identity or expression, sex (including pregn...",
+      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
       "required_skills": [
-        "Azure",
-        "Python",
-        "SQL",
-        "Spark"
+        "Azure"
       ],
-      "matched_skills": [
-        "Python"
-      ],
+      "matched_skills": [],
       "missing_skills": [
-        "Azure",
-        "SQL",
-        "Spark"
+        "Azure"
       ],
-      "rule_based_summary": "Lead Data Engineer at Oddball, focused on Azure, Python, SQL, Spark. Location: USA.",
-      "rule_based_application_sentence": "Your Lead Data Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 4 extracted skills match the profile.",
+        "0 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: Azure, SQL, Spark."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Azure."
       ]
     }
   ]
