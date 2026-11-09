@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:16:29Z",
+  "generated_at": "2026-11-09T16:07:57Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 5
+      "Jobicy": 6
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,6 +74,72 @@
   },
   "jobs": [
     {
+      "id": "jobicy-160069",
+      "title": "LLM Applied Data Scientist (RAG/ NLP)",
+      "company": "Binance",
+      "location": "Hong Kong,  Singapore",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp",
+      "published_at": "2026-11-09",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About the Role We are seeking a highly skilled Research Scientist/Engineer to advance the reasoning and planning capabilities of large foundation models. In this role, you will enhance model performance across the entire development lifecycle—including data acquisition, supervised fine-tuning (SFT), reward modelling, and reinforcement learning—while driving innovations in reasoning and decision-making. You will synthesise large-scale, high-quality datasets through rewriting, augmentation, and generation techniques to strengthen foundation models during pretraining, SFT, and RL stages. A key part of the role involves solving complex tasks using System 2 thinking and applying advanced decoding strategies such as MCTS and A*. You will design and implement robust evaluation methodologies, teach models to interact with external tools, APIs, and code interpreters, and build agents and multi-agent systems capable of addressing sophisticated real-world problems. Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice. Responsibilities Design, develop, and optimize data processing and retrieval pipelines for enterprise-level generative tasks and mode training applications (Customer Service, Token Report, Web3 Domain Models). This includ...",
+      "required_skills": [
+        "Computer vision",
+        "LLM",
+        "NLP",
+        "Python",
+        "RAG",
+        "Vector search"
+      ],
+      "matched_skills": [
+        "Computer vision",
+        "LLM",
+        "NLP",
+        "Python",
+        "RAG",
+        "Vector search"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "LLM Applied Data Scientist (RAG/ NLP) at Binance, focused on Computer vision, LLM, NLP, Python. Location: Hong Kong,  Singapore.",
+      "rule_based_application_sentence": "Your LLM Applied Data Scientist (RAG/ NLP) role interests me because it connects directly with my work around Computer vision, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "6 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-159843",
+      "title": "Director, Data Science & Engineering, Finance",
+      "company": "Dropbox",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/159843-director-data-science-engineering-finance",
+      "published_at": "2026-11-08",
+      "match_score": 82,
+      "priority": "high",
+      "raw_description": "Role Description This is a critical leadership role at the intersection of data science, data engineering, finance, and AI. As Director, Data Science & Data Engineering for Finance, you will lead a small, high-impact team that enables Finance to make better decisions through trusted data, robust analytical systems, applied modeling, and increasingly AI-powered capabilities. You will manage two direct reports: a data scientist and a data engineer. Together, the team supports the financial organization across recurring business operations, driver-model maintenance, knowledge coordination, analytical insights, and the development and operationalization of AI and machine-learning use cases. The role requires enough technical depth to guide both disciplines, while maintaining a clear focus on business outcomes, reliability, and team growth. You will partner closely with Finance leadership, Engineering, Data, Product, and other cross-functional stakeholders to establish priorities, improve the quality and accessibility of financial data, and shape a forward-looking roadmap. You will be expected to move the team beyond request-driven execution: identifying the highest-leverage opportunities, clarifying the problems worth solving, and creating the operating mechanisms needed to deliver durable impact. This is an opportunity to shape how Finance uses data and AI at a time when the underlying technologies, operating models, and expectations are changing quickly. The successful candidate will bring a growth mindset, a strong background in either data science or data engineering, and the ability to lead effectively across both disciplines. Responsibilities Manage and grow a multidisciplinary team: Lead, coach, and develop a data scientist and a data engineer, creating clear expectations, meaningful development plans, effective delegation, and a strong culture of ownership and continuous improvement. Set the team’s strategy and priorities: Translate Finance and company goals into a focused portfolio of work. Prioritize ruthlessly across strategic initiatives, recurring operational responsibilities, model maintenance, knowledge coordination, and technical debt. Provide technical leadership across data science and data engineering: Guide problem framing, analytical and modeling approaches, data architecture, pipeline quality, testing, monitoring, documentation, and production readiness. You do not need to be the deepest expert in both disciplines, but you must be able...",
+      "required_skills": [
+        "LLM"
+      ],
+      "matched_skills": [
+        "LLM"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Director, Data Science & Engineering, Finance at Dropbox, focused on LLM. Location: USA.",
+      "rule_based_application_sentence": "Your Director, Data Science & Engineering, Finance role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "jobicy-159801",
       "title": "Principal Data Scientist, User Ecosystem",
       "company": "Reddit",
@@ -102,30 +168,28 @@
       ]
     },
     {
-      "id": "jobicy-159769",
-      "title": "Deployment Strategist - Mexico",
-      "company": "Elevenlabs",
-      "location": "Mexico",
+      "id": "jobicy-160030",
+      "title": "Security Engineer, Offensive Security",
+      "company": "Liftoff",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159769-deployment-strategist-mexico",
-      "published_at": "2026-11-08",
+      "url": "https://jobicy.com/jobs/160030-security-engineer-offensive-security",
+      "published_at": "2026-11-09",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún C...",
+      "raw_description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in sectors such as gaming, social, finance, ecommerce, and entertainment. Founded in 2012 and headquartered in Redwood City, CA, Liftoff has a diverse, global presence. About Liftoff Security Team The Liftoff Security team protects Liftoff's customers, users, and employees. We architect Liftoff's security posture, build the tools and systems that defend it, and partner with engineering teams as they ship new products and features. Our work spans the entire stack — infrastructure, web, mobile, and IT — and we approach security from a software engineering standpoint, scaling our impact through automation and well-designed tools. As our Security Engineer, Offensive Security, you will own internal offensive testing and lead the move from point-in-time penetration tests to continuous, AI-assisted testing. You will independently plan assessments, safely validate vulnerabilities, work with engineering teams through remediation and retesting, and build sustained knowledge of our source code and systems. You will contribute across application, cloud, and infrastructure security, support Accelerate and MX as priorities change, and share the team's on-call and incident-response work. Responsibilities Independently plan and execute internal penetration tests across applications, APIs, cloud infrastructure, and corporate systems; prioritize assessments by risk and business impact. Define testing scope and rules of engagement with system owners, assess production risk, and choose safe methods for validating vulnerabilities. Combine hands-on testing with source-code review and architectural analysis to find vulnerabilities and demonstrate realistic attack paths. Partner with engineering teams to explain findings, agree on practical fixes, track remediation, and retest to confirm the risk is resolved. Maintain knowledge of Liftoff’s systems and attack surface, revisit high-risk attack paths as systems change, and turn confirmed findings into repeatable tests. Build testing tools and workflows that combine hands-on assessments with ongoing automated testing an...",
       "required_skills": [
-        "LLM",
         "Python"
       ],
       "matched_skills": [
-        "LLM",
         "Python"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Deployment Strategist - Mexico at Elevenlabs, focused on LLM, Python. Location: Mexico.",
-      "rule_based_application_sentence": "Your Deployment Strategist - Mexico role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Security Engineer, Offensive Security at Liftoff, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Security Engineer, Offensive Security role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
@@ -160,89 +224,39 @@
       ]
     },
     {
-      "id": "jobicy-159786",
-      "title": "Lead AI Architect - Data Platform",
-      "company": "Banyan Software",
+      "id": "jobicy-160025",
+      "title": "Detection Engineer II",
+      "company": "Instacart",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159786-lead-ai-architect-data-platform",
-      "published_at": "2026-11-08",
-      "match_score": 43,
+      "url": "https://jobicy.com/jobs/160025-detection-engineer-ii",
+      "published_at": "2026-11-09",
+      "match_score": 47,
       "priority": "low",
-      "raw_description": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping portfolio companies modernize through shared AI expertise and operational discipline. Founded in 2016, Banyan operates more than 120 portfolio companies across North and South America, Europe, and APAC, and has appeared on the Inc. 5000 list for six consecutive years. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world. The Role We are hiring our first Lead AI Architect to design, build, and run the centralized data and AI platform that powers Banyan. The cornerstone of the work is a centralized data model, a Banyan data lake, that consolidates the data we already have and unlocks safe AI experimentation for our internal functional teams: Finance, M&A, Business Development, and others. This role is modeled on a classical Enterprise Architect role and adapted for an AI-first world. You will set the target-state architecture, choose the patterns we standardize on, write code yourself, and own the result. You will partner with our embedded business analysts and the leaders of each functional vertical so the platform stays grounded in real use cases, not abstractions. This is a player-coach role. You start hands-on. Over time you build and lead a small platform team. What You Will Build A centralized data lake on AWS: the single, governed source of truth for internal Banyan data. Designed for analytics, ML, and AI experimentation. A reference architecture for AI: patterns and building blocks our verticals use to go from idea to safe production: model selection, RAG, evaluation, observability, cost controls. Guardrails that make experimentation safe: data classification, access tiering, sandboxes, audit logging, and clear rules for what can be sent where. A platform team and operating model: the team, standards, and rituals that keep the platform reliable and improving as adoption grows. What You Will Do Define and own the target-state data and AI architecture for Banyan. Make the trade-offs explicit and write them down. Design and build the AWS-centric data lake. Set the patterns for storage, cataloging, query, ingestion, modeling, and lineage. Likely stack: S3, Glue, Lake Forma...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "LLM",
-        "OpenAI",
-        "Python",
-        "RAG",
-        "SQL",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "LLM",
-        "OpenAI",
-        "Python",
-        "RAG"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow",
-        "SQL",
-        "Terraform"
-      ],
-      "rule_based_summary": "Lead AI Architect - Data Platform at Banyan Software, focused on AWS, Airflow, LLM, OpenAI. Location: USA.",
-      "rule_based_application_sentence": "Your Lead AI Architect - Data Platform role interests me because it connects directly with my work around LLM, OpenAI, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 8 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, SQL, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-159794",
-      "title": "Senior Staff Platform Engineer",
-      "company": "Veeam Software",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159794-senior-staff-platform-engineer",
-      "published_at": "2026-11-08",
-      "match_score": 41,
-      "priority": "low",
-      "raw_description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands. We are looking for a Senior Staff Platform Engineer to lead the design and evolution of our global cloud infrastructure, with deep expertise in Microsoft Azure. This role is ideal for a hands-on infrastructure expert with a track record of designing secure, scalable, and maintainable systems that support enterprise-grade SaaS platforms. You’ll play a critical role in building and operating the foundation of our modern data protection platform, helping define the future of our cloud architecture, disaster recovery readiness, and internal developer experience. In this Role, you will: Design, build, and evolve cloud infrastructure using modern Infrastructure-as-Code tools (Terraform, Pulumi) Architect and manage core cloud services, including networking, identity/access control, account/subscription hierarchy, and resource governance Define and implement cloud-based disaster recovery strategies that meet enterprise RTO/RPO requirements Drive standards for high availability, security, scalability, and cost-efficiency across our cloud environments (Azure and/or AWS) Lead initiatives that improve developer experience, platform reliability, and operational excellence Build internal tooling and automation to simplify cloud adoption and resource provisioning for engineering teams Serve as a technical leader and mentor, guiding engineers across platform, SRE, and product teams Partner with security, compliance, and operations teams to enforce cloud architecture policies and guardrails Represent the platform team in architecture reviews, planning discussions, and cross-functional programs Technologies you will work with: Azure (e.g., VNETs, Azure AD, AKS, Private Link) AWS (e.g., VPC, IAM, EKS, PrivateLink, Organizations) Terraform, Pulumi, Kubernetes, Docker, Helm, GitHub Actions, Go, Bash, Python What we are looking for: 8+...",
+      "raw_description": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table. Instacart is a Flex First team There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart's Detection Engineering team sits at the core of our Security organization, building and operating the systems that identify, surface, and respond to threats across one of North America's largest grocery technology platforms. We own the full detection lifecycle, from telemetry collection and signal design to automated response, across a complex, cloud-native environment spanning endpoint, cloud, container, and SaaS. As a Detection Engineer, you'll be a technical anchor on the team: developing high-fidelity detection logic, hunting for novel attacker techniques, and raising the bar for how we think about coverage, quality, and scale. You'll work closely with Engineering, Red Team, Incident Response, Fraud, and Trust & Safety to ensure our detections reflect real-world adversary behavior (and not just signatures). We operate with a detection-as-code mindset: everything we build is versioned, tested, and deployed through repeatable pipelines. We care deeply about reducing noise, improving analyst efficiency through automation and SOAR, and continuously evolving our coverage as the threat landscape shifts. If you're energized by hard forensic problems, enjoy translating attacker TTPs into durable detection logic, and want to help shape the future of a growing security function, this role is for you. About the Job Develop, tune, document...",
       "required_skills": [
         "AWS",
         "Azure",
-        "Docker",
         "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
+        "Python"
       ],
       "matched_skills": [
-        "Docker",
         "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
+        "Azure"
       ],
-      "rule_based_summary": "Senior Staff Platform Engineer at Veeam Software, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Staff Platform Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Detection Engineer II at Instacart, focused on AWS, Azure, GitHub Actions, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Detection Engineer II role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 7 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
