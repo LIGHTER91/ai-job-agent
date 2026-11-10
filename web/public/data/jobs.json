@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:07:57Z",
+  "generated_at": "2026-11-10T14:47:32Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 6
+      "Jobicy": 5
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,119 +74,25 @@
   },
   "jobs": [
     {
-      "id": "jobicy-160069",
-      "title": "LLM Applied Data Scientist (RAG/ NLP)",
-      "company": "Binance",
-      "location": "Hong Kong,  Singapore",
+      "id": "jobicy-160685",
+      "title": "Demand Generation Manager (m/f/d)",
+      "company": "Kayzen",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp",
-      "published_at": "2026-11-09",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About the Role We are seeking a highly skilled Research Scientist/Engineer to advance the reasoning and planning capabilities of large foundation models. In this role, you will enhance model performance across the entire development lifecycle—including data acquisition, supervised fine-tuning (SFT), reward modelling, and reinforcement learning—while driving innovations in reasoning and decision-making. You will synthesise large-scale, high-quality datasets through rewriting, augmentation, and generation techniques to strengthen foundation models during pretraining, SFT, and RL stages. A key part of the role involves solving complex tasks using System 2 thinking and applying advanced decoding strategies such as MCTS and A*. You will design and implement robust evaluation methodologies, teach models to interact with external tools, APIs, and code interpreters, and build agents and multi-agent systems capable of addressing sophisticated real-world problems. Why Binance • Shape the future with the world’s leading blockchain ecosystem • Collaborate with world-class talent in a user-centric global organization with a flat structure • Tackle unique, fast-paced projects with autonomy in an innovative environment • Thrive in a results-driven workplace with opportunities for career growth and continuous learning • Competitive salary and company benefits • Work-from-home arrangement (the arrangement may vary depending on the work nature of the business team) Binance is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success. By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Notice. Responsibilities Design, develop, and optimize data processing and retrieval pipelines for enterprise-level generative tasks and mode training applications (Customer Service, Token Report, Web3 Domain Models). This includ...",
-      "required_skills": [
-        "Computer vision",
-        "LLM",
-        "NLP",
-        "Python",
-        "RAG",
-        "Vector search"
-      ],
-      "matched_skills": [
-        "Computer vision",
-        "LLM",
-        "NLP",
-        "Python",
-        "RAG",
-        "Vector search"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "LLM Applied Data Scientist (RAG/ NLP) at Binance, focused on Computer vision, LLM, NLP, Python. Location: Hong Kong,  Singapore.",
-      "rule_based_application_sentence": "Your LLM Applied Data Scientist (RAG/ NLP) role interests me because it connects directly with my work around Computer vision, LLM, NLP, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "6 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-159843",
-      "title": "Director, Data Science & Engineering, Finance",
-      "company": "Dropbox",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159843-director-data-science-engineering-finance",
-      "published_at": "2026-11-08",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "Role Description This is a critical leadership role at the intersection of data science, data engineering, finance, and AI. As Director, Data Science & Data Engineering for Finance, you will lead a small, high-impact team that enables Finance to make better decisions through trusted data, robust analytical systems, applied modeling, and increasingly AI-powered capabilities. You will manage two direct reports: a data scientist and a data engineer. Together, the team supports the financial organization across recurring business operations, driver-model maintenance, knowledge coordination, analytical insights, and the development and operationalization of AI and machine-learning use cases. The role requires enough technical depth to guide both disciplines, while maintaining a clear focus on business outcomes, reliability, and team growth. You will partner closely with Finance leadership, Engineering, Data, Product, and other cross-functional stakeholders to establish priorities, improve the quality and accessibility of financial data, and shape a forward-looking roadmap. You will be expected to move the team beyond request-driven execution: identifying the highest-leverage opportunities, clarifying the problems worth solving, and creating the operating mechanisms needed to deliver durable impact. This is an opportunity to shape how Finance uses data and AI at a time when the underlying technologies, operating models, and expectations are changing quickly. The successful candidate will bring a growth mindset, a strong background in either data science or data engineering, and the ability to lead effectively across both disciplines. Responsibilities Manage and grow a multidisciplinary team: Lead, coach, and develop a data scientist and a data engineer, creating clear expectations, meaningful development plans, effective delegation, and a strong culture of ownership and continuous improvement. Set the team’s strategy and priorities: Translate Finance and company goals into a focused portfolio of work. Prioritize ruthlessly across strategic initiatives, recurring operational responsibilities, model maintenance, knowledge coordination, and technical debt. Provide technical leadership across data science and data engineering: Guide problem framing, analytical and modeling approaches, data architecture, pipeline quality, testing, monitoring, documentation, and production readiness. You do not need to be the deepest expert in both disciplines, but you must be able...",
-      "required_skills": [
-        "LLM"
-      ],
-      "matched_skills": [
-        "LLM"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Director, Data Science & Engineering, Finance at Dropbox, focused on LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Director, Data Science & Engineering, Finance role interests me because it connects directly with my work around LLM, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-159801",
-      "title": "Principal Data Scientist, User Ecosystem",
-      "company": "Reddit",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159801-principal-data-scientist-user-ecosystem",
-      "published_at": "2026-11-08",
-      "match_score": 82,
-      "priority": "high",
-      "raw_description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . Reddit is a complex consumer ecosystem where users, content, communities, and conversations interact over time. We are looking for a very senior data science thought leader to shape how Reddit understands and improves that ecosystem for the user / consumer flywheel. This role will define the measurement, modeling, and experimentation strategy for major Consumer questions: how users discover value, form habits, and deepen engagement; how we understand and serve user intent; how content and communities evolve; and how our systems create durable value for users, contributors, communities, and Reddit. The ideal candidate will bring deep expertise in one or more areas of consumer science, such as: Recommender systems and information retrieval User modeling, personalization, lifecycle, LTV, or optimization Content, community, or ecosystem modeling Knowledge graphs and representations of users, content, and communities Causal inference, experimentation, and long-term consumer measurement You will partner with leaders across Product, Engineering, Research, and Community to turn ambiguous consumer problems into clear scientific questions, durable analytical systems, and decisions that improve Reddit at scale. What you’ll do Set the scientific direction for high-impact Consumer problems spanning discovery, relevance, personalization, user growth, retention, content, and communities. Build a durable understanding of users, their intent, their needs, and the behaviors that lead to lasting value Develop models and frameworks that represent users, content, communities, and their relationships over time for use in systems that operate at scale Determine how to measure consumer and ecosystem health when objectives compete and short-term engagement may differ from long-term value. Set learning agendas and steer experimentation strategy to distinguish durable improvement from temporary metric movement. Build state-of-the-art measurement systems to evaluate heterogeneous effects across user personas, acquisition cohorts, plat...",
-      "required_skills": [
-        "Knowledge graphs"
-      ],
-      "matched_skills": [
-        "Knowledge graphs"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Principal Data Scientist, User Ecosystem at Reddit, focused on Knowledge graphs. Location: USA.",
-      "rule_based_application_sentence": "Your Principal Data Scientist, User Ecosystem role interests me because it connects directly with my work around Knowledge graphs, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-160030",
-      "title": "Security Engineer, Offensive Security",
-      "company": "Liftoff",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/160030-security-engineer-offensive-security",
+      "url": "https://jobicy.com/jobs/160685-demand-generation-manager-m-f-d",
       "published_at": "2026-11-09",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in sectors such as gaming, social, finance, ecommerce, and entertainment. Founded in 2012 and headquartered in Redwood City, CA, Liftoff has a diverse, global presence. About Liftoff Security Team The Liftoff Security team protects Liftoff's customers, users, and employees. We architect Liftoff's security posture, build the tools and systems that defend it, and partner with engineering teams as they ship new products and features. Our work spans the entire stack — infrastructure, web, mobile, and IT — and we approach security from a software engineering standpoint, scaling our impact through automation and well-designed tools. As our Security Engineer, Offensive Security, you will own internal offensive testing and lead the move from point-in-time penetration tests to continuous, AI-assisted testing. You will independently plan assessments, safely validate vulnerabilities, work with engineering teams through remediation and retesting, and build sustained knowledge of our source code and systems. You will contribute across application, cloud, and infrastructure security, support Accelerate and MX as priorities change, and share the team's on-call and incident-response work. Responsibilities Independently plan and execute internal penetration tests across applications, APIs, cloud infrastructure, and corporate systems; prioritize assessments by risk and business impact. Define testing scope and rules of engagement with system owners, assess production risk, and choose safe methods for validating vulnerabilities. Combine hands-on testing with source-code review and architectural analysis to find vulnerabilities and demonstrate realistic attack paths. Partner with engineering teams to explain findings, agree on practical fixes, track remediation, and retest to confirm the risk is resolved. Maintain knowledge of Liftoff’s systems and attack surface, revisit high-risk attack paths as systems change, and turn confirmed findings into repeatable tests. Build testing tools and workflows that combine hands-on assessments with ongoing automated testing an...",
+      "raw_description": "📍 Remote EMEA • Business • Kayzen 👋 Hello! I am Sebastian , Marketing Lead at Kayzen, and I am looking for a Demand Generation Manager to join our team. But wait, you have not heard of Kayzen before? Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid- and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. 🤝 The Team Join me as part of Kayzen’s growing marketing team, where we collaborate closely with stakeholders across the business to drive our strategy forward.You'll collaborate alongside a high-performing, international group spanning customer success, sales, product, engineering, data, operations, design, and marketing. We are strongly guided by the values of positivity, curiosity, collaboration and ownership. Together, we share a strong drive to transform the advertising industry. Sounds interesting? Responsibilities We are looking for a hands-on, data-minded B2B marketer to build a repeatable demand-generation and lifecycle engine for Kayzen. You will own the operational foundations that turn campaigns, contacts and customer signals into measurable growth, combining paid acquisition, CRM, automation and continuous optimization. Growth, CRM & Marketing Operations Plan and run targeted B2B acquisition campaigns across relevant paid channels, testing audiences, messages and conversion paths to generate qualified leads. Own the marketing-qualified lead (MQL) engine: lead capture, segmentation, scoring, routing and nurture journeys in close partnership with Sales. Build and optimize email campaigns, newsletters and lifecycle communications so the right audiences receive relevant messages at the right time. Configure, connect and continuously improve HubSpot, forms, campaign tracking and supporting MarTech tools; automate repeatable workflows and reduce manual effort. Develop clear reporting and dashboards for funnel performanc...",
       "required_skills": [
-        "Python"
+        "Computer vision"
       ],
       "matched_skills": [
-        "Python"
+        "Computer vision"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Security Engineer, Offensive Security at Liftoff, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Security Engineer, Offensive Security role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Demand Generation Manager (m/f/d) at Kayzen, focused on Computer vision. Location: EMEA.",
+      "rule_based_application_sentence": "Your Demand Generation Manager (m/f/d) role interests me because it connects directly with my work around Computer vision, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "1 of 1 extracted skills match the profile.",
@@ -196,67 +102,125 @@
       ]
     },
     {
-      "id": "jobicy-159756",
-      "title": "Senior Staff Product Manager, Device Security",
-      "company": "1Password",
-      "location": "Canada,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/159756-senior-staff-product-manager-device-security",
-      "published_at": "2026-11-08",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from product strategy to user experience. Over 180,000 businesses, from Fortune 100 leaders to the world’s most innovative AI companies, trust 1Password to help their teams securely adopt the SaaS and AI tools they need to do their best work. If you're excited about the opportunity to contribute to the digital safety of millions, to work alongside a team of curious, driven individuals, and to solve hard problems in a fast-paced, dynamic environment, then we want to hear from you. Come join us and help shape a safer, simpler digital future. As Senior Staff Product Manager, Device Security, you’ll define the strategy and roadmap for the device security capabilities that help organizations understand, control, and govern access across their environments. You’ll work at the intersection of device health, identity, access management, and Artificial Intelligence (AI), helping customers reduce security risk while building a more unified experience across people, machines, and AI agents. You’ll partner with Engineering, Design, and Go To Market (GTM) teams to turn complex security challenges into products that are clear, useful, and measurable. Reporting to the Director, Product Management – Device Security, this is a remote role open to candidates in the United States or Canada. How we’re using AI today Our Engineering, Product, and Design teams are thoughtfully integrating AI across the full software and product development lifecycle to move faster without sacrificing quality or security. In practice, that looks like engineers using AI-assisted coding tools to accelerate reviews and catch bugs earlier, product managers synthesizing user research at scale, and designers rapidly prototyping and iter...",
-      "required_skills": [
-        "NLP"
-      ],
-      "matched_skills": [
-        "NLP"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Staff Product Manager, Device Security at 1Password, focused on NLP. Location: Canada,  USA.",
-      "rule_based_application_sentence": "Your Senior Staff Product Manager, Device Security role interests me because it connects directly with my work around NLP, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-160025",
-      "title": "Detection Engineer II",
-      "company": "Instacart",
+      "id": "jobicy-161042",
+      "title": "Applied Scientist",
+      "company": "Upstart",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/160025-detection-engineer-ii",
-      "published_at": "2026-11-09",
-      "match_score": 47,
-      "priority": "low",
-      "raw_description": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table. Instacart is a Flex First team There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart's Detection Engineering team sits at the core of our Security organization, building and operating the systems that identify, surface, and respond to threats across one of North America's largest grocery technology platforms. We own the full detection lifecycle, from telemetry collection and signal design to automated response, across a complex, cloud-native environment spanning endpoint, cloud, container, and SaaS. As a Detection Engineer, you'll be a technical anchor on the team: developing high-fidelity detection logic, hunting for novel attacker techniques, and raising the bar for how we think about coverage, quality, and scale. You'll work closely with Engineering, Red Team, Incident Response, Fraud, and Trust & Safety to ensure our detections reflect real-world adversary behavior (and not just signatures). We operate with a detection-as-code mindset: everything we build is versioned, tested, and deployed through repeatable pipelines. We care deeply about reducing noise, improving analyst efficiency through automation and SOAR, and continuously evolving our coverage as the threat landscape shifts. If you're energized by hard forensic problems, enjoy translating attacker TTPs into durable detection logic, and want to help shape the future of a growing security function, this role is for you. About the Job Develop, tune, document...",
+      "url": "https://jobicy.com/jobs/161042-applied-scientist-3",
+      "published_at": "2026-11-10",
+      "match_score": 51,
+      "priority": "medium",
+      "raw_description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City, you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team Upstart’s Partnerships team helps drive customer acquisition and originations through partner offers. The team is focused on improving how offers are optimized across the customer journey. As the Applied Scientist on the Partnerships team, you’ll use causal inference, experimentation, and machine learning to help determine which offers are most likely to support customer conversion. You’ll take on a greenfield optimization opportunity, moving from research and measurement to production-ready models and decision strategies. How you’ll make an impact Develop causal machine-learning models to optimize customer offers at different points in the funnel, from marketing-time decisions with limited information to decisions informed by customer activity on our site. Analyze and interpret complex data, identify gaps in what we know, and design experiments to gather evidence for building and evaluating optimization models. Measu...",
       "required_skills": [
-        "AWS",
-        "Azure",
-        "GitHub Actions",
-        "Python"
+        "Python",
+        "Spark"
       ],
       "matched_skills": [
-        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Azure"
+        "Spark"
       ],
-      "rule_based_summary": "Detection Engineer II at Instacart, focused on AWS, Azure, GitHub Actions, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Detection Engineer II role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Applied Scientist at Upstart, focused on Python, Spark. Location: USA.",
+      "rule_based_application_sentence": "Your Applied Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Spark.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Spark."
+      ]
+    },
+    {
+      "id": "jobicy-160694",
+      "title": "Growth Analyst (m/f/d)",
+      "company": "Kayzen",
+      "location": "EMEA,  LATAM",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/160694-growth-analyst-m-f-d",
+      "published_at": "2026-11-09",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "🌎 Remote from EMEA or LATAM Remote from India ________________________ Hello👋I am Willian , Trading and Analytics Lead at Kayzen , and I am now looking for a Growth Analyst to join our team 🙌 About Kayzen Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. The Team The Trading team is responsible for creating growth through the management and optimization of mobile performance advertising campaigns for clients utilizing the managed service offering. The goal of the team is to deliver on the client's objectives through established or new trading best practices and communicate account status regularly and effectively with their CSM counterparts. Why this role This is a hands-on trading role where you'll manage mobile programmatic campaigns across verticals like gaming, fintech, and betting, optimizing toward CPA/ROAS targets while learning to scale efficiently. You'll work closely with senior growth analysts and cross-functional partners, gaining exposure to advanced analytics, LLM-powered workflows, and trading strategies that go well beyond what most desks offer at this level. If you're analytical, curious about automation, and want to accelerate your programmatic career, this is the role for you. What you’ll do Trading excellence Manage day-to-day campaign optimization across a set of advertisers; monitor and hit KPI targets (CPA, ROAS, retention) with guidance from senior growth analysts. Execute supply-side and audience optimization tactics including publisher management, bid adjustments, and dayparting across ad formats (banner, video, native, CTV). Run A/B tests on bids, budgets, creatives, and geos as part of broader testing roadmaps; document results and contribute learnings to the Trading Playbook. Monitor pacing and budget allocation daily, flagging risks and unde...",
+      "required_skills": [
+        "LLM",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Growth Analyst (m/f/d) at Kayzen, focused on LLM, Python, SQL. Location: EMEA,  LATAM.",
+      "rule_based_application_sentence": "Your Growth Analyst (m/f/d) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-161066",
+      "title": "Technical Support Engineer",
+      "company": "Plaid",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161066-technical-support-engineer-7",
+      "published_at": "2026-11-10",
+      "match_score": 47,
+      "priority": "low",
+      "raw_description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam. The Customer Support Team helps customers improve their experience using Plaid Products through collaborative issue resolution. We are: Customer-obsessed Problem Solvers Technically Savvy Collaborative Today, Plaid Support ensures our customers' applications can help their consumers live their best financial lives by ensuring our products continue to operate as expected. We investigate the root cause of integration issues, quantify their scope and impact, and when we can’t fix them ourselves, we work with our Go-to-Market, Engineering, and Product teams to reach a solution. As we continue to grow, we’re looking for Technical Support Engineers (TSEs) to join the team to help us balance the needs of customers, users and internal stakeholders, while navigating critical technical issues. In this role, you will manage issues from their first symptom to their eventual resolution, communicating with our customers and internal stakeholders throughout the process. People who succeed in this role tend to be empathetic, collaborative, technically minded, and most importantly - customer-centric. They have an interest in learning more about financial services, and are excited to help customers resolve complex issues. TSEs become embedded within engineering teams at Plaid, and we have a high technical bar to ensure that we all speak the same language. Our Support team sets aggressive goals to meet the standards our customers expect, and we collaborate cross-functionally with our Engineering, Product, Financial Access, and Go-to-Market teams in order to achieve these goals. Responsibilities: Interface with customers via Zendesk tickets Troubleshoot customer issues using internal too...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Technical Support Engineer at Plaid, focused on Python, SQL. Location: UK.",
+      "rule_based_application_sentence": "Your Technical Support Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "published_at": "2026-11-08",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $500 USD total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 0: Unpaid Week 1: $100 guaranteed minimum Week 2: $150 guaranteed minimum Week 3: $250 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism es...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -284,26 +248,37 @@
       ]
     },
     {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "published_at": "2026-11-04",
-      "match_score": 35,
+      "id": "jobicy-161073",
+      "title": "Principal Security Operations Center Analyst",
+      "company": "Huntress",
+      "location": "Australia",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161073-principal-security-operations-center-analyst",
+      "published_at": "2026-11-10",
+      "match_score": 38,
       "priority": "low",
-      "raw_description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics. The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). Some topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know): Health & beauty Fitness Home Decor Fashion Sports Do it yourself Finance Legal Medical Family/Parenting Relationships Real Estate Restaurants Contracting (plumbing, pool building, remodeling, etc.) These are just some of the more general industries and topics that we cover. Requirements : We ask that all work be completed using a word processor such as Microsoft Word or Open Office A reliable internet connection and the ability to meet deadlines Good communication skills and respond in a timely manner to editorial staff when they ask for updates on tasks, etc Work well as a team member with the rest of our content management and editorial staff Note : Applicants to this job signaled that accessing some writing tasks may require payment.",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Freelance Writer at IAPWE, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Freelance Writer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "raw_description": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection. Huntress now secures more than 6M endpoints and 17M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other. Reports to: Manager, Security Operations Center Location: Remote Australia Compensation Range: $180,000 to $215,000 AUD base plus bonus and equity. What You’ll Do: As our Principal SOC Analyst in Australia, you're the most senior technical voice on the APAC SOC floor, working Monday to Friday. You'll take ownership of the hardest intrusions, turn what the floor sees every day into durable detection and product improvements, and raise the bar for every analyst around you. You'll lead by example as a cultural driver for the team, and you'll help build our Human Led Agentic SOC, where agents handle volume and humans own quality. You'll work closely with Product, Product Research and Detection Engineering & Threat Hunting. We'll also support you in publishing your research through Huntress blogs, webinars and conference talks. Responsibilities: Own complex, multi-host intrusions end to end, from triage through forensic timelining, root cause and remediation, across endpoint, identity (Microsoft 365 / Google Workspace) and SIEM telemetry Act as the SOC's technical partner to Product, Product Research and DE&TH: turn recurring floor pain points into lasting detection, suppression and product fixes rather than workarounds Perform advanced static and dynamic malware analysis, research emerging tradecraft, and publish findings through Huntress content Find repeatable i...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure"
+      ],
+      "rule_based_summary": "Principal Security Operations Center Analyst at Huntress, focused on AWS, Azure, Python. Location: Australia.",
+      "rule_based_application_sentence": "Your Principal Security Operations Center Analyst role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
+        "1 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure."
       ]
     },
     {
