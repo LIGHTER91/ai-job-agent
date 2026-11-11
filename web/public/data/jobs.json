@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:47:32Z",
+  "generated_at": "2026-11-11T14:11:46Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 5
+      "Jobicy": 6
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,31 +74,47 @@
   },
   "jobs": [
     {
-      "id": "jobicy-160685",
-      "title": "Demand Generation Manager (m/f/d)",
-      "company": "Kayzen",
-      "location": "EMEA",
+      "id": "jobicy-161244",
+      "title": "AI Engineer",
+      "company": "Particle41",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/160685-demand-generation-manager-m-f-d",
-      "published_at": "2026-11-09",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "📍 Remote EMEA • Business • Kayzen 👋 Hello! I am Sebastian , Marketing Lead at Kayzen, and I am looking for a Demand Generation Manager to join our team. But wait, you have not heard of Kayzen before? Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid- and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. 🤝 The Team Join me as part of Kayzen’s growing marketing team, where we collaborate closely with stakeholders across the business to drive our strategy forward.You'll collaborate alongside a high-performing, international group spanning customer success, sales, product, engineering, data, operations, design, and marketing. We are strongly guided by the values of positivity, curiosity, collaboration and ownership. Together, we share a strong drive to transform the advertising industry. Sounds interesting? Responsibilities We are looking for a hands-on, data-minded B2B marketer to build a repeatable demand-generation and lifecycle engine for Kayzen. You will own the operational foundations that turn campaigns, contacts and customer signals into measurable growth, combining paid acquisition, CRM, automation and continuous optimization. Growth, CRM & Marketing Operations Plan and run targeted B2B acquisition campaigns across relevant paid channels, testing audiences, messages and conversion paths to generate qualified leads. Own the marketing-qualified lead (MQL) engine: lead capture, segmentation, scoring, routing and nurture journeys in close partnership with Sales. Build and optimize email campaigns, newsletters and lifecycle communications so the right audiences receive relevant messages at the right time. Configure, connect and continuously improve HubSpot, forms, campaign tracking and supporting MarTech tools; automate repeatable workflows and reduce manual effort. Develop clear reporting and dashboards for funnel performanc...",
+      "url": "https://jobicy.com/jobs/161244-ai-engineer-2",
+      "published_at": "2026-11-11",
+      "match_score": 78,
+      "priority": "high",
+      "raw_description": "AI Engineer Role Overview: As an AI Engineer at Particle41 you will design, develop and deploy machine-learning and deep-learning models/solutions (including generative-AI) that address complex business problems. You will collaborate with data scientists, data engineers, software engineers and client stakeholders. You will also build scalable pipelines, ensure production readiness, monitor performance and iterate proactively. In This Role, You Will: Lead end-to-end development of AI/ML models: from data ingestion & preprocessing to model training, evaluation, deployment and monitoring. Build generative-AI solutions (RAG, Agentic Workflows, MCP Servers, Conversation AI Agents) aligned with business goals. Work closely with data engineering teams to build/maintain data pipelines, feature stores and orchestration frameworks. Develop and integrate AI models into production systems (APIs, microservices, cloud deployments). Optimize models/solutions for performance, scalability, robustness and cost-efficiency. Monitor models/ solutions’ performance in production (drift, bias, fairness, reliability) and implement remediation. Document model design, experiments, data provenance and solution rationale. Stay abreast of latest AI/ML research, frameworks, tools (e.g. LangChain, LangGraph, MCP Clients/Servers, Agents SDKs, LiveKit etc.) and propose innovative ideas. Work directly with clients to understand problem statements, translate business requirements into AI solutions, and clearly communicate results. Skills and Experience We Value: Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or related field. 3+ years of hands-on experience in AI/ML model development and deployment. Strong programming skills in Python and experience with major ML/AI frameworks (TensorFlow, PyTorch, scikit-learn, LangChain, LangGraph). Experience with vector databases (e.g., Pinecone, FAISS), RAG and Agentic workflows. Experience building or fine-tuning Large Language Models (LLMs). Experience deploying models into production: building REST APIs, microservices and monitoring. Familiarity with Text-to-Speech and Speech-to-Text models/solutions like Deepgram, ElevenLabs, Cartesia etc. Experience in computer vision, time-series modelling (ARIMA, Prophet) or multimodal AI. Familiarity with MLOps tools and frameworks (e.g., MLflow, Kubeflow, SageMaker). Strong understanding of algorithms, data structures, statistics, and machine-learning fundamentals (classificati...",
       "required_skills": [
-        "Computer vision"
+        "Computer vision",
+        "FAISS",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "MLOps",
+        "Python",
+        "RAG"
       ],
       "matched_skills": [
-        "Computer vision"
+        "Computer vision",
+        "FAISS",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Python",
+        "RAG"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Demand Generation Manager (m/f/d) at Kayzen, focused on Computer vision. Location: EMEA.",
-      "rule_based_application_sentence": "Your Demand Generation Manager (m/f/d) role interests me because it connects directly with my work around Computer vision, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "MLOps"
+      ],
+      "rule_based_summary": "AI Engineer at Particle41, focused on Computer vision, FAISS, LLM, LangChain. Location: USA.",
+      "rule_based_application_sentence": "Your AI Engineer role interests me because it connects directly with my work around Computer vision, FAISS, LLM, LangChain, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
       "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "7 of 8 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps."
       ]
     },
     {
@@ -134,6 +150,84 @@
       ]
     },
     {
+      "id": "jobicy-161252",
+      "title": "Fraud Analytics Manager",
+      "company": "Imprint",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161252-fraud-analytics-manager",
+      "published_at": "2026-11-11",
+      "match_score": 50,
+      "priority": "medium",
+      "raw_description": "Who We Are Imprint helps the world's best brands grow the lifetime value of their customers. We started with co-branded credit cards and rebuilt them to be smarter, more rewarding, and brand-first. We partner with companies like Crate & Barrel, Rakuten, Booking.com , H-E-B, Fetch, and Shell to launch modern credit programs that deepen loyalty, unlock savings, and drive growth. But the card is just the beginning. We combine advanced payments infrastructure, intelligent underwriting, and deep customer data to create delightful and personalized experiences for members as well as efficient and profitable relationships for our brand partners. Our robust technology and world-class operations allow us and our brand partners to offer powerful financial products without becoming a bank. In the U.S., co-branded cards alone account for over $300 billion in annual spend, and most still run on decades-old legacy bank systems. Imprint is the modern alternative: flexible, embeddable, and built for how people actually pay today. Backed by Kleiner Perkins, Thrive Capital, Ribbit, and Khosla Ventures, we're building a world-class team to redefine how people pay and how brands grow. If you want to move fast, solve hard problems, and own real outcomes, we want to meet you. As a Fraud Analytics Manager , you will own the analytics function supporting fraud, credit risk, and operations at Imprint. This is a hands-on individual contributor role with managerial scope, focused on building automation, tooling, and reporting infrastructure that reduces manual work and drives faster, smarter decisions across the team. You will act as the primary analytics owner for a set of problems that sit across fraud, credit, and risk: consolidating fragmented reporting, building shared backtesting frameworks, and deploying AI-assisted tooling to free up the team's time for higher-leverage work. This role is net new — it is not a backfill. It is being created to solve problems that are not currently owned well enough and to establish a new type of analytics function at Imprint. What Success Looks Like in the First 90 Days Automated or tooled at least 3 manual reports or tasks, delivering complete working solutions for the team Consolidated overlapping Claude/LLM skills into a more streamlined, shared framework Built an initial backtesting framework for fraud rules, creating a shared process across ATO, first-party fraud, IDT, and credit risk Established hours saved per week as the primary KPI...",
+      "required_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Prompt engineering",
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Fraud Analytics Manager at Imprint, focused on LLM, Prompt engineering, Python, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Fraud Analytics Manager role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-161246",
+      "title": "Platform Engineer",
+      "company": "Defense Unicorns",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161246-platform-engineer-3",
+      "published_at": "2026-11-11",
+      "match_score": 49,
+      "priority": "low",
+      "raw_description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION REQUIRES U.S. CITIZENSHIP. Role Description We are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role in the development and maintenance of our platform, demonstrating a strong understanding of system architecture, problem-solving skills, and the ability to guide junior engineers. As a Platform Engineer within our organization, you will join a team of dedicated unicorns who are focused on advancing freedom and independence globally. Our teams work on various different technical baselines depending on specific engagements. We focus our Products on the Platform layer, but to deliver for our Heroes, we also work IaC automation, security, and implementation. Responsibilities You will help us automate and build a runtime Production Environment and serve as a link between the Applications, either custom development, COTS, or OSS, and that environment, advocating best practices and facilitating communication between the application teams and platform teams. In this position, you will be expected to: Validate Solutions/Implementations: Ensure that solutions and implementations align with the outlined tasks and business requirements. Conduct thorough validations to maintain the integrity and efficiency of the platform. Independently Problem Solve: Demonstrate the ability to identify and solve business problems independently. Develop small components to address specific challenges without relying on explicit architecture diagrams. Understand Medium-Level Tasking: Comprehend how medium-level tasks contribute to the achievement of overall goals. Collaborate with cross-functional teams to integrate various components into a cohesive and functional platform. Estimate Time and Effort: Provide accurate time and effort estimates for medium-sized tasks. Assist in project planning and resource allocation based on estimated timelines. Demonstrate Programming Language Proficiency: Possess familiarity with at least one programming language. Exhibit a basic understanding of when to use a programming language versus a shell for efficient task execution. Own the Bridge Between Application Development and Production: Own the bridge between the Application Development team(s) and the Production Environment. The listed responsibilities are not exhaustive and additional responsibilities may be assigned based...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Platform Engineer at Defense Unicorns, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
+      "rule_based_application_sentence": "Your Platform Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+      ]
+    },
+    {
       "id": "jobicy-160694",
       "title": "Growth Analyst (m/f/d)",
       "company": "Kayzen",
@@ -163,38 +257,6 @@
         "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-161066",
-      "title": "Technical Support Engineer",
-      "company": "Plaid",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161066-technical-support-engineer-7",
-      "published_at": "2026-11-10",
-      "match_score": 47,
-      "priority": "low",
-      "raw_description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam. The Customer Support Team helps customers improve their experience using Plaid Products through collaborative issue resolution. We are: Customer-obsessed Problem Solvers Technically Savvy Collaborative Today, Plaid Support ensures our customers' applications can help their consumers live their best financial lives by ensuring our products continue to operate as expected. We investigate the root cause of integration issues, quantify their scope and impact, and when we can’t fix them ourselves, we work with our Go-to-Market, Engineering, and Product teams to reach a solution. As we continue to grow, we’re looking for Technical Support Engineers (TSEs) to join the team to help us balance the needs of customers, users and internal stakeholders, while navigating critical technical issues. In this role, you will manage issues from their first symptom to their eventual resolution, communicating with our customers and internal stakeholders throughout the process. People who succeed in this role tend to be empathetic, collaborative, technically minded, and most importantly - customer-centric. They have an interest in learning more about financial services, and are excited to help customers resolve complex issues. TSEs become embedded within engineering teams at Plaid, and we have a high technical bar to ensure that we all speak the same language. Our Support team sets aggressive goals to meet the standards our customers expect, and we collaborate cross-functionally with our Engineering, Product, Financial Access, and Go-to-Market teams in order to achieve these goals. Responsibilities: Interface with customers via Zendesk tickets Troubleshoot customer issues using internal too...",
-      "required_skills": [
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Technical Support Engineer at Plaid, focused on Python, SQL. Location: UK.",
-      "rule_based_application_sentence": "Your Technical Support Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: SQL."
       ]
@@ -248,37 +310,41 @@
       ]
     },
     {
-      "id": "jobicy-161073",
-      "title": "Principal Security Operations Center Analyst",
-      "company": "Huntress",
-      "location": "Australia",
+      "id": "jobicy-161250",
+      "title": "AI Security Engineer, Detection and Response",
+      "company": "ŌURA",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161073-principal-security-operations-center-analyst",
-      "published_at": "2026-11-10",
-      "match_score": 38,
+      "url": "https://jobicy.com/jobs/161250-ai-security-engineer-detection-and-response",
+      "published_at": "2026-11-11",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That’s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection. Huntress now secures more than 6M endpoints and 17M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other. Reports to: Manager, Security Operations Center Location: Remote Australia Compensation Range: $180,000 to $215,000 AUD base plus bonus and equity. What You’ll Do: As our Principal SOC Analyst in Australia, you're the most senior technical voice on the APAC SOC floor, working Monday to Friday. You'll take ownership of the hardest intrusions, turn what the floor sees every day into durable detection and product improvements, and raise the bar for every analyst around you. You'll lead by example as a cultural driver for the team, and you'll help build our Human Led Agentic SOC, where agents handle volume and humans own quality. You'll work closely with Product, Product Research and Detection Engineering & Threat Hunting. We'll also support you in publishing your research through Huntress blogs, webinars and conference talks. Responsibilities: Own complex, multi-host intrusions end to end, from triage through forensic timelining, root cause and remediation, across endpoint, identity (Microsoft 365 / Google Workspace) and SIEM telemetry Act as the SOC's technical partner to Product, Product Research and DE&TH: turn recurring floor pain points into lasting detection, suppression and product fixes rather than workarounds Perform advanced static and dynamic malware analysis, research emerging tradecraft, and publish findings through Huntress content Find repeatable i...",
+      "raw_description": "Our mission at ŌURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and improve their health by providing daily insights and practical steps to inspire healthy lifestyles. Empowering the world starts with living our values and empowering our team. As a quickly growing company focused on helping people live healthier and happier lives, we ensure that our team members have what they need to do their best work — both in and out of the office. Our mission at Ōura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Ōura Ring and its connected app. We’ve helped over a million people understand and improve their health by providing daily insights and practical steps to inspire healthy lives.Empowering the world starts with living our values and empowering our team. As a quickly growing company focused on helping people live healthier and happier lives, we ensure that our team members have what they need to do their best work - both in and out of the office.We are looking for an AI Security Engineer to join our Detection & Response team. You will focus on building AI agents and automations for security incident lifecycle, threat hunting, and detection engineering. Ōura is building an AI-native detection and response program, where agents investigate and resolve routine alerts and people focus on the hard calls. You will be hands-on in our environment, turning that plan into working solutions that protect our systems, data, and the members we serve. What You Will Do: Design, build, and deploy AI agents and automations that investigate and triage alerts, write and tune detections as code, enrich incidents, and take approved response actions to automate routine security operations. Run AI-driven threat hunting, and turn gaps in visibility into new detection capabilities. Conduct security incident response from detection through containment, eradication, recovery, and post-incident review, coordinating with engineering, IT, our managed SOC partners, and leadership. Conduct investigations and digital forensics across endpoint, cloud, identity, and SaaS environments. This is a remote role based in the US...",
       "required_skills": [
         "AWS",
         "Azure",
-        "Python"
+        "LLM",
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "LLM",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Azure"
+        "Azure",
+        "Terraform"
       ],
-      "rule_based_summary": "Principal Security Operations Center Analyst at Huntress, focused on AWS, Azure, Python. Location: Australia.",
-      "rule_based_application_sentence": "Your Principal Security Operations Center Analyst role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "AI Security Engineer, Detection and Response at ŌURA, focused on AWS, Azure, LLM, Python. Location: USA.",
+      "rule_based_application_sentence": "Your AI Security Engineer, Detection and Response role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "2 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
+        "Main missing or weaker skills: AWS, Azure, Terraform."
       ]
     },
     {
