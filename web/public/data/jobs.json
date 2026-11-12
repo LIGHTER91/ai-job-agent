@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:11:46Z",
+  "generated_at": "2026-11-12T15:05:15Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,48 @@
   },
   "jobs": [
     {
+      "id": "remotive-2091136",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "published_at": "2026-11-10",
+      "match_score": 79,
+      "priority": "high",
+      "raw_description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’re looking for Senior React & Python Developers with: 5+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in your first weeks How it works Apply and complete your profile Verify your role Once approved, we match you with a project. Typical time to first project: 3 weeks Ready? Apply! NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Golang, Golang, React & Java, React & Ruby, Rub...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "LLM",
+        "MLOps",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Next.js",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "MLOps"
+      ],
+      "rule_based_summary": "Senior React Full-stack Developer at Lemon.io, focused on AWS, Azure, LLM, MLOps. Location: LATAM, Europe, USA, Canada, APAC.",
+      "rule_based_application_sentence": "Your Senior React Full-stack Developer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "4 of 7 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, MLOps."
+      ]
+    },
+    {
       "id": "jobicy-161244",
       "title": "AI Engineer",
       "company": "Particle41",
@@ -118,6 +160,68 @@
       ]
     },
     {
+      "id": "jobicy-161345",
+      "title": "Staff Analyst - Risk and Fraud Systems",
+      "company": "Paddle",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161345-staff-analyst-risk-and-fraud-systems",
+      "published_at": "2026-11-11",
+      "match_score": 67,
+      "priority": "medium",
+      "raw_description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally. The Role: Build the data, decisioning and automated systems that allow Paddle to take more good risk while reducing fraud losses, unnecessary customer friction and manual work. Paddle’s Merchant of Record model makes risk a critical part of the product and its economics. Seller quality, buyer fraud, payment acceptance, refunds, disputes, reserves and card-scheme exposure cannot be optimised independently. This role will connect those signals, identify where the largest value is being lost, turn risk priorities into working controls and workflows, prove their effect in production, and establish a durable owner once a capability becomes repeatable. This is not a strategy-only role and it is not ownership of a large operational team. It is a hands-on build role at the intersection of risk, data, product, engineering and operations. What you'll do: Work hands-on with SQL (Snowflake, dbt), Python, statistics and modern AI-assisted tools to explore data, test hypotheses, prototype controls and evaluate results. Map the end-to-end seller risk system, its data, decisions, controls, owners and failure points. Establish the baseline before building: fraud losses, alert yield, time-to-detect, exposure at detection and analyst effort, with losses reconciled with Finance. Own the health of live controls: every rule and check has an owner, an expected volume, a measured yield and alerting when it goes quiet or drifts, and every change is tested and impact-assessed before release. Build and maintain a labelled library of confirmed fraud cases and a shared fraud typology: the basis for rules now and for machine-learning models with Data Science later. Build a value-ranked portfolio of risk opportunities. Translate risk problems into clear product, data and engineering work with measurable acceptance criteria. Design seller risk tiers that set payout timing, reserves and limits, giving good sellers more room and tightening controls on riskier one...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Staff Analyst - Risk and Fraud Systems at Paddle, focused on Python, SQL. Location: UK.",
+      "rule_based_application_sentence": "Your Staff Analyst - Risk and Fraud Systems role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-161527",
+      "title": "Senior Security Operations Engineer",
+      "company": "Fleetio",
+      "location": "Canada,  Mexico,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161527-senior-security-operations-engineer-5",
+      "published_at": "2026-11-12",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "A little about us… Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleetio is also a proud founding member of the Rails Foundation ! More about our team and company: Fleetio overview video: https://www.youtube.com/watch?v=YoXyXTFWbkg Our careers page: https://www.fleetio.com/careers Description Our Business Technology team is looking for a Senior Security Operations Engineer to own the security of the tools, devices, identities, and data Fleetians rely on every day. You will help run corporate security operations end to end, covering detection and response, identity, endpoint, email, and SaaS security, data loss prevention, AI security, and vulnerability management, and make the day-to-day security calls that keep Fleetio safe. You will be hands-on: engineering controls, writing and tuning detections, automating response, and closing gaps, not just administering tools. The goal is one connected defense, not a collection of consoles: a signal from Okta, CrowdStrike, Mimecast, or Google Workspace should drive action in the others automatically, so the environment protects itself and people step in only where judgment is needed. Around-the-clock monitoring is handled by our external SOC (CrowdStrike Falcon Complete); this role engineers the environment it watches, owns what happens when it escalates, and extends what it can see. You will work closely with our IT Operations and Compliance teams, our 3rd party SOC, and the Product Security team in Platform Engineering. Our team treats AI as a core part of how we work. We build and use AI agents and automated workflows to handle toil, speed up investigation and response, and give our team more time for high-leverage work. Who You Are Our ideal candidate is a security engineer who likes to build. You are as comfortable writing a detection or a response playbook as you are working an incident. You think in systems: you see the gaps between tools and close them by wiring the tools together. You make sound security decisions on your own, explain them clearly to technical and non-technical people, and balance risk with how people actually work. You stay calm when something breaks. You can take a vague report, w...",
+      "required_skills": [
+        "LLM",
+        "Python"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Security Operations Engineer at Fleetio, focused on LLM, Python. Location: Canada,  Mexico,  USA.",
+      "rule_based_application_sentence": "Your Senior Security Operations Engineer role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "jobicy-161042",
       "title": "Applied Scientist",
       "company": "Upstart",
@@ -150,115 +254,61 @@
       ]
     },
     {
-      "id": "jobicy-161252",
-      "title": "Fraud Analytics Manager",
-      "company": "Imprint",
+      "id": "jobicy-161544",
+      "title": "Security Engineer, IAM",
+      "company": "Dropbox",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161252-fraud-analytics-manager",
-      "published_at": "2026-11-11",
-      "match_score": 50,
-      "priority": "medium",
-      "raw_description": "Who We Are Imprint helps the world's best brands grow the lifetime value of their customers. We started with co-branded credit cards and rebuilt them to be smarter, more rewarding, and brand-first. We partner with companies like Crate & Barrel, Rakuten, Booking.com , H-E-B, Fetch, and Shell to launch modern credit programs that deepen loyalty, unlock savings, and drive growth. But the card is just the beginning. We combine advanced payments infrastructure, intelligent underwriting, and deep customer data to create delightful and personalized experiences for members as well as efficient and profitable relationships for our brand partners. Our robust technology and world-class operations allow us and our brand partners to offer powerful financial products without becoming a bank. In the U.S., co-branded cards alone account for over $300 billion in annual spend, and most still run on decades-old legacy bank systems. Imprint is the modern alternative: flexible, embeddable, and built for how people actually pay today. Backed by Kleiner Perkins, Thrive Capital, Ribbit, and Khosla Ventures, we're building a world-class team to redefine how people pay and how brands grow. If you want to move fast, solve hard problems, and own real outcomes, we want to meet you. As a Fraud Analytics Manager , you will own the analytics function supporting fraud, credit risk, and operations at Imprint. This is a hands-on individual contributor role with managerial scope, focused on building automation, tooling, and reporting infrastructure that reduces manual work and drives faster, smarter decisions across the team. You will act as the primary analytics owner for a set of problems that sit across fraud, credit, and risk: consolidating fragmented reporting, building shared backtesting frameworks, and deploying AI-assisted tooling to free up the team's time for higher-leverage work. This role is net new — it is not a backfill. It is being created to solve problems that are not currently owned well enough and to establish a new type of analytics function at Imprint. What Success Looks Like in the First 90 Days Automated or tooled at least 3 manual reports or tasks, delivering complete working solutions for the team Consolidated overlapping Claude/LLM skills into a more streamlined, shared framework Built an initial backtesting framework for fraud rules, creating a shared process across ATO, first-party fraud, IDT, and credit risk Established hours saved per week as the primary KPI...",
-      "required_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "LLM",
-        "Prompt engineering",
-        "Python"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Fraud Analytics Manager at Imprint, focused on LLM, Prompt engineering, Python, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Fraud Analytics Manager role interests me because it connects directly with my work around LLM, Prompt engineering, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-161246",
-      "title": "Platform Engineer",
-      "company": "Defense Unicorns",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161246-platform-engineer-3",
-      "published_at": "2026-11-11",
-      "match_score": 49,
-      "priority": "low",
-      "raw_description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION REQUIRES U.S. CITIZENSHIP. Role Description We are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role in the development and maintenance of our platform, demonstrating a strong understanding of system architecture, problem-solving skills, and the ability to guide junior engineers. As a Platform Engineer within our organization, you will join a team of dedicated unicorns who are focused on advancing freedom and independence globally. Our teams work on various different technical baselines depending on specific engagements. We focus our Products on the Platform layer, but to deliver for our Heroes, we also work IaC automation, security, and implementation. Responsibilities You will help us automate and build a runtime Production Environment and serve as a link between the Applications, either custom development, COTS, or OSS, and that environment, advocating best practices and facilitating communication between the application teams and platform teams. In this position, you will be expected to: Validate Solutions/Implementations: Ensure that solutions and implementations align with the outlined tasks and business requirements. Conduct thorough validations to maintain the integrity and efficiency of the platform. Independently Problem Solve: Demonstrate the ability to identify and solve business problems independently. Develop small components to address specific challenges without relying on explicit architecture diagrams. Understand Medium-Level Tasking: Comprehend how medium-level tasks contribute to the achievement of overall goals. Collaborate with cross-functional teams to integrate various components into a cohesive and functional platform. Estimate Time and Effort: Provide accurate time and effort estimates for medium-sized tasks. Assist in project planning and resource allocation based on estimated timelines. Demonstrate Programming Language Proficiency: Possess familiarity with at least one programming language. Exhibit a basic understanding of when to use a programming language versus a shell for efficient task execution. Own the Bridge Between Application Development and Production: Own the bridge between the Application Development team(s) and the Production Environment. The listed responsibilities are not exhaustive and additional responsibilities may be assigned based...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Platform Engineer at Defense Unicorns, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
-      "rule_based_application_sentence": "Your Platform Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-160694",
-      "title": "Growth Analyst (m/f/d)",
-      "company": "Kayzen",
-      "location": "EMEA,  LATAM",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/160694-growth-analyst-m-f-d",
-      "published_at": "2026-11-09",
+      "url": "https://jobicy.com/jobs/161544-security-engineer-iam",
+      "published_at": "2026-11-12",
       "match_score": 48,
       "priority": "low",
-      "raw_description": "🌎 Remote from EMEA or LATAM Remote from India ________________________ Hello👋I am Willian , Trading and Analytics Lead at Kayzen , and I am now looking for a Growth Analyst to join our team 🙌 About Kayzen Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. The Team The Trading team is responsible for creating growth through the management and optimization of mobile performance advertising campaigns for clients utilizing the managed service offering. The goal of the team is to deliver on the client's objectives through established or new trading best practices and communicate account status regularly and effectively with their CSM counterparts. Why this role This is a hands-on trading role where you'll manage mobile programmatic campaigns across verticals like gaming, fintech, and betting, optimizing toward CPA/ROAS targets while learning to scale efficiently. You'll work closely with senior growth analysts and cross-functional partners, gaining exposure to advanced analytics, LLM-powered workflows, and trading strategies that go well beyond what most desks offer at this level. If you're analytical, curious about automation, and want to accelerate your programmatic career, this is the role for you. What you’ll do Trading excellence Manage day-to-day campaign optimization across a set of advertisers; monitor and hit KPI targets (CPA, ROAS, retention) with guidance from senior growth analysts. Execute supply-side and audience optimization tactics including publisher management, bid adjustments, and dayparting across ad formats (banner, video, native, CTV). Run A/B tests on bids, budgets, creatives, and geos as part of broader testing roadmaps; document results and contribute learnings to the Trading Playbook. Monitor pacing and budget allocation daily, flagging risks and unde...",
+      "raw_description": "Role Description Security Engineers at Dropbox safeguard our digital ecosystem alongside a diverse team of professionals dedicated to protecting our products and users. Trusted by millions, our mission is to integrate security seamlessly into Dropbox, empowering confident collaboration. In this role, you’ll build and operate the identity and access controls that help Dropbox employees, services, and AI agents access what they need securely. You’ll combine security engineering and automation to strengthen authentication and authorization, enforce least privilege, and simplify identity lifecycle management across our infrastructure. Working closely with Infrastructure, Corp Engineering, Developer Platform, and Incident Response, you’ll make secure access easier to use and maintain reliable IAM services as Dropbox adopts new AI tools and agentic workflows. Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Design, deploy, and operate IAM controls across Dropbox’s cloud and on-premises infrastructure Design and implement secure identity, authentication, and authorization controls for AI agents and other non-human actors Implement least-privilege access using RBAC, ABAC, permission boundaries, service control policies, and just-in-time access Design secure integrations using SAML, OAuth 2.1, OpenID Connect, SCIM, and SPIFFE/SPIRE Automate identity lifecycle processes to ensure access is granted, modified, and revoked promptly Develop identity guardrails using infrastructure-as-code and policy-as-code Build monitoring and alerting for anomalous authentication, privilege escalation, credential misuse, and unauthorized access Partner with Incident Response to investigate identity-related incidents and rapidly revoke compromised access Conduct security reviews and threat modeling for new identity architectures and integrations Maintain IAM services with strong reliability, documentation, operational ownership, and on-call support Many teams at Dropbox run Services with on-call rotations, which entails being available for calls during both core and non-core business hours. If a team has an on-call rotation, all engineers on the team are expected to participate in the rotation as part of their employment. Applicants are encouraged to ask for more details of the rotations to which the applicant...",
       "required_skills": [
-        "LLM",
-        "Python",
-        "SQL"
+        "GitHub Actions",
+        "Kubernetes",
+        "Python"
       ],
       "matched_skills": [
-        "LLM",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "Kubernetes"
       ],
-      "rule_based_summary": "Growth Analyst (m/f/d) at Kayzen, focused on LLM, Python, SQL. Location: EMEA,  LATAM.",
-      "rule_based_application_sentence": "Your Growth Analyst (m/f/d) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Security Engineer, IAM at Dropbox, focused on GitHub Actions, Kubernetes, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Security Engineer, IAM role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "2 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "remotive-2091171",
+      "title": "Customer Service Representative",
+      "company": "ShyftOff",
+      "location": "USA",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
+      "published_at": "2026-11-11",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "ShyftOff connects independent customer service professionals with opportunities to support leading brands across industries like healthcare, financial services, insurance, retail, and technology. As an independent agent on the ShyftOff platform, you'll have opportunities to help customers answer questions, resolve issues, and deliver exceptional service, all from the comfort of your home. Compensation: $14–$20 per hour, depending on the program and applicable compensation structure. Why Join ShyftOff? Choose your own schedule: Select available shifts in 30-minute increments. Accept opportunities that fit your life, with no minimum hour commitments. 100% remote: Provide customer service from home, without a commute or traditional office schedule. Competitive earnings: Access opportunities with competitive, program-specific compensation rates disclosed before you commit. Weekly payments: Get paid weekly for completed services, subject to program terms. Multiple opportunities: Explore customer service programs across a variety of industries based on your qualifications and availability. Priority Boarding: Top-performing, reliable agents receive priority access to available shifts, helping maximize their earning opportunities. Work on your terms: Operate as a 1099 independent contractor with the freedom to choose which opportunities you accept. Qualifications We're looking for dependable, customer-focused independent professionals who take pride in delivering great service. 3+ years of customer service experience preferred. Excellent verbal and written communication skills. Strong problem-solving abilities, empathy, and active listening skills. Ability to fulfill accepted service commitments and meet client quality standards. Comfortable navigating multiple computer systems and learning new technology. Modern computer, USB headset, and reliable hard-wired internet connection (25 Mbps minimum). Quiet, professional workspace suitable for customer calls. Ability to complete program-specific qualifications, certifications, and onboarding requirements. Location: Remote, United States only. Eligibility is limited to ShyftOff-approved states. How to Get Started Sign up: Create your free ShyftOff account, complete your application, and submit your video interview. Explore opportunities: Review available programs, compensation rates, and qualification requirements to find the right fit. Get qualified: Complete any required program-specific certifications or onboardi...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Customer Service Representative at ShyftOff, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Customer Service Representative role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -286,94 +336,37 @@
       ]
     },
     {
-      "id": "remotive-2091168",
-      "title": "US Remote Patient Care Advocate (Customer Service)",
-      "company": "VXI Global Solutions",
-      "location": "USA",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
-      "published_at": "2026-11-06",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "Job Title: Patient Care Advocate Job Location: Remote About Us: We are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and pharmacies, we work to reduce the financial burden of medications, ensuring that patients can access the treatments they need without excessive costs. Role Overview: As a key member of our team, you will help patients navigate our Prescription Payment Plan. This involves working closely with patients, insurance providers, healthcare professionals, and pharmacies to ensure seamless enrollment, eligibility verification, cost-sharing, and prescription fulfillment. What You’ll Do: Patient Enrollment & Eligibility : Assist patients with enrolling in the program, ensuring all necessary personal and insurance information is provided and verifying eligibility. Prescription Coverage : Help patients confirm that their prescribed medications are covered under the program, and manage the approval process for eligible medications. Cost-Sharing & Payment : Reduce patients' out-of-pocket costs by applying the program benefits. Manage copayments, coinsurance, and assist with additional copay assistance when applicable. Prescription Fulfillment : Coordinate with participating pharmacies to ensure the correct application of benefits during prescription filling, ensuring patients pay the reduced amount. Refills & Continued Use : Support patients by ensuring they continue receiving medications at reduced costs, monitoring adherence to medication regimens, and ensuring continued eligibility. Program Renewal & Updates : Guide patients through annual renewals and inform them about any updates to the program or medication formulary. What We’re Looking For: High school diploma or GED required Experience in healthcare, insurance or customer service required (experience with prescription assistance programs is a plus) Strong attention to detail and ability to navigate complex processes Excellent communication skills for working with patients, healthcare providers, and pharmacies A genuine passion for helping others and making a positive impact on their healthcare access The ability to work efficiently and collaboratively within a team environment Success Factors for Working from Home Private Workspace: A dedicated, quiet workspace with a door that closes, free from ambient noise. Ergonomics : A comfortable desk and chair setup that allows for the pr...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "US Remote Patient Care Advocate (Customer Service) at VXI Global Solutions, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your US Remote Patient Care Advocate (Customer Service) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-161250",
-      "title": "AI Security Engineer, Detection and Response",
-      "company": "ŌURA",
+      "id": "jobicy-161516",
+      "title": "Senior Developer Advocate - Modern App Development",
+      "company": "Datadog",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161250-ai-security-engineer-detection-and-response",
-      "published_at": "2026-11-11",
-      "match_score": 40,
+      "url": "https://jobicy.com/jobs/161516-senior-developer-advocate-modern-app-development",
+      "published_at": "2026-11-12",
+      "match_score": 38,
       "priority": "low",
-      "raw_description": "Our mission at ŌURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and improve their health by providing daily insights and practical steps to inspire healthy lifestyles. Empowering the world starts with living our values and empowering our team. As a quickly growing company focused on helping people live healthier and happier lives, we ensure that our team members have what they need to do their best work — both in and out of the office. Our mission at Ōura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Ōura Ring and its connected app. We’ve helped over a million people understand and improve their health by providing daily insights and practical steps to inspire healthy lives.Empowering the world starts with living our values and empowering our team. As a quickly growing company focused on helping people live healthier and happier lives, we ensure that our team members have what they need to do their best work - both in and out of the office.We are looking for an AI Security Engineer to join our Detection & Response team. You will focus on building AI agents and automations for security incident lifecycle, threat hunting, and detection engineering. Ōura is building an AI-native detection and response program, where agents investigate and resolve routine alerts and people focus on the hard calls. You will be hands-on in our environment, turning that plan into working solutions that protect our systems, data, and the members we serve. What You Will Do: Design, build, and deploy AI agents and automations that investigate and triage alerts, write and tune detections as code, enrich incidents, and take approved response actions to automate routine security operations. Run AI-driven threat hunting, and turn gaps in visibility into new detection capabilities. Conduct security incident response from detection through containment, eradication, recovery, and post-incident review, coordinating with engineering, IT, our managed SOC partners, and leadership. Conduct investigations and digital forensics across endpoint, cloud, identity, and SaaS environments. This is a remote role based in the US...",
+      "raw_description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on AI-accelerated workflows and next-generation developer ecosystems, you will have the opportunity to meet fast-moving teams where they are, helping them lay strong engineering foundations and broadening your impact to the developer community at large. This is a unique opportunity to use both your engineering depth and authentic storytelling skills to shape how the next wave of builders approach software health, scalability, and observability. What You’ll Do: Help developers hone their craft in an AI-accelerated world by exploring how AI coding assistants and rapid-prototyping tools change software workflows, and guiding teams on how to balance rapid prototyping with established engineering practices around performance, code health, and system reliability. Build in public by creating authentic, peer-to-peer technical content, sharing your engineering insights directly where modern developers collaborate in person and online. Drive a constructive, bidirectional feedback loop between fast-moving developer communities and our internal teams, translating real-world developer experiences into actionable product insights to shape our roadmap while advocating for user needs from the inside. Design and ship high-quality open-source boilerplate templates, quickstarts, and tools that make integrating observability seamless across AI native workflows, next-gen platforms (Vercel, Supabase, etc.), and cloud providers (AWS, GCP, Azure). Who You Are: A builder with approximately 10+ years of software engineering experience, ideally having shipped applications from scratch or worked within an early-stage startup environment where you've worn multiple hats. An AI-fluent developer who natively leverages AI coding assistants and rapid-prototyping tools as a core part of your regular, day-to-day development workflow. Multi-stack familiar, comfortable writing and debugging code across multiple programming languages (such as JavaScript/TypeScript or Python) and experienced with deployment paradigms spanning next-gen platforms and traditional cloud ecosystems. An authentic communicator with approximately 3+ years of experience in technical storytelling and community engagement, backed by a publicly available portfolio of peer-to-peer artifacts like GitHub repositories, technical blogs, video walkthroughs, or public speaking presentations. A forward th...",
       "required_skills": [
         "AWS",
         "Azure",
-        "LLM",
-        "Python",
-        "Terraform"
+        "Python"
       ],
       "matched_skills": [
-        "LLM",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Azure",
-        "Terraform"
+        "Azure"
       ],
-      "rule_based_summary": "AI Security Engineer, Detection and Response at ŌURA, focused on AWS, Azure, LLM, Python. Location: USA.",
-      "rule_based_application_sentence": "Your AI Security Engineer, Detection and Response role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Developer Advocate - Modern App Development at Datadog, focused on AWS, Azure, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Developer Advocate - Modern App Development role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 5 extracted skills match the profile.",
+        "1 of 3 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Terraform."
-      ]
-    },
-    {
-      "id": "remotive-2091045",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "published_at": "2026-11-07",
-      "match_score": 28,
-      "priority": "low",
-      "raw_description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating. We are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. You are expected to be involved in direct end-user support when required. If you have a passion for ensuring top-quality user support and thrive in a collaborative environment, this role is for you. Duties · Lead and support our helpdesk environment for managed service clients · Coordinate and manage client projects, acting as a bridge between the technical team and the client to ensure project success · Provide above and beyond support to our clients and respond to queries for technical assistance in person, via phone, or electronically as required · Provide training and support to clients during the onboarding process to ensure they understand how to effectively use their new IT systems and services. · Develop project plans for client onboarding and standardization projects, outlining tasks, resources required, and estimated timelines · Install, configure, diagnose, test and resolve technical hardware and software issues · Maintain and update written client and process documentation to ensure effective knowledge management · Provide mentorship and guidance to Tier I and Tier II service desk technicians, fostering a collaborative and knowledgeable team environment · Contribute to the development and improvement of IT service management processes and practices · Evaluate and anticipate IT trends and recommend strategies and implement improvement initiatives Our Technology Stack · Helpdesk / Ticketing – HaloPSA · Documentation – Hudu · RMM – Intune / Immybot · Networking – Meraki · Email/Calendar/Voice/AD – Microsoft 365 · Security Cameras – Rhombus / Avigilon · Door Access – Avigilon Qualification · 6+ years of experience providing IT services and end-user support · Prior experience at a managed service provider is critical to understand the fast-paced nature of the industry · Client-oriented approach with a passion for delivering high-quality customer service · Proven experience leading IT projects · A self-starter who is eager to expand their qualifications · Back...",
-      "required_skills": [
-        "Azure"
-      ],
-      "matched_skills": [],
-      "missing_skills": [
-        "Azure"
-      ],
-      "rule_based_summary": "Tier III Service Desk Engineer at Unio Digital, focused on Azure. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Tier III Service Desk Engineer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 1 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure."
+        "Main missing or weaker skills: AWS, Azure."
       ]
     }
   ]
