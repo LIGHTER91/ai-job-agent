@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:05:15Z",
+  "generated_at": "2026-11-13T14:29:23Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -116,175 +116,150 @@
       ]
     },
     {
-      "id": "jobicy-161244",
-      "title": "AI Engineer",
-      "company": "Particle41",
-      "location": "USA",
+      "id": "jobicy-161752",
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Kayzen",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161244-ai-engineer-2",
-      "published_at": "2026-11-11",
-      "match_score": 78,
-      "priority": "high",
-      "raw_description": "AI Engineer Role Overview: As an AI Engineer at Particle41 you will design, develop and deploy machine-learning and deep-learning models/solutions (including generative-AI) that address complex business problems. You will collaborate with data scientists, data engineers, software engineers and client stakeholders. You will also build scalable pipelines, ensure production readiness, monitor performance and iterate proactively. In This Role, You Will: Lead end-to-end development of AI/ML models: from data ingestion & preprocessing to model training, evaluation, deployment and monitoring. Build generative-AI solutions (RAG, Agentic Workflows, MCP Servers, Conversation AI Agents) aligned with business goals. Work closely with data engineering teams to build/maintain data pipelines, feature stores and orchestration frameworks. Develop and integrate AI models into production systems (APIs, microservices, cloud deployments). Optimize models/solutions for performance, scalability, robustness and cost-efficiency. Monitor models/ solutions’ performance in production (drift, bias, fairness, reliability) and implement remediation. Document model design, experiments, data provenance and solution rationale. Stay abreast of latest AI/ML research, frameworks, tools (e.g. LangChain, LangGraph, MCP Clients/Servers, Agents SDKs, LiveKit etc.) and propose innovative ideas. Work directly with clients to understand problem statements, translate business requirements into AI solutions, and clearly communicate results. Skills and Experience We Value: Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or related field. 3+ years of hands-on experience in AI/ML model development and deployment. Strong programming skills in Python and experience with major ML/AI frameworks (TensorFlow, PyTorch, scikit-learn, LangChain, LangGraph). Experience with vector databases (e.g., Pinecone, FAISS), RAG and Agentic workflows. Experience building or fine-tuning Large Language Models (LLMs). Experience deploying models into production: building REST APIs, microservices and monitoring. Familiarity with Text-to-Speech and Speech-to-Text models/solutions like Deepgram, ElevenLabs, Cartesia etc. Experience in computer vision, time-series modelling (ARIMA, Prophet) or multimodal AI. Familiarity with MLOps tools and frameworks (e.g., MLflow, Kubeflow, SageMaker). Strong understanding of algorithms, data structures, statistics, and machine-learning fundamentals (classificati...",
-      "required_skills": [
-        "Computer vision",
-        "FAISS",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "MLOps",
-        "Python",
-        "RAG"
-      ],
-      "matched_skills": [
-        "Computer vision",
-        "FAISS",
-        "LLM",
-        "LangChain",
-        "LangGraph",
-        "Python",
-        "RAG"
-      ],
-      "missing_skills": [
-        "MLOps"
-      ],
-      "rule_based_summary": "AI Engineer at Particle41, focused on Computer vision, FAISS, LLM, LangChain. Location: USA.",
-      "rule_based_application_sentence": "Your AI Engineer role interests me because it connects directly with my work around Computer vision, FAISS, LLM, LangChain, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "7 of 8 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: MLOps."
-      ]
-    },
-    {
-      "id": "jobicy-161345",
-      "title": "Staff Analyst - Risk and Fraud Systems",
-      "company": "Paddle",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161345-staff-analyst-risk-and-fraud-systems",
-      "published_at": "2026-11-11",
-      "match_score": 67,
+      "url": "https://jobicy.com/jobs/161752-senior-data-scientist-m-f-d",
+      "published_at": "2026-11-13",
+      "match_score": 64,
       "priority": "medium",
-      "raw_description": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain of payment fragmentation. It’s faster, safer, cheaper, and, above all, way better. We’re backed by investors including KKR, FTV Capital, Kindred, Notion, and 83North and serve over 10,000 software sellers in 245 territories globally. The Role: Build the data, decisioning and automated systems that allow Paddle to take more good risk while reducing fraud losses, unnecessary customer friction and manual work. Paddle’s Merchant of Record model makes risk a critical part of the product and its economics. Seller quality, buyer fraud, payment acceptance, refunds, disputes, reserves and card-scheme exposure cannot be optimised independently. This role will connect those signals, identify where the largest value is being lost, turn risk priorities into working controls and workflows, prove their effect in production, and establish a durable owner once a capability becomes repeatable. This is not a strategy-only role and it is not ownership of a large operational team. It is a hands-on build role at the intersection of risk, data, product, engineering and operations. What you'll do: Work hands-on with SQL (Snowflake, dbt), Python, statistics and modern AI-assisted tools to explore data, test hypotheses, prototype controls and evaluate results. Map the end-to-end seller risk system, its data, decisions, controls, owners and failure points. Establish the baseline before building: fraud losses, alert yield, time-to-detect, exposure at detection and analyst effort, with losses reconciled with Finance. Own the health of live controls: every rule and check has an owner, an expected volume, a measured yield and alerting when it goes quiet or drifts, and every change is tested and impact-assessed before release. Build and maintain a labelled library of confirmed fraud cases and a shared fraud typology: the basis for rules now and for machine-learning models with Data Science later. Build a value-ranked portfolio of risk opportunities. Translate risk problems into clear product, data and engineering work with measurable acceptance criteria. Design seller risk tiers that set payout timing, reserves and limits, giving good sellers more room and tightening controls on riskier one...",
+      "raw_description": "Europe or India, Remote _______________________________________________ Hello👋I am Puneet , Co-founder and CPO at Kayzen , and I am now looking for a Senior Data Scientist to join our team 🙌 But wait, you have not heard of Kayzen before?😃 Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. The Team You will work with a carefully selected, diverse, senior and globally distributed Data Science team (like Heiko , Chen ) on various machine-learning models that process terabytes of data, serving billions of ad requests and users around the globe in real-time. We are highly motivated and aligned in our quest to disrupt the multi-billion dollar ad-tech industry. We would like you to be part of our journey, as our Senior Data Scientist (m/f/d) . Responsibilities Our day-to-day work in Data Science and Machine Learning encompasses a wide range of activities, including: Enhancing Models: Continuously improving existing models by incorporating new features, fine-tuning parameters, and utilizing additional data. Algorithm Development: Collaborating with our Machine Learning Engineering team to develop and deploy scalable supervised and unsupervised learning algorithms. Data Exploration: Identifying and exploring new data sources while researching innovative ways to leverage both new and existing data effectively. Solution Research: Investigating new Machine Learning solutions to optimize every step of our value chain. A/B Testing: Regularly conducting and evaluating A/B tests to drive insights and refine our strategies. You’ll be a great fit if you resonate with the following principles of Data Science and Machine Learning: Simplicity First: We prioritize finding the best solutions to challenges rather than forcing problems to fit predetermined solutions. Impact-Driven: We leverage Ma...",
       "required_skills": [
+        "Airflow",
+        "Docker",
         "Python",
-        "SQL"
+        "SQL",
+        "Spark"
       ],
       "matched_skills": [
+        "Docker",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "Airflow",
+        "SQL",
+        "Spark"
       ],
-      "rule_based_summary": "Staff Analyst - Risk and Fraud Systems at Paddle, focused on Python, SQL. Location: UK.",
-      "rule_based_application_sentence": "Your Staff Analyst - Risk and Fraud Systems role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Senior Data Scientist (m/f/d) at Kayzen, focused on Airflow, Docker, Python, SQL. Location: EMEA.",
+      "rule_based_application_sentence": "Your Senior Data Scientist (m/f/d) role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Airflow.",
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 2 extracted skills match the profile.",
+        "2 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: Airflow, SQL, Spark."
       ]
     },
     {
-      "id": "jobicy-161527",
-      "title": "Senior Security Operations Engineer",
-      "company": "Fleetio",
-      "location": "Canada,  Mexico,  USA",
+      "id": "jobicy-161762",
+      "title": "(Senior) Product Marketing Manager (m/f/d)",
+      "company": "Kayzen",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161527-senior-security-operations-engineer-5",
-      "published_at": "2026-11-12",
+      "url": "https://jobicy.com/jobs/161762-senior-product-marketing-manager-m-f-d",
+      "published_at": "2026-11-13",
       "match_score": 58,
       "priority": "medium",
-      "raw_description": "A little about us… Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleetio is also a proud founding member of the Rails Foundation ! More about our team and company: Fleetio overview video: https://www.youtube.com/watch?v=YoXyXTFWbkg Our careers page: https://www.fleetio.com/careers Description Our Business Technology team is looking for a Senior Security Operations Engineer to own the security of the tools, devices, identities, and data Fleetians rely on every day. You will help run corporate security operations end to end, covering detection and response, identity, endpoint, email, and SaaS security, data loss prevention, AI security, and vulnerability management, and make the day-to-day security calls that keep Fleetio safe. You will be hands-on: engineering controls, writing and tuning detections, automating response, and closing gaps, not just administering tools. The goal is one connected defense, not a collection of consoles: a signal from Okta, CrowdStrike, Mimecast, or Google Workspace should drive action in the others automatically, so the environment protects itself and people step in only where judgment is needed. Around-the-clock monitoring is handled by our external SOC (CrowdStrike Falcon Complete); this role engineers the environment it watches, owns what happens when it escalates, and extends what it can see. You will work closely with our IT Operations and Compliance teams, our 3rd party SOC, and the Product Security team in Platform Engineering. Our team treats AI as a core part of how we work. We build and use AI agents and automated workflows to handle toil, speed up investigation and response, and give our team more time for high-leverage work. Who You Are Our ideal candidate is a security engineer who likes to build. You are as comfortable writing a detection or a response playbook as you are working an incident. You think in systems: you see the gaps between tools and close them by wiring the tools together. You make sound security decisions on your own, explain them clearly to technical and non-technical people, and balance risk with how people actually work. You stay calm when something breaks. You can take a vague report, w...",
+      "raw_description": "📍 Remote EMEA • Business • Kayzen 👋 Hello! I am Sebastian , Marketing Lead at Kayzen, and I am now looking for a Product Marketing Manager to join our team. But wait, you have not heard of Kayzen before? Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid- and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. 🤝 The Team Join me as the second member of our marketing team, where we collaborate very closely with stakeholders across various departments to drive our strategy forward. You'll collaborate alongside a high-performing, international group spanning customer success, sales, product, engineering, data, operations, design, and marketing. We are strongly guided by the values of positivity, curiosity, collaboration and ownership. Together, we share a strong drive to transform the advertising industry. Sounds interesting? Responsibilities We are seeking a highly proactive Product Marketing Manager who will take full ownership of product marketing. You will develop and execute product marketing strategies, collaborate with cross-functional teams, and provide data-driven recommendations to market Kayzen’s products and services. Product Marketing Develop and execute product marketing strategies to effectively promote Kayzen’s products to existing and potential clients. Lead the creation of compelling product marketing content, crafting bold narratives around Kayzen’s products and solutions. Collaborate with the product team to ensure marketing messages align with product features. Enable GTM teams on new product releases and messaging. Engage regularly with customers and internal teams to gather feedback, understand market needs, and identify trends to refine product marketing strategies. Work closely with sales and customer success teams to ensure marketing execution is aligned with business objectives and driven by customer insi...",
       "required_skills": [
-        "LLM",
-        "Python"
+        "Computer vision"
       ],
       "matched_skills": [
-        "LLM",
-        "Python"
+        "Computer vision"
       ],
       "missing_skills": [],
-      "rule_based_summary": "Senior Security Operations Engineer at Fleetio, focused on LLM, Python. Location: Canada,  Mexico,  USA.",
-      "rule_based_application_sentence": "Your Senior Security Operations Engineer role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "(Senior) Product Marketing Manager (m/f/d) at Kayzen, focused on Computer vision. Location: EMEA.",
+      "rule_based_application_sentence": "Your (Senior) Product Marketing Manager (m/f/d) role interests me because it connects directly with my work around Computer vision, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
-      "id": "jobicy-161042",
-      "title": "Applied Scientist",
-      "company": "Upstart",
+      "id": "jobicy-161776",
+      "title": "Sensing OPIR Engineer - Mid Level #900",
+      "company": "Allen Integrated Solutions",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161042-applied-scientist-3",
-      "published_at": "2026-11-10",
-      "match_score": 51,
+      "url": "https://jobicy.com/jobs/161776-sensing-opir-engineer-mid-level-900",
+      "published_at": "2026-11-13",
+      "match_score": 57,
       "priority": "medium",
-      "raw_description": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with banks and credit unions to expand access to affordable credit through technology that’s both radically intelligent and deeply human. Our platform runs over one million predictions per borrower using more than 3,000 signals, powering smarter, fairer decisions for millions of customers. But the numbers only hint at the impact. Every idea, every voice, and every contribution moves us closer to a world where credit never stands between people and their financial progress. We’re proudly digital-first, giving most Upstarters the flexibility to do their best work from wherever they thrive, alongside teammates across 80+ cities in the US and Canada. Digital-first doesn’t mean distant. We’re intentional about in-person connection through team onsites, planning sessions, and moments that spark creativity and trust. And whether you choose to work primarily from home or collaborate in-person from one of our offices in Columbus, Austin, the Bay Area, or New York City, you’ll have the support to work in the way that works best for you. If you’re energized by tackling meaningful problems, excited to innovate with purpose, and motivated by work that truly matters, we’d love to hear from you. The Team Upstart’s Partnerships team helps drive customer acquisition and originations through partner offers. The team is focused on improving how offers are optimized across the customer journey. As the Applied Scientist on the Partnerships team, you’ll use causal inference, experimentation, and machine learning to help determine which offers are most likely to support customer conversion. You’ll take on a greenfield optimization opportunity, moving from research and measurement to production-ready models and decision strategies. How you’ll make an impact Develop causal machine-learning models to optimize customer offers at different points in the funnel, from marketing-time decisions with limited information to decisions informed by customer activity on our site. Analyze and interpret complex data, identify gaps in what we know, and design experiments to gather evidence for building and evaluating optimization models. Measu...",
+      "raw_description": "Remote Sensing OPIR Engineer - Mid Level #900 Clearance Required: TS/SCI Minimum Years’ Experience: 6 years of experience in EO/IR systems engineering, OPIR analysis, remote sensing, or a related mission area Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Remote Sensing OPIR Engineer to support National Air and Space Intelligence Center (NASIC) mission areas involving infrared sensing, space-based missile warning systems, sensor modeling, advanced data exploitation, and algorithm development. The ideal candidate will possess a strong technical background in electro-optical/infrared (EO/IR) systems engineering, infrared phenomenology, Overhead Persistent Infrared (OPIR) data analysis, and software development for sensor exploitation. This role requires demonstrated experience working with complex sensor systems, developing and testing advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Conduct analysis, exploitation, and modeling of infrared and OPIR sensor data, including Space-Based Infrared System (SBIRS) data. Develop, prototype, and implement advanced data-processing algorithms using Python, MATLAB, and other analytical environments. Investigate sensor and target phenomenology and develop test plans, sensor-collection scenarios, and experiments to address complex detection and tracking challenges. Evaluate and troubleshoot data-processing workflows, identify anomalies or software-logic issues, and coordinate remediation strategies. Support the development of concepts of operations (CONOPS), white papers, technical documentation, and transition plans for emerging sensor capabilities and processing architectures. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies to evaluate and integrate emerging sensing and exploitation technologies. Required Qualifications Active TS/SCI clearance. Bachelor’s o...",
       "required_skills": [
-        "Python",
-        "Spark"
+        "Python"
       ],
       "matched_skills": [
         "Python"
       ],
-      "missing_skills": [
-        "Spark"
-      ],
-      "rule_based_summary": "Applied Scientist at Upstart, focused on Python, Spark. Location: USA.",
-      "rule_based_application_sentence": "Your Applied Scientist role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Spark.",
+      "missing_skills": [],
+      "rule_based_summary": "Sensing OPIR Engineer - Mid Level #900 at Allen Integrated Solutions, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Sensing OPIR Engineer - Mid Level #900 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Spark."
+        "The seniority is not explicit, so the project treats it as moderately compatible."
       ]
     },
     {
-      "id": "jobicy-161544",
-      "title": "Security Engineer, IAM",
-      "company": "Dropbox",
+      "id": "jobicy-161774",
+      "title": "Sensing OPIR Engineer - #898",
+      "company": "Allen Integrated Solutions",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161544-security-engineer-iam",
-      "published_at": "2026-11-12",
-      "match_score": 48,
-      "priority": "low",
-      "raw_description": "Role Description Security Engineers at Dropbox safeguard our digital ecosystem alongside a diverse team of professionals dedicated to protecting our products and users. Trusted by millions, our mission is to integrate security seamlessly into Dropbox, empowering confident collaboration. In this role, you’ll build and operate the identity and access controls that help Dropbox employees, services, and AI agents access what they need securely. You’ll combine security engineering and automation to strengthen authentication and authorization, enforce least privilege, and simplify identity lifecycle management across our infrastructure. Working closely with Infrastructure, Corp Engineering, Developer Platform, and Incident Response, you’ll make secure access easier to use and maintain reliable IAM services as Dropbox adopts new AI tools and agentic workflows. Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here . Responsibilities Design, deploy, and operate IAM controls across Dropbox’s cloud and on-premises infrastructure Design and implement secure identity, authentication, and authorization controls for AI agents and other non-human actors Implement least-privilege access using RBAC, ABAC, permission boundaries, service control policies, and just-in-time access Design secure integrations using SAML, OAuth 2.1, OpenID Connect, SCIM, and SPIFFE/SPIRE Automate identity lifecycle processes to ensure access is granted, modified, and revoked promptly Develop identity guardrails using infrastructure-as-code and policy-as-code Build monitoring and alerting for anomalous authentication, privilege escalation, credential misuse, and unauthorized access Partner with Incident Response to investigate identity-related incidents and rapidly revoke compromised access Conduct security reviews and threat modeling for new identity architectures and integrations Maintain IAM services with strong reliability, documentation, operational ownership, and on-call support Many teams at Dropbox run Services with on-call rotations, which entails being available for calls during both core and non-core business hours. If a team has an on-call rotation, all engineers on the team are expected to participate in the rotation as part of their employment. Applicants are encouraged to ask for more details of the rotations to which the applicant...",
+      "url": "https://jobicy.com/jobs/161774-sensing-opir-engineer-898",
+      "published_at": "2026-11-13",
+      "match_score": 57,
+      "priority": "medium",
+      "raw_description": "Remote Sensing OPIR Engineer - #898 Clearance Required: TS/SCI Minimum Years’ Experience: 5 years of experience in EO/IR algorithm development Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Remote Sensing OPIR Engineer to support the National Geospatial-Intelligence Agency (NGA) in infrared sensing, space-based missile warning systems, data exploitation, and algorithm development. The ideal candidate will possess a strong technical background in electro-optical/infrared (EO/IR) systems, infrared phenomenology, Overhead Persistent Infrared (OPIR) data analysis, and remote-sensing software development. This role requires demonstrated experience working with complex sensor systems, developing and testing advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Prototype and develop advanced OPIR data-processing algorithms and support their transition into operational environments. Evaluate and troubleshoot data-processing pipelines, identify anomalies, and coordinate remediation strategies. Support the development of white papers, technical documentation, and technology-transition plans. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies. Required Qualifications Active TS/SCI clearance. Bachelor’s degree in computer engineering, physics, computer science, or a related technical field. At least five years of experience in EO/IR algorithm development. Advanced understanding of EO/IR signal processing, artificial intelligence and machine learning applications, and target-system phenomenology. Detailed experience with OPIR data formats and processing pipelines. Advanced Python development skills. Strong analytical and problem-solving skills, including the ability to diagnose sensor-performance issues, data anomalies, and software problems. Desired Qualifications Direct experience performing OPIR analysis. Mast...",
       "required_skills": [
-        "GitHub Actions",
-        "Kubernetes",
         "Python"
       ],
       "matched_skills": [
-        "GitHub Actions",
         "Python"
       ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Security Engineer, IAM at Dropbox, focused on GitHub Actions, Kubernetes, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Security Engineer, IAM role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "missing_skills": [],
+      "rule_based_summary": "Sensing OPIR Engineer - #898 at Allen Integrated Solutions, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Sensing OPIR Engineer - #898 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "1 of 1 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
+        "The seniority is not explicit, so the project treats it as moderately compatible."
+      ]
+    },
+    {
+      "id": "jobicy-161777",
+      "title": "Sensing OPIR Engineer – SME #899",
+      "company": "Allen Integrated Solutions",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/161777-sensing-opir-engineer-sme-899",
+      "published_at": "2026-11-13",
+      "match_score": 53,
+      "priority": "medium",
+      "raw_description": "Remote Sensing OPIR Engineer – SME #899 Clearance Required: TS/SCI Minimum Years’ Experience: 15 years of experience in EO/IR algorithm development Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-13\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-13\" data-testid=\"conversation-turn-16\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Subject Matter Expert in Overhead Persistent Infrared (OPIR) research engineering to support the National Geospatial-Intelligence Agency (NGA) in infrared sensing, space-based missile warning systems, data exploitation, and algorithm development. The ideal candidate will possess an extensive technical background in electro-optical/infrared (EO/IR) systems, infrared phenomenology, OPIR data analysis, and remote-sensing software development. This role requires demonstrated experience working with complex sensor systems, leading the development and testing of advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Lead the prototyping and development of advanced OPIR data-processing algorithms and support their transition into operational environments. Evaluate and troubleshoot data-processing pipelines, identify anomalies, and coordinate remediation strategies. Support the development of white papers, technical documentation, and technology-transition plans. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies. Required Qualifications Active TS/SCI clearance. Bachelor’s degree in computer engineering, physics, computer science, or a related technical field. At least 15 years of experience in EO/IR algorithm devel...",
+      "required_skills": [
+        "Python"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Sensing OPIR Engineer – SME #899 at Allen Integrated Solutions, focused on Python. Location: USA.",
+      "rule_based_application_sentence": "Your Sensing OPIR Engineer – SME #899 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile."
       ]
     },
     {
@@ -336,37 +311,27 @@
       ]
     },
     {
-      "id": "jobicy-161516",
-      "title": "Senior Developer Advocate - Modern App Development",
-      "company": "Datadog",
-      "location": "USA",
+      "id": "jobicy-161736",
+      "title": "Marketing Manager, Community & Events (m/f/d)",
+      "company": "Kayzen",
+      "location": "EMEA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161516-senior-developer-advocate-modern-app-development",
-      "published_at": "2026-11-12",
-      "match_score": 38,
+      "url": "https://jobicy.com/jobs/161736-marketing-manager-community-events-m-f-d",
+      "published_at": "2026-11-13",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on AI-accelerated workflows and next-generation developer ecosystems, you will have the opportunity to meet fast-moving teams where they are, helping them lay strong engineering foundations and broadening your impact to the developer community at large. This is a unique opportunity to use both your engineering depth and authentic storytelling skills to shape how the next wave of builders approach software health, scalability, and observability. What You’ll Do: Help developers hone their craft in an AI-accelerated world by exploring how AI coding assistants and rapid-prototyping tools change software workflows, and guiding teams on how to balance rapid prototyping with established engineering practices around performance, code health, and system reliability. Build in public by creating authentic, peer-to-peer technical content, sharing your engineering insights directly where modern developers collaborate in person and online. Drive a constructive, bidirectional feedback loop between fast-moving developer communities and our internal teams, translating real-world developer experiences into actionable product insights to shape our roadmap while advocating for user needs from the inside. Design and ship high-quality open-source boilerplate templates, quickstarts, and tools that make integrating observability seamless across AI native workflows, next-gen platforms (Vercel, Supabase, etc.), and cloud providers (AWS, GCP, Azure). Who You Are: A builder with approximately 10+ years of software engineering experience, ideally having shipped applications from scratch or worked within an early-stage startup environment where you've worn multiple hats. An AI-fluent developer who natively leverages AI coding assistants and rapid-prototyping tools as a core part of your regular, day-to-day development workflow. Multi-stack familiar, comfortable writing and debugging code across multiple programming languages (such as JavaScript/TypeScript or Python) and experienced with deployment paradigms spanning next-gen platforms and traditional cloud ecosystems. An authentic communicator with approximately 3+ years of experience in technical storytelling and community engagement, backed by a publicly available portfolio of peer-to-peer artifacts like GitHub repositories, technical blogs, video walkthroughs, or public speaking presentations. A forward th...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure"
-      ],
-      "rule_based_summary": "Senior Developer Advocate - Modern App Development at Datadog, focused on AWS, Azure, Python. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Developer Advocate - Modern App Development role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "raw_description": "📍 Remote EMEA • Business • Kayzen Hello! I am Sebastian , Marketing Lead at Kayzen, and I am looking for a Marketing Manager, Community & Events to join our team. But wait, you have not heard of Kayzen before? Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid- and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. 🤝 The Team Join me as part of Kayzen’s growing marketing team, where we collaborate closely with stakeholders across the business to drive our strategy forward.You'll collaborate alongside a high-performing, international group spanning customer success, sales, product, engineering, data, operations, design, and marketing. We are strongly guided by the values of positivity, curiosity, collaboration and ownership. Together, we share a strong drive to transform the advertising industry. Sounds interesting? Responsibilities We are seeking a relationship-driven, hands-on marketer to make Kayzen more visible and connected across key communities and events in our industry. You will own event marketing and help us to build an active community around Kayzen’s expertise, products and programs - turning in-person and online experiences into meaningful relationships and new commercial opportunities. Events, Partnerships & Community Own the marketing side of Kayzen’s industry event calendar end-to-end, from event selection and planning through activation, onsite execution and post-event evaluation. Create engaging event experiences, including sponsorships, partner activations, executive dinners, webinars and smaller community gatherings. Work closely with Sales to define target audiences, meeting goals, outreach plans and follow-up processes so events support real business opportunities. Build and nurture a relevant community of customers, prospects, partners and industry voices through ongoing online and offline engagement. Dev...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Marketing Manager, Community & Events (m/f/d) at Kayzen, focused on AI/data skills. Location: EMEA.",
+      "rule_based_application_sentence": "Your Marketing Manager, Community & Events (m/f/d) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
+        "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     }
   ]
