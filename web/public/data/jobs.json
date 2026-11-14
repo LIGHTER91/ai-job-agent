@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:29:23Z",
+  "generated_at": "2026-11-14T13:26:19Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,24 +74,26 @@
   },
   "jobs": [
     {
-      "id": "remotive-2091136",
-      "title": "Senior React Full-stack Developer",
+      "id": "remotive-2091137",
+      "title": "Senior Data Engineer",
       "company": "Lemon.io",
       "location": "LATAM, Europe, USA, Canada, APAC",
       "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
-      "published_at": "2026-11-10",
-      "match_score": 79,
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "published_at": "2026-11-11",
+      "match_score": 75,
       "priority": "high",
-      "raw_description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’re looking for Senior React & Python Developers with: 5+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: You own problems end-to-end: you spot the issue, design and build the solution, and ship it to production You can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents) Advanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls You work full-time remotely and deliver without supervision You onboard quickly and start shipping in your first weeks How it works Apply and complete your profile Verify your role Once approved, we match you with a project. Typical time to first project: 3 weeks Ready? Apply! NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Golang, Golang, React & Java, React & Ruby, Rub...",
+      "raw_description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the process. Because companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own. What you get Competitive rate, based on your seniority and skills We find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences. Flexible schedule. Work async or with a small overlap with the team’s hours. No micromanagement, no screen trackers Direct work with clients, most of them with technical backgrounds Ongoing support from your application through every project, plus a community of engineers from 75+ countries Who we’re looking for Senior Data Engineers with: 4+ years of commercial experience as a Data Engineer Experience with Apache Airflow and Snowflake, or Python and SQL, is required Experience with AWS, GCP, or Microsoft Azure is mandatory You own problems end-to-end: you spot the issue in the data or pipeline, design and build the solution, and ship it to production. You can show the business impact of your work with concrete results (e.g., faster data processing, lower infrastructure costs, fresher data for stakeholders, fewer pipeline incidents). Advanced English: you discuss business tasks, explain your technical decisions, raise risks early, and present yourself and your results well on client calls. You work full-time remotely and deliver without supervision. You onboard quickly and start shipping in your first weeks. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereu...",
       "required_skills": [
         "AWS",
+        "Airflow",
         "Azure",
         "LLM",
         "MLOps",
         "Next.js",
         "Python",
-        "React"
+        "React",
+        "SQL"
       ],
       "matched_skills": [
         "LLM",
@@ -101,18 +103,20 @@
       ],
       "missing_skills": [
         "AWS",
+        "Airflow",
         "Azure",
-        "MLOps"
+        "MLOps",
+        "SQL"
       ],
-      "rule_based_summary": "Senior React Full-stack Developer at Lemon.io, focused on AWS, Azure, LLM, MLOps. Location: LATAM, Europe, USA, Canada, APAC.",
-      "rule_based_application_sentence": "Your Senior React Full-stack Developer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Data Engineer at Lemon.io, focused on AWS, Airflow, Azure, LLM. Location: LATAM, Europe, USA, Canada, APAC.",
+      "rule_based_application_sentence": "Your Senior Data Engineer role interests me because it connects directly with my work around LLM, Next.js, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "4 of 7 extracted skills match the profile.",
+        "4 of 9 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, MLOps."
+        "Main missing or weaker skills: AWS, Airflow, Azure, MLOps, SQL."
       ]
     },
     {
@@ -182,84 +186,101 @@
       ]
     },
     {
-      "id": "jobicy-161776",
-      "title": "Sensing OPIR Engineer - Mid Level #900",
-      "company": "Allen Integrated Solutions",
+      "id": "jobicy-162137",
+      "title": "Platform Engineer - FedD180/FedD181",
+      "company": "Defense Unicorns",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161776-sensing-opir-engineer-mid-level-900",
-      "published_at": "2026-11-13",
-      "match_score": 57,
-      "priority": "medium",
-      "raw_description": "Remote Sensing OPIR Engineer - Mid Level #900 Clearance Required: TS/SCI Minimum Years’ Experience: 6 years of experience in EO/IR systems engineering, OPIR analysis, remote sensing, or a related mission area Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Remote Sensing OPIR Engineer to support National Air and Space Intelligence Center (NASIC) mission areas involving infrared sensing, space-based missile warning systems, sensor modeling, advanced data exploitation, and algorithm development. The ideal candidate will possess a strong technical background in electro-optical/infrared (EO/IR) systems engineering, infrared phenomenology, Overhead Persistent Infrared (OPIR) data analysis, and software development for sensor exploitation. This role requires demonstrated experience working with complex sensor systems, developing and testing advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Conduct analysis, exploitation, and modeling of infrared and OPIR sensor data, including Space-Based Infrared System (SBIRS) data. Develop, prototype, and implement advanced data-processing algorithms using Python, MATLAB, and other analytical environments. Investigate sensor and target phenomenology and develop test plans, sensor-collection scenarios, and experiments to address complex detection and tracking challenges. Evaluate and troubleshoot data-processing workflows, identify anomalies or software-logic issues, and coordinate remediation strategies. Support the development of concepts of operations (CONOPS), white papers, technical documentation, and transition plans for emerging sensor capabilities and processing architectures. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies to evaluate and integrate emerging sensing and exploitation technologies. Required Qualifications Active TS/SCI clearance. Bachelor’s o...",
+      "url": "https://jobicy.com/jobs/162137-platform-engineer-fedd180-fedd181",
+      "published_at": "2026-11-14",
+      "match_score": 49,
+      "priority": "low",
+      "raw_description": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE AN ACTIVE SECRET CLEARANCE TO APPLY. Defense Unicorns is seeking a Platform Engineer to join our platform team — a combined DevOps and Site Reliability Engineering team responsible for the development, maintenance, and reliability of a cloud-based platform environment. The ideal candidate is a strong problem-solver with hands-on experience in Kubernetes, cloud infrastructure, and CI/CD, and is motivated by building and improving the systems that other teams depend on. In this role, you will work across infrastructure as code, automated deployments, identity and access management, monitoring, and CI/CD pipelines. You will serve as a bridge between application teams and the platform, advocating best practices and helping ensure that the platform is reliable, secure, and scalable. You should be comfortable operating in ambiguity, contributing to documentation and standards where they exist, and building them where they don’t. Responsibilities Build, maintain, and improve Kubernetes clusters and containerized application deployments across cloud environments (AWS, EKS, RKE2) Develop and manage infrastructure as code (IaC) to provision and configure platform resources consistently and repeatably Own and improve CI/CD pipelines, including GitLab CI configuration, runner deployments, and automated build and deployment workflows Support identity and access management through tools such as Keycloak, including user onboarding, role configuration, and troubleshooting Implement and maintain monitoring, alerting, and logging to ensure platform health and support incident investigation Manage certificate lifecycle operations, including renewal of public certificates and related automation Contribute to platform security posture through container security practices, Iron Bank image compliance, and support for ATO processes Collaborate with application teams to troubleshoot deployment issues, broken pipelines, and platform integration problems Write and maintain technical documentation, runbooks, architecture decision records (ADRs), and operational standards Influence the strategic vision by contributing to the strategic planning that aligns technological advancements with the mission objectives. Participate in on-call rotations and support platform incidents in a tier 2 role Mentor and support junior engineers through pairing, code reviews, and knowledge sharing The listed responsibilities a...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "Azure",
+        "Docker",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "Docker",
+        "GitHub Actions",
         "Python"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Sensing OPIR Engineer - Mid Level #900 at Allen Integrated Solutions, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Sensing OPIR Engineer - Mid Level #900 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Platform Engineer - FedD180/FedD181 at Defense Unicorns, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
+      "rule_based_application_sentence": "Your Platform Engineer - FedD180/FedD181 role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "3 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible."
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
-      "id": "jobicy-161774",
-      "title": "Sensing OPIR Engineer - #898",
-      "company": "Allen Integrated Solutions",
-      "location": "USA",
+      "id": "jobicy-162135",
+      "title": "Sales Operations Analyst",
+      "company": "Clipboard",
+      "location": "Canada,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161774-sensing-opir-engineer-898",
-      "published_at": "2026-11-13",
-      "match_score": 57,
-      "priority": "medium",
-      "raw_description": "Remote Sensing OPIR Engineer - #898 Clearance Required: TS/SCI Minimum Years’ Experience: 5 years of experience in EO/IR algorithm development Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Remote Sensing OPIR Engineer to support the National Geospatial-Intelligence Agency (NGA) in infrared sensing, space-based missile warning systems, data exploitation, and algorithm development. The ideal candidate will possess a strong technical background in electro-optical/infrared (EO/IR) systems, infrared phenomenology, Overhead Persistent Infrared (OPIR) data analysis, and remote-sensing software development. This role requires demonstrated experience working with complex sensor systems, developing and testing advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Prototype and develop advanced OPIR data-processing algorithms and support their transition into operational environments. Evaluate and troubleshoot data-processing pipelines, identify anomalies, and coordinate remediation strategies. Support the development of white papers, technical documentation, and technology-transition plans. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies. Required Qualifications Active TS/SCI clearance. Bachelor’s degree in computer engineering, physics, computer science, or a related technical field. At least five years of experience in EO/IR algorithm development. Advanced understanding of EO/IR signal processing, artificial intelligence and machine learning applications, and target-system phenomenology. Detailed experience with OPIR data formats and processing pipelines. Advanced Python development skills. Strong analytical and problem-solving skills, including the ability to diagnose sensor-performance issues, data anomalies, and software problems. Desired Qualifications Direct experience performing OPIR analysis. Mast...",
+      "url": "https://jobicy.com/jobs/162135-sales-operations-analyst-3",
+      "published_at": "2026-11-14",
+      "match_score": 43,
+      "priority": "low",
+      "raw_description": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across the U.S. Founded in 2016, we are a remote-first team of over 1,000 people building a top Y-Combinator company and have been profitable since 2022. We’re the leader in Long-Term Care staffing and are rapidly expanding into Home Health, Hospitals, and more, meaning we have more work to do than people to do it, and are growing our team to support millions more people and their communities. About the Role Clipboard is looking for a Sales Operations Analyst to help build and run the systems behind our sales organization. You'll work across Salesforce, data, automation, and internal tools to help our sales team operate more effectively. That might mean building an automation that eliminates a recurring workflow, investigating a messy data problem, redesigning part of our Salesforce setup, or building a new system from the ground up. We are a small team with an unusual operating model. Much of our execution runs through AI agents that we direct and quality-check, allowing each analyst to operate with the leverage of a much larger team. This is equal parts builder and operator. You'll own systems end to end, work through ambiguous requests from reps and leadership, and be accountable for making sure the things you build actually work. What You'll Do Own live systems. Take ownership of production systems such as account distribution, deal intelligence, competitor tracking, and data sync pipelines. You'll be accountable for their accuracy and reliability. Solve ambiguous problems. Work through requests from sales reps, managers, and leadership, figure out what is actually needed, and execute quickly. Direct AI agents. Write specs and prompts, supervise AI agents, and rigorously QA their output before it touches production data. Build automations and tools. Create scripts, scheduled jobs, Slack bots, and lightweight web apps that turn recurring manual work into scalable systems. Analyze and report. Use SQL and other tools to answer important revenue questions and build reporting the organization can trust. Guard data quality. Handle merges, deduplication, account mapping, enrichment, and other wo...",
       "required_skills": [
-        "Python"
+        "Python",
+        "SQL"
       ],
       "matched_skills": [
         "Python"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Sensing OPIR Engineer - #898 at Allen Integrated Solutions, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Sensing OPIR Engineer - #898 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Sales Operations Analyst at Clipboard, focused on Python, SQL. Location: Canada,  USA.",
+      "rule_based_application_sentence": "Your Sales Operations Analyst role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "1 of 2 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
-      "id": "jobicy-161777",
-      "title": "Sensing OPIR Engineer – SME #899",
-      "company": "Allen Integrated Solutions",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/161777-sensing-opir-engineer-sme-899",
-      "published_at": "2026-11-13",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "Remote Sensing OPIR Engineer – SME #899 Clearance Required: TS/SCI Minimum Years’ Experience: 15 years of experience in EO/IR algorithm development Dayton, Ohio - 100% onsite Overall Assignment Description: *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-8\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"> *]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" data-turn-id=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-13\" data-turn-id-container=\"request-WEB:12b88fca-089f-4a05-95b1-bb38f1b1f6b0-13\" data-testid=\"conversation-turn-16\" data-turn=\"assistant\"> Allen Integrated Solutions is seeking a highly skilled Subject Matter Expert in Overhead Persistent Infrared (OPIR) research engineering to support the National Geospatial-Intelligence Agency (NGA) in infrared sensing, space-based missile warning systems, data exploitation, and algorithm development. The ideal candidate will possess an extensive technical background in electro-optical/infrared (EO/IR) systems, infrared phenomenology, OPIR data analysis, and remote-sensing software development. This role requires demonstrated experience working with complex sensor systems, leading the development and testing of advanced analytical capabilities, and collaborating with government, industry, and research partners on next-generation sensing technologies. Responsibilities Lead the prototyping and development of advanced OPIR data-processing algorithms and support their transition into operational environments. Evaluate and troubleshoot data-processing pipelines, identify anomalies, and coordinate remediation strategies. Support the development of white papers, technical documentation, and technology-transition plans. Collaborate with research organizations, Department of Defense stakeholders, Intelligence Community organizations, and external agencies. Required Qualifications Active TS/SCI clearance. Bachelor’s degree in computer engineering, physics, computer science, or a related technical field. At least 15 years of experience in EO/IR algorithm devel...",
-      "required_skills": [
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "published_at": "2026-11-11",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
+      "required_skills": [],
+      "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Sensing OPIR Engineer – SME #899 at Allen Integrated Solutions, focused on Python. Location: USA.",
-      "rule_based_application_sentence": "Your Sensing OPIR Engineer – SME #899 role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
+      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
       ]
     },
     {
@@ -278,30 +299,6 @@
       "missing_skills": [],
       "rule_based_summary": "Customer Service Representative at ShyftOff, focused on AI/data skills. Location: USA.",
       "rule_based_application_sentence": "Your Customer Service Representative role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "remotive-2086540",
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "published_at": "2026-11-08",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! Compensation Structure This role is 100% commission-based , which means your earning potential is unlimited. In addition, we regularly offer competitive performance-based bonuses to reward hard work and results. Training Period (Weeks 1–4) We invest in your success and want to make sure you’re supported as you get up to speed: Week 1: Commission-only (a chance to start earning right away while learning the ropes). Weeks 2–4: Guaranteed training stipend of $500 USD total – or your commission if it’s higher. You’ll always receive whichever amount benefits you most. Week 0: Unpaid Week 1: $100 guaranteed minimum Week 2: $150 guaranteed minimum Week 3: $250 guaranteed minimum By the end of training, you’ll have the skills to maximize commissions, with the safety net of a guaranteed base during your ramp-up period. Post Training Period: Average first year OTE: 25K-35K (US) Annually Top Rep first year OTE: 35K-45K (US) Annually *The above is the average pay you can expect, however, there is unlimited earning potential for those who are financially motivated top performers looking to exceed sales targets. What will you be doing? Educating inbound callers on their credit standing by providing consultations with the goal of enrolling them in one of our services should they be a good fit. We are looking for team members who are: Tech savvy with the ability to navigate digital tools such as SLACK, CRM software, google sheets, etc. Our team uses these digital tools daily. Growth oriented and always looking to learn and acquire new skills. Autonomous self starters who can work independently and efficiently. Team players with the ability to implement feedback from their sales coaches. Patient and professional with clients. Finances can be a difficult topic for some clients to discuss. We are looking for individuals who showcase empathy and professionalism es...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Inside Sales Contractor at Credit Wellness, LLC, focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Inside Sales Contractor role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
@@ -332,6 +329,37 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-162136",
+      "title": "Head of Solutions, Power Markets (West)",
+      "company": "Energy Exemplar",
+      "location": "Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/162136-head-of-solutions-power-markets-west",
+      "published_at": "2026-11-14",
+      "match_score": 38,
+      "priority": "low",
+      "raw_description": "About Energy Exemplar In an era where the world is rapidly advancing towards a cleaner future through decarbonization, Energy Exemplar’s mission lies in ‘Empowering Transformative Energy Decisions’. Founded in 1999 in Adelaide, Australia, our award-winning software portfolio encompassing the modeling and simulation platform PLEXOS®, Aurora, and Adapt2, is trusted by innovative organizations across the globe. Through our technology and people, we strive to enable stakeholders from across the entire energy value chain to revolutionize the energy ecosystem and to collaboratively plan and execute for a sustainable energy future with unprecedented clarity, speed, and innovation. Our impact is global and is being recognized across the industry. Some of our recent accolades include: SaaS Company of the Year (2025) – Global Business Tech Awards. Environmental Impact Award (2025) – E+E Leaders Awards. IPPAI (Independent Power Producers Association of India) Power Awards (2025) - Winners Finalist: Platts Global Energy Awards (2024) – Grid Edge category Finalist: Reuters Global Energy Transition Awards (2024) – Technologies of Change Top 50 Marketing Team (2024) – Voted by the public at the ICON Awards. How We Work Energy Exemplar is growing fast and that growth is driven by how we work. We trust our team to deliver great results from wherever they work best, whether that’s at home, in the office, or on the move. We’re a global team that values ownership, integrity, and innovation. You’ll be supported to balance work and life in a way that works for you, and empowered to take initiative, solve problems, and make an impact, regardless of your background, location, or role. Our four core values, Customer Success, One Global Team, Integrity & Ownership, and Innovation Excellence aren’t just words. They show up in how we collaborate, how we solve, and how we grow together. About the Position The Head of Solutions, Power Markets (West Region) leads Energy Exemplar's presales Solutions team across the Western United States and Canada. The role owns the technical win for every opportunity in ERCOT, CAISO, SPP, WECC, AESO, and IESO. Accountability runs from first discovery through technical close and a signed handoff to Services. Scope covers new-logo pursuits and expansion within existing accounts across utilities, ISOs/RTOs, regulators, developers, traders, and consultancies. This is the region's senior pre-sales leader and its engine of retention and growth. The role t...",
+      "required_skills": [
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Head of Solutions, Power Markets (West) at Energy Exemplar, focused on Python, SQL. Location: Canada,  USA.",
+      "rule_based_application_sentence": "Your Head of Solutions, Power Markets (West) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 2 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: SQL."
       ]
     }
   ]
