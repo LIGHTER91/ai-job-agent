@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:36:17Z",
+  "generated_at": "2026-11-17T15:55:13Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -108,6 +108,38 @@
       ]
     },
     {
+      "id": "jobicy-162755",
+      "title": "Senior Software Engineer, Developer Experience",
+      "company": "Thumbtack",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/162755-senior-software-engineer-developer-experience-2",
+      "published_at": "2026-11-17",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together. About the Developer Experience Team The Developer Experience (DevEx) team makes Thumbtack's ~250 engineers more productive. We own the AI-powered developer workflows, cloud development environments, and internal developer platform the whole engineering org builds on. We're small and senior: a four-person team in Productivity Engineering, alongside Mobile Infra, Frontend Infrastructure, and Design Systems Engineering. We partner closely with engineers across the company to find their pain points and ship solutions. You can read more about our engineering culture on the Thumbtack Engineering Blog . The challenge We're building the infrastructure for an AI-native engineering organization, and every stream here is active work today: agentic developer tools like Claude Code, Codex, and Cursor, backed by a library of skills that encode Thumbtack-specific knowledge; a catalog of Model Context Protocol (MCP) servers that make our internal tools AI-accessible; and cloud development environments (CDEs) built for humans and agents alike. Alongside these, we're modernizing the Web and CLI tooling layers engineers reach for every day. A single improvement we ship can move dozens of teams forward. What you’ll do Build the platforms behind agentic developer workflows: roll out the tools the org builds on (Claude Code, Codex, Cursor) and ship the skills, plugins, and MCP servers that run across them. Design and build the product surfaces engineers and AI agents reach for daily: self-service workflows in our Backstage developer portal, our developer CLI, IDE integrations, and the framework engineers use to build and deploy their own agents. Own and evolve our Cloud Development Environment (CDE) platform for both human developers and AI agents. Improve the build systems, CI/CD pipelines, test infrastructure, and observability the whole org depends on. Prototype and evaluate new AI developer tools as the...",
+      "required_skills": [
+        "GitHub Actions",
+        "Python",
+        "React"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Software Engineer, Developer Experience at Thumbtack, focused on GitHub Actions, Python, React. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer, Developer Experience role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -150,116 +182,79 @@
       ]
     },
     {
-      "id": "jobicy-162597",
-      "title": "Staff Backend Developer - Threat Intelligence",
-      "company": "Zscaler",
-      "location": "UK",
+      "id": "jobicy-162759",
+      "title": "Staff Application Security Engineer",
+      "company": "Apollo.io",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162597-staff-backend-developer-threat-intelligence",
-      "published_at": "2026-11-16",
-      "match_score": 48,
-      "priority": "low",
-      "raw_description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform. We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler. Role We are looking for a Staff Backend Developer to join our Threat Intelligence team. This is a remote role based anywhere in the UK, reporting to the Sr. Director, Threat Intelligence in the Threat Intelligence department. In this critical role, you will design, implement, and maintain high-performance backend systems. You will collaborate closely with our malware reverse engineering team to build a sophisticated platform that enhances Zscaler’s core threat detection capabilities. What you’ll do (Role Expectations) Build scalable data pipelines and design systems that ingest, process, and index large volumes of documents and data. Take the lead on improving development best practices across the team, championing standards for code reviews, testing, observability, and documentation. Identify and address performance bottlenecks to ensure the overall efficiency and reliability of the applications. Develop robust, reliable backend APIs and services by creating, testing, and measuring backend workflows. Who You Are (Success Profile) You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful. You are a problem-solver. You seek out challenges because you are energized by finding solutions, knowing that solving the hard problems delivers the biggest impact. You are a posi...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "PostgreSQL",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes",
-        "SQL"
-      ],
-      "rule_based_summary": "Staff Backend Developer - Threat Intelligence at Zscaler, focused on Docker, Kubernetes, LLM, PostgreSQL. Location: UK.",
-      "rule_based_application_sentence": "Your Staff Backend Developer - Threat Intelligence role interests me because it connects directly with my work around Docker, LLM, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes, SQL."
-      ]
-    },
-    {
-      "id": "jobicy-162617",
-      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
-      "company": "Binance",
-      "location": "Europe,  UAE",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162617-devops-engineer-blockchain-infra-fully-remote-3",
-      "published_at": "2026-11-16",
+      "url": "https://jobicy.com/jobs/162759-staff-application-security-engineer-2",
+      "published_at": "2026-11-17",
       "match_score": 46,
       "priority": "low",
-      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About the Role We are looking for a Senior DevOps Engineer to build and operate highly available, scalable, and secure cloud infrastructure supporting blockchain services and distributed systems. You will be responsible for designing cloud-native platforms, automating infrastructure, improving system reliability, and collaborating with engineering teams to deliver production-grade services across multiple cloud providers. This role is ideal for someone who enjoys solving infrastructure challenges at scale, has strong software engineering fundamentals, and is passionate about automation and platform engineering. Responsibilities Design, build, and maintain highly available cloud infrastructure across AWS, GCP, and Azure. Operate and optimize Kubernetes clusters in production environments. Manage cluster autoscaling and capacity planning using Karpenter and Kubernetes native technologies. Build and maintain Infrastructure as Code (IaC) using Terraform. Design and improve CI/CD pipelines for application and infrastructure deployment. Deploy and operate middleware platforms such as Kafka, Redis and NGINX. Automate operational tasks using Golang and Python. Improve observability through monitoring, logging, alerting, and distributed tracing. Ensure platform reliability, scalability, security, and disaster recovery. Troubleshoot production incidents and perform root cause analysis. Work closely with software engineers to improve deployment processes and platform developer experience. Participate in on-call rotations and incident response. Requirements 5+ years of experience as a DevOps Engineer, Platform Engineer, SRE, or Infrastructure Engineer. Strong experience with at least one major cloud platform: AWS / GCP / Azure Hands-on experience managing Kubernetes production environments. Experience with Karpenter for Kubernetes autoscaling and node lifecycle management. Strong experience with Terraform for infr...",
+      "raw_description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion. Apollo.io provides sales and marketing teams with easy access to verified contact data for over 210 million B2B contacts and 35 million companies worldwide, along with tools to engage and convert these contacts in one unified platform. By helping revenue professionals find the most accurate contact information and automating the outreach process, Apollo.io turns prospects into customers. Apollo raised a series D in 2023 and is backed by top-tier investors, including Sequoia Capital, Bain Capital Ventures, and more, and counts the former President and COO of Hubspot, JD Sherman, among its board members. Role Overview The Staff Application Security Engineer leads application security strategy for Apollo’s Security department and delivers it through hands-on work and technical leadership. This role takes on the hardest AppSec problems across product, platform, and AI-powered features, including problems with no established playbook. The role shapes the roadmaps of Engineering, Product, and Platform teams so secure patterns become the default, and sets the AppSec standard that helps many teams build securely without relying on any single person. Key Responsibilities AppSec strategy, standards, and influence Lead Apollo’s multi-year AppSec strategy and turn it into multi-quarter, cross-team initiatives that move Security department KRs. Report progress, risks, and tradeoffs to Security leadership on a regular cadence. Shape Engineering, Product, Platform, and Data roadmaps so security work is planned in early, and represent AppSec in cross-department decisions. Set the secure design, code review, and risk model standards used across the department and adjacent engineering teams, including expectations for AI-generated and agent-generated code. Mentor senior engineers and security champions, grow the champions program, and help raise the hiring bar, so the AppSec program does not depend on one person’s expertise. Secure architecture and vulnerability depth Lead security architecture reviews and threat modeling for ambiguous, high-scale, multi-team systems, including AI and agent features, and define the approac...",
       "required_skills": [
-        "AWS",
-        "Azure",
         "Docker",
-        "GitHub Actions",
         "Kubernetes",
         "Python",
+        "React",
         "Terraform"
       ],
       "matched_skills": [
         "Docker",
-        "GitHub Actions",
-        "Python"
+        "Python",
+        "React"
       ],
       "missing_skills": [
-        "AWS",
-        "Azure",
         "Kubernetes",
         "Terraform"
       ],
-      "rule_based_summary": "DevOps Engineer, Blockchain Infra (Fully Remote) at Binance, focused on AWS, Azure, Docker, GitHub Actions. Location: Europe,  UAE.",
-      "rule_based_application_sentence": "Your DevOps Engineer, Blockchain Infra (Fully Remote) role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Staff Application Security Engineer at Apollo.io, focused on Docker, Kubernetes, Python, React. Location: USA.",
+      "rule_based_application_sentence": "Your Staff Application Security Engineer role interests me because it connects directly with my work around Docker, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 7 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-162618",
-      "title": "Senior Site Reliability Engineer - Ceph Storage",
-      "company": "GoDaddy",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162618-senior-site-reliability-engineer-ceph-storage",
-      "published_at": "2026-11-16",
-      "match_score": 43,
-      "priority": "low",
-      "raw_description": "Location Details: At GoDaddy the future of work looks different for each team. Some teams work in the office full-time; others have a hybrid arrangement (they work remotely some days and in the office some days) and some work entirely remotely.​ This is a remote position, so you’ll be working remotely from your home. You may occasionally visit a GoDaddy office to meet with your team for events or meetings. Join Our Team… GoDaddy's Global Storage Engineering team operates one of the largest Ceph environments in the industry, powering the object, block, and file storage platforms that underpin hosting, applications, internal infrastructure, and next-generation AI/HPC workloads. If you're passionate about distributed systems, large-scale storage architecture, and solving complex reliability challenges, you'll work on infrastructure that few engineers ever experience. At GoDaddy, Ceph isn't a side project — it's a critical platform. Our environment spans 80+ production clusters, 20,000+ OSDs, and approximately 300 PB of raw storage capacity, supporting tens of billions of objects across multiple continents. The scale demands deep technical expertise in storage architecture, automation, observability, and performance engineering. As a Senior Site Reliability Engineer, you'll be a key technical owner of the platform, responsible for maintaining reliability, driving operational excellence, and influencing the future evolution of our storage ecosystem. You'll tackle challenging production problems, develop automation that operates at massive scale, contribute to architectural decisions, and collaborate with some of the industry's most experienced Ceph engineers. This is an opportunity to have direct impact on a storage platform that serves millions of customers worldwide. What You'll Get to Do… Own the reliability, performance, scalability, and capacity of large-scale production Ceph environments supporting object, block, and file storage workloads (RADOS, RGW, RBD, CephFS). Diagnose and resolve complex distributed systems issues including recovery/backfill events, OSD instability, PG imbalance, storage latency, and RGW performance bottlenecks. Design and build automation using Python, Shell, SaltStack, and Ansible to reduce operational toil and improve platform resilience at scale. Define and improve observability for the storage platform through SLIs, SLOs, PromQL, LogQL, Grafana dashboards, and proactive alerting strategies. Lead storage lifecycle initiative...",
-      "required_skills": [
-        "Kubernetes",
-        "Python"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Senior Site Reliability Engineer - Ceph Storage at GoDaddy, focused on Kubernetes, Python. Location: UK.",
-      "rule_based_application_sentence": "Your Senior Site Reliability Engineer - Ceph Storage role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "3 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
+        "Main missing or weaker skills: Kubernetes, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-162753",
+      "title": "Senior Software Engineer, Builder Studio",
+      "company": "Apollo.io",
+      "location": "Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/162753-senior-software-engineer-builder-studio",
+      "published_at": "2026-11-17",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion. Apollo.io provides sales and marketing teams with easy access to verified contact data for over 210 million B2B contacts and 35 million companies worldwide, along with tools to engage and convert these contacts in one unified platform. By helping revenue professionals find the most accurate contact information and automating the outreach process, Apollo.io turns prospects into customers. Apollo raised a series D in 2023 and is backed by top-tier investors, including Sequoia Capital, Bain Capital Ventures, and more, and counts the former President and COO of Hubspot, JD Sherman, among its board members. About Apollo Apollo is the AI-powered go-to-market platform that helps revenue teams find, engage, and convert their best customers. We combine a database of more than 210 million contacts and 35 million companies with an agentic end-to-end GTM platform, and more than 500,000 companies rely on us to run their go-to-market motion. We are profitable, growing fast, and rebuilding the product around AI and agents. About Builder Studio Builder Studio is Apollo's new product for building custom GTM software in plain English. A RevOps lead, GTM engineer, or founder describes the tool they need, and Builder Studio plans it, generates real code, and turns it into a working app they can preview, refine through conversation, publish, and share with their team. Every app is made of four building blocks: Pages for the interface, Databases for structured records, Workflows for visible backend logic and scheduled jobs, and Agents that reason over Apollo context and take action. What makes it different from a generic app builder is that Apollo's data, enrichment, sequences, deliverability, and CRM sync are native building blocks, not bolted-on third-party integrations. It is one of Apollo's flagship AI bets. The product is in the hands of early design partners now and is heading toward broad launch, which means the next year is about taking a working product and making it reliable, secure, and loved at scale. Your role and mission You will own major slices of Builder Studio end to end, across the builder experience custome...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "React",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python",
+        "React"
+      ],
+      "missing_skills": [
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Senior Software Engineer, Builder Studio at Apollo.io, focused on Docker, Kubernetes, Python, React. Location: Canada,  USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer, Builder Studio role interests me because it connects directly with my work around Docker, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes, Terraform."
       ]
     },
     {
