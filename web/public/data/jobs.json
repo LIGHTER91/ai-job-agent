@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:33:18Z",
+  "generated_at": "2026-11-19T15:39:52Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -108,36 +108,6 @@
       ]
     },
     {
-      "id": "jobicy-163083",
-      "title": "AI Support Engineer - Toronto",
-      "company": "OpenAI",
-      "location": "Canada",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163083-ai-support-engineer-toronto",
-      "published_at": "2026-11-18",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "About the Team OpenAI ’s User Operations team shepherds our customers’ adoption of AI and ensures that our customers' product experience is nothing short of exceptional. We are building the very first post-AGI support team. We resolve complex issues, provide technical guidance, and support customers in maximizing value and adoption from deploying our products. We work closely with Sales, Technical Success, Product, Engineering and others, to deliver the best possible experience to our customers at scale. OpenAI's customers represent a range of diverse backgrounds and maturity, from early-stage startups to established global enterprises. About the Role We’re looking for dedicated, experienced, and deeply curious individuals to help solve some of the most complex challenges faced by our customers while building the future of post-AGI support alongside us. In this role, you’ll work directly with customers through support tickets and live calls, troubleshooting high-impact issues and resolving novel, often ambiguous technical problems in one of the fastest-moving environments in technology. As AI adoption rapidly accelerates, the work you do will directly support mission-critical systems being built on OpenAI’s platform, serving as a critical line of defense for customers operating at massive scale. Beyond resolving technical issues, you’ll help define what world-class support looks like in an AGI-driven future. You’ll partner closely with Engineering, Product, and Operations to improve systems, reduce bugs, and elevate the customer experience, while leveraging automation, agents, and our own AI technology to transform how support operates at scale. This Toronto-based role is currently remote and is expected to transition to an in-office arrangement. In this role, you will: Work directly with customers to troubleshoot and resolve their most complex technical issues, including API failures, integration challenges, authentication errors, and production incidents. Providing end-to-end ownership through debugging logs, analyzing system behavior, reproducing issues, and delivering expert guidance. Become a trusted expert on OpenAI’s products and platform, serving as a go-to resource for complex technical issues. Serve as a critical escalation point and line of defense for complex technical issues, partnering closely with customers and Engineering teams to troubleshoot, resolve, and proactively prevent recurring problems while leveraging scripting and emerging AI...",
-      "required_skills": [
-        "OpenAI",
-        "Python"
-      ],
-      "matched_skills": [
-        "OpenAI",
-        "Python"
-      ],
-      "missing_skills": [],
-      "rule_based_summary": "AI Support Engineer - Toronto at OpenAI, focused on OpenAI, Python. Location: Canada.",
-      "rule_based_application_sentence": "Your AI Support Engineer - Toronto role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 2 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -180,81 +150,78 @@
       ]
     },
     {
-      "id": "jobicy-163077",
-      "title": "Senior Full Stack Engineer",
-      "company": "Quilter",
+      "id": "jobicy-163277",
+      "title": "Senior Software Engineer, Production Support",
+      "company": "Fieldguide",
       "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163077-senior-full-stack-engineer-11",
-      "published_at": "2026-11-18",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/163277-senior-software-engineer-production-support",
+      "published_at": "2026-11-19",
+      "match_score": 45,
       "priority": "low",
-      "raw_description": "About Quilter At Quilter, we are helping electrical engineers save time and accomplish more by automating the tedious and time-consuming task of designing printed circuit boards (PCBs). Our small team is composed of experts in electrical engineering, electromagnetic simulation, ML/AI, and high-performance computing (HPC). We are inventing and leveraging novel techniques to solve the decades-old problem of automating circuit board design where today hundreds of billions of dollars are spent. We have raised $25 million in Series B funding from some of the very best and are charging full-speed toward our goal. No matter where we come from, we're united by a common vision for the future and a core set of values we think will get us there: Curiosity Conviction Rigor We’re looking for a Senior Full Stack Engineer to join Quilter’s Application Team and help us build the software platform behind the future of circuit board design. We are a team of generalists who pride ourselves on solving new challenges and always learning. You’ll work across the stack to create helpful and friendly user interfaces as well as the services backing them. As one of our early engineers, you’ll have massive ownership and influence over the direction of our product, architecture, and team culture. This role is ideal for someone who thrives in high-ownership environments, loves solving complex technical problems, and is excited by the idea of bridging the worlds of software and hardware development. Today, the team works mainly with Python and Typescript / Javascript so strong fundamentals with those tools is required. What You’ll Do Build new customer-facing features from top to bottom (data models, API, UI, and beyond) Create clean, intuitive UIs that empower customers to easily work with complex circuit board data Develop and maintain performant and reliable backend services, data pipelines, and APIs Collaborate with ML, EDA, and electrical engineering experts to integrate novel core algorithms Contribute to architectural decisions, infrastructure design, and internal dev tooling Own large parts of the product—from concept to deployment—in a fast-moving, early-stage team What We’re Looking For 6+ years of experience as a software engineer, ideally in a startup or high-velocity environment, but also with some experience in a large collaborative team Strong fluency in TypeScript / Javascript, Python, React, MongoDB, Docker, and Kubernetes Strong experience with automated testing, CI...",
+      "raw_description": "About the Role We are building a new engineering-led production support function, and as a Senior Software Engineer, Production Support , you will operate at the intersection of support, product, and engineering. Your primary focus will be to debug complex product issues, ship fixes, and improve overall system reliability — serving as the technical escalation layer that helps our support team resolve issues quickly and eliminate them at the root. You will be part of a dedicated production support pod, working alongside engineers and support teammates to tackle real issues in production, bridging the gap between customer-facing challenges and long-term engineering solutions. This hire must be comfortable working 9am to 6pm Pacific Time. What You’ll Do: Debug & Resolve Complex Issues Investigate escalations across frontend (JavaScript), APIs, and data flows Reproduce issues and identify root causes Work across the stack to understand system behavior Ship Fixes & Improvements Write and ship small-to-medium fixes (PRs) Improve reliability and reduce repeat issues Contribute incremental product improvements Support the Support Team Act as the technical escalation point for support representatives Provide clear guidance and unblock issues quickly Help improve debugging workflows and internal playbooks Contribute to Customer Feedback Execution Translate structured customer feedback into actionable technical issues Provide T-shirt sizing (S / M / L) from an engineering perspective Identify small, high-impact fixes that can be shipped quickly Help close the loop on resolved issues Drive Systemic Improvements Identify recurring issues and eliminate them Improve logging, observability, and debugging processes Build lightweight tooling or scripts to improve efficiency What You Are: 5+ years of experience in Software Engineering, Developer Support / DevEx, Solutions Engineering, or Technical Product Support ideally for a B2B SaaS platform. Familiarity with modern web technologies such as TypeScript, React, Node.js, Python, GraphQL. Experience working with relational databases (e.g. PostgreSQL), including: understanding data models, writing/debugging SQL queries, investigating data inconsistencies. Comfortable reading and navigating production codebases. Experience debugging across: browser dev tools, APIs and network requests, frontend UI/state issues, backend data flows and database interactions. Effective communication with an ability to code-switch between techni...",
       "required_skills": [
-        "AWS",
-        "Docker",
-        "GitHub Actions",
-        "Kubernetes",
-        "LLM",
         "PostgreSQL",
         "Python",
         "React",
-        "Terraform"
+        "SQL"
       ],
       "matched_skills": [
-        "Docker",
-        "GitHub Actions",
-        "LLM",
         "PostgreSQL",
         "Python",
         "React"
       ],
       "missing_skills": [
-        "AWS",
-        "Kubernetes",
-        "Terraform"
+        "SQL"
       ],
-      "rule_based_summary": "Senior Full Stack Engineer at Quilter, focused on AWS, Docker, GitHub Actions, Kubernetes. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Full Stack Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, LLM, PostgreSQL, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Senior Software Engineer, Production Support at Fieldguide, focused on PostgreSQL, Python, React, SQL. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Software Engineer, Production Support role interests me because it connects directly with my work around PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 9 extracted skills match the profile.",
+        "3 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Kubernetes, Terraform."
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
-      "id": "jobicy-163072",
-      "title": "Senior Customer Support Engineer",
-      "company": "UpBound",
-      "location": "Canada,  USA",
+      "id": "jobicy-163297",
+      "title": "Site Reliability Engineer (Australia, Remote)",
+      "company": "Axon",
+      "location": "Australia",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163072-senior-customer-support-engineer-5",
-      "published_at": "2026-11-18",
-      "match_score": 43,
+      "url": "https://jobicy.com/jobs/163297-site-reliability-engineer-australia-remote",
+      "published_at": "2026-11-19",
+      "match_score": 42,
       "priority": "low",
-      "raw_description": "Upbound is redefining how modern infrastructure is built for the Agentic AI Era. We’re the creators and primary maintainers of Crossplane , and we’re building the Intelligent Control Plane —a new platform layer that makes infrastructure programmable, autonomous, and composable . Our mission is to power the AI-native enterprise with a foundational platform layer that helps teams provision, operate, and adapt infrastructure at scale—so platforms are ready for both humans and AI agents . We partner with leading cloud providers, ISVs, and open-source communities to help organizations move faster with greater confidence. Today, Upbound supports Fortune 500 companies and platform engineers across 100+ countries . Crossplane has surpassed 100M+ downloads and is used by 1,000+ teams worldwide . We’re a Series B company backed by GV (formerly Google Ventures), Altimeter Capital, and Intel Capital , and we’ve raised $69M to date. Learn more at upbound.io As a Senior Customer Support Engineer at Upbound, you won’t just resolve tickets, you'll own the customer experience from first touch to full resolution, setting the standard for what world-class technical support looks like in the cloud-native ecosystem. You’ll be a trusted technical advisor to our customers, working alongside Product, Engineering, and Customer Success to make every interaction exceptional. This role reports into the Customer Experience team at Upbound a signal of how seriously we take support as a strategic function, not an afterthought. This is a high-impact role for someone who gets genuine satisfaction from solving hard problems, has a natural drive to help, and believes that great support is a craft not a function. In this role, you will: Serve as a primary technical resource for customer inquiries related to Upbound’s products Spaces, Cloud, Official Extensions, Marketplace, Registry & More delivering a “wow” experience with every single touch Apply a structured, methodical troubleshooting approach to diagnose and resolve complex customer issues, moving efficiently from hypothesis to root cause Triage, own, and drive tickets to resolution with urgency and clear communication proactively keeping customers informed every step of the way Identify, document, and escalate bugs and product issues to Engineering with thorough reproduction steps, collaborating closely to ensure fast resolution Partner with the Solutions team on complex, strategic customer requests, ensuring seamless handoffs and c...",
+      "raw_description": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other. Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter. Your Impact As a contributor in the SRE organization, you are passionate about delivering solutions to the real-time problems our mission-critical cloud native services encounter. You are also obsessed about achieving the high quality and reliability our customers demand. You will work closely not only with the SRE division, but your technical deliverables will reach the entire engineering organization to enable product teams to continuously deliver features on the vanguard of innovation. What You'll Do Location: Remote anywhere in Australia Contribute to building and maintaining reliable, scalable, and secure cloud platforms and tools. Apply site reliability engineering principles to improve system stability and performance. Write clean, maintainable, and efficient code Troubleshoot and debug issues in distributed cloud-native systems. Collaborate with engineering teams to support service reliability and operational excellence. Create and maintain documentation to support engineers and improve self-service capabilities. Participate in on-call rotations and incident response, learning best practices along the way. Continuously develop your skills and contribute to team knowledge sharing. What You Bring 2–5 years of relevant experience in software engineering, SRE, or infrastructure roles Solid understanding of operating systems, preferably Linux Experience with cloud platforms such as Azure, AWS, or similar Experience with Kubernetes platforms like AKS, EKS, or similar Experience with at least one programming language such as Python, Go, C#, Java, or similar Familiarity with CI/CD pipelines and automation practices Experience with observability tools (logging, metrics, APM) Exposure to Infrastructure as Code concepts (e.g., Terraform, ARM, etc.) Strong problem-solving skills and a willingness to learn Good communication and collaboration skills Australian government security clearance, or ability to ob...",
       "required_skills": [
+        "AWS",
+        "Azure",
+        "GitHub Actions",
         "Kubernetes",
-        "Python"
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "Kubernetes"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
       ],
-      "rule_based_summary": "Senior Customer Support Engineer at UpBound, focused on Kubernetes, Python. Location: Canada,  USA.",
-      "rule_based_application_sentence": "Your Senior Customer Support Engineer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Site Reliability Engineer (Australia, Remote) at Axon, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Australia.",
+      "rule_based_application_sentence": "Your Site Reliability Engineer (Australia, Remote) role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 2 extracted skills match the profile.",
+        "2 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
@@ -350,6 +317,39 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile."
+      ]
+    },
+    {
+      "id": "jobicy-163256",
+      "title": "1192 - Sr. BIM Software Developer",
+      "company": "GoFasti",
+      "location": "LATAM",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163256-1192-sr-bim-software-developer",
+      "published_at": "2026-11-19",
+      "match_score": 33,
+      "priority": "low",
+      "raw_description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti , a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Sr. BIM Software Developer , based in Latin America, available to work remotely. We are looking for someone with exceptional communication and relationship-building skills, who embraces changes while maintaining strong attention to detail. An interested and proactive person, who's constantly learning and improving their skills. Are you the one we are looking for? Responsibilities: Build and support internal web applications using ASP.NET. Automate repetitive tasks and data workflows with PowerShell and Python scripts. Troubleshoot, debug, and improve existing tools and integrations. Join a few check-ins with the client's team each week to share progress and align on priorities. Document the tools you build so the team can use and maintain them. Requirements: 4-5 Years of experience developing and maintaining add-ins and plugins for Revit, AutoCAD, and Navisworks using C# and the Autodesk APIs. Strong experience with C# and the .NET framework. Experience building web applications with ASP.NET. Hands-on experience developing with the Revit API, AutoCAD API, and Navisworks API. Scripting experience with PowerShell and Python. Proficiency across the Microsoft stack (e.g., Visual Studio, SQL Server, Azure, or IIS). Able to work independently with limited supervision. It's a plus: Background in architecture, engineering, or construction, or experience as a BIM user. Experience with Dynamo or other BIM automation tools. Compensation: The salary range offered for this position varies from (USD) $3,500 - $4,500 per month, depending on seniority and skillset. This is a one-month contract with the possibility of an extension based on the client's needs. This position is for a full time contract, through a payroll platform. The talent will work remotely allocated at our client. Here are the steps for this process: Live Assessment > Application review/approval > Screening interview with GoFasti's team > We build and send your profile to our client > Profile review/approval by client > Interview with the client > Hiring and onboarding. Once you apply for the job, our team will review your resume. If it meets the requirements, we will contact you and move forward in the process. Note for Candidates Approached Directly: If...",
+      "required_skills": [
+        "Azure",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Azure",
+        "SQL"
+      ],
+      "rule_based_summary": "1192 - Sr. BIM Software Developer at GoFasti, focused on Azure, Python, SQL. Location: LATAM.",
+      "rule_based_application_sentence": "Your 1192 - Sr. BIM Software Developer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: Azure, SQL."
       ]
     }
   ]
