@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:39:52Z",
+  "generated_at": "2026-11-20T15:21:21Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,6 +74,76 @@
   },
   "jobs": [
     {
+      "id": "jobicy-163527",
+      "title": "Lead Machine Learning Scientist, Search",
+      "company": "Monzo",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163527-lead-machine-learning-scientist-search-2",
+      "published_at": "2026-11-20",
+      "match_score": 72,
+      "priority": "medium",
+      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning Search Team We are currently embarking on one of our two top strategic priorities to make Money work for Everyone: building the Monzo Co-pilot. We are becoming an intelligent, proactive ally that handles the complexity of users financial life. We aren't just selling financial products; we are building a truly smart agent that understands users, anticipates their needs, and helps people reach their financial goals. Our ML Search team brings together Backend, Product, Machine Learning Scientists and Data Scientists. As a Lead Machine Learning Scientist, you’ll build and ship models that help customers search for and find answers about their financial lives. You'll make it effortless for them to find the right products at the exact moment they need them. Whether it’s surfacing the right savings product at the perfect moment, helping customers manage their spending, or simplifying financial planning, our work makes banking smarter, more intuitive, and truly customer-first. What you’ll be working on: As a Lead Machine Learning Scientist, you'll be a technical leader and individual contributor. We have a modern, cloud-native data platform with billions of rows of data built for fast iterations. You'll leverage your deep expertise to develop and deploy advanced ML models to our more than 15 million customers. Your work may involve user and product embeddings to better understand customer behaviours, contextual bandits for optimising real-time decisions, or personalised ranking algorithms that improve search and discovery. You...",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Vector search"
+      ],
+      "matched_skills": [
+        "Python",
+        "Vector search"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Lead Machine Learning Scientist, Search at Monzo, focused on Python, SQL, Vector search. Location: UK.",
+      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, Search role interests me because it connects directly with my work around Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-163520",
+      "title": "Lead Machine Learning Scientist, Customer Operations",
+      "company": "Monzo",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163520-lead-machine-learning-scientist-customer-operations-2",
+      "published_at": "2026-11-20",
+      "match_score": 67,
+      "priority": "medium",
+      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning Operations team: The challenges are significant: we aim to transform customer service by reducing the time and effort required to resolve issues, enhancing customer confidence and satisfaction. As part of Operations, you’ll be at the forefront of our mission to provide unparalleled customer support experiences. Your role will be pivotal in leveraging state-of-the-art machine learning techniques (including LLMs and autonomous agents) to understand customer problems. You will lead the development of an effective human-in-the-loop system that augments automation with the efforts of our support workforce (who we call COps). This allows us to more expediently and efficiently predict, identify, disambiguate, and route customer problems at scale to support a rapidly expanding company with global ambitions across multiple geographies. You’ll be working closely with a team of Machine Learning Scientists in Operations, embedded in product squads alongside data scientists, backend, mobile and web engineers, product managers, user researchers, designers, and operations specialists. Your day-to-day: As a technical individual contributor, you’ll be providing technical leadership and shipping highly impactful ML-based solutions. You’ll be embedded in a cross-functional product squad, working closely with product managers, data scientists, backend engineers, and designers in an agile environment. You’ll also be a technical leader within the wider Machine Learning discipline, helping to steer technical work and drive up standards. This...",
+      "required_skills": [
+        "MLOps",
+        "Python",
+        "RAG",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python",
+        "RAG"
+      ],
+      "missing_skills": [
+        "MLOps",
+        "SQL"
+      ],
+      "rule_based_summary": "Lead Machine Learning Scientist, Customer Operations at Monzo, focused on MLOps, Python, RAG, SQL. Location: UK.",
+      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, Customer Operations role interests me because it connects directly with my work around Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "2 of 4 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps, SQL."
+      ]
+    },
+    {
       "id": "jobicy-162166",
       "title": "Senior Programmatic Trader (m/f/d)",
       "company": "Kayzen",
@@ -105,6 +175,40 @@
         "The offer explicitly appears junior or early-career compatible.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-163524",
+      "title": "Lead Machine Learning Scientist, FinCrime",
+      "company": "Monzo",
+      "location": "UK",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163524-lead-machine-learning-scientist-fincrime-2",
+      "published_at": "2026-11-20",
+      "match_score": 62,
+      "priority": "medium",
+      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning FinCrime Team: Our Financial Crime Data team consists of over 25 people across 4 data specialisms: Analytics Engineers, Data Analysts, Machine Learning Scientists and Data Scientists. As a Lead Machine Learning Scientist, you’ll be working in a fast moving environment, building and iterating on our financial crime defensive capabilities to ensure we keep Monzo and our customers safe. Our financial crime team has a large impact on Monzo’s bottom line as fraud and scams are usually some of the largest cost line items in a bank's P&L. We have a major influence on the overall customer experience and it’s our duty to keep our customers safe. The work we do results in directly measurable customer or company benefit, which is incredibly satisfying. Our Machine Learning Scientists work on a range of problems within the different financial crime areas ranging from fraud detection and prevention, transaction monitoring for different types of suspicious activity through to customer risk assessment and operational tooling. What you’ll be working on: A Lead Machine Learning Scientist at Monzo is a technical Individual Contributor (IC) leadership position. As a technical Machine Learning expert, working with billions of rows of data stored on a modern cloud native data platform, we’ll be expecting you to leverage your deep experience of developing and deploying advanced Machine Learning models to: Automatically and accurately detect suspicious user behaviours while minimising impact to genuine customers and operational costs Adapt q...",
+      "required_skills": [
+        "MLOps",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "MLOps",
+        "SQL"
+      ],
+      "rule_based_summary": "Lead Machine Learning Scientist, FinCrime at Monzo, focused on MLOps, Python, SQL. Location: UK.",
+      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, FinCrime role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
+      "score_explanation": [
+        "The role title or description is directly aligned with AI/LLM/Data target roles.",
+        "1 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: MLOps, SQL."
       ]
     },
     {
@@ -147,81 +251,6 @@
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
         "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-163277",
-      "title": "Senior Software Engineer, Production Support",
-      "company": "Fieldguide",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163277-senior-software-engineer-production-support",
-      "published_at": "2026-11-19",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "About the Role We are building a new engineering-led production support function, and as a Senior Software Engineer, Production Support , you will operate at the intersection of support, product, and engineering. Your primary focus will be to debug complex product issues, ship fixes, and improve overall system reliability — serving as the technical escalation layer that helps our support team resolve issues quickly and eliminate them at the root. You will be part of a dedicated production support pod, working alongside engineers and support teammates to tackle real issues in production, bridging the gap between customer-facing challenges and long-term engineering solutions. This hire must be comfortable working 9am to 6pm Pacific Time. What You’ll Do: Debug & Resolve Complex Issues Investigate escalations across frontend (JavaScript), APIs, and data flows Reproduce issues and identify root causes Work across the stack to understand system behavior Ship Fixes & Improvements Write and ship small-to-medium fixes (PRs) Improve reliability and reduce repeat issues Contribute incremental product improvements Support the Support Team Act as the technical escalation point for support representatives Provide clear guidance and unblock issues quickly Help improve debugging workflows and internal playbooks Contribute to Customer Feedback Execution Translate structured customer feedback into actionable technical issues Provide T-shirt sizing (S / M / L) from an engineering perspective Identify small, high-impact fixes that can be shipped quickly Help close the loop on resolved issues Drive Systemic Improvements Identify recurring issues and eliminate them Improve logging, observability, and debugging processes Build lightweight tooling or scripts to improve efficiency What You Are: 5+ years of experience in Software Engineering, Developer Support / DevEx, Solutions Engineering, or Technical Product Support ideally for a B2B SaaS platform. Familiarity with modern web technologies such as TypeScript, React, Node.js, Python, GraphQL. Experience working with relational databases (e.g. PostgreSQL), including: understanding data models, writing/debugging SQL queries, investigating data inconsistencies. Comfortable reading and navigating production codebases. Experience debugging across: browser dev tools, APIs and network requests, frontend UI/state issues, backend data flows and database interactions. Effective communication with an ability to code-switch between techni...",
-      "required_skills": [
-        "PostgreSQL",
-        "Python",
-        "React",
-        "SQL"
-      ],
-      "matched_skills": [
-        "PostgreSQL",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "SQL"
-      ],
-      "rule_based_summary": "Senior Software Engineer, Production Support at Fieldguide, focused on PostgreSQL, Python, React, SQL. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Software Engineer, Production Support role interests me because it connects directly with my work around PostgreSQL, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-163297",
-      "title": "Site Reliability Engineer (Australia, Remote)",
-      "company": "Axon",
-      "location": "Australia",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163297-site-reliability-engineer-australia-remote",
-      "published_at": "2026-11-19",
-      "match_score": 42,
-      "priority": "low",
-      "raw_description": "Join Axon and be a Force for Good. At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other. Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constantly grow as you work hard for a mission that matters at a company where you matter. Your Impact As a contributor in the SRE organization, you are passionate about delivering solutions to the real-time problems our mission-critical cloud native services encounter. You are also obsessed about achieving the high quality and reliability our customers demand. You will work closely not only with the SRE division, but your technical deliverables will reach the entire engineering organization to enable product teams to continuously deliver features on the vanguard of innovation. What You'll Do Location: Remote anywhere in Australia Contribute to building and maintaining reliable, scalable, and secure cloud platforms and tools. Apply site reliability engineering principles to improve system stability and performance. Write clean, maintainable, and efficient code Troubleshoot and debug issues in distributed cloud-native systems. Collaborate with engineering teams to support service reliability and operational excellence. Create and maintain documentation to support engineers and improve self-service capabilities. Participate in on-call rotations and incident response, learning best practices along the way. Continuously develop your skills and contribute to team knowledge sharing. What You Bring 2–5 years of relevant experience in software engineering, SRE, or infrastructure roles Solid understanding of operating systems, preferably Linux Experience with cloud platforms such as Azure, AWS, or similar Experience with Kubernetes platforms like AKS, EKS, or similar Experience with at least one programming language such as Python, Go, C#, Java, or similar Familiarity with CI/CD pipelines and automation practices Experience with observability tools (logging, metrics, APM) Exposure to Infrastructure as Code concepts (e.g., Terraform, ARM, etc.) Strong problem-solving skills and a willingness to learn Good communication and collaboration skills Australian government security clearance, or ability to ob...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "GitHub Actions",
-        "Kubernetes",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Site Reliability Engineer (Australia, Remote) at Axon, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Australia.",
-      "rule_based_application_sentence": "Your Site Reliability Engineer (Australia, Remote) role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
@@ -317,39 +346,6 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile."
-      ]
-    },
-    {
-      "id": "jobicy-163256",
-      "title": "1192 - Sr. BIM Software Developer",
-      "company": "GoFasti",
-      "location": "LATAM",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163256-1192-sr-bim-software-developer",
-      "published_at": "2026-11-19",
-      "match_score": 33,
-      "priority": "low",
-      "raw_description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti , a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Sr. BIM Software Developer , based in Latin America, available to work remotely. We are looking for someone with exceptional communication and relationship-building skills, who embraces changes while maintaining strong attention to detail. An interested and proactive person, who's constantly learning and improving their skills. Are you the one we are looking for? Responsibilities: Build and support internal web applications using ASP.NET. Automate repetitive tasks and data workflows with PowerShell and Python scripts. Troubleshoot, debug, and improve existing tools and integrations. Join a few check-ins with the client's team each week to share progress and align on priorities. Document the tools you build so the team can use and maintain them. Requirements: 4-5 Years of experience developing and maintaining add-ins and plugins for Revit, AutoCAD, and Navisworks using C# and the Autodesk APIs. Strong experience with C# and the .NET framework. Experience building web applications with ASP.NET. Hands-on experience developing with the Revit API, AutoCAD API, and Navisworks API. Scripting experience with PowerShell and Python. Proficiency across the Microsoft stack (e.g., Visual Studio, SQL Server, Azure, or IIS). Able to work independently with limited supervision. It's a plus: Background in architecture, engineering, or construction, or experience as a BIM user. Experience with Dynamo or other BIM automation tools. Compensation: The salary range offered for this position varies from (USD) $3,500 - $4,500 per month, depending on seniority and skillset. This is a one-month contract with the possibility of an extension based on the client's needs. This position is for a full time contract, through a payroll platform. The talent will work remotely allocated at our client. Here are the steps for this process: Live Assessment > Application review/approval > Screening interview with GoFasti's team > We build and send your profile to our client > Profile review/approval by client > Interview with the client > Hiring and onboarding. Once you apply for the job, our team will review your resume. If it meets the requirements, we will contact you and move forward in the process. Note for Candidates Approached Directly: If...",
-      "required_skills": [
-        "Azure",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "Azure",
-        "SQL"
-      ],
-      "rule_based_summary": "1192 - Sr. BIM Software Developer at GoFasti, focused on Azure, Python, SQL. Location: LATAM.",
-      "rule_based_application_sentence": "Your 1192 - Sr. BIM Software Developer role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: Azure, SQL."
       ]
     }
   ]
