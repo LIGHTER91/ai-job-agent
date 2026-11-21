@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:21:21Z",
+  "generated_at": "2026-11-21T14:34:31Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 6
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,141 +74,81 @@
   },
   "jobs": [
     {
-      "id": "jobicy-163527",
-      "title": "Lead Machine Learning Scientist, Search",
-      "company": "Monzo",
-      "location": "UK",
+      "id": "jobicy-163637",
+      "title": "ML Infrastructure Engineer",
+      "company": "Nebius",
+      "location": "Europe,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163527-lead-machine-learning-scientist-search-2",
-      "published_at": "2026-11-20",
-      "match_score": 72,
-      "priority": "medium",
-      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning Search Team We are currently embarking on one of our two top strategic priorities to make Money work for Everyone: building the Monzo Co-pilot. We are becoming an intelligent, proactive ally that handles the complexity of users financial life. We aren't just selling financial products; we are building a truly smart agent that understands users, anticipates their needs, and helps people reach their financial goals. Our ML Search team brings together Backend, Product, Machine Learning Scientists and Data Scientists. As a Lead Machine Learning Scientist, you’ll build and ship models that help customers search for and find answers about their financial lives. You'll make it effortless for them to find the right products at the exact moment they need them. Whether it’s surfacing the right savings product at the perfect moment, helping customers manage their spending, or simplifying financial planning, our work makes banking smarter, more intuitive, and truly customer-first. What you’ll be working on: As a Lead Machine Learning Scientist, you'll be a technical leader and individual contributor. We have a modern, cloud-native data platform with billions of rows of data built for fast iterations. You'll leverage your deep expertise to develop and deploy advanced ML models to our more than 15 million customers. Your work may involve user and product embeddings to better understand customer behaviours, contextual bandits for optimising real-time decisions, or personalised ranking algorithms that improve search and discovery. You...",
+      "url": "https://jobicy.com/jobs/163637-ml-infrastructure-engineer-2",
+      "published_at": "2026-11-21",
+      "match_score": 77,
+      "priority": "high",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We are seeking a highly skilled ML/AI Engineer to join our team to lead and support benchmarking of GPU platforms benchmarking of GPU platforms for machine learning and AI workloads. You will play a critical role in evaluating the performance of GPU-based hardware for various deep learning and AI frameworks, enabling data-driven decisions for platform optimisation and next-generation hardware development. Your responsibilities will include: Work closely with hardware, development teams to profile and analyse GPU performance at the system and kernel level. Evaluate and compare GPU performance across different platforms, architectures, and software stacks (e.g.,CUDA, ROCm). Debug and optimise ML workloads to run efficiently on GPU hardware, identifying and resolving performance bottlenecks. Perform acceptance testing acceptance testing for new GPU clusters, ensuring hardware and software meet performance, stability, and compatibility requirements for AI workloads. Perform experiments across diverse GPU system configurations to assess the impact of varying interconnect strategies and system-level optimisations on performance and scalability. Develop tools and dashboards to visualise performance metrics visualise performance metrics, bottlenecks, and trends. Contribute to internal tooling, frameworks, and best practices We expect you to have: A profound understanding of theoretical foundations of machine learning Deep understanding of performance aspects of large neural networks training and inference (data/tensor/context/expert parallelism, offloading, custom kernels, hardware features, attention optimisations, dynamic batching etc.) Deep experience with modern deep learning frameworks (PyTorch, JAX, Megatro...",
       "required_skills": [
-        "Python",
-        "SQL",
-        "Vector search"
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "LLM",
+        "Python"
       ],
       "matched_skills": [
-        "Python",
-        "Vector search"
+        "Docker",
+        "LLM",
+        "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "AWS",
+        "Azure",
+        "Kubernetes"
       ],
-      "rule_based_summary": "Lead Machine Learning Scientist, Search at Monzo, focused on Python, SQL, Vector search. Location: UK.",
-      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, Search role interests me because it connects directly with my work around Python, Vector search, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "ML Infrastructure Engineer at Nebius, focused on AWS, Azure, Docker, Kubernetes. Location: Europe,  USA.",
+      "rule_based_application_sentence": "Your ML Infrastructure Engineer role interests me because it connects directly with my work around Docker, LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "2 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
+        "3 of 6 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes."
       ]
     },
     {
-      "id": "jobicy-163520",
-      "title": "Lead Machine Learning Scientist, Customer Operations",
-      "company": "Monzo",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163520-lead-machine-learning-scientist-customer-operations-2",
-      "published_at": "2026-11-20",
-      "match_score": 67,
-      "priority": "medium",
-      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning Operations team: The challenges are significant: we aim to transform customer service by reducing the time and effort required to resolve issues, enhancing customer confidence and satisfaction. As part of Operations, you’ll be at the forefront of our mission to provide unparalleled customer support experiences. Your role will be pivotal in leveraging state-of-the-art machine learning techniques (including LLMs and autonomous agents) to understand customer problems. You will lead the development of an effective human-in-the-loop system that augments automation with the efforts of our support workforce (who we call COps). This allows us to more expediently and efficiently predict, identify, disambiguate, and route customer problems at scale to support a rapidly expanding company with global ambitions across multiple geographies. You’ll be working closely with a team of Machine Learning Scientists in Operations, embedded in product squads alongside data scientists, backend, mobile and web engineers, product managers, user researchers, designers, and operations specialists. Your day-to-day: As a technical individual contributor, you’ll be providing technical leadership and shipping highly impactful ML-based solutions. You’ll be embedded in a cross-functional product squad, working closely with product managers, data scientists, backend engineers, and designers in an agile environment. You’ll also be a technical leader within the wider Machine Learning discipline, helping to steer technical work and drive up standards. This...",
-      "required_skills": [
-        "MLOps",
-        "Python",
-        "RAG",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python",
-        "RAG"
-      ],
-      "missing_skills": [
-        "MLOps",
-        "SQL"
-      ],
-      "rule_based_summary": "Lead Machine Learning Scientist, Customer Operations at Monzo, focused on MLOps, Python, RAG, SQL. Location: UK.",
-      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, Customer Operations role interests me because it connects directly with my work around Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "2 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: MLOps, SQL."
-      ]
-    },
-    {
-      "id": "jobicy-162166",
-      "title": "Senior Programmatic Trader (m/f/d)",
-      "company": "Kayzen",
+      "id": "jobicy-163631",
+      "title": "Application Integration Developer",
+      "company": "Nebius",
       "location": "Europe",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162166-senior-programmatic-trader-m-f-d",
-      "published_at": "2026-11-14",
-      "match_score": 66,
+      "url": "https://jobicy.com/jobs/163631-application-integration-developer-2",
+      "published_at": "2026-11-21",
+      "match_score": 56,
       "priority": "medium",
-      "raw_description": "Senior Programmatic Trader (m/f/d) Berlin, Bangalore, Remote ________________________ Hello👋I am Willian , Trading and Analytics Lead at Kayzen , and I am now looking for a Senior Programmatic Trader to join our team 🙌 About Kayzen Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. The Team The Trading team is responsible for creating growth through the management and optimization of mobile performance advertising campaigns for clients utilizing the managed service offering. The goal of the team is to deliver on the client's objectives through established or new trading best practices and communicate account status regularly and effectively with their CSM counterparts. Why this role In this role, you will own and grow a portfolio of mobile programmatic campaigns (UA/RT) across verticals including gaming, fintech, betting, and CTV, delivering CPA/ROAS targets while scaling FCT and protecting contribution margin. You'll pair deep trading skills with analytics (SQL must have / Python desirable. What matters most: the analytical instinct to ask the right questions and the resourcefulness to find answers, whether through code or AI tools) and LLM-accelerated workflows to move faster than a traditional desk. You won't just optimize campaigns, you'll shape the tools, analytical frameworks, and trading playbooks the team uses to win. What you’ll do Trading excellence Own end-to-end campaign delivery across multiple advertisers; hit KPI targets (CPA, ROAS, retention) and scale when unit economics allow. Develop audience targeting strategies and supply-side optimization (audience, publisher selection, bid shading, dayparting) across ad formats (banner, video, native, CTV) to unlock incremental scale. Build and execute testing roadmaps (optimization models, bids, budgets, frequency,...",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. Your responsibilities will include: Develop and maintain Python-based API integrations between our HR information system (HRIS) and business systems, including finance, travel, expense management, and recruiting platforms. Build and maintain cloud-native services, web applications, and containerized workloads on Microsoft Azure. Implement automation for system workflows, onboarding/offboarding, access-related processes, and data synchronization. Create and maintain deployment pipelines and Infrastructure-as-Code with Terraform. Own integrations through implementation, testing, deployment, and production support; respond to alerts and troubleshoot issues across APIs, Azure services, and data sources within agreed SLAs. Implement safeguards for sensitive employee data, including validation, audit trails, and controls around mass changes. Work with business stakeholders to clarify requirements and maintain technical documentation as part of each change. We expect you to have: 3+ years of integration or backend development experience, including hands-on experience deploying and supporting production workloads in Microsoft Azure. Practical experience with Azure compute and integration services. Our stack includes Azure Functions, App Service, Container Apps, Container Instances, Service Bus, and API Management. Practical Python development skills, including maintaining and debugging existing services and automations. Experience integrating REST APIs, webhooks, and Microsoft Graph API, with an understanding of pagination, rate limits, retries, and idempotency. Experience working with CI/CD pipelines and Terraform for Azure deployments. Good understanding of OAuth 2.0, Microsoft Entra ID, and managed identities for secur...",
       "required_skills": [
-        "LLM",
+        "Azure",
+        "GitHub Actions",
+        "PostgreSQL",
         "Python",
-        "SQL"
+        "Terraform"
       ],
       "matched_skills": [
-        "LLM",
+        "GitHub Actions",
+        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "Azure",
+        "Terraform"
       ],
-      "rule_based_summary": "Senior Programmatic Trader (m/f/d) at Kayzen, focused on LLM, Python, SQL. Location: Europe.",
-      "rule_based_application_sentence": "Your Senior Programmatic Trader (m/f/d) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Application Integration Developer at Nebius, focused on Azure, GitHub Actions, PostgreSQL, Python. Location: Europe.",
+      "rule_based_application_sentence": "Your Application Integration Developer role interests me because it connects directly with my work around GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "3 of 5 extracted skills match the profile.",
         "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
-      ]
-    },
-    {
-      "id": "jobicy-163524",
-      "title": "Lead Machine Learning Scientist, FinCrime",
-      "company": "Monzo",
-      "location": "UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163524-lead-machine-learning-scientist-fincrime-2",
-      "published_at": "2026-11-20",
-      "match_score": 62,
-      "priority": "medium",
-      "raw_description": "🚀 We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save , invest and combine their pensions with us. With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers! We’re not about selling products - we want to solve problems and change lives through Monzo ❤️ 📍London/Cardiff/UK Remote | 💰 £115,000 - £150,000 + Incentive Awards tied to your performance + Benefits ✨ About our Machine Learning FinCrime Team: Our Financial Crime Data team consists of over 25 people across 4 data specialisms: Analytics Engineers, Data Analysts, Machine Learning Scientists and Data Scientists. As a Lead Machine Learning Scientist, you’ll be working in a fast moving environment, building and iterating on our financial crime defensive capabilities to ensure we keep Monzo and our customers safe. Our financial crime team has a large impact on Monzo’s bottom line as fraud and scams are usually some of the largest cost line items in a bank's P&L. We have a major influence on the overall customer experience and it’s our duty to keep our customers safe. The work we do results in directly measurable customer or company benefit, which is incredibly satisfying. Our Machine Learning Scientists work on a range of problems within the different financial crime areas ranging from fraud detection and prevention, transaction monitoring for different types of suspicious activity through to customer risk assessment and operational tooling. What you’ll be working on: A Lead Machine Learning Scientist at Monzo is a technical Individual Contributor (IC) leadership position. As a technical Machine Learning expert, working with billions of rows of data stored on a modern cloud native data platform, we’ll be expecting you to leverage your deep experience of developing and deploying advanced Machine Learning models to: Automatically and accurately detect suspicious user behaviours while minimising impact to genuine customers and operational costs Adapt q...",
-      "required_skills": [
-        "MLOps",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "Python"
-      ],
-      "missing_skills": [
-        "MLOps",
-        "SQL"
-      ],
-      "rule_based_summary": "Lead Machine Learning Scientist, FinCrime at Monzo, focused on MLOps, Python, SQL. Location: UK.",
-      "rule_based_application_sentence": "Your Lead Machine Learning Scientist, FinCrime role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen MLOps.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "1 of 3 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: MLOps, SQL."
+        "Main missing or weaker skills: Azure, Terraform."
       ]
     },
     {
@@ -254,6 +194,50 @@
       ]
     },
     {
+      "id": "jobicy-163638",
+      "title": "Principal Manager, ML Solutions Architecture - Token Factory",
+      "company": "Nebius",
+      "location": "Europe",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163638-principal-manager-ml-solutions-architecture-token-factory",
+      "published_at": "2026-11-21",
+      "match_score": 53,
+      "priority": "medium",
+      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role This position sits within Nebius Token Factory, our serverless platform for running and customizing open-source LLMs in production. Token Factory allows for serverless inference and fine-tuning backed by in-house optimizations like custom speculative decoding, quantization, cache-aware routing and dedicated endpoints. Customers come to us to move from prototype to scaled production without the cost and complexity of building and tuning their own inference stack. Our Solutions Architects own the technical delivery of customer engagements: deploying open-source models, tuning the serving stack, benchmarking against the customer's success criteria, and carrying the technical relationship through to production. Sales Engineers qualify and scope the opportunity; SAs execute it. Technical Account Managers take it from production onward. We're looking for a Principal Manager, ML Solutions Architecture to lead our EU regional SA teams. Your scope is PoC delivery and post-sales technical support : the people who do it, the standard they do it to, and the operating cadence that keeps it predictable. You will report to the Head of Solutions Architecture and partner with a peer manager in the other region. We expect you to push people when they need pushing, make the uncomfortable call when deliverables don't land even though the effort was real, and take ownership of the documentation work: implement and monitor the following of the guidelines, ticket hygiene, and making sure the team actually uses all three. You're welcome to work remotely from any EU country. Your responsibilities will include: Lead the team Manage a team of 8 Solutions Architects, with continued growth planned: 1:1s, goal setting, performance rev...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "LLM",
+        "MLOps",
+        "OpenAI",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "LLM",
+        "OpenAI",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "MLOps"
+      ],
+      "rule_based_summary": "Principal Manager, ML Solutions Architecture - Token Factory at Nebius, focused on AWS, Azure, Docker, Kubernetes. Location: Europe.",
+      "rule_based_application_sentence": "Your Principal Manager, ML Solutions Architecture - Token Factory role interests me because it connects directly with my work around Docker, LLM, OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "4 of 8 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, MLOps."
+      ]
+    },
+    {
       "id": "remotive-2091173",
       "title": "Content Creator - YouTube",
       "company": "Metics Media",
@@ -278,69 +262,21 @@
       ]
     },
     {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "published_at": "2026-11-11",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment. As an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkeeping, organize client documents, support internal reporting, and help maintain accurate company records. This position offers strong growth potential for the right candidate, including opportunities for advancement within the Accounting team or other departments. We are looking for talented and diligent candidates who perform well on our skills assessments. Strong skills test performance may be considered even if a candidate does not meet every preferred experience or educational background requirement. Why Join Coalition Technologies? Coalition Technologies is committed to delivering high-quality work for our clients while providing our team with a fun, thriving, innovative, and growth-focused work environment. We offer: 100% remote work with a company that has supported remote team members for more than a decade Competitive profit-sharing bonus plan, with up to 50% of company profits paid to full-time employees each month Competitive Paid Time Off plan that supports work-life balance Subsidized gym memberships Medical, dental, vision, and life insurance packages for eligible US-based team members International Health Insurance Reimbursement Program for eligible international team members Device upgrade and learning reimbursement programs Career development plans with clearly defined goals and rewards Additional job-specific incentives and bonuses Office Assistant Responsibilities As an Office Assistant, your duties will include: Answering phones and emails Completing entry-level bookkeeping tasks, including recording expenses, organizing receipts, and maintaining transaction records Resolving billing issues with clients and internal team members Providing account access, usage reports, data analysis, and other ad hoc support for team members Supporting quality assurance checks for internal and client-facing reports Organizing new client contracts, creating invoices, and processing client payments Contributing to internal database maintenance, upkeep, and data e...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "Remote Office Assistant at Coalition Technologies , focused on AI/data skills. Location: Worldwide.",
-      "rule_based_application_sentence": "Your Remote Office Assistant role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-162152",
-      "title": "President, US (m/f/d)",
-      "company": "Kayzen",
+      "id": "remotive-2091177",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
       "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162152-president-us-m-f-d",
-      "published_at": "2026-11-14",
-      "match_score": 40,
-      "priority": "low",
-      "raw_description": "President, US (m/f/d) New York region ________________________ Hello👋I am Tim , CEO and Co-Founder at Kayzen , and I am looking for our very first US hire: President, US. In this role, you will be owning all aspects of our US market entry. Build first partnerships, roll out GTM, coordinate delivery functions and more. You will be supported by an existing team mostly based in Europe, including myself. I plan to spend significant time in the US to help you build up the business with a founder-led approach. We do already have a client base in the US though no local GTM team. Given the strong inbound interest we see for our product, we decided to double down on our next phase of growth, focusing on the US market. If you have not heard of Kayzen before: Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. We are a founder-led business, run by a team in which most senior members have at least a decade of experience in the mobile app performance advertising space. We are currently around 90 FTE and keep growing profitably. The Team You will be part of the global leadership team, working with Co-Founders / management and a carefully selected, diverse and globally distributed team of leaders and ICs spanning customer success, marketing, sales & business development, data, product and more functions. We are highly motivated and aligned in our quest to disrupt the multi-billion dollar mobile and CTV ad-tech industry. The Role Your role requires a deep understanding of the advertising technology industry with its various actors, such as advertisers, agencies, ad platforms (DSPs, SSPs, Measurement, etc). Kayzen offers a leading technology platform used by a diverse set of customers (multiple ICPs: Apps, Agencies, Media Buyers) who aim to get performance outcomes from ad campaigns runnin...",
-      "required_skills": [],
-      "matched_skills": [],
-      "missing_skills": [],
-      "rule_based_summary": "President, US (m/f/d) at Kayzen, focused on AI/data skills. Location: USA.",
-      "rule_based_application_sentence": "Your President, US (m/f/d) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "0 of 0 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-162160",
-      "title": "Sales Director, Performance (m/f/d)",
-      "company": "Kayzen",
-      "location": "Germany,  Netherlands,  UK",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/162160-sales-director-performance-m-f-d",
-      "published_at": "2026-11-14",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "published_at": "2026-11-19",
       "match_score": 35,
       "priority": "low",
-      "raw_description": "Berlin, Amsterdam or London based (hybrid or remote) ________________________ Hello👋I am Kate , Lead of Performance Sales at Kayzen . I am now looking for a Sales Director, Performance to join our global team and play a pivotal role in scaling our reach to top app developers 🙌 In this role, you will play a vital role in driving customer satisfaction, fostering long- term relationships and contributing to the overall growth and success of the company. As a growing company and team there is a lot of opportunity for the right candidate to grow and develop with the company. But wait, you have not heard of Kayzen before?😃 Kayzen is the Apps DSP: an AI-native platform built on its own bidding engine, for buying app inventory across mobile and connected TV screens. App developers, agencies, media buyers and ad platforms use Kayzen to drive full-funnel outcomes across both screens, from awareness and consideration to installs, purchases and calls. Available through self-serve and managed services, Kayzen combines machine-learning optimisation with bid - and impression-level transparency, granular control over buying decisions, and AI capabilities that connect campaign data to the AI assistants teams already use. Kayzen’s vision is to democratise programmatic marketing by making it accessible to every team. Headquartered in Berlin, Kayzen operates globally. The Team You will work with a carefully selected, diverse and globally distributed team from customer success, engineering, data science, design, marketing, product and more. We are highly motivated and aligned in our quest to disrupt the multi-billion dollar mobile ad-tech industry. Sounds interesting? The Role As our Sales Director, Performance, your primary focus will be to drive new business from mobile app developers and advertisers. This is a senior individual contributor role with no direct people management responsibility. You will own your pipeline and sales cycle end-to-end, from opening doors and building relationships to closing new customers. The leaders in Kayzen’s team who you will closely with are our marketing lead, SDR resources and our customer success lead (onboarding and growing customers you sign and bring on board). Apart from your primary tasks, you are welcome to contribute to multiple areas in the organization such as product, marketing and partnerships. Since our key product and customer success team members are located globally, we are open to a remote setup for this position. For...",
+      "raw_description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your culture communicates and values information is irreplaceable in building search systems that people can actually trust. In this role, you will evaluate search queries, results, and AI-generated content for factual accuracy, authority, relevance, and user intent alignment. Your judgment determines whether search systems return trustworthy, contextually appropriate information. Analyze multi-turn search queries and web results for factual accuracy, source authority, and user intent alignment Conduct cross-referencing and fact-checking using regional sources, specialized databases, academic resources, and web directories Assess localized content relevancy across diverse domains—news, sports, local culture, technical queries considering regional context and cultural nuance Evaluate AI-generated content for factual grounding, hallucination risk, and contextual appropriateness Provide structured assessments that train search ranking and content relevance models Qualifications to succeed in this project: Professional fluency in English Residency in the United States for the last 3 consecutive years Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content Deep local cultural awareness and familiarity with regional news, current events, and contemporary culture Strong fact-checking and critical thinking abilities Access to a stable broadband internet, a reliable computer and a smartphone (Android 5.0, iOS 14 or higher) Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content Linguists, cross-cultural researchers, domain specialists, and detail-driven professionals with strong research methodology (preferred) Why join the project: Fully remote flexibility: Structure your contributions around research, consulting, teaching, or other professional commitments without rigid scheduling Comprehensive research support: Access detailed evaluation guidelines, reference materials, databases, and resources for f...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Sales Director, Performance (m/f/d) at Kayzen, focused on AI/data skills. Location: Germany,  Netherlands,  UK.",
-      "rule_based_application_sentence": "Your Sales Director, Performance (m/f/d) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "Content Reviewer - United States at TELUS Digital, focused on AI/data skills. Location: USA.",
+      "rule_based_application_sentence": "Your Content Reviewer - United States role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
