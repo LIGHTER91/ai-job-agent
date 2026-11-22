@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:34:31Z",
+  "generated_at": "2026-11-22T14:29:20Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -74,84 +74,6 @@
   },
   "jobs": [
     {
-      "id": "jobicy-163637",
-      "title": "ML Infrastructure Engineer",
-      "company": "Nebius",
-      "location": "Europe,  USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163637-ml-infrastructure-engineer-2",
-      "published_at": "2026-11-21",
-      "match_score": 77,
-      "priority": "high",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We are seeking a highly skilled ML/AI Engineer to join our team to lead and support benchmarking of GPU platforms benchmarking of GPU platforms for machine learning and AI workloads. You will play a critical role in evaluating the performance of GPU-based hardware for various deep learning and AI frameworks, enabling data-driven decisions for platform optimisation and next-generation hardware development. Your responsibilities will include: Work closely with hardware, development teams to profile and analyse GPU performance at the system and kernel level. Evaluate and compare GPU performance across different platforms, architectures, and software stacks (e.g.,CUDA, ROCm). Debug and optimise ML workloads to run efficiently on GPU hardware, identifying and resolving performance bottlenecks. Perform acceptance testing acceptance testing for new GPU clusters, ensuring hardware and software meet performance, stability, and compatibility requirements for AI workloads. Perform experiments across diverse GPU system configurations to assess the impact of varying interconnect strategies and system-level optimisations on performance and scalability. Develop tools and dashboards to visualise performance metrics visualise performance metrics, bottlenecks, and trends. Contribute to internal tooling, frameworks, and best practices We expect you to have: A profound understanding of theoretical foundations of machine learning Deep understanding of performance aspects of large neural networks training and inference (data/tensor/context/expert parallelism, offloading, custom kernels, hardware features, attention optimisations, dynamic batching etc.) Deep experience with modern deep learning frameworks (PyTorch, JAX, Megatro...",
-      "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "Python"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes"
-      ],
-      "rule_based_summary": "ML Infrastructure Engineer at Nebius, focused on AWS, Azure, Docker, Kubernetes. Location: Europe,  USA.",
-      "rule_based_application_sentence": "Your ML Infrastructure Engineer role interests me because it connects directly with my work around Docker, LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 6 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes."
-      ]
-    },
-    {
-      "id": "jobicy-163631",
-      "title": "Application Integration Developer",
-      "company": "Nebius",
-      "location": "Europe",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163631-application-integration-developer-2",
-      "published_at": "2026-11-21",
-      "match_score": 56,
-      "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. Your responsibilities will include: Develop and maintain Python-based API integrations between our HR information system (HRIS) and business systems, including finance, travel, expense management, and recruiting platforms. Build and maintain cloud-native services, web applications, and containerized workloads on Microsoft Azure. Implement automation for system workflows, onboarding/offboarding, access-related processes, and data synchronization. Create and maintain deployment pipelines and Infrastructure-as-Code with Terraform. Own integrations through implementation, testing, deployment, and production support; respond to alerts and troubleshoot issues across APIs, Azure services, and data sources within agreed SLAs. Implement safeguards for sensitive employee data, including validation, audit trails, and controls around mass changes. Work with business stakeholders to clarify requirements and maintain technical documentation as part of each change. We expect you to have: 3+ years of integration or backend development experience, including hands-on experience deploying and supporting production workloads in Microsoft Azure. Practical experience with Azure compute and integration services. Our stack includes Azure Functions, App Service, Container Apps, Container Instances, Service Bus, and API Management. Practical Python development skills, including maintaining and debugging existing services and automations. Experience integrating REST APIs, webhooks, and Microsoft Graph API, with an understanding of pagination, rate limits, retries, and idempotency. Experience working with CI/CD pipelines and Terraform for Azure deployments. Good understanding of OAuth 2.0, Microsoft Entra ID, and managed identities for secur...",
-      "required_skills": [
-        "Azure",
-        "GitHub Actions",
-        "PostgreSQL",
-        "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "PostgreSQL",
-        "Python"
-      ],
-      "missing_skills": [
-        "Azure",
-        "Terraform"
-      ],
-      "rule_based_summary": "Application Integration Developer at Nebius, focused on Azure, GitHub Actions, PostgreSQL, Python. Location: Europe.",
-      "rule_based_application_sentence": "Your Application Integration Developer role interests me because it connects directly with my work around GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Azure.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 5 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Azure, Terraform."
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -194,47 +116,98 @@
       ]
     },
     {
-      "id": "jobicy-163638",
-      "title": "Principal Manager, ML Solutions Architecture - Token Factory",
-      "company": "Nebius",
-      "location": "Europe",
+      "id": "jobicy-163810",
+      "title": "Senior Legal Operations Executive (fully remote!)",
+      "company": "Binance",
+      "location": "Hong Kong,  Singapore,  UAE,  UK",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163638-principal-manager-ml-solutions-architecture-token-factory",
-      "published_at": "2026-11-21",
+      "url": "https://jobicy.com/jobs/163810-senior-legal-operations-executive-fully-remote",
+      "published_at": "2026-11-22",
       "match_score": 53,
       "priority": "medium",
-      "raw_description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role This position sits within Nebius Token Factory, our serverless platform for running and customizing open-source LLMs in production. Token Factory allows for serverless inference and fine-tuning backed by in-house optimizations like custom speculative decoding, quantization, cache-aware routing and dedicated endpoints. Customers come to us to move from prototype to scaled production without the cost and complexity of building and tuning their own inference stack. Our Solutions Architects own the technical delivery of customer engagements: deploying open-source models, tuning the serving stack, benchmarking against the customer's success criteria, and carrying the technical relationship through to production. Sales Engineers qualify and scope the opportunity; SAs execute it. Technical Account Managers take it from production onward. We're looking for a Principal Manager, ML Solutions Architecture to lead our EU regional SA teams. Your scope is PoC delivery and post-sales technical support : the people who do it, the standard they do it to, and the operating cadence that keeps it predictable. You will report to the Head of Solutions Architecture and partner with a peer manager in the other region. We expect you to push people when they need pushing, make the uncomfortable call when deliverables don't land even though the effort was real, and take ownership of the documentation work: implement and monitor the following of the guidelines, ticket hygiene, and making sure the team actually uses all three. You're welcome to work remotely from any EU country. Your responsibilities will include: Lead the team Manage a team of 8 Solutions Architects, with continued growth planned: 1:1s, goal setting, performance rev...",
+      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About The Role: We are looking for a Senior Legal Operations Executive to make our legal team run smoothly — contracts, vendor spend, billing, and the systems behind them. You'll look for better ways of doing things and work with colleagues across Legal, Finance, Procurement and engineering to make it happen. The role reports to the Head of Legal Operations. What You'll Do: Contracts . Own the contract execution and filing process end to end, so that contracts are issued, recorded and easy to retrieve for the legal team and stakeholders across the business. Budget and billing . Oversee payment requests and invoice review, work with Finance to resolve billing issues, and support budget tracking and forecasting. Vendors . Manage vendor onboarding, renewals and rate-card administration, and enforce our External Legal Counsel Guidelines with law firms. Systems . Manage the relationship with our matter management and e-signature platform vendors, and oversee integrations and configurations, such as approval workflows. Help colleagues get more out of the tools. Process improvement and automation . Identify manual processes, design more efficient ways of working, and drive automation through to delivery. Documentation . Keep process documentation up to date. What We're Looking For: 5+ years in legal operations or a related role (e.g. legal finance, contract management, in-house legal support). Experience designing processes that handle high volumes of payment requests and documentation accurately. Confident working with large datasets and spreadsheets. Fluency in English is required to be able to coordinate with overseas partners and stakeholders. Additional languages would be an advantage. Sound judgement with confidential material. Comfortable making decisions and escalating only what needs escalating. Nice to have: Experience administering or implementing a matter management, contract management or e-billi...",
       "required_skills": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "MLOps",
-        "OpenAI",
         "Python"
       ],
       "matched_skills": [
-        "Docker",
+        "Python"
+      ],
+      "missing_skills": [],
+      "rule_based_summary": "Senior Legal Operations Executive (fully remote!) at Binance, focused on Python. Location: Hong Kong,  Singapore,  UAE,  UK.",
+      "rule_based_application_sentence": "Your Senior Legal Operations Executive (fully remote!) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "1 of 1 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile."
+      ]
+    },
+    {
+      "id": "jobicy-163809",
+      "title": "Customer Success Producer (South Korea)",
+      "company": "Aghanim",
+      "location": "South Korea",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163809-customer-success-producer-south-korea",
+      "published_at": "2026-11-22",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with players, sell directly, and build their future on their own terms. Today, more than 100 games worldwide are already building this future with Aghanim. Our team brings together people across Los Angeles, New York, Seoul, Beijing, London, Lisbon, Belgrade and other locations around the globe, with deep expertise in gaming, fintech and technology. We move quickly, keep communication direct, and focus on getting things done. We believe the best people thrive when they have autonomy, ownership, and a stake in the company's success. We are looking for a Customer Success Producer to help game studios maximize revenue through monetization, LiveOps, and direct-to-consumer (DTC) strategies. You will work closely with game teams to analyze performance, identify growth opportunities, and drive initiatives across offers, pricing, experimentation, and player engagement. This role combines analytics, strategy, and execution with a direct impact on customer growth and business results. Key Responsibilities Monetization and Growth Strategy Analyze game performance, monetization, and retention metrics to identify growth opportunities Develop recommendations for LiveOps, offers, pricing, promotions, and DTC monetization strategies Design and evaluate experiments to improve revenue, engagement, and conversion Assess in-game and web store experiences and propose optimization initiatives Customer Success and Revenue Expansion Partner with game teams to drive measurable business outcomes and revenue growth Develop and execute DTC adoption and revenue transition plans Provide strategic guidance on monetization, LiveOps, CRM, and customer engagement initiatives Identify expansion opportunities and help customers maximize the value of Aghanim's platform Cross-functional Collaboration Work closely with Product, Data, Engineering, and Implementation teams to execute customer initiatives Act as the voice of the customer, ensuring feedback and business needs are reflected in product and operational decisions Contribute to scalable customer success processes, onboarding frameworks, and best practices Required Qualifications 5+ years of experience in mobile gaming, F2P, Li...",
+      "required_skills": [
         "LLM",
-        "OpenAI",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
         "Python"
       ],
       "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "MLOps"
+        "SQL"
       ],
-      "rule_based_summary": "Principal Manager, ML Solutions Architecture - Token Factory at Nebius, focused on AWS, Azure, Docker, Kubernetes. Location: Europe.",
-      "rule_based_application_sentence": "Your Principal Manager, ML Solutions Architecture - Token Factory role interests me because it connects directly with my work around Docker, LLM, OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Customer Success Producer (South Korea) at Aghanim, focused on LLM, Python, SQL. Location: South Korea.",
+      "rule_based_application_sentence": "Your Customer Success Producer (South Korea) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 8 extracted skills match the profile.",
-        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, MLOps."
+        "Main missing or weaker skills: SQL."
+      ]
+    },
+    {
+      "id": "jobicy-163806",
+      "title": "Customer Success Producer (China)",
+      "company": "Aghanim",
+      "location": "China",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163806-customer-success-producer-china",
+      "published_at": "2026-11-22",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with players, sell directly, and build their future on their own terms. Today, more than 100 games worldwide are already building this future with Aghanim. Our team brings together people across Los Angeles, New York, Seoul, Beijing, London, Lisbon, Belgrade and other locations around the globe, with deep expertise in gaming, fintech and technology. We move quickly, keep communication direct, and focus on getting things done. We believe the best people thrive when they have autonomy, ownership, and a stake in the company's success. We are looking for a Customer Success Producer to help game studios maximize revenue through monetization, LiveOps, and direct-to-consumer (DTC) strategies. You will work closely with game teams to analyze performance, identify growth opportunities, and drive initiatives across offers, pricing, experimentation, and player engagement. This role combines analytics, strategy, and execution with a direct impact on customer growth and business results. Key Responsibilities Monetization and Growth Strategy Analyze game performance, monetization, and retention metrics to identify growth opportunities Develop recommendations for LiveOps, offers, pricing, promotions, and DTC monetization strategies Design and evaluate experiments to improve revenue, engagement, and conversion Assess in-game and web store experiences and propose optimization initiatives Customer Success and Revenue Expansion Partner with game teams to drive measurable business outcomes and revenue growth Develop and execute DTC adoption and revenue transition plans Provide strategic guidance on monetization, LiveOps, CRM, and customer engagement initiatives Identify expansion opportunities and help customers maximize the value of Aghanim's platform Cross-functional Collaboration Work closely with Product, Data, Engineering, and Implementation teams to execute customer initiatives Act as the voice of the customer, ensuring feedback and business needs are reflected in product and operational decisions Contribute to scalable customer success processes, onboarding frameworks, and best practices Required Qualifications 5+ years of experience in mobile gaming, F2P, Li...",
+      "required_skills": [
+        "LLM",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "LLM",
+        "Python"
+      ],
+      "missing_skills": [
+        "SQL"
+      ],
+      "rule_based_summary": "Customer Success Producer (China) at Aghanim, focused on LLM, Python, SQL. Location: China.",
+      "rule_based_application_sentence": "Your Customer Success Producer (China) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: SQL."
       ]
     },
     {
