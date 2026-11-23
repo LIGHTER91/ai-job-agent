@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:29:20Z",
+  "generated_at": "2026-11-23T17:58:12Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -116,98 +116,124 @@
       ]
     },
     {
-      "id": "jobicy-163810",
-      "title": "Senior Legal Operations Executive (fully remote!)",
-      "company": "Binance",
-      "location": "Hong Kong,  Singapore,  UAE,  UK",
+      "id": "jobicy-151013",
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "company": "Canonical",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163810-senior-legal-operations-executive-fully-remote",
-      "published_at": "2026-11-22",
-      "match_score": 53,
-      "priority": "medium",
-      "raw_description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, and more. Our mission is to increase the freedom of money and financial access for people around the world. About The Role: We are looking for a Senior Legal Operations Executive to make our legal team run smoothly — contracts, vendor spend, billing, and the systems behind them. You'll look for better ways of doing things and work with colleagues across Legal, Finance, Procurement and engineering to make it happen. The role reports to the Head of Legal Operations. What You'll Do: Contracts . Own the contract execution and filing process end to end, so that contracts are issued, recorded and easy to retrieve for the legal team and stakeholders across the business. Budget and billing . Oversee payment requests and invoice review, work with Finance to resolve billing issues, and support budget tracking and forecasting. Vendors . Manage vendor onboarding, renewals and rate-card administration, and enforce our External Legal Counsel Guidelines with law firms. Systems . Manage the relationship with our matter management and e-signature platform vendors, and oversee integrations and configurations, such as approval workflows. Help colleagues get more out of the tools. Process improvement and automation . Identify manual processes, design more efficient ways of working, and drive automation through to delivery. Documentation . Keep process documentation up to date. What We're Looking For: 5+ years in legal operations or a related role (e.g. legal finance, contract management, in-house legal support). Experience designing processes that handle high volumes of payment requests and documentation accurately. Confident working with large datasets and spreadsheets. Fluency in English is required to be able to coordinate with overseas partners and stakeholders. Additional languages would be an advantage. Sound judgement with confidential material. Comfortable making decisions and escalating only what needs escalating. Nice to have: Experience administering or implementing a matter management, contract management or e-billi...",
+      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
+      "published_at": "2026-11-21",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Software Engineer for Distributed Systems Testing with a passion for building and validating resilient distributed systems. You drive the success of those leveraging Canonical’s Ubuntu and Juju to build multi-cloud deployable applications. We see quality engineering as a first class engineering practice and are looking for people who can bring deep engineering insights and a data driven approach to testing, test automation, reporting and data analytics. The Distributed Systems testing team at Canonical is responsible for the high quality of Canonical’s Cloud solutions based on for example Juju, Terraform, OpenStack, or Kubernetes. Systems are tested and deployed under highly diverse conditions, from bare metal in customer data centers to public clouds such as AWS, GCE, Azure. As a software engineer you will have the opportunity to develop CI pipelines which power Canonical’s cloud integration testing and reporting. You will help test our products on new clouds and advance our AI/ML pipelines for automatic analysis of test results. A successful candidate is interested in tackling these problems, as well as imagining and leading new initiatives within the team and across Canonical. The role entails Creating automated testing approaches and infrastructure for validating reliability, performance, and resilience of cloud orchestration tools and applications Enabling engineering teams across Canonical to develop software with confidence by making distributed system testing tooling available across the company Enhancing continuous integration pipelines for deploying and testing Canonical’s cloud native products such as Kubeflow Deploying, managing, and debugging highly distributed systems on clouds and bare metal Monitoring and reporting on automat...",
       "required_skills": [
-        "Python"
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python",
+        "Terraform"
       ],
       "matched_skills": [
+        "GitHub Actions",
         "Python"
       ],
-      "missing_skills": [],
-      "rule_based_summary": "Senior Legal Operations Executive (fully remote!) at Binance, focused on Python. Location: Hong Kong,  Singapore,  UAE,  UK.",
-      "rule_based_application_sentence": "Your Senior Legal Operations Executive (fully remote!) role interests me because it connects directly with my work around Python, especially applied AI systems that move from prototype to usable product.",
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
+      ],
+      "rule_based_summary": "Distributed Systems Testing Software Engineer, Python / Go at Canonical, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Distributed Systems Testing Software Engineer, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "1 of 1 extracted skills match the profile.",
+        "2 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile."
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
-      "id": "jobicy-163809",
-      "title": "Customer Success Producer (South Korea)",
-      "company": "Aghanim",
-      "location": "South Korea",
+      "id": "jobicy-163623",
+      "title": "Solutions Engineer(Python/Airflow)",
+      "company": "EDB",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163809-customer-success-producer-south-korea",
-      "published_at": "2026-11-22",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/163623-solutions-engineerpython-airflow",
+      "published_at": "2026-11-21",
+      "match_score": 45,
       "priority": "low",
-      "raw_description": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with players, sell directly, and build their future on their own terms. Today, more than 100 games worldwide are already building this future with Aghanim. Our team brings together people across Los Angeles, New York, Seoul, Beijing, London, Lisbon, Belgrade and other locations around the globe, with deep expertise in gaming, fintech and technology. We move quickly, keep communication direct, and focus on getting things done. We believe the best people thrive when they have autonomy, ownership, and a stake in the company's success. We are looking for a Customer Success Producer to help game studios maximize revenue through monetization, LiveOps, and direct-to-consumer (DTC) strategies. You will work closely with game teams to analyze performance, identify growth opportunities, and drive initiatives across offers, pricing, experimentation, and player engagement. This role combines analytics, strategy, and execution with a direct impact on customer growth and business results. Key Responsibilities Monetization and Growth Strategy Analyze game performance, monetization, and retention metrics to identify growth opportunities Develop recommendations for LiveOps, offers, pricing, promotions, and DTC monetization strategies Design and evaluate experiments to improve revenue, engagement, and conversion Assess in-game and web store experiences and propose optimization initiatives Customer Success and Revenue Expansion Partner with game teams to drive measurable business outcomes and revenue growth Develop and execute DTC adoption and revenue transition plans Provide strategic guidance on monetization, LiveOps, CRM, and customer engagement initiatives Identify expansion opportunities and help customers maximize the value of Aghanim's platform Cross-functional Collaboration Work closely with Product, Data, Engineering, and Implementation teams to execute customer initiatives Act as the voice of the customer, ensuring feedback and business needs are reflected in product and operational decisions Contribute to scalable customer success processes, onboarding frameworks, and best practices Required Qualifications 5+ years of experience in mobile gaming, F2P, Li...",
+      "raw_description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit www.enterprisedb.com **Candidate Note: This role is 100% remote for candidates based in EST or CST ** We are seeking a Solution Developer to join our engineering team. This is a versatile role requiring a mix of full-stack web development, data pipeline engineering, and cloud infrastructure management. You will be responsible for designing, building, and maintaining applications that involve both user-facing interfaces and complex back-end automation. The ideal candidate is a technical generalist who is comfortable working across multiple languages (JavaScript and Python) and is eager to adopt new technologies as our stack evolves. Your impact will be: Develop and maintain responsive web applications using Next.js and Node.js. Write clean, maintainable code in Python for backend services and data processing scripts. Build and monitor automated workflows and data pipelines using Airflow and dbt. Design and implement secure, scalable RESTful APIs. Manage and deploy applications within an AWS environment, ensuring cloud best practices are followed. Optimize database performance and manage data migrations in Postgres. Quickly learn and implement new frameworks or tools based on project-specific requirements What you will bring: Frontend/Backend: 5+ years of experience with JavaScript/Typescript & Node.js; with deep understanding of the Next.js framework; and strong experience with API development & integrations Python: Proven experience using Python for application development or data engineering. Cloud: Working knowledge of AWS core services (e.g., EC2, S3, Lambda, RDS). Data Tools: Exper...",
       "required_skills": [
-        "LLM",
+        "AWS",
+        "Airflow",
+        "GitHub Actions",
+        "Next.js",
+        "PostgreSQL",
         "Python",
         "SQL"
       ],
       "matched_skills": [
-        "LLM",
+        "GitHub Actions",
+        "Next.js",
+        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
+        "Airflow",
         "SQL"
       ],
-      "rule_based_summary": "Customer Success Producer (South Korea) at Aghanim, focused on LLM, Python, SQL. Location: South Korea.",
-      "rule_based_application_sentence": "Your Customer Success Producer (South Korea) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Solutions Engineer(Python/Airflow) at EDB, focused on AWS, Airflow, GitHub Actions, Next.js. Location: USA.",
+      "rule_based_application_sentence": "Your Solutions Engineer(Python/Airflow) role interests me because it connects directly with my work around GitHub Actions, Next.js, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "4 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "Main missing or weaker skills: AWS, Airflow, SQL."
       ]
     },
     {
-      "id": "jobicy-163806",
-      "title": "Customer Success Producer (China)",
-      "company": "Aghanim",
-      "location": "China",
+      "id": "jobicy-156573",
+      "title": "Engineering Manager - Distributed Systems, Python / Go",
+      "company": "Canonical",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163806-customer-success-producer-china",
-      "published_at": "2026-11-22",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
+      "published_at": "2026-11-23",
+      "match_score": 41,
       "priority": "low",
-      "raw_description": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with players, sell directly, and build their future on their own terms. Today, more than 100 games worldwide are already building this future with Aghanim. Our team brings together people across Los Angeles, New York, Seoul, Beijing, London, Lisbon, Belgrade and other locations around the globe, with deep expertise in gaming, fintech and technology. We move quickly, keep communication direct, and focus on getting things done. We believe the best people thrive when they have autonomy, ownership, and a stake in the company's success. We are looking for a Customer Success Producer to help game studios maximize revenue through monetization, LiveOps, and direct-to-consumer (DTC) strategies. You will work closely with game teams to analyze performance, identify growth opportunities, and drive initiatives across offers, pricing, experimentation, and player engagement. This role combines analytics, strategy, and execution with a direct impact on customer growth and business results. Key Responsibilities Monetization and Growth Strategy Analyze game performance, monetization, and retention metrics to identify growth opportunities Develop recommendations for LiveOps, offers, pricing, promotions, and DTC monetization strategies Design and evaluate experiments to improve revenue, engagement, and conversion Assess in-game and web store experiences and propose optimization initiatives Customer Success and Revenue Expansion Partner with game teams to drive measurable business outcomes and revenue growth Develop and execute DTC adoption and revenue transition plans Provide strategic guidance on monetization, LiveOps, CRM, and customer engagement initiatives Identify expansion opportunities and help customers maximize the value of Aghanim's platform Cross-functional Collaboration Work closely with Product, Data, Engineering, and Implementation teams to execute customer initiatives Act as the voice of the customer, ensuring feedback and business needs are reflected in product and operational decisions Contribute to scalable customer success processes, onboarding frameworks, and best practices Required Qualifications 5+ years of experience in mobile gaming, F2P, Li...",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, as well as industry leaders across many sectors. Canonical is a pioneer of global distributed collaboration, with 1,200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager for Distributed Systems Testing to lead a team responsible for the quality engineering platform that enables deployment and validation of distributed systems across Canonical's cloud portfolio. We see quality engineering as a first-class engineering practice. Our Distributed Systems Testing team ensures the performance, correctness, resilience and interoperability of Canonical cloud solutions built with technologies such as Juju, Terraform, OpenStack and Kubernetes. These systems are deployed and tested across diverse environments, from bare-metal to the public cloud. As Engineering Manager, you will combine strong software engineering judgement with people leadership. You will develop engineering talent, establish effective engineering practices, shape technical direction with senior engineers, and ensure the team delivers high-quality testing infrastructure and automation that enables engineering teams across Canonical to ship software with confidence. We believe engineering managers should be outstanding engineers themselves. You should be comfortable reviewing patches, evaluating software design, debugging a distributed system, or discussing test architecture. You will contribute technically where appropriate to set a high standard, while recognizing that your greatest impact comes from shaping the direction, focus, effectiveness, and growth of the whole team. You will work closely with senior engineers and engineering leaders across Canonical to define priorities, improve testing capabilities, and advance how we validate increasingly complex cloud-native and distributed systems. Location: This is a globally remote role, typically leading a team concentrated within a major time zone such as EMEA or the Americas....",
       "required_skills": [
-        "LLM",
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "Kubernetes",
         "Python",
-        "SQL"
+        "Terraform"
       ],
       "matched_skills": [
-        "LLM",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
-        "SQL"
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform"
       ],
-      "rule_based_summary": "Customer Success Producer (China) at Aghanim, focused on LLM, Python, SQL. Location: China.",
-      "rule_based_application_sentence": "Your Customer Success Producer (China) role interests me because it connects directly with my work around LLM, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen SQL.",
+      "rule_based_summary": "Engineering Manager - Distributed Systems, Python / Go at Canonical, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: EMEA,  LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Engineering Manager - Distributed Systems, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 3 extracted skills match the profile.",
+        "2 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: SQL."
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
       ]
     },
     {
@@ -244,7 +270,7 @@
       "published_at": "2026-11-19",
       "match_score": 35,
       "priority": "low",
-      "raw_description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your culture communicates and values information is irreplaceable in building search systems that people can actually trust. In this role, you will evaluate search queries, results, and AI-generated content for factual accuracy, authority, relevance, and user intent alignment. Your judgment determines whether search systems return trustworthy, contextually appropriate information. Analyze multi-turn search queries and web results for factual accuracy, source authority, and user intent alignment Conduct cross-referencing and fact-checking using regional sources, specialized databases, academic resources, and web directories Assess localized content relevancy across diverse domains—news, sports, local culture, technical queries considering regional context and cultural nuance Evaluate AI-generated content for factual grounding, hallucination risk, and contextual appropriateness Provide structured assessments that train search ranking and content relevance models Qualifications to succeed in this project: Professional fluency in English Residency in the United States for the last 3 consecutive years Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content Deep local cultural awareness and familiarity with regional news, current events, and contemporary culture Strong fact-checking and critical thinking abilities Access to a stable broadband internet, a reliable computer and a smartphone (Android 5.0, iOS 14 or higher) Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content Linguists, cross-cultural researchers, domain specialists, and detail-driven professionals with strong research methodology (preferred) Why join the project: Fully remote flexibility: Structure your contributions around research, consulting, teaching, or other professional commitments without rigid scheduling Comprehensive research support: Access detailed evaluation guidelines, reference materials, databases, and resources for f...",
+      "raw_description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. But search engines only learn to return trustworthy information if human evaluators with deep research expertise and cultural knowledge verify and correct them. Your linguistic precision, fact-checking rigor, and understanding of how your culture communicates and values information is irreplaceable in building search systems that people can actually trust. In this role, you will evaluate search queries, results, and AI-generated content for factual accuracy, authority, relevance, and user intent alignment. Your judgment determines whether search systems return trustworthy, contextually appropriate information. Analyze multi-turn search queries and web results for factual accuracy, source authority, and user intent alignment Conduct cross-referencing and fact-checking using regional sources, specialized databases, academic resources, and web directories Assess localized content relevancy across diverse domains—news, sports, local culture, technical queries considering regional context and cultural nuance Evaluate AI-generated content for factual grounding, hallucination risk, and contextual appropriateness Provide structured assessments that train search ranking and content relevance models Qualifications to succeed in this project: Professional fluency in English Residency in the United States for the last 3 consecutive years Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content Deep local cultural awareness and familiarity with regional news, current events, and contemporary culture Strong fact-checking and critical thinking abilities Access to a stable broadband internet, a reliable computer and a smartphone (Android 5.0, iOS 14 or higher) Linguists, cross-cultural researchers, domain specialists, and detail-driven professionals with strong research methodology (preferred) Why join the project: Fully remote flexibility: Structure your contributions around research, consulting, teaching, or other professional commitments without rigid scheduling Comprehensive research support: Access detailed evaluation guidelines, reference materials, databases, and resources for fact-checking across domains Quality recognition: Performance assessments focused on consistency, fact-checking precision, and nuanced judgment In...",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
