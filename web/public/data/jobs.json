@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:58:12Z",
+  "generated_at": "2026-11-24T17:35:50Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 3
+      "Jobicy": 4
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,6 +74,48 @@
   },
   "jobs": [
     {
+      "id": "jobicy-164109",
+      "title": "Backend Software Engineer — Secure Mission Systems",
+      "company": "Rackner",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164109-backend-software-engineer-secure-mission-systems",
+      "published_at": "2026-11-24",
+      "match_score": 58,
+      "priority": "medium",
+      "raw_description": "Backend Software Engineer — Secure Mission Systems Location: Mainly remote, with onsite work in Laurel, Maryland, typically one day every six weeks for team-wide sprint planning. Exact timing may vary based on project needs. Clearance: Active final DoD Secret clearance required This position supports a pending contract opportunity and is contingent upon contract award, with an anticipated start in November 2026. Build Secure Software for a High-Impact Defense Mission Join Rackner to build secure backend services that support mission-planning and decision-support capabilities for a Department of Defense customer. You will take hands-on ownership of APIs, service integrations, data flows, distributed workflows, and automated testing—not simply complete isolated development tickets. The role offers exposure to secure software delivery, geospatial data, containerized applications, and backend services that support AI-enabled capabilities. This is a primarily remote role within the United States. Work will be performed using customer-provided systems, with virtual collaboration across the engineering team and periodic onsite sprint planning in Laurel, Maryland. What You Will Do Design, develop, test, and integrate secure backend services and APIs. Build and maintain backend services using Python, FastAPI, and C#. Develop REST APIs and support service-to-service communication using gRPC. Build asynchronous and distributed workflows using RabbitMQ and Celery. Develop and integrate relational and geospatial data capabilities using PostgreSQL and PostGIS. Containerize and deploy backend services in OpenShift-based environments. Work within GitLab-based development and CI/CD workflows. Apply secure software-development lifecycle practices throughout design, implementation, testing, and remediation. Develop unit, integration, and system-level tests that support software quality and delivery confidence. Investigate defects, failed integrations, security findings, and service issues. Participate in code reviews, technical reviews, vulnerability-remediation efforts, and solution-design discussions. Produce software designs, sequence diagrams, workflow descriptions, and technical documentation. Collaborate with frontend, AI/ML, security, platform, DevSecOps, and customer engineering teams. What You Bring Bachelor’s degree in Computer Science or a related field. At least four years of professional software-development experience. Hands-on experience designing and devel...",
+      "required_skills": [
+        "FastAPI",
+        "GitHub Actions",
+        "Kubernetes",
+        "LLM",
+        "PostgreSQL",
+        "Python",
+        "RAG"
+      ],
+      "matched_skills": [
+        "FastAPI",
+        "GitHub Actions",
+        "LLM",
+        "PostgreSQL",
+        "Python",
+        "RAG"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Backend Software Engineer — Secure Mission Systems at Rackner, focused on FastAPI, GitHub Actions, Kubernetes, LLM. Location: USA.",
+      "rule_based_application_sentence": "Your Backend Software Engineer — Secure Mission Systems role interests me because it connects directly with my work around FastAPI, GitHub Actions, LLM, PostgreSQL, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "6 of 7 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -116,124 +158,82 @@
       ]
     },
     {
-      "id": "jobicy-151013",
-      "title": "Distributed Systems Testing Software Engineer, Python / Go",
-      "company": "Canonical",
-      "location": "Anywhere",
+      "id": "jobicy-164107",
+      "title": "Software Engineer- Agentic AI & Integrations",
+      "company": "WIN Home Inspection",
+      "location": "APAC",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-      "published_at": "2026-11-21",
-      "match_score": 46,
+      "url": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
+      "published_at": "2026-11-24",
+      "match_score": 48,
       "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring a Software Engineer for Distributed Systems Testing with a passion for building and validating resilient distributed systems. You drive the success of those leveraging Canonical’s Ubuntu and Juju to build multi-cloud deployable applications. We see quality engineering as a first class engineering practice and are looking for people who can bring deep engineering insights and a data driven approach to testing, test automation, reporting and data analytics. The Distributed Systems testing team at Canonical is responsible for the high quality of Canonical’s Cloud solutions based on for example Juju, Terraform, OpenStack, or Kubernetes. Systems are tested and deployed under highly diverse conditions, from bare metal in customer data centers to public clouds such as AWS, GCE, Azure. As a software engineer you will have the opportunity to develop CI pipelines which power Canonical’s cloud integration testing and reporting. You will help test our products on new clouds and advance our AI/ML pipelines for automatic analysis of test results. A successful candidate is interested in tackling these problems, as well as imagining and leading new initiatives within the team and across Canonical. The role entails Creating automated testing approaches and infrastructure for validating reliability, performance, and resilience of cloud orchestration tools and applications Enabling engineering teams across Canonical to develop software with confidence by making distributed system testing tooling available across the company Enhancing continuous integration pipelines for deploying and testing Canonical’s cloud native products such as Kubeflow Deploying, managing, and debugging highly distributed systems on clouds and bare metal Monitoring and reporting on automat...",
+      "raw_description": "ABOUT THE ROLE WIN is seeking highly skilled, hands-on Software Engineers to help build innovative digital applications, AI-powered solutions, and scalable technology platforms. WIN is investing heavily in agentic AI, intelligent automation, and advanced digital platforms to transform how customers access home services and how service professionals deliver them across the $700 billion U.S. home services industry. In this role, you will design and develop software applications, connect internal and external systems, and build intelligent workflows that automate complex business processes. You will work with emerging AI technologies while also contributing to the development of new products and platform capabilities. We are looking for engineers who combine strong software engineering fundamentals with proven experience building real-world AI applications, enjoy solving complex technical challenges, and can turn innovative ideas into reliable, production-ready solutions. KEY RESPONSIBILITIES Build software applications and platforms: Design, develop, and maintain scalable backend applications, APIs, and services that power WIN's existing and emerging digital products. Develop agentic AI capabilities: Build and enhance intelligent AI agents and automated workflows that can interact with systems, retrieve information, make decisions within defined parameters, and execute actions to complete business processes. Integrate systems and technologies: Develop robust integrations connecting internal applications, third-party platforms, AI services, and external tools using Python, REST APIs, webhooks, MCP, and other integration technologies. Engineer and optimize AI workflows: Integrate and orchestrate LLMs, AI agents, and external services, including evaluating and switching between AI models and providers to improve accuracy, performance, reliability, and cost efficiency. Ensure reliability and scalability: Build, test, deploy, monitor, and troubleshoot applications and integrations. Implement appropriate safeguards, error handling, and automated testing to ensure secure, dependable performance. Translate business needs into technology solutions: Collaborate with product, technology, and business teams to understand requirements, design technical solutions, and independently deliver working applications and capabilities. Support innovation and product development: Evaluate and implement emerging technologies, contribute to technical architecture, and develop new...",
       "required_skills": [
         "AWS",
-        "Azure",
-        "GitHub Actions",
-        "Kubernetes",
+        "FastAPI",
+        "LLM",
         "Python",
-        "Terraform"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Azure",
-        "Kubernetes",
-        "Terraform"
-      ],
-      "rule_based_summary": "Distributed Systems Testing Software Engineer, Python / Go at Canonical, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Distributed Systems Testing Software Engineer, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
-      ]
-    },
-    {
-      "id": "jobicy-163623",
-      "title": "Solutions Engineer(Python/Airflow)",
-      "company": "EDB",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163623-solutions-engineerpython-airflow",
-      "published_at": "2026-11-21",
-      "match_score": 45,
-      "priority": "low",
-      "raw_description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit www.enterprisedb.com **Candidate Note: This role is 100% remote for candidates based in EST or CST ** We are seeking a Solution Developer to join our engineering team. This is a versatile role requiring a mix of full-stack web development, data pipeline engineering, and cloud infrastructure management. You will be responsible for designing, building, and maintaining applications that involve both user-facing interfaces and complex back-end automation. The ideal candidate is a technical generalist who is comfortable working across multiple languages (JavaScript and Python) and is eager to adopt new technologies as our stack evolves. Your impact will be: Develop and maintain responsive web applications using Next.js and Node.js. Write clean, maintainable code in Python for backend services and data processing scripts. Build and monitor automated workflows and data pipelines using Airflow and dbt. Design and implement secure, scalable RESTful APIs. Manage and deploy applications within an AWS environment, ensuring cloud best practices are followed. Optimize database performance and manage data migrations in Postgres. Quickly learn and implement new frameworks or tools based on project-specific requirements What you will bring: Frontend/Backend: 5+ years of experience with JavaScript/Typescript & Node.js; with deep understanding of the Next.js framework; and strong experience with API development & integrations Python: Proven experience using Python for application development or data engineering. Cloud: Working knowledge of AWS core services (e.g., EC2, S3, Lambda, RDS). Data Tools: Exper...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "GitHub Actions",
-        "Next.js",
-        "PostgreSQL",
-        "Python",
+        "RAG",
         "SQL"
       ],
       "matched_skills": [
-        "GitHub Actions",
-        "Next.js",
-        "PostgreSQL",
-        "Python"
+        "FastAPI",
+        "LLM",
+        "Python",
+        "RAG"
       ],
       "missing_skills": [
         "AWS",
-        "Airflow",
         "SQL"
       ],
-      "rule_based_summary": "Solutions Engineer(Python/Airflow) at EDB, focused on AWS, Airflow, GitHub Actions, Next.js. Location: USA.",
-      "rule_based_application_sentence": "Your Solutions Engineer(Python/Airflow) role interests me because it connects directly with my work around GitHub Actions, Next.js, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Software Engineer- Agentic AI & Integrations at WIN Home Inspection, focused on AWS, FastAPI, LLM, Python. Location: APAC.",
+      "rule_based_application_sentence": "Your Software Engineer- Agentic AI & Integrations role interests me because it connects directly with my work around FastAPI, LLM, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 7 extracted skills match the profile.",
+        "4 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, SQL."
+        "Main missing or weaker skills: AWS, SQL."
       ]
     },
     {
-      "id": "jobicy-156573",
-      "title": "Engineering Manager - Distributed Systems, Python / Go",
-      "company": "Canonical",
-      "location": "EMEA,  LATAM,  Canada,  USA",
+      "id": "jobicy-164108",
+      "title": "DevOps Engineer",
+      "company": "Oddball",
+      "location": "USA",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
-      "published_at": "2026-11-23",
-      "match_score": 41,
+      "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
+      "published_at": "2026-11-24",
+      "match_score": 42,
       "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, as well as industry leaders across many sectors. Canonical is a pioneer of global distributed collaboration, with 1,200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring an Engineering Manager for Distributed Systems Testing to lead a team responsible for the quality engineering platform that enables deployment and validation of distributed systems across Canonical's cloud portfolio. We see quality engineering as a first-class engineering practice. Our Distributed Systems Testing team ensures the performance, correctness, resilience and interoperability of Canonical cloud solutions built with technologies such as Juju, Terraform, OpenStack and Kubernetes. These systems are deployed and tested across diverse environments, from bare-metal to the public cloud. As Engineering Manager, you will combine strong software engineering judgement with people leadership. You will develop engineering talent, establish effective engineering practices, shape technical direction with senior engineers, and ensure the team delivers high-quality testing infrastructure and automation that enables engineering teams across Canonical to ship software with confidence. We believe engineering managers should be outstanding engineers themselves. You should be comfortable reviewing patches, evaluating software design, debugging a distributed system, or discussing test architecture. You will contribute technically where appropriate to set a high standard, while recognizing that your greatest impact comes from shaping the direction, focus, effectiveness, and growth of the whole team. You will work closely with senior engineers and engineering leaders across Canonical to define priorities, improve testing capabilities, and advance how we validate increasingly complex cloud-native and distributed systems. Location: This is a globally remote role, typically leading a team concentrated within a major time zone such as EMEA or the Americas....",
+      "raw_description": "Oddball believes that we can bring change and improve the daily lives of millions by bringing quality software to the federal space. Our team is full of experienced engineering, product, and user experience professionals who love bringing scalable solutions to life as much as they love working with clients to solve problems. We value learning, growth, and the ability to make a big impact at a rapidly growing company. This position is contingent upon contract award. We’re looking for a DevOps Engineer to join our VA innovation team, building and running the cloud platforms and pipelines behind mission-driven applications for Veterans. What you'll be doing: Build and maintain CI/CD pipelines using GitHub Actions , Jenkins , or Azure DevOps Pipelines Provision and manage cloud infrastructure on AWS and Azure using Terraform Support containerized deployments with Docker Monitor environments and troubleshoot issues using Datadog , Dynatrace , or CloudWatch Write automation scripts in Python , Bash , or PowerShell Help keep environments secure and consistent within VA’s enterprise ecosystem Collaborate with engineers in an Agile environment What you’ll bring: Hands-on DevOps or cloud engineering experience on AWS or Azure Experience with CI/CD tools such as GitHub Actions or Jenkins Experience with infrastructure as code using Terraform , ARM , or Bicep Experience with Docker and container-based deployments Familiarity with monitoring tools such as Datadog or CloudWatch Familiarity with AI-assisted development tools is a plus Thrives in a remote, collaborative Agile environment and genuinely enjoys working closely with engineers Communicates clearly and openly, whether documenting a change or troubleshooting with a teammate Performs other related duties as assigned Requirements: Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance. Education: Bachelor's Degree Benefits: Fully remote Annual Stipend Comprehensive Benefits Package Company Match 401(k) plan Flexible PTO, Paid Holidays Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities: Oddball is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin,...",
       "required_skills": [
         "AWS",
         "Azure",
+        "Docker",
         "GitHub Actions",
-        "Kubernetes",
         "Python",
         "Terraform"
       ],
       "matched_skills": [
+        "Docker",
         "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
         "Azure",
-        "Kubernetes",
         "Terraform"
       ],
-      "rule_based_summary": "Engineering Manager - Distributed Systems, Python / Go at Canonical, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: EMEA,  LATAM,  Canada,  USA.",
-      "rule_based_application_sentence": "Your Engineering Manager - Distributed Systems, Python / Go role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "DevOps Engineer at Oddball, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
+      "rule_based_application_sentence": "Your DevOps Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
+        "3 of 6 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: AWS, Azure, Kubernetes, Terraform."
+        "The seniority is not explicit, so the project treats it as moderately compatible.",
+        "Main missing or weaker skills: AWS, Azure, Terraform."
       ]
     },
     {
@@ -258,6 +258,46 @@
         "The location is less aligned with the preferred search area.",
         "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
+      ]
+    },
+    {
+      "id": "jobicy-163981",
+      "title": "Senior Data Platform Engineer - Weights & Biases",
+      "company": "CoreWeave",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases",
+      "published_at": "2026-11-23",
+      "match_score": 38,
+      "priority": "low",
+      "raw_description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . Weights & Biases at CoreWeave CoreWeave acquired Weights & Biases to create the most powerful end-to-end platform to develop, deploy, and iterate AI faster. CoreWeave operates a growing footprint of data centers covering every region of the US and across Europe, and was ranked as one of the TIME100 most influential companies of 2024. By bringing together CoreWeave’s industry-leading cloud infrastructure with the best-in-class tools AI practitioners know and love from Weights & Biases, we’re setting a new standard for how AI is built, trained, and scaled. The integration of our teams and technologies is accelerating our shared mission: to empower developers with the tools and infrastructure they need to push the boundaries of what AI can do. From experiment tracking and model optimization to high-performance training clusters, agent building, and inference at scale, we’re combining forces to serve the full AI lifecycle — all in one seamless platform. Weights & Biases has long been trusted by over 1,500 organizations — including AstraZeneca, Canva, Cohere, OpenAI, Meta, Snowflake, Square, Toyota, and Wayve — to build better models, AI agents and applications. Now, as part of CoreWeave, that impact is amplified across a broader ecosystem of AI innovators, researchers, and enterprises. As we unite under one vision, we’re looking for bold thinkers and agile builders who are excited to shape the future of AI alongside us. If you’re passionate about solving complex problems at the intersection of software, hardware, and AI, there’s never been a more exciting time to join our team. What You’ll Do As a Senior Data Platform Engineer, you will apply advanced knowledge of software engineering, data architecture, distributed systems, and database technologies to design and operate our enterprise data platform. Your responsibilities will include: Design and implement scalable data systems and pipelines — 30%: Architect, develop, test, and mainta...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "OpenAI",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "OpenAI",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Data Platform Engineer - Weights & Biases at CoreWeave, focused on AWS, Airflow, Azure, OpenAI. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Data Platform Engineer - Weights & Biases role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, SQL."
       ]
     },
     {
