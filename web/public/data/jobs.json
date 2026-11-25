@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:35:50Z",
+  "generated_at": "2026-11-25T17:07:20Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 4
+      "Jobicy": 3
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,48 +74,6 @@
   },
   "jobs": [
     {
-      "id": "jobicy-164109",
-      "title": "Backend Software Engineer — Secure Mission Systems",
-      "company": "Rackner",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164109-backend-software-engineer-secure-mission-systems",
-      "published_at": "2026-11-24",
-      "match_score": 58,
-      "priority": "medium",
-      "raw_description": "Backend Software Engineer — Secure Mission Systems Location: Mainly remote, with onsite work in Laurel, Maryland, typically one day every six weeks for team-wide sprint planning. Exact timing may vary based on project needs. Clearance: Active final DoD Secret clearance required This position supports a pending contract opportunity and is contingent upon contract award, with an anticipated start in November 2026. Build Secure Software for a High-Impact Defense Mission Join Rackner to build secure backend services that support mission-planning and decision-support capabilities for a Department of Defense customer. You will take hands-on ownership of APIs, service integrations, data flows, distributed workflows, and automated testing—not simply complete isolated development tickets. The role offers exposure to secure software delivery, geospatial data, containerized applications, and backend services that support AI-enabled capabilities. This is a primarily remote role within the United States. Work will be performed using customer-provided systems, with virtual collaboration across the engineering team and periodic onsite sprint planning in Laurel, Maryland. What You Will Do Design, develop, test, and integrate secure backend services and APIs. Build and maintain backend services using Python, FastAPI, and C#. Develop REST APIs and support service-to-service communication using gRPC. Build asynchronous and distributed workflows using RabbitMQ and Celery. Develop and integrate relational and geospatial data capabilities using PostgreSQL and PostGIS. Containerize and deploy backend services in OpenShift-based environments. Work within GitLab-based development and CI/CD workflows. Apply secure software-development lifecycle practices throughout design, implementation, testing, and remediation. Develop unit, integration, and system-level tests that support software quality and delivery confidence. Investigate defects, failed integrations, security findings, and service issues. Participate in code reviews, technical reviews, vulnerability-remediation efforts, and solution-design discussions. Produce software designs, sequence diagrams, workflow descriptions, and technical documentation. Collaborate with frontend, AI/ML, security, platform, DevSecOps, and customer engineering teams. What You Bring Bachelor’s degree in Computer Science or a related field. At least four years of professional software-development experience. Hands-on experience designing and devel...",
-      "required_skills": [
-        "FastAPI",
-        "GitHub Actions",
-        "Kubernetes",
-        "LLM",
-        "PostgreSQL",
-        "Python",
-        "RAG"
-      ],
-      "matched_skills": [
-        "FastAPI",
-        "GitHub Actions",
-        "LLM",
-        "PostgreSQL",
-        "Python",
-        "RAG"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Backend Software Engineer — Secure Mission Systems at Rackner, focused on FastAPI, GitHub Actions, Kubernetes, LLM. Location: USA.",
-      "rule_based_application_sentence": "Your Backend Software Engineer — Secure Mission Systems role interests me because it connects directly with my work around FastAPI, GitHub Actions, LLM, PostgreSQL, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -158,146 +116,136 @@
       ]
     },
     {
-      "id": "jobicy-164107",
-      "title": "Software Engineer- Agentic AI & Integrations",
-      "company": "WIN Home Inspection",
-      "location": "APAC",
+      "id": "jobicy-149543",
+      "title": "Python Engineer",
+      "company": "Canonical",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
-      "published_at": "2026-11-24",
-      "match_score": 48,
+      "url": "https://jobicy.com/jobs/149543-python-engineer",
+      "published_at": "2026-11-25",
+      "match_score": 46,
       "priority": "low",
-      "raw_description": "ABOUT THE ROLE WIN is seeking highly skilled, hands-on Software Engineers to help build innovative digital applications, AI-powered solutions, and scalable technology platforms. WIN is investing heavily in agentic AI, intelligent automation, and advanced digital platforms to transform how customers access home services and how service professionals deliver them across the $700 billion U.S. home services industry. In this role, you will design and develop software applications, connect internal and external systems, and build intelligent workflows that automate complex business processes. You will work with emerging AI technologies while also contributing to the development of new products and platform capabilities. We are looking for engineers who combine strong software engineering fundamentals with proven experience building real-world AI applications, enjoy solving complex technical challenges, and can turn innovative ideas into reliable, production-ready solutions. KEY RESPONSIBILITIES Build software applications and platforms: Design, develop, and maintain scalable backend applications, APIs, and services that power WIN's existing and emerging digital products. Develop agentic AI capabilities: Build and enhance intelligent AI agents and automated workflows that can interact with systems, retrieve information, make decisions within defined parameters, and execute actions to complete business processes. Integrate systems and technologies: Develop robust integrations connecting internal applications, third-party platforms, AI services, and external tools using Python, REST APIs, webhooks, MCP, and other integration technologies. Engineer and optimize AI workflows: Integrate and orchestrate LLMs, AI agents, and external services, including evaluating and switching between AI models and providers to improve accuracy, performance, reliability, and cost efficiency. Ensure reliability and scalability: Build, test, deploy, monitor, and troubleshoot applications and integrations. Implement appropriate safeguards, error handling, and automated testing to ensure secure, dependable performance. Translate business needs into technology solutions: Collaborate with product, technology, and business teams to understand requirements, design technical solutions, and independently deliver working applications and capabilities. Support innovation and product development: Evaluate and implement emerging technologies, contribute to technical architecture, and develop new...",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
       "required_skills": [
-        "AWS",
-        "FastAPI",
-        "LLM",
+        "Docker",
+        "Kubernetes",
         "Python",
-        "RAG",
         "SQL"
       ],
       "matched_skills": [
-        "FastAPI",
-        "LLM",
-        "Python",
-        "RAG"
+        "Docker",
+        "Python"
       ],
       "missing_skills": [
-        "AWS",
+        "Kubernetes",
         "SQL"
       ],
-      "rule_based_summary": "Software Engineer- Agentic AI & Integrations at WIN Home Inspection, focused on AWS, FastAPI, LLM, Python. Location: APAC.",
-      "rule_based_application_sentence": "Your Software Engineer- Agentic AI & Integrations role interests me because it connects directly with my work around FastAPI, LLM, Python, RAG, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Python Engineer at Canonical, focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "4 of 6 extracted skills match the profile.",
+        "2 of 4 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, SQL."
+        "The offer explicitly appears junior or early-career compatible.",
+        "Main missing or weaker skills: Kubernetes, SQL."
       ]
     },
     {
-      "id": "jobicy-164108",
-      "title": "DevOps Engineer",
-      "company": "Oddball",
-      "location": "USA",
+      "id": "jobicy-149563",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "company": "Canonical",
+      "location": "Anywhere",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
-      "published_at": "2026-11-24",
-      "match_score": 42,
+      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+      "published_at": "2026-11-25",
+      "match_score": 45,
       "priority": "low",
-      "raw_description": "Oddball believes that we can bring change and improve the daily lives of millions by bringing quality software to the federal space. Our team is full of experienced engineering, product, and user experience professionals who love bringing scalable solutions to life as much as they love working with clients to solve problems. We value learning, growth, and the ability to make a big impact at a rapidly growing company. This position is contingent upon contract award. We’re looking for a DevOps Engineer to join our VA innovation team, building and running the cloud platforms and pipelines behind mission-driven applications for Veterans. What you'll be doing: Build and maintain CI/CD pipelines using GitHub Actions , Jenkins , or Azure DevOps Pipelines Provision and manage cloud infrastructure on AWS and Azure using Terraform Support containerized deployments with Docker Monitor environments and troubleshoot issues using Datadog , Dynatrace , or CloudWatch Write automation scripts in Python , Bash , or PowerShell Help keep environments secure and consistent within VA’s enterprise ecosystem Collaborate with engineers in an Agile environment What you’ll bring: Hands-on DevOps or cloud engineering experience on AWS or Azure Experience with CI/CD tools such as GitHub Actions or Jenkins Experience with infrastructure as code using Terraform , ARM , or Bicep Experience with Docker and container-based deployments Familiarity with monitoring tools such as Datadog or CloudWatch Familiarity with AI-assisted development tools is a plus Thrives in a remote, collaborative Agile environment and genuinely enjoys working closely with engineers Communicates clearly and openly, whether documenting a change or troubleshooting with a teammate Performs other related duties as assigned Requirements: Applicants must be authorized to work in the United States. In alignment with federal contract requirements, certain roles may also require U.S. citizenship and the ability to obtain and maintain a federal background investigation and/or a security clearance. Education: Bachelor's Degree Benefits: Fully remote Annual Stipend Comprehensive Benefits Package Company Match 401(k) plan Flexible PTO, Paid Holidays Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities: Oddball is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin,...",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
       "required_skills": [
         "AWS",
+        "Airflow",
         "Azure",
         "Docker",
-        "GitHub Actions",
-        "Python",
-        "Terraform"
+        "Kubernetes",
+        "MLOps",
+        "Python"
       ],
       "matched_skills": [
         "Docker",
-        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
+        "Airflow",
         "Azure",
-        "Terraform"
+        "Kubernetes",
+        "MLOps"
       ],
-      "rule_based_summary": "DevOps Engineer at Oddball, focused on AWS, Azure, Docker, GitHub Actions. Location: USA.",
-      "rule_based_application_sentence": "Your DevOps Engineer role interests me because it connects directly with my work around Docker, GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
+      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "3 of 6 extracted skills match the profile.",
+        "2 of 7 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The seniority is not explicit, so the project treats it as moderately compatible.",
-        "Main missing or weaker skills: AWS, Azure, Terraform."
+        "The offer explicitly appears junior or early-career compatible.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
       ]
     },
     {
-      "id": "remotive-2091173",
-      "title": "Content Creator - YouTube",
-      "company": "Metics Media",
-      "location": "USA, Canada",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
-      "published_at": "2026-11-13",
-      "match_score": 40,
+      "id": "jobicy-164020",
+      "title": "Software Engineer (Python/Linux/Packaging)",
+      "company": "Canonical",
+      "location": "LATAM,  Canada,  USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging",
+      "published_at": "2026-11-23",
+      "match_score": 43,
       "priority": "low",
-      "raw_description": "Important: Applications without an intro video will not be considered. Job Overview Create engaging YouTube tutorials about software, digital marketing, and AI tools that reach millions of people around the world every month through our YouTube channel, Metics Media. About us Metics Media is a small, fully remote team creating high-quality YouTube videos about software, digital marketing, and AI tools for an audience of over 700,000 subscribers. Our mission is simple: to make technology easy to understand and help people get the most out of the tools available to them. We partner with leading platforms like Shopify, Hostinger, and Squarespace, allowing us to keep our content free and accessible to everyone. We're now looking for talented, motivated content creators to join our growing team, help us produce even more high-quality videos, and reach millions more people around the world. What you'll do Research each video's topic and tools in depth, and figure out what to cover and how to present it in a clear, engaging way. Write video scripts and outlines. Record videos, including talking-head and screen recordings. Your face will be visible in your videos. Perform basic video editing tasks and prepare footage for our in-house editor. What we're looking for Native-level written and spoken English Strong on-camera presentation skills and the ability to communicate clearly and confidently Ability to quickly understand complex topics and explain them clearly to beginners Strong research skills and the ability to verify information before presenting it AI-native and highly proficient with modern AI tools, using them effectively to work faster, improve quality, and maximize productivity High attention to detail and a strong commitment to producing high-quality work Ability to take feedback and continuously improve Reliable, organized, and able to work independently and take ownership of your projects Genuine interest in YouTube, online tools, software, and learning new topics A quiet, dedicated workspace where you can work without interruptions, with room to set up a small studio for recording talking-head videos with minimal background noise Fast internet connection with at least 50 Mbps download and 25 Mbps upload Legal authorization to work in the US or Canada Nice to have Previous experience creating educational video content Knowledge of topics such as website creation, AI tools, ecommerce, or other areas we regularly create videos about Equipment needed...",
+      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. We are hiring talented Software Engineers with strong Python, Packaging and Linux skills and who want to have a positive impact on the day-to-day workflow of thousands of snap, rock and charm publishers. To be successful on this team you'll need to be interested in packaging formats, build systems and automation that can simplify the lives of developers and engineers trying to ship software to the widest possible audience. We design and maintain specialist Python tools to support the developer build and publication process. The team takes responsibility for tooling that builds snaps , charms and more recently, rocks . Snapcraft allows developers to deliver app updates to millions of Linux systems automatically, eliminating the long tail of supported releases and complex install instructions. Snapcraft enables thousands of applications from over a thousand developers, including well-recognised names like Spotify, Slack, and Microsoft. Likewise, Charmcraft enables collaboration between charmed operator developers, and publication on Charmhub , home of the Charmed Operator Collection. Charmed Operators enable developers to package software like databases, event queues, caches, observability tools, identity tools and more, right alongside the operations code that enables teams to integrate and operate that software at scale from Day 0 to Day 1,000, and beyond. And Rockcraft provides the means for container developers to build production-grade Ubuntu-based container images, regardless of their experience as a software developer. These container images are called Rocks and can be found in various popular container registries, like Docker Hub, offering an opinionated and consistent design that focus on security while providing an homogeneous user experience across...",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "Docker",
+        "Python"
+      ],
+      "missing_skills": [
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Software Engineer (Python/Linux/Packaging) at Canonical, focused on Docker, Kubernetes, Python. Location: LATAM,  Canada,  USA.",
+      "rule_based_application_sentence": "Your Software Engineer (Python/Linux/Packaging) role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 3 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "Main missing or weaker skills: Kubernetes."
+      ]
+    },
+    {
+      "id": "remotive-2091179",
+      "title": "WordPress Theme & Plugin Developer",
+      "company": "Steward Web Development",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "published_at": "2026-11-24",
+      "match_score": 39,
+      "priority": "low",
+      "raw_description": "About the Role We're seeking a talented Fullstack WordPress Developer with strong expertise in custom theme and plugin development. You'll work on WordPress projects, including theme and plugin development, and potentially some Joomla projects (with appropriate support, depending on your familiarity). This is a contract role for full-time work over a 5 month contract. However, you'll work as if you were a full-time employee, participating in team meetings, communicating via Slack, and coordinating with other people on our team. Key Responsibilities Build custom WordPress themes that closely match designs with meticulous attention to detail Develop custom WordPress plugins with clean, well-structured code Take ownership of WordPress projects from concept to completion Refactor and update existing themes and templates Address other occasional full-stack developer tasks as needed for non-WordPress systems and situations (e.g. newsletter development) Provide limited support for clients who have issues or problems (secondary responsibility) Work Hours & Meetings You must be available to participate in meetings between 8:00 AM – 12:00 PM Los Angeles time (UTC-8) Your work hours will be negotiable. However, this is a full-time position, and the condition of this contract work is that you only work on our projects and on a full-time basis. Preference will be given to candidates that can closely align with our US timezone schedule. You have: At least 4 years of experience building custom WordPress themes and plugins Strong front-end development skills with an eye for detail Deep understanding of code organization, patterns, and OOP Strong English communication skills (written and verbal) The ability to work independently and complete objectives without explicit direction The ability to deliver polished work, self-review, and catch bugs before others do. This means that for any front-end development you do, it should be near pixel-perfect in alignment with the design you're working from.",
       "required_skills": [],
       "matched_skills": [],
       "missing_skills": [],
-      "rule_based_summary": "Content Creator - YouTube at Metics Media, focused on AI/data skills. Location: USA, Canada.",
-      "rule_based_application_sentence": "Your Content Creator - YouTube role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "rule_based_summary": "WordPress Theme & Plugin Developer at Steward Web Development, focused on AI/data skills. Location: Americas, LATAM, Canada, USA timezones.",
+      "rule_based_application_sentence": "Your WordPress Theme & Plugin Developer role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal."
-      ]
-    },
-    {
-      "id": "jobicy-163981",
-      "title": "Senior Data Platform Engineer - Weights & Biases",
-      "company": "CoreWeave",
-      "location": "USA",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases",
-      "published_at": "2026-11-23",
-      "match_score": 38,
-      "priority": "low",
-      "raw_description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . Weights & Biases at CoreWeave CoreWeave acquired Weights & Biases to create the most powerful end-to-end platform to develop, deploy, and iterate AI faster. CoreWeave operates a growing footprint of data centers covering every region of the US and across Europe, and was ranked as one of the TIME100 most influential companies of 2024. By bringing together CoreWeave’s industry-leading cloud infrastructure with the best-in-class tools AI practitioners know and love from Weights & Biases, we’re setting a new standard for how AI is built, trained, and scaled. The integration of our teams and technologies is accelerating our shared mission: to empower developers with the tools and infrastructure they need to push the boundaries of what AI can do. From experiment tracking and model optimization to high-performance training clusters, agent building, and inference at scale, we’re combining forces to serve the full AI lifecycle — all in one seamless platform. Weights & Biases has long been trusted by over 1,500 organizations — including AstraZeneca, Canva, Cohere, OpenAI, Meta, Snowflake, Square, Toyota, and Wayve — to build better models, AI agents and applications. Now, as part of CoreWeave, that impact is amplified across a broader ecosystem of AI innovators, researchers, and enterprises. As we unite under one vision, we’re looking for bold thinkers and agile builders who are excited to shape the future of AI alongside us. If you’re passionate about solving complex problems at the intersection of software, hardware, and AI, there’s never been a more exciting time to join our team. What You’ll Do As a Senior Data Platform Engineer, you will apply advanced knowledge of software engineering, data architecture, distributed systems, and database technologies to design and operate our enterprise data platform. Your responsibilities will include: Design and implement scalable data systems and pipelines — 30%: Architect, develop, test, and mainta...",
-      "required_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "OpenAI",
-        "Python",
-        "SQL"
-      ],
-      "matched_skills": [
-        "OpenAI",
-        "Python"
-      ],
-      "missing_skills": [
-        "AWS",
-        "Airflow",
-        "Azure",
-        "SQL"
-      ],
-      "rule_based_summary": "Senior Data Platform Engineer - Weights & Biases at CoreWeave, focused on AWS, Airflow, Azure, OpenAI. Location: USA.",
-      "rule_based_application_sentence": "Your Senior Data Platform Engineer - Weights & Biases role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 6 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, SQL."
+        "The seniority is not explicit, so the project treats it as moderately compatible."
       ]
     },
     {
