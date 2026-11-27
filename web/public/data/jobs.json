@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:48:04Z",
+  "generated_at": "2026-11-27T16:33:21Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -109,48 +109,6 @@
       ]
     },
     {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "published_at": "2026-11-14",
-      "match_score": 54,
-      "priority": "medium",
-      "raw_description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g.,...",
-      "required_skills": [
-        "Docker",
-        "Kubernetes",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "matched_skills": [
-        "Docker",
-        "LLM",
-        "LangChain",
-        "NLP",
-        "PostgreSQL",
-        "React"
-      ],
-      "missing_skills": [
-        "Kubernetes"
-      ],
-      "rule_based_summary": "Tech Lead Full-Stack Rails Engineer at Mitre Media, focused on Docker, Kubernetes, LLM, LangChain. Location: USA, Canada, USA timezones.",
-      "rule_based_application_sentence": "Your Tech Lead Full-Stack Rails Engineer role interests me because it connects directly with my work around Docker, LLM, LangChain, NLP, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
-      "score_explanation": [
-        "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "6 of 7 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: Kubernetes."
-      ]
-    },
-    {
       "id": "jobicy-149543",
       "title": "Python Engineer",
       "company": "Canonical",
@@ -183,6 +141,29 @@
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
         "Main missing or weaker skills: Kubernetes, SQL."
+      ]
+    },
+    {
+      "id": "remotive-2091212",
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "published_at": "2026-11-25",
+      "match_score": 45,
+      "priority": "low",
+      "raw_description": "You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell. Do you speak German natively and want to help organisations get the most from a world-class SaaS platform? Then this might be the role you're looking for. Join a lean-by-design, globally recognised B2B SaaS company as the German-speaking specialist for our DACH+ markets. No cold calling, no quotas — just meaningful conversations that help interested people discover how our software makes their work easier, then supporting them brilliantly once they're on board. You won't be opening the market alone. Our marketing team already brings in German-speaking interest, and our experienced English-speaking sales colleagues handle these leads well. Your edge is simple and valuable: when a German-speaking prospect wants a demo auf Deutsch , or a new client wants onboarding and support in their own language, you're the person who makes that feel effortless — gründlich, verlässlich und auf den Punkt. Join our Rebel Alliance We're a diverse, remote crew that takes the work seriously without taking ourselves too seriously. You'll be a valued member of our global Client Success team, well supported with the tools, knowledge and people you need to do excellent work. In time you'll learn to work across teams and draw on our collective expertise — and you'll have real backing at every turn to grow into a confident product expert. What you'll do Run German-language demos for warm, interested leads — clearly and confidently Become a product expert (with our support) and answer client and prospect questions accurately Onboard and support clients in German and/or English, setting them up for success from day one Provide responsive, thoughtful support in either German or English Test scenarios carefully so your answers are technically correct, not guessed Report recurring issues to help us improve the product Build trust through honesty, empathy and reliability What you bring (essentials) Native-level German (C2) and strong business English Minimum 3 years SaaS experience in support, onboarding, implementation or technical pre-sales Real technical aptitude. Terms like HTML, CSS, JS, API, integrations, staging vs production, dev console and database queries are familiar — you needn't be a developer, but you should be genuinely comfortable around them and quick to learn the product's technical side A confident communicator, written and spoken, who listens well Comfort...",
+      "required_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "rule_based_summary": "Produktspezialist:in (German-speaking) at Creative Force , focused on AI/data skills. Location: Europe, EMEA, Germany, European timezones.",
+      "rule_based_application_sentence": "Your Produktspezialist:in (German-speaking) role interests me because it connects directly with my work around AI engineering, especially applied AI systems that move from prototype to usable product.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "0 of 0 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile."
       ]
     },
     {
