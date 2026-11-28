@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:33:21Z",
+  "generated_at": "2026-11-28T15:26:09Z",
   "search_agent": {
     "queries": [
       "AI Engineer",
@@ -14,7 +14,7 @@
     ],
     "source_counts": {
       "Remotive": 3,
-      "Jobicy": 3
+      "Jobicy": 6
     },
     "fallback_used": false,
     "enabled_sources": [
@@ -74,73 +74,121 @@
   },
   "jobs": [
     {
-      "id": "jobicy-164320",
-      "title": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
+      "id": "jobicy-164407",
+      "title": "Staff Software Engineer - Revenue Intelligence",
+      "company": "Cloudbeds",
+      "location": "Europe",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/164320-full-stack-web-engineer-python-react-2",
+      "url": "https://jobicy.com/jobs/164407-staff-software-engineer-revenue-intelligence",
       "published_at": "2026-11-26",
-      "match_score": 69,
+      "match_score": 51,
       "priority": "medium",
-      "raw_description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role We are looking for an experienced Senior Web Application Engineer to build a modern web-based chat application that connects users with an AI-powered backend built on AWS Bedrock. This role focuses on designing and developing an intuitive, responsive, and scalable chat interface while integrating seamlessly with AI services through REST APIs. You will collaborate closely with AI engineers to deliver an exceptional conversational user experience powered by enterprise-grade AI technologies. The ideal candidate combines strong frontend development expertise with backend integration experience and enjoys building user-centric web applications powered by modern AI platforms. Key Responsibilities: Design and develop modern web applications using React and Python. Build intuitive chat-based user interfaces for AI-powered applications. Integrate frontend applications with AWS Bedrock AI services through REST APIs. Develop scalable backend services supporting web applications. Build secure authentication and user session management. Optimize application performance, responsiveness, and usability. Collaborate closely with AI engineers to integrate conversational AI capabilities. Build reusable UI components and maintain clean application architecture. Participate in technical design discussions and code reviews. Ensure high-quality, maintainable, and scalable code. Requirements: 5+ years of professional software engineering experience. Strong React development experience. Strong Python development experience. Experience building modern web applications. Experience consuming REST APIs. Ex...",
+      "raw_description": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've continually been recognized for excellence, most recently earning top honors at the 2026 HotelTechAwards for Best Hotel Management Software and landing on Deloitte's Technology Fast 500 again, but we're just getting started. Location: Remote (Europe) What Makes Us Unique: At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integrates with hundreds of partners. And we do it with a completely remote team. Imagine working alongside global innovators to build AI-powered solutions that solve hoteliers' biggest challenges. Since our founding in 2012, we've become the World's Best Hotel PMS Solutions Provider and landed on Deloitte's Technology Fast 500 again in 2024 – but we're just getting started. How You'll Make an Impact: As a Staff Software Engineer in Revenue Intelligence, you will shape the technical direction of systems that help hospitality businesses understand demand, identify revenue opportunities, and make better pricing and commercial decisions. You will work across customer-facing applications, backend services, data pipelines, analytical stores, recommendation workflows, and cloud infrastructure. This is a hands-on leadership role: you will solve complex engineering problems directly while establishing architecture, improving reliability and security, reducing systemic technical debt, and aligning multiple teams around durable technical decisions. Your impact will extend beyond individual features to the quality, scalability, operability, and long-term evolution of the Revenue Intelligence platform. Our Revenue Intelligence Team: The Revenue Intelligence team builds produ...",
       "required_skills": [
         "AWS",
+        "Airflow",
         "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "matched_skills": [
-        "GitHub Actions",
-        "Python",
-        "React"
-      ],
-      "missing_skills": [
-        "AWS"
-      ],
-      "rule_based_summary": "Full Stack Web Engineer (Python & React) at Oowlish Technology, focused on AWS, GitHub Actions, Python, React. Location: Argentina,  Brazil,  Mexico.",
-      "rule_based_application_sentence": "Your Full Stack Web Engineer (Python & React) role interests me because it connects directly with my work around GitHub Actions, Python, React, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
-      "score_explanation": [
-        "The role title or description is directly aligned with AI/LLM/Data target roles.",
-        "3 of 4 extracted skills match the profile.",
-        "The location is less aligned with the preferred search area.",
-        "The offer looks more senior than the target profile.",
-        "Main missing or weaker skills: AWS."
-      ]
-    },
-    {
-      "id": "jobicy-149543",
-      "title": "Python Engineer",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149543-python-engineer",
-      "published_at": "2026-11-25",
-      "match_score": 46,
-      "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder-led, profitable, and growing. This is a general track role, hiring for every team at Canonical who works in Python, across all levels of seniority. Apply here if you believe you are already an outstanding Python engineer. Canonical works across the entire open source spectrum. Canonical Ubuntu is well-known as a developer favourite and enterprise-friendly Linux. Our web services and system utilities are often written in Python, which we choose where collaboration with other teams, ecosystems and communities is more important than raw performance. We hire Python Developers with a passion for open-source software, innovation, and cutting-edge technologies. We also look for colleagues who understand that a great product is more than code – it is ready for the unexpected, it is well documented, it is comprehensively tested, it is tastefully presented in its CLI or GUI. At Canonical, you will have the opportunity to make significant contributions through high-quality, idiomatic Python code. Your team will own a product that may comprise several codebases. These may be intended to run on servers, or on Kubernetes, or on the desktop, or as web services for Ubuntu clients. They may be utilities or frameworks or tools, or part of our production process. Additionally, this role will give you the opportunity to engage with the broader open-source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and ensure seamless software operations at scale. Location: we have remote Python engineering roles in every time zone. What your day will look like Write high-quality, well-designed and well-tested Python software Collaborate proactively with a globally distributed team Display technical leadership at Canonical and in our communi...",
-      "required_skills": [
-        "Docker",
         "Kubernetes",
+        "PostgreSQL",
         "Python",
-        "SQL"
+        "Terraform"
       ],
       "matched_skills": [
-        "Docker",
+        "GitHub Actions",
+        "PostgreSQL",
         "Python"
       ],
       "missing_skills": [
+        "AWS",
+        "Airflow",
         "Kubernetes",
-        "SQL"
+        "Terraform"
       ],
-      "rule_based_summary": "Python Engineer at Canonical, focused on Docker, Kubernetes, Python, SQL. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python Engineer role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen Kubernetes.",
+      "rule_based_summary": "Staff Software Engineer - Revenue Intelligence at Cloudbeds, focused on AWS, Airflow, GitHub Actions, Kubernetes. Location: Europe.",
+      "rule_based_application_sentence": "Your Staff Software Engineer - Revenue Intelligence role interests me because it connects directly with my work around GitHub Actions, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 4 extracted skills match the profile.",
+        "3 of 7 extracted skills match the profile.",
+        "The location matches Bordeaux/Paris/France/Europe/remote preferences.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Kubernetes, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-164615",
+      "title": "Staff Corporate Network Engineer | CorpIT",
+      "company": "Wellhub",
+      "location": "Brazil",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164615-staff-corporate-network-engineer-corpit",
+      "published_at": "2026-11-28",
+      "match_score": 48,
+      "priority": "low",
+      "raw_description": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re on a mission to make every company a wellness company. We believe work should be fulfilling, inspiring, and balanced. Here, you’ll find a team that values wellbeing, collaboration, and different perspectives, where passion and creativity push boundaries to create real impact. Your contributions will help shape a healthier, more balanced world for you and millions of people globally. Join us in redefining the future of wellbeing! THE OPPORTUNITY We are hiring a Staff Corporate Network Engineer in our CorpIT area in Brazil! This is a Remote – Brazil position, meaning you can work from anywhere within the country. Please note that this role is only open to candidates in Brazil. You will own the technical direction, architecture, and reliability of Wellhub's corporate network, from office LAN and WAN to SASE, SSE, ZTNA, and cloud connectivity. CorpIT builds scalable, data-driven solutions that raise Wellhubber productivity. This role is a senior technical leadership position within CorpIT's IT Infrastructure: you will design and evolve the networks every Wellhubber relies on daily, act as the final escalation point when things break, and raise the technical bar of the engineers around you through automation, design reviews, and mentorship. YOUR IMPACT Define the long-term strategy and reference architectures for our corporate network — LAN, WAN/SD-WAN, SASE, SSE, ZTNA, and cloud connectivity (AWS, GCP, Azure) — translating a long-term vision into time-bound, executable milestones. Partner closely with Infosec to move from perimeter-based networking to a Zero Trust model, keeping policies, tunnels, and access rules aligned with the company's risk posture. Act as the primary escalation point for critical incidents, complex outages, and major infrastructure upgrades — leading incident response and blameless post-incident reviews. Build network automation workflows using scripting and Infrastructure-as-Code (IaC) principles, reducing manual toil and configuration drift so most changes never need to reach you. Lead design reviews and document decisions (architecture decision records, platfo...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "Python",
+        "Terraform"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Terraform"
+      ],
+      "rule_based_summary": "Staff Corporate Network Engineer | CorpIT at Wellhub, focused on AWS, Azure, GitHub Actions, Python. Location: Brazil.",
+      "rule_based_application_sentence": "Your Staff Corporate Network Engineer | CorpIT role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The offer explicitly appears junior or early-career compatible.",
-        "Main missing or weaker skills: Kubernetes, SQL."
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Terraform."
+      ]
+    },
+    {
+      "id": "jobicy-157489",
+      "title": "Senior Backend Software Engineer",
+      "company": "Headway.co",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/157489-senior-backend-software-engineer",
+      "published_at": "2026-11-28",
+      "match_score": 46,
+      "priority": "low",
+      "raw_description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. The Work Backend at Headway involves high-stakes logic. You’re building a reliable abstraction layer over a fragmented healthcare system. What you could work on: The Modern AI-enabled Clinical System: Help design and build the systems that store and manage clinical data. This isn't just a database; it's a high-integrity system for treatment plans, progress notes, patient history, and AI-powered clinical intelligence - from session transcript-to-note generation to automated summaries that give providers their time back. The Insurance Billing Engine: We apply AI pragmatically ( blog ) to reduce administrative burdens for providers and handle the burden of traditional billing workflows. You’ll scale the systems that handle the unique, often nonsensical rules of every major insurance payer to accurately estimate and file claims hundreds of thousands of times per month. Patient-First Infrastructure: We’re moving toward a patient-centric model. Build the backend services that power personalized care recommendations, health tracking, and longitudinal data views as well as innovative user experiences to help patients find a therapist that meets their needs Financial Integrity: Work on the ledger systems that ensure 70,000+ providers get paid accurately. This requires building for idempotency and strict consistency in a multi-pa...",
+      "required_skills": [
+        "AWS",
+        "Gemini",
+        "PostgreSQL",
+        "Python",
+        "Spark"
+      ],
+      "matched_skills": [
+        "Gemini",
+        "PostgreSQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Spark"
+      ],
+      "rule_based_summary": "Senior Backend Software Engineer at Headway.co, focused on AWS, Gemini, PostgreSQL, Python. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Backend Software Engineer role interests me because it connects directly with my work around Gemini, PostgreSQL, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "3 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Spark."
       ]
     },
     {
@@ -167,45 +215,79 @@
       ]
     },
     {
-      "id": "jobicy-149563",
-      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-      "company": "Canonical",
-      "location": "Anywhere",
+      "id": "jobicy-164619",
+      "title": "Staff Platform Engineer | Observability",
+      "company": "Wellhub",
+      "location": "Brazil",
       "source": "Jobicy",
-      "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-      "published_at": "2026-11-25",
-      "match_score": 45,
+      "url": "https://jobicy.com/jobs/164619-staff-platform-engineer-observability",
+      "published_at": "2026-11-28",
+      "match_score": 40,
       "priority": "low",
-      "raw_description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, Workflows, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure. As a software engineer on the team, you'll collaborate on end-to-end data analytics and MLOps solutions composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on ETL, data governance and visualization tools like Apache SuperSet, dbt, workflow orchestration tools such as Airflow and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services. We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances. Location: This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hours! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion. What your day will look like Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer Design, build and maintain solutions that will be deployed on public and private clouds and local workstations Master di...",
+      "raw_description": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re on a mission to make every company a wellness company. We believe work should be fulfilling, inspiring, and balanced. Here, you’ll find a team that values wellbeing, collaboration, and different perspectives, where passion and creativity push boundaries to create real impact. Your contributions will help shape a healthier, more balanced world for you and millions of people globally. Join us in redefining the future of wellbeing! THE OPPORTUNITY We are hiring a Staff Platform Engineer specialized in Observability for our Platform area in Brazil ! This is a Remote – Brazil position, meaning you can work from anywhere within the country. Please note that this role is only open to candidates in Brazil. Wellhub runs at high scale, on many Kubernetes clusters. Our engineers need logs, metrics, traces and profiles they can trust, at a cost the business can sustain. We build and run this platform ourselves, on open source standards. Your mission is to make it a product that engineers choose to use, and not a set of dashboards they must ask for. What you will work on: Observability as a Service . A self-service platform that balances performance and cost. Hard problems: high-cardinality metrics, log retention, distributed tracing, profiling. Golden Paths . Defaults that let a developer instrument code in minutes and get good signals without operating anything. The platform itself . Collection, storage, query and alerting that stay reliable when the company grows. We also watch the watchers: the platform must tell us when it is broken. Our stack includes Grafana, OpenTelemetry, Prometheus, Thanos, Loki, Tempo, Pyroscope, Kafka, Kubernetes, AWS, GitHub Actions, ArgoCD, Crossplane and HashiCorp Vault. You will write code in Go, Ruby or Python to build our tools. YOUR IMPACT Our team does not run services for other teams. We build tools and abstractions so each team can own and run its own services end to end. Your work will rest on four things: stability , performance , cost and evolution of the platform. In this role you will: Review our current platform with fresh eyes. Say what is wrong, pr...",
       "required_skills": [
         "AWS",
-        "Airflow",
         "Azure",
-        "Docker",
+        "GitHub Actions",
         "Kubernetes",
-        "MLOps",
         "Python"
       ],
       "matched_skills": [
-        "Docker",
+        "GitHub Actions",
         "Python"
       ],
       "missing_skills": [
         "AWS",
-        "Airflow",
         "Azure",
-        "Kubernetes",
-        "MLOps"
+        "Kubernetes"
       ],
-      "rule_based_summary": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics at Canonical, focused on AWS, Airflow, Azure, Docker. Location: Anywhere.",
-      "rule_based_application_sentence": "Your Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics role interests me because it connects directly with my work around Docker, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "rule_based_summary": "Staff Platform Engineer | Observability at Wellhub, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Brazil.",
+      "rule_based_application_sentence": "Your Staff Platform Engineer | Observability role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
       "score_explanation": [
         "The role is adjacent to the target profile but not a direct AI Engineer match.",
-        "2 of 7 extracted skills match the profile.",
+        "2 of 5 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
-        "The offer explicitly appears junior or early-career compatible.",
+        "The offer looks more senior than the target profile.",
         "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
-        "Main missing or weaker skills: AWS, Airflow, Azure, Kubernetes, MLOps."
+        "Main missing or weaker skills: AWS, Azure, Kubernetes."
+      ]
+    },
+    {
+      "id": "jobicy-164617",
+      "title": "Staff Platform Engineer",
+      "company": "Wellhub",
+      "location": "Brazil",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/164617-staff-platform-engineer-5",
+      "published_at": "2026-11-28",
+      "match_score": 40,
+      "priority": "low",
+      "raw_description": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re on a mission to make every company a wellness company. We believe work should be fulfilling, inspiring, and balanced. Here, you’ll find a team that values wellbeing, collaboration, and different perspectives, where passion and creativity push boundaries to create real impact. Your contributions will help shape a healthier, more balanced world for you and millions of people globally. Join us in redefining the future of wellbeing! THE OPPORTUNITY We are hiring a Staff Platform Engineer with a dedicated focus on our Observability ecosystem for our Platform area in Brazil ! This is a Remote – Brazil position, meaning you can work from anywhere within the country. Please note that this role is only open to candidates in Brazil. Wellhub runs at high scale, on many Kubernetes clusters. Our engineers need logs, metrics, traces and profiles they can trust, at a cost the business can sustain. We build and run this platform ourselves, on open source standards. This is not a \"keep the lights on\" role. You will help decide how a large platform is built, where it should stay simple, and what we should stop collecting. We value people who question the problem before they design the solution. What you will work on: A self-service platform . Observability as a Service for the whole engineering organization, balancing performance and cost. Golden Paths . Defaults that let a developer instrument code in minutes and get good signals without operating anything. The platform itself . Kubernetes and AWS foundations that stay reliable when the company grows. Our stack includes Kubernetes, AWS, ArgoCD, GitHub Actions, Crossplane, HashiCorp Vault, Kafka, Grafana, OpenTelemetry, Prometheus, Thanos, Loki, Tempo and Pyroscope. You will write code in Go, Ruby or Python to build our tools. YOUR IMPACT Our team does not run services for other teams. We build tools and abstractions so each team can own and run its own services end to end. Your work will rest on four things: stability, performance, cost and evolution of the platform. In this role you will: Review our current platform with fresh eyes. Say what is wr...",
+      "required_skills": [
+        "AWS",
+        "Azure",
+        "GitHub Actions",
+        "Kubernetes",
+        "Python"
+      ],
+      "matched_skills": [
+        "GitHub Actions",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Azure",
+        "Kubernetes"
+      ],
+      "rule_based_summary": "Staff Platform Engineer at Wellhub, focused on AWS, Azure, GitHub Actions, Kubernetes. Location: Brazil.",
+      "rule_based_application_sentence": "Your Staff Platform Engineer role interests me because it connects directly with my work around GitHub Actions, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 5 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Azure, Kubernetes."
       ]
     },
     {
@@ -229,6 +311,46 @@
         "0 of 0 extracted skills match the profile.",
         "The location is less aligned with the preferred search area.",
         "The seniority is not explicit, so the project treats it as moderately compatible."
+      ]
+    },
+    {
+      "id": "jobicy-163981",
+      "title": "Senior Data Platform Engineer - Weights & Biases",
+      "company": "CoreWeave",
+      "location": "USA",
+      "source": "Jobicy",
+      "url": "https://jobicy.com/jobs/163981-senior-data-platform-engineer-weights-biases",
+      "published_at": "2026-11-23",
+      "match_score": 38,
+      "priority": "low",
+      "raw_description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com . Weights & Biases at CoreWeave CoreWeave acquired Weights & Biases to create the most powerful end-to-end platform to develop, deploy, and iterate AI faster. CoreWeave operates a growing footprint of data centers covering every region of the US and across Europe, and was ranked as one of the TIME100 most influential companies of 2024. By bringing together CoreWeave’s industry-leading cloud infrastructure with the best-in-class tools AI practitioners know and love from Weights & Biases, we’re setting a new standard for how AI is built, trained, and scaled. The integration of our teams and technologies is accelerating our shared mission: to empower developers with the tools and infrastructure they need to push the boundaries of what AI can do. From experiment tracking and model optimization to high-performance training clusters, agent building, and inference at scale, we’re combining forces to serve the full AI lifecycle — all in one seamless platform. Weights & Biases has long been trusted by over 1,500 organizations — including AstraZeneca, Canva, Cohere, OpenAI, Meta, Snowflake, Square, Toyota, and Wayve — to build better models, AI agents and applications. Now, as part of CoreWeave, that impact is amplified across a broader ecosystem of AI innovators, researchers, and enterprises. As we unite under one vision, we’re looking for bold thinkers and agile builders who are excited to shape the future of AI alongside us. If you’re passionate about solving complex problems at the intersection of software, hardware, and AI, there’s never been a more exciting time to join our team. What You’ll Do As a Senior Data Platform Engineer, you will apply advanced knowledge of software engineering, data architecture, distributed systems, and database technologies to design and operate our enterprise data platform. Your responsibilities will include: Design and implement scalable data systems and pipelines — 30%: Architect, develop, test, and mainta...",
+      "required_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "OpenAI",
+        "Python",
+        "SQL"
+      ],
+      "matched_skills": [
+        "OpenAI",
+        "Python"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Airflow",
+        "Azure",
+        "SQL"
+      ],
+      "rule_based_summary": "Senior Data Platform Engineer - Weights & Biases at CoreWeave, focused on AWS, Airflow, Azure, OpenAI. Location: USA.",
+      "rule_based_application_sentence": "Your Senior Data Platform Engineer - Weights & Biases role interests me because it connects directly with my work around OpenAI, Python, especially applied AI systems that move from prototype to usable product. I would also use this opportunity to strengthen AWS.",
+      "score_explanation": [
+        "The role is adjacent to the target profile but not a direct AI Engineer match.",
+        "2 of 6 extracted skills match the profile.",
+        "The location is less aligned with the preferred search area.",
+        "The offer looks more senior than the target profile.",
+        "The offer contains a concrete GenAI/RAG/LLM/vector-search signal.",
+        "Main missing or weaker skills: AWS, Airflow, Azure, SQL."
       ]
     },
     {
